@@ -1,0 +1,108 @@
+# 📋 Tổng hợp Danh sách 102 Cuộc thi & Link Nguồn Chính thức
+
+> Dữ liệu được trích xuất và làm sạch từ: TAKENOTE CÁC CUỘC THI PROJECT TIN314 (1).xlsx
+
+| STT | Tên cuộc thi | Lĩnh vực | Nền tảng | Link nguồn chính thức |
+|:---:|:---|:---|:---:|:---|
+| 1 | **Khởi nghiệp cùng Kawai** | Khởi nghiệp | Website Chính Thức | [https://kbs.tec-ftu.com/](https://kbs.tec-ftu.com/) |
+| 2 | **Khởi nghiệp kinh doanh** | Khởi nghiệp | Framer Site | [https://khoinghiepkinhdoanhmua12.framer.website/](https://khoinghiepkinhdoanhmua12.framer.website/) |
+| 3 | **Khởi nghiệp trẻ** | Khởi nghiệp | Website Chính Thức | [https://bsc-aof.com/index.php/khoi-nghiep-tre-2026/](https://bsc-aof.com/index.php/khoi-nghiep-tre-2026/) |
+| 4 | **Khởi nghiệp sinh viên - Biz4Good** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/biz4goodcompetition?locale=vi_VN](https://www.facebook.com/biz4goodcompetition?locale=vi_VN) |
+| 5 | **Khởi nghiệp tạo tác động xã hội - I impACT** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/CuocthiIimpAct/](https://www.facebook.com/CuocthiIimpAct/) |
+| 6 | **Thử thách sáng tạo xã hội Việt Nam** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/VSIC.HN.ThuthachsangtaoxahoiVietNam?locale=vi_VN](https://www.facebook.com/VSIC.HN.ThuthachsangtaoxahoiVietNam?locale=vi_VN) |
+| 7 | **KMAC - FTU Global Innovative Ideads Contest** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/kmacftuglobalinnovativeideascontest2026?locale=vi_VN](https://www.facebook.com/kmacftuglobalinnovativeideascontest2026?locale=vi_VN) |
+| 8 | **Khởi nghiệp sáng tạo "RnD TO STARTUP"** | Khởi nghiệp | Website Chính Thức | [https://visi.vnu.edu.vn/dich-vu/rnd-to-startup/](https://visi.vnu.edu.vn/dich-vu/rnd-to-startup/) |
+| 9 | **Startup Runway** | Khởi nghiệp | Website Chính Thức | [http://due.udn.vn/vi-vn/startuprunway](http://due.udn.vn/vi-vn/startuprunway) |
+| 10 | **Ra khơi** | Khởi nghiệp | Website Chính Thức | [https://rakhoi.vlu.edu.vn/](https://rakhoi.vlu.edu.vn/) |
+| 11 | **Startup Program** | Khởi nghiệp | Website Chính Thức | [http://startupprogram.tec-ftu.com/](http://startupprogram.tec-ftu.com/) |
+| 12 | **Ý tưởng kinh doanh** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/ytkd.iec?locale=vi_VN](https://www.facebook.com/ytkd.iec?locale=vi_VN) |
+| 13 | **SV STARTUP** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/khoinghiepquocgiaHSSV/?locale=vi_VN](https://www.facebook.com/khoinghiepquocgiaHSSV/?locale=vi_VN) |
+| 14 | **I - STARTUP** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/KhoiNghiepIStartup/](https://www.facebook.com/KhoiNghiepIStartup/) |
+| 15 | **Cuộc thi Khởi nghiệp Truyền thông quốc tế** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/icinnovator.ficc?locale=vi_VN](https://www.facebook.com/icinnovator.ficc?locale=vi_VN) |
+| 16 | **Cuộc thi Khởi nghiệp FLAGUP** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/flagup.flagshipstartupclub?locale=vi_VN](https://www.facebook.com/flagup.flagshipstartupclub?locale=vi_VN) |
+| 17 | **Cuộc thi Khởi nghiệp sinh viên Học viện Ngân hàng - Startup BA** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/StartupBA.hvnh?locale=vi_VN](https://www.facebook.com/StartupBA.hvnh?locale=vi_VN) |
+| 18 | **Cuộc thi Ý tưởng Khởi nghiệp BIG IDEA** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/bigidea.dynamicueh?locale=vi_VN](https://www.facebook.com/bigidea.dynamicueh?locale=vi_VN) |
+| 19 | **Cuộc thi STARTUP ZONE** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/ClbNhanSuKhoiNghiep.ueh?locale=vi_VN](https://www.facebook.com/ClbNhanSuKhoiNghiep.ueh?locale=vi_VN) |
+| 20 | **Cuộc thi Tài năng Khởi nghiệp Sáng tạo** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/YoungInnovators2024?locale=vi_VN](https://www.facebook.com/YoungInnovators2024?locale=vi_VN) |
+| 21 | **Cuộc thi Ý tưởng Khởi nghiệp Sinh viên Innostar** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/innostarcontest?locale=vi_VN](https://www.facebook.com/innostarcontest?locale=vi_VN) |
+| 22 | **Cuộc thi Sáng tạo Khởi nghiệp Công nghệ HUST - TECHSTART** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/techstart.hust?locale=vi_VN](https://www.facebook.com/techstart.hust?locale=vi_VN) |
+| 23 | **Cuộc thi Sáng tạo xanh** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/BKEntrepreneurshipCenter?locale=vi_VN](https://www.facebook.com/BKEntrepreneurshipCenter?locale=vi_VN) |
+| 24 | **Cuộc thi Sáng tạo trẻ** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/BKEntrepreneurshipCenter?locale=vi_VN](https://www.facebook.com/BKEntrepreneurshipCenter?locale=vi_VN) |
+| 25 | **Cuộc thi Chìa Khóa Thành Công** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/Chiakhoathanhconghvnh?locale=vi_VN](https://www.facebook.com/Chiakhoathanhconghvnh?locale=vi_VN) |
+| 26 | **Thử thách thanh niên đổi mới sáng tạo vì cộng đồng bền vững  - Re:ACT** | Khởi nghiệp | Website Chính Thức | [https://re-act.vn/](https://re-act.vn/) |
+| 27 | **Cuộc thi Startup Olympiad** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/uomtaokhoinghiep.NEU](https://www.facebook.com/uomtaokhoinghiep.NEU) |
+| 28 | **Cuộc thi Startup Challenges** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/startupchallenge.tdtu](https://www.facebook.com/startupchallenge.tdtu) |
+| 29 | **Cuộc thi APEC Innovation** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/apecinnovation](https://www.facebook.com/apecinnovation) |
+| 30 | **Cuộc thi AGRIUP** | Khởi nghiệp | Facebook Fanpage | [https://www.facebook.com/agriup.NEU](https://www.facebook.com/agriup.NEU) |
+| 31 | **Cuộc thi AGRITECH INNOVATION** | Khởi nghiệp | Website Chính Thức | [https://khoinghiepnongnghiep.vn/](https://khoinghiepnongnghiep.vn/) |
+| 32 | **Giải thưởng Sáng tạo Tương lai – VietFuture Awards** | Khởi nghiệp | Khác | [https://vietfuture.world/](https://vietfuture.world/) |
+| 33 | **Sinh viên với Sáng kiến ESG** | Khởi nghiệp | Website Chính Thức | [https://hvnh.edu.vn/bank/vi/hoatdongsinhvien/cuoc-thi-sinh-vien-voi-sang-kien-esg-1493.html](https://hvnh.edu.vn/bank/vi/hoatdongsinhvien/cuoc-thi-sinh-vien-voi-sang-kien-esg-1493.html) |
+| 34 | **HUIT STARTUP** | Khởi nghiệp | Website Chính Thức | [https://khoinghiep.huit.edu.vn/](https://khoinghiep.huit.edu.vn/) |
+| 35 | **CE HACKATHON** | Business case | Facebook Fanpage | [https://www.facebook.com/p/CE-Hackathon-61557390196431/](https://www.facebook.com/p/CE-Hackathon-61557390196431/) |
+| 36 | **Hành Trình Kinh Doanh** | Business case | Website Chính Thức | [https://kinhtetre.net/hanh-trinh-kinh-doanh/](https://kinhtetre.net/hanh-trinh-kinh-doanh/) |
+| 37 | **Business Challenge** | Business case | Facebook Fanpage | [https://www.facebook.com/UEB.BusinessChallenges/?locale=vi_VN](https://www.facebook.com/UEB.BusinessChallenges/?locale=vi_VN) |
+| 38 | **E’Contest Business Challenge** | Business case | Facebook Fanpage | [https://www.facebook.com/thuvienecase](https://www.facebook.com/thuvienecase) |
+| 39 | **180 Degrees Consulting Global Case Competition** | Business case | Website Chính Thức | [https://180dc.org/programs/global-case-competition](https://180dc.org/programs/global-case-competition) |
+| 40 | **CBS Case Competition Global** | Business case | Website Chính Thức | [https://www.casecompetition.com/global/](https://www.casecompetition.com/global/) |
+| 41 | **Tsinghua Global SDG Case Competition** | Business case | Khác | [http://ecase.sppm.tsinghua.edu.cn/info/1002/1411.htm](http://ecase.sppm.tsinghua.edu.cn/info/1002/1411.htm) |
+| 42 | **Undergraduate Case Competition World Cup** | Business case | Website Chính Thức | [https://managementconsulted.com/undergraduate-case-competition-world-cup-2027/](https://managementconsulted.com/undergraduate-case-competition-world-cup-2027/) |
+| 43 | **Corporate Strategy Challenge (CSC)** | Business case | Facebook Fanpage | [https://www.facebook.com/ClbKTKT](https://www.facebook.com/ClbKTKT) |
+| 44 | **Cuộc thi Thực chiến kinh doanh E-Battlefield** | Thương mại điện tử | Facebook Fanpage | [https://www.facebook.com/ebattlefield.ecc.neu](https://www.facebook.com/ebattlefield.ecc.neu) |
+| 45 | **Cuộc thi E-Compete** | Thương mại điện tử | Website Chính Thức | [https://www.ecomftu.com/ecompete](https://www.ecomftu.com/ecompete) |
+| 46 | **Beyond Borders Business Case Challenge** | Business case | Khác | [https://borderless.so/fr/extracurricular-programs/ritsumeikan-asia-pacific-university/beyond-borders-business-case-competition](https://borderless.so/fr/extracurricular-programs/ritsumeikan-asia-pacific-university/beyond-borders-business-case-competition) |
+| 47 | **Hành trình hội nhập - Economis UP** | Business case | Facebook Fanpage | [https://www.facebook.com/economistup](https://www.facebook.com/economistup) |
+| 48 | **Ứng viên tài năng** | MT&Young Talent | Facebook Fanpage | [https://www.facebook.com/hrc.ungvientainang/?locale=vi_VN](https://www.facebook.com/hrc.ungvientainang/?locale=vi_VN) |
+| 49 | **YOU CAN** | MT&Young Talent | Facebook Fanpage | [https://www.facebook.com/youcan.kncs?locale=vi_VN](https://www.facebook.com/youcan.kncs?locale=vi_VN) |
+| 50 | **Tài Năng Lãnh Đạo** | MT&Young Talent | Facebook Fanpage | [https://www.facebook.com/DEL.TNLD?locale=vi_VN](https://www.facebook.com/DEL.TNLD?locale=vi_VN) |
+| 51 | **Doanh Nhân Tập Sự** | MT&Young Talent | Facebook Fanpage | [https://www.facebook.com/doanhnhantapsu.actionftu?locale=vi_VN](https://www.facebook.com/doanhnhantapsu.actionftu?locale=vi_VN) |
+| 52 | **Young Business Leader - B -LEAD** | MT&Young Talent | Website Chính Thức | [https://www.becftu2.com/](https://www.becftu2.com/) |
+| 53 | **X - Leader** | MT&Young Talent | Facebook Fanpage | [https://www.facebook.com/XLeaderBACFTU2?locale=vi_VN](https://www.facebook.com/XLeaderBACFTU2?locale=vi_VN) |
+| 54 | **Vietnam ESG Challenge 2026** | Tài chính | Facebook Fanpage | [https://www.facebook.com/icaewvietnam?locale=vi_VN](https://www.facebook.com/icaewvietnam?locale=vi_VN) |
+| 55 | **Cuộc thi Tài chính - Chứng khoán Stockwise** | Tài chính | Facebook Fanpage | [https://www.facebook.com/stockwise.dscdav?locale=vi_VN](https://www.facebook.com/stockwise.dscdav?locale=vi_VN) |
+| 56 | **Cuộc thi Phân tích Đầu tư Tài chính** | Tài chính | Facebook Fanpage | [https://www.facebook.com/phantichdaututaichinh?locale=vi_VN](https://www.facebook.com/phantichdaututaichinh?locale=vi_VN) |
+| 57 | **Go Finance** | Tài chính | Facebook Fanpage | [https://www.facebook.com/cuocthigofinance/?locale=vi_VN](https://www.facebook.com/cuocthigofinance/?locale=vi_VN) |
+| 58 | **Vietnam Finance Case Competition** | Tài chính | Facebook Fanpage | [https://www.facebook.com/vfcc.aof/](https://www.facebook.com/vfcc.aof/) |
+| 59 | **I-INVEST** | Tài chính | Facebook Fanpage | [https://www.facebook.com/iinvest.sic](https://www.facebook.com/iinvest.sic) |
+| 60 | **Bản lĩnh Nhà đầu tư** | Tài chính | Facebook Fanpage | [https://www.facebook.com/banlinhnhadautu.sec/?locale=vi_VN](https://www.facebook.com/banlinhnhadautu.sec/?locale=vi_VN) |
+| 61 | **RMIT - RESEARCH CHALLENGES** | Tài chính | Facebook Fanpage | [https://www.facebook.com/RMITVietnamResearchChallenge/](https://www.facebook.com/RMITVietnamResearchChallenge/) |
+| 62 | **Đấu trường tài chính FBAC** | Tài chính | Facebook Fanpage | [https://www.facebook.com/fbac.official/](https://www.facebook.com/fbac.official/) |
+| 63 | **Cuộc thi Financial Race** | Tài chính | Website Chính Thức | [https://www.raceoffinance.com/](https://www.raceoffinance.com/) |
+| 64 | **Đường đua tài chính** | Tài chính | Facebook Fanpage | [https://www.facebook.com/hvnh.duongduataichinh/?locale=vi_VN](https://www.facebook.com/hvnh.duongduataichinh/?locale=vi_VN) |
+| 65 | **The Banker** | Tài chính | Website Chính Thức | [https://ftufbn.com/](https://ftufbn.com/) |
+| 66 | **Cuộc thi Sinh viên với Tài chính - FSC** | Tài chính | Facebook Fanpage | [https://www.facebook.com/sinhvienvoitaichinh/?locale=vi_VN](https://www.facebook.com/sinhvienvoitaichinh/?locale=vi_VN) |
+| 67 | **WAPA Challenging** | Tài chính | Facebook Fanpage | [https://www.facebook.com/wapaclub.official/](https://www.facebook.com/wapaclub.official/) |
+| 68 | **The Audit Race** | Kế toán - Kiểm toán | Website Chính Thức | [https://theauditrace.com/](https://theauditrace.com/) |
+| 69 | **Kiểm Toán Viên Tài Năng - Talented Auditor Cup** | Kế toán - Kiểm toán | Facebook Fanpage | [https://www.facebook.com/Talented.Auditor.Cup/?locale=vi_VN](https://www.facebook.com/Talented.Auditor.Cup/?locale=vi_VN) |
+| 70 | **KLE Audit Competition** | Kế toán - Kiểm toán | Facebook Fanpage | [https://www.facebook.com/KSMAuditCompetition/](https://www.facebook.com/KSMAuditCompetition/) |
+| 71 | **Soul of Law** | Luật | Facebook Fanpage | [https://www.facebook.com/souloflaw.lcc/](https://www.facebook.com/souloflaw.lcc/) |
+| 72 | **Spirit of Law** | Luật | Facebook Fanpage | [https://www.facebook.com/SPIRITOFLAWS/](https://www.facebook.com/SPIRITOFLAWS/) |
+| 73 | **Luật gia tranh hùng** | Luật | Facebook Fanpage | [https://www.facebook.com/Luatgiatranhhung/](https://www.facebook.com/Luatgiatranhhung/) |
+| 74 | **HR Sandbox** | HR | Khác | [https://hrsandbox2026.zhost.education/](https://hrsandbox2026.zhost.education/) |
+| 75 | **HR Expert** | HR | Facebook Fanpage | [https://www.facebook.com/hrexpert.hucftuhcmc?locale=vi_VN](https://www.facebook.com/hrexpert.hucftuhcmc?locale=vi_VN) |
+| 76 | **HR Visionaries** | HR | Facebook Fanpage | [https://www.facebook.com/hrvisionariescompetition?locale=vi_VN](https://www.facebook.com/hrvisionariescompetition?locale=vi_VN) |
+| 77 | **MC FIRE** | MC | Facebook Fanpage | [https://www.facebook.com/mcfire.mfc.ftu/](https://www.facebook.com/mcfire.mfc.ftu/) |
+| 78 | **MC Spotlight** | MC | Facebook Fanpage | [https://www.facebook.com/MCSpotlightPMC/?locale=vi_VN](https://www.facebook.com/MCSpotlightPMC/?locale=vi_VN) |
+| 79 | **Speak up** | MC | Facebook Fanpage | [https://www.facebook.com/speakup2026.ajc?locale=vi_VN](https://www.facebook.com/speakup2026.ajc?locale=vi_VN) |
+| 80 | **LUMINOUS - Người dẫn chương trình tài năng** | MC | Facebook Fanpage | [https://www.facebook.com/luminousdav/?locale=vi_VN](https://www.facebook.com/luminousdav/?locale=vi_VN) |
+| 81 | **MC Shine** | MC | Facebook Fanpage | [https://www.facebook.com/bpthvtc?locale=vi_VN](https://www.facebook.com/bpthvtc?locale=vi_VN) |
+| 82 | **MC On stage** | MC | Facebook Fanpage | [https://www.facebook.com/cuocthimconstage?locale=vi_VN](https://www.facebook.com/cuocthimconstage?locale=vi_VN) |
+| 83 | **Cuộc thi Tranh biện Tiếng Hoa** | Tranh biện | Facebook Fanpage | [https://www.facebook.com/cuocthitranhbientienghoa/?locale=vi_VN](https://www.facebook.com/cuocthitranhbientienghoa/?locale=vi_VN) |
+| 84 | **NEU Debate Open** | Tranh biện | Facebook Fanpage | [https://www.facebook.com/NEUDebateClub?locale=vi_VN](https://www.facebook.com/NEUDebateClub?locale=vi_VN) |
+| 85 | **Hùng biện kinh tế đỉnh cao - Calliope** | Hùng biện - diễn thuyết | Facebook Fanpage | [https://www.facebook.com/yec.calliope?locale=vi_VN](https://www.facebook.com/yec.calliope?locale=vi_VN) |
+| 86 | **Tôi lên tiếng** | Hùng biện - diễn thuyết | Facebook Fanpage | [https://www.facebook.com/toilentienghvtc](https://www.facebook.com/toilentienghvtc) |
+| 87 | **Tôi bản lĩnh** | Hùng biện - diễn thuyết | Facebook Fanpage | [https://www.facebook.com/toibanlinh.uet.vnu](https://www.facebook.com/toibanlinh.uet.vnu) |
+| 88 | **Light on the MIC** | Hùng biện - diễn thuyết | Facebook Fanpage | [https://www.facebook.com/LightonTheMic](https://www.facebook.com/LightonTheMic) |
+| 89 | **VOICE MASTER - Nhà diễn thuyết tài ba** | Hùng biện - diễn thuyết | Facebook Fanpage | [https://www.facebook.com/profile.php?id=61558798243512&locale=vi_VN](https://www.facebook.com/profile.php?id=61558798243512&locale=vi_VN) |
+| 90 | **Cuộc thi Hùng biện Socrates** | Hùng biện - diễn thuyết | Facebook Fanpage | [https://www.facebook.com/socrates.hsv.hlu](https://www.facebook.com/socrates.hsv.hlu) |
+| 91 | **Cuộc thi Hùng biện Convince Us** | Hùng biện - diễn thuyết | Facebook Fanpage | [https://www.facebook.com/CONVINCEUS](https://www.facebook.com/CONVINCEUS) |
+| 92 | **Be pround tune** | Phát thanh | Facebook Fanpage | [https://www.facebook.com/cuocthibeproudtune](https://www.facebook.com/cuocthibeproudtune) |
+| 93 | **LogiChain** | Logistics | Facebook Fanpage | [https://www.facebook.com/lsc.logichain](https://www.facebook.com/lsc.logichain) |
+| 94 | **Interchain** | Logistics | Facebook Fanpage | [https://www.facebook.com/interchain.ibcftu?locale=vi_VN](https://www.facebook.com/interchain.ibcftu?locale=vi_VN) |
+| 95 | **SC.Mission** | Logistics | Facebook Fanpage | [https://www.facebook.com/scmissionlsc?locale=vi_VN](https://www.facebook.com/scmissionlsc?locale=vi_VN) |
+| 96 | **The Logisticom** | Logistics | Facebook Fanpage | [https://www.facebook.com/logisticom.contest?locale=vi_VN](https://www.facebook.com/logisticom.contest?locale=vi_VN) |
+| 97 | **Vietnam Young Logistic Talent** | Logistics | Facebook Fanpage | [https://www.facebook.com/VNYLT?locale=vi_VN](https://www.facebook.com/VNYLT?locale=vi_VN) |
+| 98 | **DATA SCIENCE TALENT COMPETITION** | Data | Facebook Fanpage | [https://www.facebook.com/dstalentcompetition?locale=vi_VN](https://www.facebook.com/dstalentcompetition?locale=vi_VN) |
+| 99 | **G'CONTEST** | Analysis | Facebook Fanpage | [https://www.facebook.com/gcontest.gec?locale=vi_VN](https://www.facebook.com/gcontest.gec?locale=vi_VN) |
+| 100 | **Future Business Analyst** | Analysis | Facebook Fanpage | [https://www.facebook.com/futurebusinessanalyst?locale=vi_VN](https://www.facebook.com/futurebusinessanalyst?locale=vi_VN) |
+| 101 | **RMIT Business Analyst Champion** | Analysis | Facebook Fanpage | [https://www.facebook.com/RBAChampion?locale=vi_VN](https://www.facebook.com/RBAChampion?locale=vi_VN) |
+| 102 | **Economic Research Challenges** | Nghiên cứu | Facebook Fanpage | [https://www.facebook.com/erc.yes.neu?locale=vi_VN](https://www.facebook.com/erc.yes.neu?locale=vi_VN) |

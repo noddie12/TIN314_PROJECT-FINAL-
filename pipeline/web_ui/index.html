@@ -1,0 +1,1789 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CompeteMate Data Studio</title>
+  <!-- Google Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Plus Jakarta Sans', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+</head>
+
+<body class="bg-slate-50 text-slate-900 font-sans min-h-screen flex flex-col antialiased">
+
+  <!-- Header -->
+  <header class="bg-white border-b border-slate-200 px-6 py-4 sticky top-0 z-30 shadow-sm">
+    <div class="max-w-6xl mx-auto flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <span class="font-extrabold text-lg text-slate-900 tracking-tight">CompeteMate</span>
+        <span class="text-xs text-slate-400 font-medium">| Data Studio</span>
+        <a href="/portal" target="_blank"
+          class="ml-2 inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-indigo-50 hover:bg-indigo-100 text-indigo-700 border border-indigo-200 text-xs font-semibold transition-all cursor-pointer shadow-xs"
+          title="Mở giao diện người dùng CompeteMate Website (CompeteHub, DNA, My Journey)">
+          <span>🌐 Mở Website</span>
+          <span class="text-[10px] text-indigo-400">↗</span>
+        </a>
+      </div>
+
+      <div class="flex items-center gap-2.5 text-xs font-medium text-slate-600">
+        <!-- Apify Live Usage Pill Button -->
+        <button type="button" onclick="focusApifyInput()" id="header-apify-btn"
+          class="inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-200 text-xs font-semibold transition-all cursor-pointer"
+          title="Nhấp để xem hoặc đổi Apify API Token & Hạn mức">
+          <span class="w-1.5 h-1.5 rounded-full bg-slate-400" id="header-apify-dot"></span>
+          <span id="header-apify-label">Apify: Đang kiểm tra...</span>
+          <span class="text-[11px] text-slate-400 font-normal">⚙️</span>
+        </button>
+
+        <!-- AI Model Direct Dropdown in Header -->
+        <div class="relative inline-flex items-center" title="Nhấp để sổ xuống danh sách tất cả các mô hình AI">
+          <span class="absolute left-2.5 w-1.5 h-1.5 rounded-full bg-emerald-600 animate-pulse pointer-events-none z-10"></span>
+          <select id="header-ai-select" onchange="handleAiModelChange(this.value)"
+            class="pl-6 pr-7 py-1.5 rounded-md bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-300 text-xs font-semibold cursor-pointer focus:outline-none focus:ring-2 focus:ring-emerald-500 shadow-sm transition-all appearance-none max-w-[240px] truncate"
+            title="Nhấp để chọn trong số 102 mô hình AI (Claude, LLaMA, DeepSeek...)">
+            <option value="kr/auto">AI: kr/auto</option>
+          </select>
+          <span class="absolute right-2 text-[10px] text-emerald-700 pointer-events-none z-10 font-bold">▼</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="flex-1 max-w-6xl w-full mx-auto px-4 sm:px-6 py-8 space-y-6">
+
+    <!-- Section 1: Cấu hình & So sánh Hạn mức Apify API -->
+    <section class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm space-y-4" id="apify-section">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-slate-100">
+        <div class="flex items-center gap-2.5">
+          <h2 class="font-bold text-sm text-slate-900">1. Cấu hình & So sánh Hạn mức Apify API</h2>
+          <span id="apify-active-badge" class="px-2 py-0.5 rounded text-[11px] font-bold bg-indigo-50 text-indigo-700 border border-indigo-200">
+            Đang nạp 4 tài khoản...
+          </span>
+        </div>
+
+        <div class="flex items-center gap-2">
+          <button type="button" onclick="loadApifyAccountsOverview(true)" id="btn-refresh-apify"
+            class="text-xs text-indigo-600 hover:text-indigo-800 font-semibold inline-flex items-center gap-1 transition-colors cursor-pointer">
+            <span>Làm mới số dư</span>
+            <span id="apify-refresh-icon">⟳</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Lưới so sánh trực tiếp cả 6 tài khoản cùng lúc -->
+      <div id="apify-comparison-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-6 gap-4">
+        <!-- JS renderApifyComparisonCards sẽ đưa các thẻ so sánh vào đây -->
+      </div>
+
+      <!-- Khung mở rộng: Tự nhập thêm token Apify khác -->
+      <div class="pt-2 border-t border-slate-100">
+        <details class="group">
+          <summary class="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-600 hover:text-slate-900 cursor-pointer list-none select-none transition-colors">
+            <svg class="w-3.5 h-3.5 transition-transform duration-200 group-open:rotate-90 text-slate-400 group-hover:text-slate-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+            <span>+ Nhập hoặc sử dụng API Token Apify khác</span>
+            <span class="text-[11px] font-normal text-slate-400 group-open:hidden">(Nhấp nếu muốn dùng token cá nhân khác)</span>
+          </summary>
+
+          <div class="mt-3 p-4 bg-slate-50 rounded-lg border border-slate-200 space-y-2">
+            <div class="flex items-center justify-between">
+              <label for="input-apify-token" class="text-xs font-semibold text-slate-700">
+                Dán API Token mới của bạn:
+              </label>
+              <a href="https://console.apify.com/account/integrations" target="_blank" rel="noopener noreferrer"
+                class="text-[11px] text-indigo-600 hover:text-indigo-800 underline font-medium">
+                Lấy token miễn phí tại apify.com ↗
+              </a>
+            </div>
+
+            <div class="flex items-center gap-2 max-w-xl">
+              <div class="relative flex-1">
+                <input type="password" id="input-apify-token" placeholder="Dán apify_api_... tại đây"
+                  class="w-full h-10 bg-white border border-slate-300 rounded-lg pl-3 pr-9 text-xs text-slate-900 font-mono focus:outline-none focus:border-indigo-600 focus:ring-1 focus:ring-indigo-600 transition-all">
+                <button type="button" onclick="toggleTokenMask()" class="absolute right-2.5 top-2.5 text-slate-400 hover:text-slate-600 text-xs cursor-pointer" title="Ẩn/Hiện token">
+                  👁
+                </button>
+              </div>
+
+              <button type="button" id="btn-save-token" onclick="handleSaveApifyToken()"
+                class="h-10 px-5 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-xs transition-colors shadow-sm whitespace-nowrap cursor-pointer flex-shrink-0">
+                <span>Kích hoạt Token này</span>
+              </button>
+            </div>
+            
+            <p id="apify-token-msg" class="text-[11px] mt-1 hidden"></p>
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <!-- Section 2: File Excel đích -->
+    <section class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm space-y-4">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 border-b border-slate-100">
+        <div>
+          <h2 class="font-bold text-sm text-slate-900">2. File Excel đích</h2>
+          <p class="text-xs text-slate-500 mt-0.5">Hệ thống sẽ điền thông tin cuộc thi vào file này</p>
+        </div>
+
+        <div class="flex items-center gap-2.5">
+          <button type="button" id="btn-reset-excel" onclick="handleResetExcel()"
+            class="hidden h-11 px-3.5 text-xs font-medium text-slate-500 hover:text-slate-700 hover:bg-slate-100 rounded-lg transition-colors border border-slate-200">
+            Khôi phục mặc định
+          </button>
+          <input type="file" id="excel-file-input" accept=".xlsx,.xls" class="hidden"
+            onchange="handleFileUpload(event)">
+          <button type="button" onclick="document.getElementById('excel-file-input').click()"
+            class="h-11 w-56 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-sm transition-colors shadow-sm whitespace-nowrap inline-flex items-center justify-center gap-2 flex-shrink-0">
+            <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path>
+            </svg>
+            <span>Tải lên file Excel khác</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- File info & Columns preview -->
+      <div class="space-y-2.5">
+        <div class="flex items-center gap-2 text-xs">
+          <span class="font-medium text-slate-600">Tệp đang dùng:</span>
+          <span class="font-semibold text-slate-900 px-2 py-0.5 rounded bg-slate-100 border border-slate-200"
+            id="current-filename">Đang tải...</span>
+          <span class="text-slate-400" id="current-sheets-info"></span>
+        </div>
+
+        <div>
+          <span class="text-xs font-medium text-slate-500 block mb-1.5">Các cột dữ liệu nhận diện được:</span>
+          <div class="flex flex-wrap gap-1.5" id="columns-badge-container">
+            <!-- Columns injected via JS -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 3: Nhập Link Facebook Fanpage (Đơn lẻ hoặc Hàng loạt) -->
+    <section class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm space-y-5">
+      <div>
+        <h2 class="font-bold text-sm text-slate-900">3. Nguồn cuộc thi</h2>
+        <p class="text-xs text-slate-500 mt-0.5">Nhập một hoặc nhiều link Facebook Fanpage để cào và phân tích song song</p>
+      </div>
+
+      <form id="ingest-form" onsubmit="handleStart(event)" class="space-y-4">
+        <!-- Chế độ ghi file -->
+        <div class="flex flex-wrap items-center gap-6 text-xs text-slate-700">
+          <span class="text-slate-400 font-medium">Chế độ ghi:</span>
+          <label class="inline-flex items-center gap-1.5 cursor-pointer">
+            <input type="radio" name="save_mode" value="manual" checked onchange="updateRunBtnText()" class="text-indigo-600 focus:ring-indigo-500">
+            <span class="font-semibold text-slate-800">1. Kiểm tra & duyệt trước khi ghi (Từng link hoặc tất cả)</span>
+          </label>
+          <label class="inline-flex items-center gap-1.5 cursor-pointer">
+            <input type="radio" name="save_mode" value="auto" onchange="updateRunBtnText()" class="text-indigo-600 focus:ring-indigo-500">
+            <span class="text-slate-600">2. Tự động ghi đè sau khi phân tích xong</span>
+          </label>
+        </div>
+
+        <!-- Textarea nhập link -->
+        <div class="space-y-2">
+          <div class="flex items-center justify-between">
+            <label for="input-urls" class="text-xs font-semibold text-slate-700 flex items-center gap-1.5">
+              <span>Danh sách link cuộc thi (Facebook Fanpage hoặc Website / Landing Page):</span>
+              <span class="px-1.5 py-0.5 rounded text-[10px] font-bold bg-indigo-50 text-indigo-700 border border-indigo-200">Universal Scraper</span>
+            </label>
+            <div class="flex items-center gap-3">
+              <button type="button" onclick="clearUrls()" class="text-[11px] text-slate-400 hover:text-rose-600 transition-colors">
+                Xóa trắng
+              </button>
+              <span id="badge-url-count" class="inline-flex items-center px-2 py-0.5 rounded text-[11px] font-semibold bg-slate-100 text-slate-700 border border-slate-200">
+                0 link
+              </span>
+            </div>
+          </div>
+          <textarea id="input-urls" rows="3" oninput="handleUrlInput()"
+            placeholder="Dán link Facebook Fanpage hoặc Website / Landing page (mỗi link 1 dòng)...&#10;Hỗ trợ: facebook.com/..., kbs.tec-ftu.com, framer.website, website trường đại học,...&#10;Ví dụ:&#10;https://www.facebook.com/yec.calliope&#10;https://kbs.tec-ftu.com/&#10;https://khoinghiepkinhdoanhmua12.framer.website/"
+            class="w-full bg-white border border-slate-300 rounded-lg p-3 text-xs text-slate-900 placeholder-slate-400 focus:outline-none focus:border-indigo-600 focus:ring-1 focus:ring-indigo-600 font-mono transition-all leading-relaxed"></textarea>
+        </div>
+
+        <!-- Action bar: presets + Concurrency selector + Submit -->
+        <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-3 pt-1">
+          <!-- Presets -->
+          <div class="flex flex-wrap items-center gap-1.5 text-xs">
+            <span class="text-slate-400 font-medium text-[11px]">Thêm mẫu:</span>
+            <button type="button" onclick="loadBatchPreset('websites')"
+              class="px-2.5 py-1 rounded-md bg-emerald-600 hover:bg-emerald-700 text-white font-semibold shadow-xs transition-colors text-xs flex items-center gap-1"
+              title="Tải toàn bộ 24 link trang web / landing page từ danh sách Excel">
+              <span>🌐 Nạp 24 Website</span>
+              <span class="text-[10px] bg-emerald-800/50 px-1 rounded">Miễn phí 100%</span>
+            </button>
+            <button type="button" onclick="appendPreset('https://kbs.tec-ftu.com/')"
+              class="px-2 py-0.5 rounded bg-emerald-50 hover:bg-emerald-100 text-emerald-800 transition-colors border border-emerald-200 text-xs">🌐 Web Kawai</button>
+            <button type="button" onclick="appendPreset('https://khoinghiepkinhdoanhmua12.framer.website/')"
+              class="px-2 py-0.5 rounded bg-emerald-50 hover:bg-emerald-100 text-emerald-800 transition-colors border border-emerald-200 text-xs">🌐 Framer KN Kinh doanh</button>
+            <button type="button" onclick="appendPreset('https://re-act.vn/')"
+              class="px-2 py-0.5 rounded bg-emerald-50 hover:bg-emerald-100 text-emerald-800 transition-colors border border-emerald-200 text-xs">🌐 Web Re:Act</button>
+            <button type="button" onclick="appendPreset('https://www.facebook.com/yec.calliope')"
+              class="px-2 py-0.5 rounded bg-slate-100 hover:bg-slate-200 text-slate-700 transition-colors border border-slate-200 text-xs">📱 Calliope</button>
+            <button type="button" onclick="appendPreset('https://www.facebook.com/BanLinhMarketer')"
+              class="px-2 py-0.5 rounded bg-slate-100 hover:bg-slate-200 text-slate-700 transition-colors border border-slate-200 text-xs">📱 Bản Lĩnh Marketer</button>
+            <button type="button" onclick="loadBatchPreset('all')"
+              class="px-2 py-0.5 rounded bg-indigo-50 hover:bg-indigo-100 text-indigo-700 transition-colors border border-indigo-200 text-xs"
+              title="Nạp toàn bộ 102 cuộc thi (cả Website lẫn Facebook)">📋 Nạp 102 cuộc thi</button>
+          </div>
+
+          <!-- Controls + Submit button -->
+          <div class="flex flex-wrap items-center gap-3 flex-shrink-0">
+            <!-- AI Model Selector -->
+            <div class="flex items-center gap-2">
+              <label for="select-ai-model" class="text-xs text-slate-600 font-medium whitespace-nowrap">Mô hình AI:</label>
+              <select id="select-ai-model" onchange="handleAiModelChange(this.value)"
+                class="h-10 max-w-[210px] px-2.5 bg-white border border-slate-300 rounded-lg text-xs font-semibold text-slate-700 focus:outline-none focus:border-indigo-600 focus:ring-1 focus:ring-indigo-600 shadow-sm cursor-pointer truncate"
+                title="Chọn mô hình AI trong 102 mô hình để phân tích dữ liệu">
+                <option value="kr/auto">kr/auto (Đang tải danh sách 102 models...)</option>
+              </select>
+            </div>
+
+            <!-- Concurrency Selector -->
+            <div class="flex items-center gap-2">
+              <label for="select-concurrency" class="text-xs text-slate-600 font-medium whitespace-nowrap">Chạy song song:</label>
+              <select id="select-concurrency"
+                class="h-10 px-2.5 bg-white border border-slate-300 rounded-lg text-xs font-semibold text-slate-700 focus:outline-none focus:border-indigo-600 focus:ring-1 focus:ring-indigo-600 shadow-sm cursor-pointer"
+                title="Số lượng cuộc thi cào và phân tích AI đồng thời">
+                <option value="2">2 luồng</option>
+                <option value="3" selected>3 luồng (Khuyên dùng)</option>
+                <option value="5">5 luồng (Nhanh)</option>
+                <option value="8">8 luồng (Rất nhanh)</option>
+                <option value="10">10 luồng (Tối đa)</option>
+              </select>
+            </div>
+
+            <button type="submit" id="btn-run"
+              class="h-10 px-5 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-xs transition-colors shadow-sm whitespace-nowrap inline-flex items-center justify-center gap-2 flex-shrink-0 cursor-pointer">
+              <span>Phân tích & Kiểm tra</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Cài đặt thời gian cào (nhấn mở rộng) -->
+        <div class="pt-2 border-t border-slate-100">
+          <details class="group">
+            <summary
+              class="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-600 hover:text-slate-900 cursor-pointer list-none select-none transition-colors">
+              <svg
+                class="w-3.5 h-3.5 transition-transform duration-200 group-open:rotate-90 text-slate-400 group-hover:text-slate-600"
+                fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+              </svg>
+              <span>Cài đặt thời gian cào bài</span>
+              <span class="text-[11px] font-normal text-slate-400 group-open:hidden" id="time-badge-preview">(Mặc định: 1 năm kể từ bài sớm nhất)</span>
+            </summary>
+
+            <div class="mt-3 p-4 bg-slate-50 rounded-lg border border-slate-200 space-y-3.5">
+              <!-- Radio chọn chế độ -->
+              <div class="flex flex-wrap items-center gap-6 text-xs font-medium text-slate-700">
+                <label class="inline-flex items-center gap-2 cursor-pointer">
+                  <input type="radio" name="time_mode" value="relative" checked onchange="switchTimeMode('relative')"
+                    class="text-indigo-600 focus:ring-indigo-500">
+                  <span>1. Tính "x" tháng kể từ mốc thời của bài đăng sớm nhất (Mặc định: 1 năm)</span>
+                </label>
+                <label class="inline-flex items-center gap-2 cursor-pointer">
+                  <input type="radio" name="time_mode" value="range" onchange="switchTimeMode('range')"
+                    class="text-indigo-600 focus:ring-indigo-500">
+                  <span>2. Khoảng ngày cụ thể (Từ A đến B)</span>
+                </label>
+              </div>
+
+              <!-- Chế độ 1: Tính từ mốc bài đăng sớm nhất -->
+              <div id="panel-time-relative" class="grid grid-cols-1 sm:grid-cols-2 gap-3 items-center">
+                <div>
+                  <label for="select-relative-time" class="block text-xs font-medium text-slate-600 mb-1">
+                    Khoảng thời gian kể từ bài đăng sớm nhất:
+                  </label>
+                  <select id="select-relative-time" onchange="handleRelativeChange(this.value)"
+                    class="w-full h-9 bg-white border border-slate-300 rounded-md px-3 text-xs text-slate-800 focus:outline-none focus:border-indigo-600 focus:ring-1 focus:ring-indigo-600">
+                    <option value="1 month">1 tháng</option>
+                    <option value="3 months">3 tháng</option>
+                    <option value="6 months">6 tháng</option>
+                    <option value="1 year" selected>1 năm (Mặc định)</option>
+                    <option value="2 years">2 năm</option>
+                    <option value="custom">Tùy chỉnh số ngày / số tháng...</option>
+                    <option value="all">Toàn bộ thời gian (Không lọc)</option>
+                  </select>
+                </div>
+
+                <div id="custom-relative-box" class="hidden">
+                  <label for="input-custom-relative" class="block text-xs font-medium text-slate-600 mb-1">
+                    Nhập thời gian (ví dụ: 45 days, 8 months, 18 months):
+                  </label>
+                  <input type="text" id="input-custom-relative" placeholder="ví dụ: 45 days hoặc 8 months"
+                    class="w-full h-9 bg-white border border-slate-300 rounded-md px-3 text-xs text-slate-800 focus:outline-none focus:border-indigo-600 focus:ring-1 focus:ring-indigo-600">
+                </div>
+              </div>
+
+              <!-- Chế độ 2: Khoảng thời gian từ A đến B (Date Range) -->
+              <div id="panel-time-range" class="hidden grid grid-cols-1 sm:grid-cols-2 gap-3 items-center">
+                <div>
+                  <label for="input-date-from" class="block text-xs font-medium text-slate-600 mb-1">
+                    Từ ngày (A):
+                  </label>
+                  <input type="date" id="input-date-from"
+                    class="w-full h-9 bg-white border border-slate-300 rounded-md px-3 text-xs text-slate-800 focus:outline-none focus:border-indigo-600 focus:ring-1 focus:ring-indigo-600">
+                </div>
+
+                <div>
+                  <label for="input-date-to" class="block text-xs font-medium text-slate-600 mb-1">
+                    Đến ngày (B):
+                  </label>
+                  <input type="date" id="input-date-to"
+                    class="w-full h-9 bg-white border border-slate-300 rounded-md px-3 text-xs text-slate-800 focus:outline-none focus:border-indigo-600 focus:ring-1 focus:ring-indigo-600">
+                </div>
+              </div>
+            </div>
+          </details>
+        </div>
+      </form>
+    </section>
+
+    <!-- Section 4: Tiến trình thực thi đồng thời -->
+    <section id="status-panel" class="hidden bg-white rounded-xl border border-slate-200 p-5 shadow-sm space-y-4">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pb-3 border-b border-slate-100">
+        <div class="flex items-center gap-2 text-sm font-semibold text-slate-800">
+          <span class="inline-block w-3.5 h-3.5 rounded-full border-2 border-indigo-600 border-t-transparent animate-spin"
+            id="loading-spinner"></span>
+          <span id="status-title">Đang xử lý</span>
+        </div>
+        <div class="flex items-center gap-3 text-xs">
+          <span class="font-mono text-slate-500 font-semibold" id="progress-summary-badge">0/0 hoàn tất</span>
+        </div>
+      </div>
+
+      <!-- Overall progress bar -->
+      <div class="w-full bg-slate-100 rounded-full h-2 overflow-hidden">
+        <div id="progress-bar-fill" class="bg-indigo-600 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+      </div>
+
+      <!-- Item cards grid -->
+      <div id="status-items-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2.5">
+        <!-- Item status cards will be inserted here dynamically -->
+      </div>
+
+      <!-- Collapsible technical log box -->
+      <details class="pt-1 text-xs">
+        <summary class="text-slate-500 hover:text-slate-800 cursor-pointer font-medium select-none">
+          Xem nhật ký chi tiết hệ thống
+        </summary>
+        <div
+          class="mt-2 p-3 bg-slate-50 rounded-lg border border-slate-200 font-mono text-xs text-slate-600 space-y-1 max-h-40 overflow-y-auto"
+          id="log-box">
+          <!-- Log lines -->
+        </div>
+      </details>
+    </section>
+
+    <!-- Section 5: Kết quả trích xuất & Dữ liệu ghi Excel (Duyệt độc lập từng cuộc thi hoặc hàng loạt) -->
+    <section id="result-panel" class="hidden bg-white rounded-xl border border-slate-200 p-6 shadow-sm space-y-5 transition-colors">
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 pb-3 border-b border-slate-100">
+        <div>
+          <div class="flex items-center gap-2">
+            <span
+              id="res-badge"
+              class="text-xs font-bold uppercase tracking-wider text-amber-700 bg-amber-50 px-2 py-0.5 rounded border border-amber-200">
+              Chờ duyệt
+            </span>
+            <span id="res-batch-progress-tag" class="text-xs font-semibold text-slate-500 bg-slate-100 px-2 py-0.5 rounded border border-slate-200">
+              Đã xong 0/0 link
+            </span>
+          </div>
+          <h3 class="font-bold text-base text-slate-900 mt-1.5" id="res-comp-name">Kết quả phân tích</h3>
+          <p class="text-xs text-slate-500 mt-0.5" id="res-file-notice">Bạn có thể kiểm tra và ghi từng cuộc thi đã xong vào Excel ngay mà không phụ thuộc vào các link khác.</p>
+        </div>
+
+        <div class="flex flex-wrap items-center gap-2">
+          <!-- Ghi riêng cuộc thi đang xem -->
+          <button 
+            id="btn-save-current"
+            onclick="handleConfirmSaveCurrentItem()"
+            class="h-9 px-4 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs transition-colors shadow-sm inline-flex items-center gap-1.5 cursor-pointer"
+          >
+            <span>Xác nhận ghi cuộc thi này vào Excel</span>
+          </button>
+
+          <!-- Ghi tất cả đã xong -->
+          <button 
+            id="btn-save-all-ready"
+            onclick="handleConfirmSaveBatch()"
+            class="hidden h-9 px-3.5 rounded-lg bg-indigo-50 hover:bg-indigo-100 text-indigo-700 font-semibold text-xs transition-colors border border-indigo-200 inline-flex items-center gap-1.5 cursor-pointer"
+          >
+            <span>Ghi tất cả đã xong</span>
+          </button>
+
+          <!-- Mở file Excel trên máy -->
+          <button 
+            id="btn-open-excel-res"
+            onclick="openActiveExcel()"
+            class="hidden h-9 px-3.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold text-xs transition-colors border border-slate-300"
+          >
+            Mở file Excel trên máy
+          </button>
+
+          <!-- Tải Excel -->
+          <a 
+            id="btn-download-excel-res"
+            href="/api/download-excel"
+            class="hidden h-9 px-3.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 font-medium text-xs border border-slate-300 transition-colors inline-flex items-center"
+          >
+            Tải Excel
+          </a>
+        </div>
+      </div>
+
+      <!-- Navigation Tabs for Multi-Item Results -->
+      <div id="batch-tabs-wrapper" class="hidden border-b border-slate-200 pb-2">
+        <div class="flex items-center gap-2 overflow-x-auto pb-1" id="batch-tabs-container">
+          <!-- Pill buttons for each competition -->
+        </div>
+      </div>
+
+      <!-- Table preview & direct editing of columns filled into Excel -->
+      <div class="space-y-2">
+        <div class="flex items-center justify-between">
+          <h4 class="text-xs font-semibold text-slate-700 uppercase tracking-wider" id="table-subtitle">
+            Dữ liệu phân tích (Có thể chỉnh sửa trực tiếp vào từng ô):
+          </h4>
+          <span class="text-[11px] text-slate-400">Chỉnh sửa sẽ tự động lưu khi chuyển tab hoặc ghi file</span>
+        </div>
+        <div class="overflow-x-auto rounded-lg border border-slate-200">
+          <table class="w-full text-left text-xs">
+            <thead class="bg-slate-100 text-slate-600 font-semibold border-b border-slate-200">
+              <tr>
+                <th class="py-2.5 px-3.5 w-2/12">Tên Cột Trong Excel</th>
+                <th class="py-2.5 px-3.5 w-4/12">Giá Trị Sẽ Ghi Vào File</th>
+                <th class="py-2.5 px-3.5 w-3/12">Nội dung từ web</th>
+                <th class="py-2.5 px-3.5 w-2/12">Link bài viết</th>
+                <th class="py-2.5 px-3.5 w-1/12 text-center">Ngày đăng bài</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-slate-100 text-slate-800" id="filled-columns-tbody">
+              <!-- Rows injected via JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="mt-auto py-5 border-t border-slate-200 text-center text-xs text-slate-400">
+    CompeteMate Data Studio — Hệ thống tự động thu thập và chuẩn hóa dữ liệu cuộc thi
+  </footer>
+
+  <script>
+    let activeColumns = [];
+    let currentBatchItems = [];
+    let activeTabIndex = 0;
+
+    document.addEventListener('DOMContentLoaded', () => {
+      loadSystemStatus();
+      loadApifyAccountsOverview();
+      loadAiModels();
+      updateLinkCount();
+    });
+
+    function updateRunBtnText() {
+      const isAuto = document.querySelector('input[name="save_mode"]:checked')?.value === 'auto';
+      const label = document.querySelector('#btn-run span');
+      if (label) {
+        label.textContent = isAuto ? 'Phân tích & Tự động ghi' : 'Phân tích & Kiểm tra';
+      }
+    }
+
+    function parseEnteredUrls() {
+      const text = document.getElementById('input-urls')?.value || '';
+      if (!text) return [];
+      const lines = text.split(/[\r\n,;]+/);
+      const urls = [];
+      for (let l of lines) {
+        let clean = l.trim();
+        if (clean) {
+          if (!clean.startsWith('http://') && !clean.startsWith('https://')) {
+            clean = 'https://' + clean;
+          }
+          if (!urls.includes(clean)) {
+            urls.push(clean);
+          }
+        }
+      }
+      return urls;
+    }
+
+    function handleUrlInput() {
+      updateLinkCount();
+    }
+
+    function updateLinkCount() {
+      const urls = parseEnteredUrls();
+      const badge = document.getElementById('badge-url-count');
+      if (badge) {
+        badge.textContent = `${urls.length} link`;
+        if (urls.length > 0) {
+          badge.className = 'inline-flex items-center px-2 py-0.5 rounded text-[11px] font-semibold bg-indigo-50 text-indigo-700 border border-indigo-200';
+        } else {
+          badge.className = 'inline-flex items-center px-2 py-0.5 rounded text-[11px] font-semibold bg-slate-100 text-slate-700 border border-slate-200';
+        }
+      }
+    }
+
+    function appendPreset(url) {
+      const textarea = document.getElementById('input-urls');
+      if (!textarea) return;
+      let currentVal = textarea.value.trim();
+      const existingUrls = parseEnteredUrls();
+      if (!existingUrls.includes(url)) {
+        textarea.value = currentVal ? `${currentVal}\n${url}` : url;
+      }
+      updateLinkCount();
+      textarea.focus();
+    }
+
+    function clearUrls() {
+      const textarea = document.getElementById('input-urls');
+      if (textarea) textarea.value = '';
+      updateLinkCount();
+    }
+
+    async function loadBatchPreset(type) {
+      const textarea = document.getElementById('input-urls');
+      if (!textarea) return;
+      try {
+        const res = await fetch('/data/competitions_links.json');
+        if (!res.ok) throw new Error('Không thể tải file competitions_links.json');
+        const items = await res.json();
+        let targetUrls = [];
+        if (type === 'websites') {
+          targetUrls = items
+            .filter(x => x.url && !x.url.toLowerCase().includes('facebook.com') && x.url.startsWith('http'))
+            .map(x => x.url.trim());
+        } else {
+          targetUrls = items
+            .filter(x => x.url && x.url.startsWith('http'))
+            .map(x => x.url.trim());
+        }
+        targetUrls = [...new Set(targetUrls)];
+        textarea.value = targetUrls.join('\n');
+        updateLinkCount();
+        textarea.focus();
+        const desc = (type === 'websites') ? `Đã nạp thành công 24 link Website / Landing Page (Miễn phí, không tốn Apify credit)!` : `Đã nạp thành công toàn bộ ${targetUrls.length} cuộc thi!`;
+        appendLog(desc);
+      } catch (err) {
+        console.error('Lỗi nạp danh sách preset:', err);
+        alert('Không thể nạp danh sách link: ' + err);
+      }
+    }
+
+    // --- APIFY API & USAGE LOGIC ---
+    function focusApifyInput() {
+      const sec = document.getElementById('apify-section');
+      if (sec) {
+        sec.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        const input = document.getElementById('input-apify-token');
+        if (input) input.focus();
+      }
+    }
+
+    function toggleTokenMask() {
+      const input = document.getElementById('input-apify-token');
+      if (input) {
+        input.type = input.type === 'password' ? 'text' : 'password';
+      }
+    }
+
+    let cachedApifyOverviewData = null;
+
+    async function loadApifyAccountsOverview(forceRefresh = false) {
+      const refreshIcon = document.getElementById('apify-refresh-icon');
+      if (refreshIcon) refreshIcon.classList.add('animate-spin');
+
+      try {
+        const url = `/api/apify/accounts-overview${forceRefresh ? '?force_refresh=true' : ''}`;
+        const res = await fetch(url);
+        const data = await res.json();
+        cachedApifyOverviewData = data;
+        renderApifyComparisonCards(data);
+      } catch (err) {
+        console.error("Lỗi tải thông tin so sánh Apify:", err);
+      } finally {
+        if (refreshIcon) refreshIcon.classList.remove('animate-spin');
+      }
+    }
+
+    function renderApifyComparisonCards(data) {
+      const container = document.getElementById('apify-comparison-grid');
+      const activeBadge = document.getElementById('apify-active-badge');
+      const headerLabel = document.getElementById('header-apify-label');
+      const headerDot = document.getElementById('header-apify-dot');
+      if (!container || !data || !data.accounts) return;
+
+      container.innerHTML = '';
+
+      data.accounts.forEach((acc) => {
+        const info = acc.info || {};
+        const isActive = acc.is_active;
+        const usage = Number(info.monthly_usage_usd || 0).toFixed(2);
+        const maxCred = Number(info.monthly_credits_usd || 10.0).toFixed(2);
+        const rem = Number(info.remaining_usd !== undefined ? info.remaining_usd : ((info.monthly_credits_usd || 10.0) - (info.monthly_usage_usd || 0))).toFixed(2);
+        const pct = info.usage_percent || 0;
+        const username = info.username || acc.user_hint || '---';
+
+        let barColor = 'bg-emerald-500';
+        if (pct >= 90) barColor = 'bg-rose-500';
+        else if (pct >= 70) barColor = 'bg-amber-500';
+
+        if (isActive) {
+          if (activeBadge) {
+            activeBadge.className = 'px-2.5 py-0.5 rounded text-[11px] font-bold bg-emerald-100 text-emerald-800 border border-emerald-300';
+            activeBadge.textContent = `✓ Đang kích hoạt: ${username}`;
+          }
+          if (headerLabel) {
+            headerLabel.textContent = `Apify: $${usage} / $${maxCred} (${username})`;
+          }
+          if (headerDot) {
+            headerDot.className = `w-1.5 h-1.5 rounded-full ${pct >= 90 ? 'bg-rose-500' : 'bg-emerald-500'}`;
+          }
+        }
+
+        const card = document.createElement('div');
+        card.className = `p-4 rounded-xl border transition-all duration-200 flex flex-col justify-between ${
+          isActive
+            ? 'bg-emerald-50/40 border-emerald-400 ring-2 ring-emerald-500/20 shadow-sm'
+            : 'bg-slate-50 hover:bg-slate-100/80 border-slate-200 hover:border-slate-300 shadow-none'
+        }`;
+
+        card.innerHTML = `
+          <div class="space-y-3">
+            <!-- Header row -->
+            <div class="flex items-center justify-between gap-2">
+              <div class="flex items-center gap-2">
+                <span class="w-2.5 h-2.5 rounded-full ${isActive ? 'bg-emerald-600 animate-pulse' : 'bg-slate-300'}"></span>
+                <div>
+                  <span class="font-bold text-xs text-slate-900">${acc.name}</span>
+                  <span class="text-[11px] text-slate-400 ml-1 font-mono">(${acc.masked_token})</span>
+                </div>
+              </div>
+              ${
+                isActive
+                  ? `<span class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-md text-[11px] font-bold bg-emerald-600 text-white shadow-xs">
+                       <span>✓</span> Đang dùng
+                     </span>`
+                  : `<button type="button" onclick="activateApifyToken('${acc.token}')"
+                       class="px-2.5 py-1 rounded-md text-xs font-semibold bg-white hover:bg-indigo-600 text-indigo-700 hover:text-white border border-indigo-300 hover:border-indigo-600 shadow-xs transition-all cursor-pointer">
+                       ⚡ Kích hoạt tài khoản này
+                     </button>`
+              }
+            </div>
+
+            <!-- Progress bar & Credit usage -->
+            <div>
+              <div class="flex items-center justify-between text-xs mb-1.5">
+                <span class="text-slate-600 font-medium">Đã dùng: <strong class="text-slate-900 font-mono">$${usage}</strong> / $${maxCred} USD</span>
+                <span class="font-bold ${pct >= 90 ? 'text-rose-600' : 'text-slate-700'} font-mono">${pct}%</span>
+              </div>
+              <div class="w-full bg-slate-200 rounded-full h-2 overflow-hidden">
+                <div class="${barColor} h-2 rounded-full transition-all duration-300" style="width: ${Math.min(pct, 100)}%"></div>
+              </div>
+            </div>
+
+            <!-- Metrics 3 items -->
+            <div class="grid grid-cols-3 gap-2 pt-2.5 border-t border-slate-200/70 text-xs">
+              <div>
+                <span class="text-[10px] text-slate-400 block">Số dư khả dụng:</span>
+                <span class="font-bold text-emerald-700 font-mono text-xs">$${rem} USD</span>
+              </div>
+              <div>
+                <span class="text-[10px] text-slate-400 block">Số luồng song song:</span>
+                <span class="font-semibold text-slate-800 text-[11px]">${info.max_concurrent_jobs || 5} runs</span>
+              </div>
+              <div>
+                <span class="text-[10px] text-slate-400 block">Làm mới chu kỳ:</span>
+                <span class="font-semibold text-slate-800 text-[11px]">${info.cycle_end || 'Hàng tháng'}</span>
+              </div>
+            </div>
+          </div>
+        `;
+
+        container.appendChild(card);
+      });
+    }
+
+    async function activateApifyToken(tokenVal) {
+      // 1. TỨC THÌ (Optimistic UI Update): Cập nhật trạng thái hiển thị ngay lập tức (0ms delay)
+      if (cachedApifyOverviewData && cachedApifyOverviewData.accounts) {
+        cachedApifyOverviewData.accounts.forEach(acc => {
+          acc.is_active = (acc.token === tokenVal);
+        });
+        cachedApifyOverviewData.current_token = tokenVal;
+        renderApifyComparisonCards(cachedApifyOverviewData);
+      }
+
+      const msgEl = document.getElementById('apify-token-msg');
+      const tokenInput = document.getElementById('input-apify-token');
+
+      // 2. Gửi lệnh cập nhật xuống server ngầm (được tối ưu với Cache < 5ms)
+      try {
+        const res = await fetch('/api/apify/set-token', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ token: tokenVal })
+        });
+        const data = await res.json();
+
+        if (data.success) {
+          if (msgEl) {
+            msgEl.className = 'text-[11px] mt-1 text-emerald-600 font-semibold block';
+            msgEl.textContent = `✓ Đã kết nối thành công: ${data.usage?.username || 'Thành công'}`;
+          }
+          if (tokenInput) {
+            tokenInput.value = '';
+          }
+          // Tải lại nhẹ nhàng từ cache để đảm bảo đồng bộ
+          await loadApifyAccountsOverview(false);
+        } else {
+          if (msgEl) {
+            msgEl.className = 'text-[11px] mt-1 text-rose-600 font-semibold block';
+            msgEl.textContent = `✕ Lỗi: ${data.error}`;
+          }
+          alert(`Không thể kích hoạt token: ${data.error}`);
+          // Rollback nếu server báo lỗi
+          await loadApifyAccountsOverview(true);
+        }
+      } catch (err) {
+        if (msgEl) {
+          msgEl.className = 'text-[11px] mt-1 text-rose-600 font-semibold block';
+          msgEl.textContent = `✕ Không thể kết nối server: ${err}`;
+        }
+        await loadApifyAccountsOverview(true);
+      }
+    }
+
+    async function handleSaveApifyToken() {
+      const tokenInput = document.getElementById('input-apify-token');
+      const tokenVal = tokenInput ? tokenInput.value.trim() : '';
+
+      if (!tokenVal) {
+        alert('Vui lòng dán Apify API Token của bạn vào ô nhập.');
+        if (tokenInput) tokenInput.focus();
+        return;
+      }
+
+      const saveBtn = document.getElementById('btn-save-token');
+      const origText = saveBtn ? saveBtn.innerHTML : '';
+      if (saveBtn) {
+        saveBtn.disabled = true;
+        saveBtn.innerHTML = '<span>Đang kiểm tra token mới...</span>';
+      }
+
+      try {
+        await activateApifyToken(tokenVal);
+      } finally {
+        if (saveBtn) {
+          saveBtn.disabled = false;
+          saveBtn.innerHTML = origText;
+        }
+      }
+    }
+
+    // --- AI MODEL SELECTION LOGIC ---
+    function focusAiModelSelect() {
+      const sel = document.getElementById('select-ai-model');
+      if (sel) {
+        sel.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        sel.focus();
+        sel.classList.add('ring-2', 'ring-indigo-500');
+        setTimeout(() => sel.classList.remove('ring-2', 'ring-indigo-500'), 1500);
+      }
+    }
+
+    async function loadAiModels() {
+      const headerSelect = document.getElementById('header-ai-select');
+      const sectionSelect = document.getElementById('select-ai-model');
+
+      try {
+        const res = await fetch('/api/ai/models');
+        const data = await res.json();
+        const currentModel = data.current_model || 'kr/auto';
+
+        const selects = [headerSelect, sectionSelect].filter(Boolean);
+        selects.forEach(sel => sel.innerHTML = '');
+
+        if (data.categories && data.categories.length > 0) {
+          data.categories.forEach(cat => {
+            if (cat.models && cat.models.length > 0) {
+              selects.forEach(sel => {
+                const group = document.createElement('optgroup');
+                group.label = `${cat.name} (${cat.models.length})`;
+                cat.models.forEach(m => {
+                  const opt = document.createElement('option');
+                  opt.value = m.id;
+                  const label = m.name !== m.id ? `${m.name} (${m.id})` : m.name;
+                  opt.textContent = (sel === headerSelect) ? `AI: ${m.id}` : label;
+                  if (m.id === currentModel) {
+                    opt.selected = true;
+                  }
+                  group.appendChild(opt);
+                });
+                sel.appendChild(group);
+              });
+            }
+          });
+        } else {
+          selects.forEach(sel => {
+            const opt = document.createElement('option');
+            opt.value = currentModel;
+            opt.textContent = (sel === headerSelect) ? `AI: ${currentModel}` : currentModel;
+            opt.selected = true;
+            sel.appendChild(opt);
+          });
+        }
+
+        if (headerSelect) headerSelect.value = currentModel;
+        if (sectionSelect) sectionSelect.value = currentModel;
+      } catch (err) {
+        console.error("Lỗi tải danh sách AI models:", err);
+      }
+    }
+
+    async function handleAiModelChange(newModel) {
+      if (!newModel) return;
+      const headerSelect = document.getElementById('header-ai-select');
+      const sectionSelect = document.getElementById('select-ai-model');
+
+      if (headerSelect) headerSelect.value = newModel;
+      if (sectionSelect) sectionSelect.value = newModel;
+
+      try {
+        const res = await fetch('/api/ai/set-model', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ model: newModel })
+        });
+        const data = await res.json();
+        if (data.success) {
+          if (headerSelect) headerSelect.value = data.current_model;
+          if (sectionSelect) sectionSelect.value = data.current_model;
+        } else {
+          alert('Lỗi khi đổi mô hình AI: ' + data.error);
+        }
+      } catch (err) {
+        console.error("Lỗi gọi API đổi mô hình AI:", err);
+      }
+    }
+
+    // --- SYSTEM & EXCEL STATUS ---
+    async function loadSystemStatus() {
+      try {
+        const res = await fetch('/api/status');
+        const data = await res.json();
+
+        document.getElementById('current-filename').textContent = data.active_excel_name;
+
+        if (data.is_custom_excel) {
+          document.getElementById('btn-reset-excel').classList.remove('hidden');
+        } else {
+          document.getElementById('btn-reset-excel').classList.add('hidden');
+        }
+
+        if (data.excel_schema && data.excel_schema.columns) {
+          renderColumnsBadges(data.excel_schema.columns);
+          activeColumns = data.excel_schema.columns;
+        }
+      } catch (err) {
+        console.error("Lỗi lấy thông tin hệ thống:", err);
+      }
+    }
+
+    function renderColumnsBadges(cols) {
+      const container = document.getElementById('columns-badge-container');
+      container.innerHTML = '';
+      if (!cols || cols.length === 0) {
+        container.innerHTML = '<span class="text-xs text-slate-400">Không tìm thấy cột dữ liệu</span>';
+        return;
+      }
+      cols.forEach(c => {
+        const tag = document.createElement('span');
+        tag.className = 'px-2 py-0.5 rounded bg-slate-100 text-slate-700 border border-slate-200 text-xs font-medium';
+        tag.textContent = c;
+        container.appendChild(tag);
+      });
+    }
+
+    async function handleFileUpload(e) {
+      const file = e.target.files[0];
+      if (!file) return;
+
+      const formData = new FormData();
+      formData.append('file', file);
+
+      try {
+        const res = await fetch('/api/upload-excel', {
+          method: 'POST',
+          body: formData
+        });
+        const data = await res.json();
+        if (data.success) {
+          alert(`Đã nạp file '${data.schema.file_name}' với ${data.schema.columns.length} cột.`);
+          loadSystemStatus();
+        } else {
+          alert('Lỗi: ' + data.error);
+        }
+      } catch (err) {
+        alert('Không thể tải file: ' + err);
+      }
+    }
+
+    async function handleResetExcel() {
+      try {
+        const res = await fetch('/api/reset-excel', { method: 'POST' });
+        const data = await res.json();
+        if (data.success) {
+          loadSystemStatus();
+        }
+      } catch (err) {
+        alert('Lỗi khôi phục: ' + err);
+      }
+    }
+
+    async function openActiveExcel() {
+      const btn = document.getElementById('btn-open-excel-res');
+      const origText = btn ? btn.textContent : '';
+      if (btn) btn.textContent = 'Đang mở...';
+
+      try {
+        const res = await fetch('/api/open-excel');
+        const data = await res.json();
+        if (data.success) {
+          if (btn) btn.textContent = 'Đã mở Excel';
+          setTimeout(() => {
+            if (btn) btn.textContent = origText;
+          }, 3000);
+        } else {
+          alert('Không thể mở tự động: ' + data.error + '\n\nBạn có thể nhấn nút "Tải Excel" ngay bên cạnh để xem file.');
+          if (btn) btn.textContent = origText;
+        }
+      } catch (err) {
+        alert('Lỗi: ' + err + '\n\nBạn có thể nhấn nút "Tải Excel" ngay bên cạnh để xem file.');
+        if (btn) btn.textContent = origText;
+      }
+    }
+
+    function appendLog(msg) {
+      const box = document.getElementById('log-box');
+      const line = document.createElement('div');
+      line.textContent = `[${new Date().toLocaleTimeString()}] ${msg}`;
+      box.appendChild(line);
+      box.scrollTop = box.scrollHeight;
+    }
+
+    function switchTimeMode(mode) {
+      if (mode === 'relative') {
+        document.getElementById('panel-time-relative').classList.remove('hidden');
+        document.getElementById('panel-time-range').classList.add('hidden');
+        document.getElementById('time-badge-preview').textContent = '(Kể từ bài đăng sớm nhất)';
+      } else {
+        document.getElementById('panel-time-relative').classList.add('hidden');
+        document.getElementById('panel-time-range').classList.remove('hidden');
+        document.getElementById('time-badge-preview').textContent = '(Khoảng ngày A đến B)';
+
+        const toInput = document.getElementById('input-date-to');
+        const fromInput = document.getElementById('input-date-from');
+        if (!toInput.value) {
+          toInput.value = new Date().toISOString().split('T')[0];
+        }
+        if (!fromInput.value) {
+          const past = new Date();
+          past.setFullYear(past.getFullYear() - 1);
+          fromInput.value = past.toISOString().split('T')[0];
+        }
+      }
+    }
+
+    function handleRelativeChange(val) {
+      const customBox = document.getElementById('custom-relative-box');
+      if (val === 'custom') {
+        customBox.classList.remove('hidden');
+      } else {
+        customBox.classList.add('hidden');
+      }
+    }
+
+    // --- BATCH INGESTION & PROCESSING ---
+    function handleStart(e) {
+      if (e && typeof e.preventDefault === 'function') {
+        e.preventDefault();
+      }
+
+      const urls = parseEnteredUrls();
+      if (urls.length === 0) {
+        alert('Vui lòng dán ít nhất 1 link Facebook Fanpage hoặc chọn mẫu gợi ý.');
+        document.getElementById('input-urls')?.focus();
+        return;
+      }
+
+      // Đọc các cài đặt
+      const isAutoSave = document.querySelector('input[name="save_mode"]:checked')?.value === 'auto';
+      const concurrency = parseInt(document.getElementById('select-concurrency')?.value || '3', 10);
+      const timeMode = document.querySelector('input[name="time_mode"]:checked')?.value || 'relative';
+      let newerThan = '1 year';
+      let olderThan = '';
+
+      if (timeMode === 'range') {
+        const dateFrom = document.getElementById('input-date-from').value;
+        const dateTo = document.getElementById('input-date-to').value;
+        if (!dateFrom || !dateTo) {
+          alert('Vui lòng chọn đầy đủ ngày bắt đầu (A) và ngày kết thúc (B).');
+          return;
+        }
+        if (dateFrom > dateTo) {
+          alert('Ngày bắt đầu (A) phải trước hoặc bằng ngày kết thúc (B).');
+          return;
+        }
+        newerThan = dateFrom;
+        olderThan = dateTo;
+      } else {
+        const relSelect = document.getElementById('select-relative-time').value;
+        if (relSelect === 'custom') {
+          newerThan = document.getElementById('input-custom-relative').value.trim() || '1 year';
+        } else {
+          newerThan = relSelect;
+        }
+      }
+
+      // Khởi tạo mảng batch items
+      currentBatchItems = urls.map((url, idx) => ({
+        index: idx,
+        url: url,
+        name: extractSlug(url),
+        season: '',
+        status: 'pending', // pending, scraping, scraped_ok, ai_analyzing, success, error
+        message: 'Đang xếp hàng...',
+        dna: {},
+        custom_mapping: null,
+        excel_row: null,
+        is_saved: false,
+        error: null
+      }));
+
+      activeTabIndex = 0;
+
+      // Reset panels
+      document.getElementById('result-panel').classList.add('hidden');
+      const statusPanel = document.getElementById('status-panel');
+      statusPanel.classList.remove('hidden');
+      document.getElementById('log-box').innerHTML = '';
+      document.getElementById('status-title').textContent = `Đang xử lý ${urls.length} link (Song song ${concurrency} luồng)...`;
+      document.getElementById('loading-spinner').classList.remove('hidden');
+      
+      const btnRun = document.getElementById('btn-run');
+      btnRun.disabled = true;
+      btnRun.classList.add('opacity-60');
+
+      renderProgressGrid();
+      updateOverallProgress(0, urls.length);
+
+      appendLog(`Bắt đầu xử lý hàng loạt ${urls.length} link (Tối đa ${concurrency} luồng song song)`);
+
+      // Xây dựng URL cho SSE stream
+      const selectedModel = document.getElementById('select-ai-model')?.value || '';
+      let sseUrl = `/api/ingest-stream?urls=${encodeURIComponent(urls.join('\n'))}&concurrency=${concurrency}&time_mode=${encodeURIComponent(timeMode)}&newer_than=${encodeURIComponent(newerThan)}&auto_save=${isAutoSave}`;
+      if (selectedModel) {
+        sseUrl += `&ai_model=${encodeURIComponent(selectedModel)}`;
+      }
+      if (olderThan) {
+        sseUrl += `&older_than=${encodeURIComponent(olderThan)}`;
+      }
+
+      const evtSource = new EventSource(sseUrl);
+
+      evtSource.onmessage = (event) => {
+        try {
+          const payload = JSON.parse(event.data);
+          const step = payload.step;
+          const msg = payload.message;
+
+          if (msg) appendLog(msg);
+
+          if (step === 'batch_init') {
+            document.getElementById('status-title').textContent = `Đang xử lý ${payload.total} link với ${payload.concurrency} luồng...`;
+          } else if (step === 'item_start') {
+            updateItemCard(payload.index, { status: 'scraping', message: 'Bắt đầu xử lý...' });
+          } else if (step === 'item_scraping') {
+            updateItemCard(payload.index, { status: 'scraping', message: payload.message });
+          } else if (step === 'item_scraped_ok') {
+            updateItemCard(payload.index, { status: 'scraped_ok', message: payload.message });
+          } else if (step === 'item_ai_analyzing') {
+            updateItemCard(payload.index, { status: 'ai_analyzing', message: payload.message });
+          } else if (step === 'item_completed') {
+            const itemData = payload.item;
+            const isAuto = document.querySelector('input[name="save_mode"]:checked')?.value === 'auto';
+            const isSaved = Boolean(itemData.excel_row);
+            const saveFailed = Boolean(isAuto && !itemData.excel_row);
+            
+            updateItemCard(payload.index, {
+              status: 'success',
+              name: payload.name,
+              season: payload.season,
+              dna: itemData.dna,
+              custom_mapping: itemData.custom_mapping,
+              excel_row: itemData.excel_row,
+              is_saved: isSaved,
+              save_failed: saveFailed,
+              message: saveFailed ? `⚠️ Phân tích xong nhưng chưa thể ghi Excel (File đang mở hoặc bị khóa)` : `Hoàn tất: ${payload.name}`
+            });
+            recalcProgress();
+
+            // KÍCH HOẠT NGAY: Cho phép người dùng duyệt và ghi cuộc thi này ngay lập tức!
+            onItemReady(payload.index);
+          } else if (step === 'item_error') {
+            updateItemCard(payload.index, {
+              status: 'error',
+              message: payload.message,
+              error: payload.message
+            });
+            recalcProgress();
+            renderTabs();
+            updateHeaderButtons();
+          } else if (step === 'completed' || step === 'batch_completed') {
+            evtSource.close();
+            btnRun.disabled = false;
+            btnRun.classList.remove('opacity-60');
+            document.getElementById('loading-spinner').classList.add('hidden');
+            
+            const succeededCount = currentBatchItems.filter(i => i.status === 'success').length;
+            document.getElementById('status-title').textContent = `Hoàn tất: ${succeededCount}/${urls.length} cuộc thi thành công`;
+            updateOverallProgress(urls.length, urls.length);
+
+            renderTabs();
+            updateHeaderButtons();
+
+            // Làm mới lại thống kê Apify sau khi cào xong
+            loadApifyUsage();
+          }
+        } catch (err) {
+          console.error("Lỗi đọc SSE payload:", err);
+        }
+      };
+
+      evtSource.onerror = (err) => {
+        console.error("SSE Error:", err);
+        evtSource.close();
+        btnRun.disabled = false;
+        btnRun.classList.remove('opacity-60');
+        document.getElementById('loading-spinner').classList.add('hidden');
+      };
+    }
+
+    // Khi bất kỳ 1 link nào hoàn thành, hiển thị ngay kết quả cuộc thi đó
+    function onItemReady(index) {
+      const resPanel = document.getElementById('result-panel');
+      const wasHidden = resPanel.classList.contains('hidden');
+      resPanel.classList.remove('hidden');
+
+      // Nếu lần đầu hiển thị panel hoặc tab hiện tại chưa hoàn thành, chuyển ngay đến tab vừa xong
+      const currentActiveItem = currentBatchItems[activeTabIndex];
+      if (wasHidden || !currentActiveItem || currentActiveItem.status !== 'success') {
+        activeTabIndex = index;
+        renderTabs();
+        renderActiveTabTable();
+        updateHeaderButtons();
+      } else {
+        // Nếu người dùng đang kiểm tra một tab khác, không đè nội dung bảng đang sửa, chỉ cập nhật tab bar và nút
+        renderTabs();
+        updateHeaderButtons();
+      }
+    }
+
+    function extractSlug(url) {
+      try {
+        const clean = url.replace(/\/+$/, '');
+        const parts = clean.split('/');
+        return parts[parts.length - 1] || url;
+      } catch (e) {
+        return url;
+      }
+    }
+
+    function renderProgressGrid() {
+      const grid = document.getElementById('status-items-grid');
+      grid.innerHTML = '';
+      currentBatchItems.forEach((item, idx) => {
+        const card = document.createElement('div');
+        card.id = `item-card-${idx}`;
+        card.className = 'p-3 rounded-lg border border-slate-200 bg-slate-50 flex flex-col justify-between text-xs space-y-1.5 transition-all';
+        const isFb = item.url && (item.url.includes('facebook.com') || item.url.includes('fb.com'));
+        card.innerHTML = `
+          <div class="flex items-center justify-between gap-2">
+            <span class="font-bold text-slate-800 truncate" id="card-name-${idx}">#${idx+1} ${item.name}</span>
+            <span class="px-1.5 py-0.5 rounded text-[10px] font-semibold bg-slate-200 text-slate-600 shrink-0" id="card-badge-${idx}">Chờ</span>
+          </div>
+          <div class="flex items-center gap-1.5">
+            <span class="px-1.5 py-0.5 rounded text-[9px] font-bold ${isFb ? 'bg-blue-50 text-blue-700 border border-blue-200' : 'bg-emerald-50 text-emerald-700 border border-emerald-200'} shrink-0">${isFb ? '📱 Facebook' : '🌐 Website'}</span>
+            <span class="text-[10px] text-slate-400 truncate" title="${escapeHtml(item.url)}">${escapeHtml(item.url)}</span>
+          </div>
+          <p class="text-[11px] text-slate-500 line-clamp-1" id="card-msg-${idx}">Đang chờ luồng rảnh...</p>
+          <div id="card-action-${idx}" class="hidden mt-1 pt-1.5 border-t border-emerald-100 flex items-center justify-between text-[11px] text-emerald-700 font-semibold">
+            <span>Sẵn sàng duyệt & ghi</span>
+            <span>Xem chi tiết ↗</span>
+          </div>
+        `;
+        card.onclick = () => handleCardClick(idx);
+        grid.appendChild(card);
+      });
+    }
+
+    function handleCardClick(idx) {
+      const item = currentBatchItems[idx];
+      if (!item) return;
+      if (item.status === 'success' || item.status === 'error') {
+        switchTab(idx);
+        const resPanel = document.getElementById('result-panel');
+        resPanel.classList.remove('hidden');
+        resPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+
+    function updateItemCard(index, updates) {
+      if (!currentBatchItems[index]) return;
+      Object.assign(currentBatchItems[index], updates);
+      
+      const item = currentBatchItems[index];
+      const card = document.getElementById(`item-card-${index}`);
+      const nameEl = document.getElementById(`card-name-${index}`);
+      const badgeEl = document.getElementById(`card-badge-${index}`);
+      const msgEl = document.getElementById(`card-msg-${index}`);
+      const actionEl = document.getElementById(`card-action-${index}`);
+
+      if (!card) return;
+
+      if (item.name) {
+        nameEl.textContent = item.name;
+        nameEl.title = item.name;
+      }
+
+      msgEl.textContent = item.message;
+      msgEl.title = item.message;
+
+      const isFb = item.url && (item.url.includes('facebook.com') || item.url.includes('fb.com'));
+
+      if (item.status === 'scraping' || item.status === 'ai_analyzing' || item.status === 'scraped_ok') {
+        card.className = 'p-3 rounded-lg border border-indigo-200 bg-indigo-50/50 flex flex-col justify-between text-xs space-y-1.5 transition-all shadow-sm';
+        badgeEl.className = 'px-1.5 py-0.5 rounded text-[10px] font-semibold bg-indigo-100 text-indigo-700 animate-pulse';
+        if (item.status === 'ai_analyzing') {
+          badgeEl.textContent = 'AI phân tích';
+        } else if (item.status === 'scraped_ok') {
+          badgeEl.textContent = isFb ? 'Đã cào FB' : 'Đã đọc Web';
+        } else {
+          badgeEl.textContent = isFb ? 'Đang cào FB' : 'Đang đọc Web';
+        }
+        if (actionEl) actionEl.classList.add('hidden');
+      } else if (item.status === 'success') {
+        card.className = 'p-3 rounded-lg border border-emerald-200 bg-emerald-50/40 flex flex-col justify-between text-xs space-y-1.5 transition-all hover:border-emerald-400 hover:shadow-sm cursor-pointer';
+        if (item.is_saved) {
+          badgeEl.className = 'px-1.5 py-0.5 rounded text-[10px] font-semibold bg-emerald-100 text-emerald-800';
+          badgeEl.textContent = 'Đã lưu';
+        } else if (item.save_failed) {
+          badgeEl.className = 'px-1.5 py-0.5 rounded text-[10px] font-semibold bg-rose-100 text-rose-800 animate-pulse';
+          badgeEl.textContent = 'Chưa lưu';
+        } else {
+          badgeEl.className = 'px-1.5 py-0.5 rounded text-[10px] font-semibold bg-amber-100 text-amber-800';
+          badgeEl.textContent = 'Chờ ghi';
+        }
+        if (actionEl) {
+          actionEl.classList.remove('hidden');
+          actionEl.querySelector('span:first-child').textContent = item.is_saved ? '✓ Đã ghi Excel' : (item.save_failed ? '⚠️ Cần ghi lại' : 'Sẵn sàng duyệt & ghi');
+        }
+      } else if (item.status === 'error') {
+        card.className = 'p-3 rounded-lg border border-rose-200 bg-rose-50/40 flex flex-col justify-between text-xs space-y-1.5 transition-all cursor-pointer';
+        badgeEl.className = 'px-1.5 py-0.5 rounded text-[10px] font-semibold bg-rose-100 text-rose-800';
+        badgeEl.textContent = 'Lỗi';
+        if (actionEl) actionEl.classList.add('hidden');
+      }
+    }
+
+    function recalcProgress() {
+      const total = currentBatchItems.length;
+      const finished = currentBatchItems.filter(i => i.status === 'success' || i.status === 'error').length;
+      updateOverallProgress(finished, total);
+    }
+
+    function updateOverallProgress(done, total) {
+      const pct = total > 0 ? Math.round((done / total) * 100) : 0;
+      const fill = document.getElementById('progress-bar-fill');
+      if (fill) fill.style.width = `${pct}%`;
+      const badge = document.getElementById('progress-summary-badge');
+      if (badge) badge.textContent = `${done}/${total} hoàn tất (${pct}%)`;
+    }
+
+    // Cập nhật thanh Tab các cuộc thi
+    function renderTabs() {
+      const tabsWrapper = document.getElementById('batch-tabs-wrapper');
+      const tabsContainer = document.getElementById('batch-tabs-container');
+      tabsContainer.innerHTML = '';
+
+      if (currentBatchItems.length <= 1) {
+        tabsWrapper.classList.add('hidden');
+        return;
+      }
+
+      tabsWrapper.classList.remove('hidden');
+
+      currentBatchItems.forEach((item, idx) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.id = `tab-btn-${idx}`;
+        btn.onclick = () => switchTab(idx);
+
+        let icon = '';
+        let iconClass = '';
+
+        if (item.is_saved) {
+          icon = '✓';
+          iconClass = 'text-emerald-600 font-bold';
+        } else if (item.save_failed) {
+          icon = '⚠️';
+          iconClass = 'text-rose-500 font-bold';
+        } else if (item.status === 'success') {
+          icon = '●';
+          iconClass = 'text-amber-500';
+        } else if (item.status === 'error') {
+          icon = '✕';
+          iconClass = 'text-rose-500 font-bold';
+        } else if (item.status === 'scraping' || item.status === 'ai_analyzing' || item.status === 'scraped_ok') {
+          icon = '⟳';
+          iconClass = 'text-indigo-600 animate-spin font-bold';
+        } else {
+          icon = '⏳';
+          iconClass = 'text-slate-400';
+        }
+
+        const isActive = (idx === activeTabIndex);
+
+        if (isActive) {
+          btn.className = 'px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-indigo-600 text-white shadow-sm transition-all whitespace-nowrap flex items-center gap-1.5';
+          btn.innerHTML = `<span class="text-white text-[11px]">${icon}</span> <span>${escapeHtml(item.name || `Link #${idx+1}`)}</span>`;
+        } else {
+          btn.className = 'px-3.5 py-1.5 rounded-lg text-xs font-medium bg-slate-100 hover:bg-slate-200 text-slate-700 transition-all whitespace-nowrap flex items-center gap-1.5';
+          btn.innerHTML = `<span class="${iconClass} text-[11px]">${icon}</span> <span>${escapeHtml(item.name || `Link #${idx+1}`)}</span>`;
+        }
+
+        tabsContainer.appendChild(btn);
+      });
+    }
+
+    function switchTab(index) {
+      activeTabIndex = index;
+      renderTabs();
+      renderActiveTabTable();
+      updateHeaderButtons();
+    }
+
+    function updateHeaderButtons() {
+      const item = currentBatchItems[activeTabIndex];
+      if (!item) return;
+
+      const resBadge = document.getElementById('res-badge');
+      const resCompName = document.getElementById('res-comp-name');
+      const resFileNotice = document.getElementById('res-file-notice');
+      const btnSaveCurrent = document.getElementById('btn-save-current');
+      const btnSaveAll = document.getElementById('btn-save-all-ready');
+      const resPanel = document.getElementById('result-panel');
+
+      const readyCount = currentBatchItems.filter(i => i.status === 'success').length;
+      const totalCount = currentBatchItems.length;
+      const unsavedReadyCount = currentBatchItems.filter(i => i.status === 'success' && !i.is_saved).length;
+      const savedCount = currentBatchItems.filter(i => i.is_saved).length;
+
+      document.getElementById('res-batch-progress-tag').textContent = `Đã phân tích ${readyCount}/${totalCount} link`;
+
+      if (item.status === 'success') {
+        resCompName.textContent = item.name || 'Cuộc thi';
+
+        if (item.is_saved) {
+          resBadge.className = 'text-xs font-bold uppercase tracking-wider text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-200';
+          resBadge.textContent = 'Đã lưu Excel';
+          resFileNotice.textContent = `Cuộc thi này đã được lưu vào file Excel (${item.excel_row ? 'Hàng #' + item.excel_row : 'Thành công'}). Bạn có thể chỉnh sửa và bấm lưu lại nếu muốn.`;
+          
+          btnSaveCurrent.className = 'h-9 px-4 rounded-lg bg-emerald-100 text-emerald-800 font-semibold text-xs border border-emerald-300 inline-flex items-center gap-1.5 cursor-pointer hover:bg-emerald-200 transition-colors';
+          btnSaveCurrent.disabled = false;
+          btnSaveCurrent.innerHTML = '<span>✓ Đã lưu (Bấm để ghi lại)</span>';
+          resPanel.className = 'bg-white rounded-xl border border-emerald-300 p-6 shadow-sm space-y-5 transition-colors';
+        } else if (item.save_failed) {
+          resBadge.className = 'text-xs font-bold uppercase tracking-wider text-rose-700 bg-rose-50 px-2 py-0.5 rounded border border-rose-200 animate-pulse';
+          resBadge.textContent = 'Chưa lưu (File đang mở)';
+          resFileNotice.textContent = `⚠️ Không thể lưu vào Excel vì file đang được mở trên máy (Microsoft Excel) hoặc bị khóa. Vui lòng ĐÓNG FILE EXCEL rồi bấm nút ghi bên dưới.`;
+          
+          btnSaveCurrent.className = 'h-9 px-4 rounded-lg bg-rose-600 hover:bg-rose-700 text-white font-semibold text-xs transition-colors shadow-sm inline-flex items-center gap-1.5 cursor-pointer';
+          btnSaveCurrent.disabled = false;
+          btnSaveCurrent.innerHTML = '<span>💾 Thử ghi lại vào Excel</span>';
+          resPanel.className = 'bg-white rounded-xl border border-rose-300 p-6 shadow-sm space-y-5 transition-colors';
+        } else {
+          resBadge.className = 'text-xs font-bold uppercase tracking-wider text-amber-700 bg-amber-50 px-2 py-0.5 rounded border border-amber-200';
+          resBadge.textContent = 'Chờ duyệt';
+          resFileNotice.textContent = `Dữ liệu đã sẵn sàng. Bạn có thể chỉnh sửa trực tiếp các ô bên dưới rồi nhấn "Xác nhận ghi cuộc thi này vào Excel" ngay lập tức.`;
+          
+          btnSaveCurrent.className = 'h-9 px-4 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs transition-colors shadow-sm inline-flex items-center gap-1.5 cursor-pointer';
+          btnSaveCurrent.disabled = false;
+          btnSaveCurrent.innerHTML = '<span>Xác nhận ghi cuộc thi này vào Excel</span>';
+          resPanel.className = 'bg-white rounded-xl border border-amber-300 p-6 shadow-sm space-y-5 transition-colors';
+        }
+      } else if (item.status === 'error') {
+        resCompName.textContent = item.name || 'Lỗi';
+        resBadge.className = 'text-xs font-bold uppercase tracking-wider text-rose-700 bg-rose-50 px-2 py-0.5 rounded border border-rose-200';
+        resBadge.textContent = 'Lỗi cào / phân tích';
+        resFileNotice.textContent = item.message || 'Không thể cào hoặc phân tích cuộc thi này.';
+        btnSaveCurrent.disabled = true;
+        btnSaveCurrent.className = 'hidden';
+        resPanel.className = 'bg-white rounded-xl border border-rose-200 p-6 shadow-sm space-y-5 transition-colors';
+      } else {
+        // Đang xử lý
+        resCompName.textContent = item.name || 'Đang xử lý';
+        resBadge.className = 'text-xs font-bold uppercase tracking-wider text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded border border-indigo-200';
+        resBadge.textContent = 'Đang chạy';
+        resFileNotice.textContent = item.message || 'Cuộc thi này đang được cào bài viết và đọc bởi AI...';
+        btnSaveCurrent.disabled = true;
+        btnSaveCurrent.className = 'hidden';
+        resPanel.className = 'bg-white rounded-xl border border-slate-200 p-6 shadow-sm space-y-5 transition-colors';
+      }
+
+      // Nút "Ghi tất cả đã xong"
+      if (unsavedReadyCount > 1) {
+        btnSaveAll.classList.remove('hidden');
+        btnSaveAll.innerHTML = `<span>Ghi tất cả đã xong (${unsavedReadyCount})</span>`;
+      } else {
+        btnSaveAll.classList.add('hidden');
+      }
+
+      // Nút mở Excel hiển thị nếu có ít nhất 1 item đã được lưu
+      if (savedCount > 0) {
+        document.getElementById('btn-open-excel-res').classList.remove('hidden');
+        document.getElementById('btn-download-excel-res').classList.remove('hidden');
+      }
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    // Render bảng 3 cột cho cuộc thi ở tab hiện tại
+    function renderActiveTabTable() {
+      const item = currentBatchItems[activeTabIndex];
+      const tbody = document.getElementById('filled-columns-tbody');
+      tbody.innerHTML = '';
+
+      if (!item) return;
+
+      if (item.status === 'pending' || item.status === 'scraping' || item.status === 'ai_analyzing' || item.status === 'scraped_ok') {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="3" class="py-12 text-center text-xs text-slate-500">
+              <div class="inline-flex items-center gap-2 mb-2 font-semibold text-slate-700">
+                <span class="inline-block w-4 h-4 rounded-full border-2 border-indigo-600 border-t-transparent animate-spin"></span>
+                Đang thu thập và phân tích AI cho cuộc thi này...
+              </div>
+              <p class="text-[11px] text-slate-400">${escapeHtml(item.message || 'Vui lòng chờ trong giây lát')}</p>
+            </td>
+          </tr>
+        `;
+        return;
+      }
+
+      if (item.status === 'error') {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="3" class="py-10 text-center text-xs text-rose-600">
+              <span class="font-bold">Lỗi khi xử lý cuộc thi này:</span> ${escapeHtml(item.message || item.error || 'Lỗi không xác định')}
+            </td>
+          </tr>
+        `;
+        return;
+      }
+
+      const customMapping = item.custom_mapping;
+      const dna = item.dna || {};
+
+      const renderRow = (col, dataVal) => {
+        const tr = document.createElement('tr');
+        tr.className = 'hover:bg-slate-50/50 transition-colors';
+
+        let val = '';
+        let sourceDate = '';
+        let sourceUrl = '';
+        let sourceQuote = '';
+
+        if (dataVal && typeof dataVal === 'object') {
+          val = dataVal.value || '';
+          sourceDate = dataVal.source_date || '';
+          sourceUrl = dataVal.source_url || '';
+          sourceQuote = dataVal.source_quote || '';
+        } else if (dataVal != null) {
+          val = String(dataVal);
+        }
+
+        const isLong = val && val.length > 70;
+        const valSafe = escapeHtml(val);
+        const colSafe = escapeHtml(col);
+
+        const inputHtml = isLong 
+          ? `<textarea rows="2" class="w-full bg-white border border-slate-200 hover:border-slate-300 focus:border-indigo-600 rounded px-2.5 py-1.5 text-xs text-slate-900 focus:outline-none focus:ring-1 focus:ring-indigo-600 transition-all resize-y font-normal" data-col="${colSafe}" oninput="handleCellInput(this, '${colSafe}')">${valSafe}</textarea>`
+          : `<input type="text" class="w-full bg-white border border-slate-200 hover:border-slate-300 focus:border-indigo-600 rounded px-2.5 py-1 text-xs text-slate-900 focus:outline-none focus:ring-1 focus:ring-indigo-600 transition-all font-normal" data-col="${colSafe}" value="${valSafe}" oninput="handleCellInput(this, '${colSafe}')">`;
+
+        // Render Cột 3: Nội dung từ web
+        const proofSafe = escapeHtml(sourceQuote || '(Chưa có trích dẫn từ web)');
+        const quoteHtml = `<div class="p-2 bg-slate-50 border border-slate-200/80 rounded text-[11px] text-slate-700 italic leading-relaxed line-clamp-3 hover:line-clamp-none transition-all">${proofSafe}</div>`;
+
+        // Render Cột 4: Link bài viết
+        let linkHtml = '<span class="text-slate-400 text-[11px]">—</span>';
+        if (sourceUrl && sourceUrl.startsWith('http')) {
+          linkHtml = `<a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer" class="text-[11px] font-medium text-indigo-600 hover:text-indigo-800 hover:underline inline-flex items-center gap-1 break-all" title="${escapeHtml(sourceUrl)}">Xem bài viết ↗</a>`;
+        }
+
+        // Render Cột 5: Ngày đăng bài (nếu có)
+        let dateHtml = '<span class="text-slate-400 text-[11px]">—</span>';
+        if (sourceDate) {
+          dateHtml = `<span class="inline-flex items-center px-1.5 py-0.5 rounded text-[11px] font-semibold bg-slate-100 text-slate-700 border border-slate-200 whitespace-nowrap">${escapeHtml(sourceDate)}</span>`;
+        }
+
+        tr.innerHTML = `
+          <td class="py-2.5 px-3.5 font-semibold text-slate-700 bg-slate-50/70 w-2/12 align-top pt-2.5">${colSafe}</td>
+          <td class="py-1.5 px-3.5 align-top w-4/12">${inputHtml}</td>
+          <td class="py-1.5 px-3.5 align-top w-3/12">${quoteHtml}</td>
+          <td class="py-2 px-3.5 align-top w-2/12 text-xs">${linkHtml}</td>
+          <td class="py-2 px-3.5 align-top w-1/12 text-center text-xs">${dateHtml}</td>
+        `;
+        tbody.appendChild(tr);
+      };
+
+      if (customMapping && typeof customMapping === 'object' && Object.keys(customMapping).length > 0) {
+        for (const [col, dataVal] of Object.entries(customMapping)) {
+          renderRow(col, dataVal);
+        }
+      } else {
+        const standardFields = [
+          ['Tên cuộc thi', dna.name],
+          ['Lĩnh vực', dna.category],
+          ['Đơn vị tổ chức', dna.organizer],
+          ['Mô tả ngắn', dna.short_description],
+          ['Đối tượng tham gia', dna.eligibility],
+          ['Hình thức tham gia', `${dna.format || 'Chưa rõ'} (${dna.team_size?.min || 1}-${dna.team_size?.max || 5} người)`],
+          ['Cơ cấu vòng thi', dna.rounds_description || `${dna.rounds_count || 1} vòng`],
+          ['Cơ cấu giải thưởng', dna.grand_prize],
+          ['Mùa thi', dna.season],
+          ['Deadline đăng ký', dna.deadline],
+          ['Link nguồn chính thức', dna.registration_link || dna.source_url]
+        ];
+
+        standardFields.forEach(([col, val]) => {
+          renderRow(col, { value: val, source_date: '', source_url: dna.source_url || '', source_quote: '' });
+        });
+      }
+    }
+
+    // Khi người dùng gõ vào ô, lưu ngay vào bộ nhớ của item đang active
+    function handleCellInput(el, colName) {
+      const item = currentBatchItems[activeTabIndex];
+      if (!item) return;
+
+      const newVal = el.value;
+
+      if (!item.custom_mapping) {
+        item.custom_mapping = {};
+      }
+
+      if (item.custom_mapping[colName] && typeof item.custom_mapping[colName] === 'object') {
+        item.custom_mapping[colName].value = newVal;
+      } else {
+        item.custom_mapping[colName] = {
+          value: newVal,
+          source_date: '',
+          source_url: '',
+          source_quote: ''
+        };
+      }
+
+      // Nếu sửa Tên cuộc thi, cập nhật tên tab
+      if (colName === 'Tên cuộc thi' || colName === 'Tên Cuộc Thi') {
+        item.name = newVal;
+        if (item.dna) item.dna.name = newVal;
+        renderTabs();
+        document.getElementById('res-comp-name').textContent = newVal;
+      }
+    }
+
+    // Ghi RIÊNG CUỘC THI HIỆN TẠI vào Excel ngay lập tức
+    async function handleConfirmSaveCurrentItem() {
+      const item = currentBatchItems[activeTabIndex];
+      if (!item || item.status !== 'success') return;
+
+      const btn = document.getElementById('btn-save-current');
+      const originalText = btn.innerHTML;
+      btn.disabled = true;
+      btn.innerHTML = '<span>Đang ghi vào Excel...</span>';
+
+      const fullMapping = {};
+      if (item.custom_mapping) {
+        for (const [k, v] of Object.entries(item.custom_mapping)) {
+          if (v && typeof v === 'object') {
+            fullMapping[k] = {
+              value: v.value != null ? String(v.value) : '',
+              source_date: v.source_date != null ? String(v.source_date) : '',
+              source_url: v.source_url != null ? String(v.source_url) : (item.dna?.source_url || ''),
+              source_quote: v.source_quote != null ? String(v.source_quote) : (v.value || '')
+            };
+          } else {
+            fullMapping[k] = {
+              value: v != null ? String(v) : '',
+              source_date: '',
+              source_url: item.dna?.source_url || '',
+              source_quote: v != null ? String(v) : ''
+            };
+          }
+        }
+      }
+
+      const compName = (fullMapping['Tên cuộc thi'] && fullMapping['Tên cuộc thi'].value) 
+        || (fullMapping['Tên Cuộc Thi'] && fullMapping['Tên Cuộc Thi'].value) 
+        || item.dna?.name || item.name || 'Cuộc thi';
+
+      const payload = {
+        dna: item.dna || {},
+        custom_mapping: fullMapping,
+        competition_name: compName
+      };
+
+      try {
+        const res = await fetch('/api/confirm-save', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload)
+        });
+        const data = await res.json();
+        if (data.success) {
+          item.is_saved = true;
+          item.excel_row = data.excel_row;
+
+          updateHeaderButtons();
+          renderTabs();
+          updateItemCard(activeTabIndex, { is_saved: true });
+
+          document.getElementById('btn-open-excel-res').classList.remove('hidden');
+          document.getElementById('btn-download-excel-res').classList.remove('hidden');
+
+          alert(data.message || `Đã ghi thành công "${compName}" vào file Excel!`);
+        } else {
+          alert('Lỗi: ' + data.error);
+          btn.disabled = false;
+          btn.innerHTML = originalText;
+        }
+      } catch (err) {
+        alert('Không thể lưu file: ' + err);
+        btn.disabled = false;
+        btn.innerHTML = originalText;
+      }
+    }
+
+    // Gửi TOÀN BỘ các cuộc thi đã xong (chưa lưu) vào Excel
+    async function handleConfirmSaveBatch() {
+      const unsavedItems = currentBatchItems.filter(i => i.status === 'success' && !i.is_saved);
+      if (unsavedItems.length === 0) {
+        alert('Tất cả các cuộc thi đã hoàn tất đều đã được ghi vào Excel.');
+        return;
+      }
+
+      const btn = document.getElementById('btn-save-all-ready');
+      const origText = btn.innerHTML;
+      btn.disabled = true;
+      btn.innerHTML = '<span>Đang ghi hàng loạt vào Excel...</span>';
+
+      const payloadItems = unsavedItems.map(item => {
+        const fullMapping = {};
+        if (item.custom_mapping) {
+          for (const [k, v] of Object.entries(item.custom_mapping)) {
+            if (v && typeof v === 'object') {
+              fullMapping[k] = {
+                value: v.value != null ? String(v.value) : '',
+                source_date: v.source_date != null ? String(v.source_date) : '',
+                source_url: v.source_url != null ? String(v.source_url) : (item.dna?.source_url || ''),
+                source_quote: v.source_quote != null ? String(v.source_quote) : (v.value || '')
+              };
+            } else {
+              fullMapping[k] = {
+                value: v != null ? String(v) : '',
+                source_date: '',
+                source_url: item.dna?.source_url || '',
+                source_quote: v != null ? String(v) : ''
+              };
+            }
+          }
+        }
+        const compName = (fullMapping['Tên cuộc thi'] && fullMapping['Tên cuộc thi'].value) 
+          || (fullMapping['Tên Cuộc Thi'] && fullMapping['Tên Cuộc Thi'].value) 
+          || item.dna?.name || item.name || 'Cuộc thi';
+        return {
+          competition_name: compName,
+          dna: item.dna || {},
+          custom_mapping: fullMapping
+        };
+      });
+
+      try {
+        const res = await fetch('/api/confirm-save-batch', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ items: payloadItems })
+        });
+        const data = await res.json();
+        if (data.success) {
+          unsavedItems.forEach(i => {
+            i.is_saved = true;
+            updateItemCard(i.index, { is_saved: true });
+          });
+          updateHeaderButtons();
+          renderTabs();
+          document.getElementById('btn-open-excel-res').classList.remove('hidden');
+          document.getElementById('btn-download-excel-res').classList.remove('hidden');
+          alert(data.message || `Đã ghi thành công ${unsavedItems.length} cuộc thi vào Excel!`);
+        } else {
+          alert('Lỗi: ' + data.error);
+          btn.disabled = false;
+          btn.innerHTML = origText;
+        }
+      } catch (err) {
+        alert('Không thể lưu file: ' + err);
+        btn.disabled = false;
+        btn.innerHTML = origText;
+      }
+    }
+  </script>
+</body>
+
+</html>

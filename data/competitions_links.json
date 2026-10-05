@@ -1,0 +1,716 @@
+[
+  {
+    "stt": 1,
+    "name": "Khởi nghiệp cùng Kawai",
+    "category": "Khởi nghiệp",
+    "url": "https://kbs.tec-ftu.com/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 2,
+    "name": "Khởi nghiệp kinh doanh",
+    "category": "Khởi nghiệp",
+    "url": "https://khoinghiepkinhdoanhmua12.framer.website/",
+    "platform": "Framer Site"
+  },
+  {
+    "stt": 3,
+    "name": "Khởi nghiệp trẻ",
+    "category": "Khởi nghiệp",
+    "url": "https://bsc-aof.com/index.php/khoi-nghiep-tre-2026/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 4,
+    "name": "Khởi nghiệp sinh viên - Biz4Good",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/biz4goodcompetition?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 5,
+    "name": "Khởi nghiệp tạo tác động xã hội - I impACT",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/CuocthiIimpAct/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 6,
+    "name": "Thử thách sáng tạo xã hội Việt Nam",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/VSIC.HN.ThuthachsangtaoxahoiVietNam?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 7,
+    "name": "KMAC - FTU Global Innovative Ideads Contest",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/kmacftuglobalinnovativeideascontest2026?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 8,
+    "name": "Khởi nghiệp sáng tạo \"RnD TO STARTUP\"",
+    "category": "Khởi nghiệp",
+    "url": "https://visi.vnu.edu.vn/dich-vu/rnd-to-startup/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 9,
+    "name": "Startup Runway",
+    "category": "Khởi nghiệp",
+    "url": "http://due.udn.vn/vi-vn/startuprunway",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 10,
+    "name": "Ra khơi",
+    "category": "Khởi nghiệp",
+    "url": "https://rakhoi.vlu.edu.vn/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 11,
+    "name": "Startup Program",
+    "category": "Khởi nghiệp",
+    "url": "http://startupprogram.tec-ftu.com/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 12,
+    "name": "Ý tưởng kinh doanh",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/ytkd.iec?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 13,
+    "name": "SV STARTUP",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/khoinghiepquocgiaHSSV/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 14,
+    "name": "I - STARTUP",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/KhoiNghiepIStartup/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 15,
+    "name": "Cuộc thi Khởi nghiệp Truyền thông quốc tế",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/icinnovator.ficc?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 16,
+    "name": "Cuộc thi Khởi nghiệp FLAGUP",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/flagup.flagshipstartupclub?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 17,
+    "name": "Cuộc thi Khởi nghiệp sinh viên Học viện Ngân hàng - Startup BA",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/StartupBA.hvnh?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 18,
+    "name": "Cuộc thi Ý tưởng Khởi nghiệp BIG IDEA",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/bigidea.dynamicueh?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 19,
+    "name": "Cuộc thi STARTUP ZONE",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/ClbNhanSuKhoiNghiep.ueh?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 20,
+    "name": "Cuộc thi Tài năng Khởi nghiệp Sáng tạo",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/YoungInnovators2024?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 21,
+    "name": "Cuộc thi Ý tưởng Khởi nghiệp Sinh viên Innostar",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/innostarcontest?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 22,
+    "name": "Cuộc thi Sáng tạo Khởi nghiệp Công nghệ HUST - TECHSTART",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/techstart.hust?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 23,
+    "name": "Cuộc thi Sáng tạo xanh",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/BKEntrepreneurshipCenter?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 24,
+    "name": "Cuộc thi Sáng tạo trẻ",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/BKEntrepreneurshipCenter?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 25,
+    "name": "Cuộc thi Chìa Khóa Thành Công",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/Chiakhoathanhconghvnh?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 26,
+    "name": "Thử thách thanh niên đổi mới sáng tạo vì cộng đồng bền vững  - Re:ACT",
+    "category": "Khởi nghiệp",
+    "url": "https://re-act.vn/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 27,
+    "name": "Cuộc thi Startup Olympiad",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/uomtaokhoinghiep.NEU",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 28,
+    "name": "Cuộc thi Startup Challenges",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/startupchallenge.tdtu",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 29,
+    "name": "Cuộc thi APEC Innovation",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/apecinnovation",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 30,
+    "name": "Cuộc thi AGRIUP",
+    "category": "Khởi nghiệp",
+    "url": "https://www.facebook.com/agriup.NEU",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 31,
+    "name": "Cuộc thi AGRITECH INNOVATION",
+    "category": "Khởi nghiệp",
+    "url": "https://khoinghiepnongnghiep.vn/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 32,
+    "name": "Giải thưởng Sáng tạo Tương lai – VietFuture Awards",
+    "category": "Khởi nghiệp",
+    "url": "https://vietfuture.world/",
+    "platform": "Khác"
+  },
+  {
+    "stt": 33,
+    "name": "Sinh viên với Sáng kiến ESG",
+    "category": "Khởi nghiệp",
+    "url": "https://hvnh.edu.vn/bank/vi/hoatdongsinhvien/cuoc-thi-sinh-vien-voi-sang-kien-esg-1493.html",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 34,
+    "name": "HUIT STARTUP",
+    "category": "Khởi nghiệp",
+    "url": "https://khoinghiep.huit.edu.vn/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 35,
+    "name": "CE HACKATHON",
+    "category": "Business case",
+    "url": "https://www.facebook.com/p/CE-Hackathon-61557390196431/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 36,
+    "name": "Hành Trình Kinh Doanh",
+    "category": "Business case",
+    "url": "https://kinhtetre.net/hanh-trinh-kinh-doanh/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 37,
+    "name": "Business Challenge",
+    "category": "Business case",
+    "url": "https://www.facebook.com/UEB.BusinessChallenges/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 38,
+    "name": "E’Contest Business Challenge",
+    "category": "Business case",
+    "url": "https://www.facebook.com/thuvienecase",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 39,
+    "name": "180 Degrees Consulting Global Case Competition",
+    "category": "Business case",
+    "url": "https://180dc.org/programs/global-case-competition",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 40,
+    "name": "CBS Case Competition Global",
+    "category": "Business case",
+    "url": "https://www.casecompetition.com/global/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 41,
+    "name": "Tsinghua Global SDG Case Competition",
+    "category": "Business case",
+    "url": "http://ecase.sppm.tsinghua.edu.cn/info/1002/1411.htm",
+    "platform": "Khác"
+  },
+  {
+    "stt": 42,
+    "name": "Undergraduate Case Competition World Cup",
+    "category": "Business case",
+    "url": "https://managementconsulted.com/undergraduate-case-competition-world-cup-2027/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 43,
+    "name": "Corporate Strategy Challenge (CSC)",
+    "category": "Business case",
+    "url": "https://www.facebook.com/ClbKTKT",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 44,
+    "name": "Cuộc thi Thực chiến kinh doanh E-Battlefield",
+    "category": "Thương mại điện tử",
+    "url": "https://www.facebook.com/ebattlefield.ecc.neu",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 45,
+    "name": "Cuộc thi E-Compete",
+    "category": "Thương mại điện tử",
+    "url": "https://www.ecomftu.com/ecompete",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 46,
+    "name": "Beyond Borders Business Case Challenge",
+    "category": "Business case",
+    "url": "https://borderless.so/fr/extracurricular-programs/ritsumeikan-asia-pacific-university/beyond-borders-business-case-competition",
+    "platform": "Khác"
+  },
+  {
+    "stt": 47,
+    "name": "Hành trình hội nhập - Economis UP",
+    "category": "Business case",
+    "url": "https://www.facebook.com/economistup",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 48,
+    "name": "Ứng viên tài năng",
+    "category": "MT&Young Talent",
+    "url": "https://www.facebook.com/hrc.ungvientainang/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 49,
+    "name": "YOU CAN",
+    "category": "MT&Young Talent",
+    "url": "https://www.facebook.com/youcan.kncs?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 50,
+    "name": "Tài Năng Lãnh Đạo",
+    "category": "MT&Young Talent",
+    "url": "https://www.facebook.com/DEL.TNLD?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 51,
+    "name": "Doanh Nhân Tập Sự",
+    "category": "MT&Young Talent",
+    "url": "https://www.facebook.com/doanhnhantapsu.actionftu?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 52,
+    "name": "Young Business Leader - B -LEAD",
+    "category": "MT&Young Talent",
+    "url": "https://www.becftu2.com/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 53,
+    "name": "X - Leader",
+    "category": "MT&Young Talent",
+    "url": "https://www.facebook.com/XLeaderBACFTU2?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 54,
+    "name": "Vietnam ESG Challenge 2026",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/icaewvietnam?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 55,
+    "name": "Cuộc thi Tài chính - Chứng khoán Stockwise",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/stockwise.dscdav?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 56,
+    "name": "Cuộc thi Phân tích Đầu tư Tài chính",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/phantichdaututaichinh?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 57,
+    "name": "Go Finance",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/cuocthigofinance/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 58,
+    "name": "Vietnam Finance Case Competition",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/vfcc.aof/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 59,
+    "name": "I-INVEST",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/iinvest.sic",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 60,
+    "name": "Bản lĩnh Nhà đầu tư",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/banlinhnhadautu.sec/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 61,
+    "name": "RMIT - RESEARCH CHALLENGES",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/RMITVietnamResearchChallenge/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 62,
+    "name": "Đấu trường tài chính FBAC",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/fbac.official/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 63,
+    "name": "Cuộc thi Financial Race",
+    "category": "Tài chính",
+    "url": "https://www.raceoffinance.com/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 64,
+    "name": "Đường đua tài chính",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/hvnh.duongduataichinh/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 65,
+    "name": "The Banker",
+    "category": "Tài chính",
+    "url": "https://ftufbn.com/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 66,
+    "name": "Cuộc thi Sinh viên với Tài chính - FSC",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/sinhvienvoitaichinh/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 67,
+    "name": "WAPA Challenging",
+    "category": "Tài chính",
+    "url": "https://www.facebook.com/wapaclub.official/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 68,
+    "name": "The Audit Race",
+    "category": "Kế toán - Kiểm toán",
+    "url": "https://theauditrace.com/",
+    "platform": "Website Chính Thức"
+  },
+  {
+    "stt": 69,
+    "name": "Kiểm Toán Viên Tài Năng - Talented Auditor Cup",
+    "category": "Kế toán - Kiểm toán",
+    "url": "https://www.facebook.com/Talented.Auditor.Cup/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 70,
+    "name": "KLE Audit Competition",
+    "category": "Kế toán - Kiểm toán",
+    "url": "https://www.facebook.com/KSMAuditCompetition/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 71,
+    "name": "Soul of Law",
+    "category": "Luật",
+    "url": "https://www.facebook.com/souloflaw.lcc/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 72,
+    "name": "Spirit of Law",
+    "category": "Luật",
+    "url": "https://www.facebook.com/SPIRITOFLAWS/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 73,
+    "name": "Luật gia tranh hùng",
+    "category": "Luật",
+    "url": "https://www.facebook.com/Luatgiatranhhung/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 74,
+    "name": "HR Sandbox",
+    "category": "HR",
+    "url": "https://hrsandbox2026.zhost.education/",
+    "platform": "Khác"
+  },
+  {
+    "stt": 75,
+    "name": "HR Expert",
+    "category": "HR",
+    "url": "https://www.facebook.com/hrexpert.hucftuhcmc?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 76,
+    "name": "HR Visionaries",
+    "category": "HR",
+    "url": "https://www.facebook.com/hrvisionariescompetition?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 77,
+    "name": "MC FIRE",
+    "category": "MC",
+    "url": "https://www.facebook.com/mcfire.mfc.ftu/",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 78,
+    "name": "MC Spotlight",
+    "category": "MC",
+    "url": "https://www.facebook.com/MCSpotlightPMC/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 79,
+    "name": "Speak up",
+    "category": "MC",
+    "url": "https://www.facebook.com/speakup2026.ajc?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 80,
+    "name": "LUMINOUS - Người dẫn chương trình tài năng",
+    "category": "MC",
+    "url": "https://www.facebook.com/luminousdav/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 81,
+    "name": "MC Shine",
+    "category": "MC",
+    "url": "https://www.facebook.com/bpthvtc?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 82,
+    "name": "MC On stage",
+    "category": "MC",
+    "url": "https://www.facebook.com/cuocthimconstage?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 83,
+    "name": "Cuộc thi Tranh biện Tiếng Hoa",
+    "category": "Tranh biện",
+    "url": "https://www.facebook.com/cuocthitranhbientienghoa/?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 84,
+    "name": "NEU Debate Open",
+    "category": "Tranh biện",
+    "url": "https://www.facebook.com/NEUDebateClub?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 85,
+    "name": "Hùng biện kinh tế đỉnh cao - Calliope",
+    "category": "Hùng biện - diễn thuyết",
+    "url": "https://www.facebook.com/yec.calliope?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 86,
+    "name": "Tôi lên tiếng",
+    "category": "Hùng biện - diễn thuyết",
+    "url": "https://www.facebook.com/toilentienghvtc",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 87,
+    "name": "Tôi bản lĩnh",
+    "category": "Hùng biện - diễn thuyết",
+    "url": "https://www.facebook.com/toibanlinh.uet.vnu",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 88,
+    "name": "Light on the MIC",
+    "category": "Hùng biện - diễn thuyết",
+    "url": "https://www.facebook.com/LightonTheMic",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 89,
+    "name": "VOICE MASTER - Nhà diễn thuyết tài ba",
+    "category": "Hùng biện - diễn thuyết",
+    "url": "https://www.facebook.com/profile.php?id=61558798243512&locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 90,
+    "name": "Cuộc thi Hùng biện Socrates",
+    "category": "Hùng biện - diễn thuyết",
+    "url": "https://www.facebook.com/socrates.hsv.hlu",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 91,
+    "name": "Cuộc thi Hùng biện Convince Us",
+    "category": "Hùng biện - diễn thuyết",
+    "url": "https://www.facebook.com/CONVINCEUS",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 92,
+    "name": "Be pround tune",
+    "category": "Phát thanh",
+    "url": "https://www.facebook.com/cuocthibeproudtune",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 93,
+    "name": "LogiChain",
+    "category": "Logistics",
+    "url": "https://www.facebook.com/lsc.logichain",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 94,
+    "name": "Interchain",
+    "category": "Logistics",
+    "url": "https://www.facebook.com/interchain.ibcftu?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 95,
+    "name": "SC.Mission",
+    "category": "Logistics",
+    "url": "https://www.facebook.com/scmissionlsc?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 96,
+    "name": "The Logisticom",
+    "category": "Logistics",
+    "url": "https://www.facebook.com/logisticom.contest?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 97,
+    "name": "Vietnam Young Logistic Talent",
+    "category": "Logistics",
+    "url": "https://www.facebook.com/VNYLT?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 98,
+    "name": "DATA SCIENCE TALENT COMPETITION",
+    "category": "Data",
+    "url": "https://www.facebook.com/dstalentcompetition?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 99,
+    "name": "G'CONTEST",
+    "category": "Analysis",
+    "url": "https://www.facebook.com/gcontest.gec?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 100,
+    "name": "Future Business Analyst",
+    "category": "Analysis",
+    "url": "https://www.facebook.com/futurebusinessanalyst?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 101,
+    "name": "RMIT Business Analyst Champion",
+    "category": "Analysis",
+    "url": "https://www.facebook.com/RBAChampion?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  },
+  {
+    "stt": 102,
+    "name": "Economic Research Challenges",
+    "category": "Nghiên cứu",
+    "url": "https://www.facebook.com/erc.yes.neu?locale=vi_VN",
+    "platform": "Facebook Fanpage"
+  }
+]

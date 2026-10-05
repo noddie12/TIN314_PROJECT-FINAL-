@@ -1,0 +1,1245 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CompeteMate — Nền tảng khám phá, đánh giá và chuẩn bị cuộc thi cho sinh viên</title>
+  <meta name="description"
+    content="Khám phá 106 cuộc thi sinh viên hàng đầu, đánh giá mức độ phù hợp kỹ năng (Competition Match Score), quản lý deadline và học hỏi từ Winner's Playbook.">
+  <meta name="keywords"
+    content="cuộc thi sinh viên, business case, startup, tài chính, marketing, competemate, competition dna, playbook quán quân">
+
+  <!-- Google Fonts: Inter Tight & Inter & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Inter:ital,opsz,wght@0,14..32,400;0,14..32,500;0,14..32,600;0,14..32,700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+    rel="stylesheet">
+
+  <!-- Custom Pure Light Design System (DESIGN_SYSTEM.md) -->
+  <link rel="stylesheet" href="styles.css?v=20261003_11">
+  <link rel="icon" type="image/png" href="logo.png">
+
+  <!-- Immediate Theme Initializer to prevent light/dark flash -->
+  <script>
+    (function() {
+      try {
+        var savedTheme = localStorage.getItem('competemate_theme');
+        if (savedTheme === 'dark') {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        } else {
+          document.documentElement.setAttribute('data-theme', 'light');
+        }
+      } catch (e) {}
+    })();
+  </script>
+
+  <!-- Mascot Preload for Instant Click Reactions (No blank delay) -->
+  <link rel="preload" as="image" href="assets/mascot/corgi-directions.webp?v=20261001_5" type="image/webp">
+  <link rel="preload" as="image" href="assets/mascot/corgi-reactions.webp?v=20261001_5" type="image/webp">
+</head>
+
+<body>
+
+  <!-- ========================================================================
+       HEADER & NAVIGATION
+       ======================================================================== -->
+  <header class="header-main" role="banner">
+    <div class="container header-inner">
+      <!-- Brand Logo: Golden Laurel Wreath C (Designer (4).png) -->
+      <a href="#hub" class="header-brand" aria-label="CompeteMate Trang chủ">
+        <div class="brand-logo-mark" aria-hidden="true">
+          <img src="logo.png" alt="CompeteMate Logo" class="brand-logo-img" width="38" height="38">
+        </div>
+        <div class="brand-text">
+          <span class="brand-title">CompeteMate</span>
+          <span class="brand-sub">Discover · Match · Compete</span>
+        </div>
+      </a>
+
+      <!-- Primary Navigation Tabs (Monochrome & Accessible) -->
+      <nav class="nav-links" id="navLinks" role="navigation" aria-label="Điều hướng chính">
+        <a href="#hub" class="nav-link is-active" data-tab="hub" id="tab-link-hub">
+          <svg class="svg-icon" viewBox="0 0 24 24">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <span class="nav-text" data-i18n="navHub">CompeteHub</span>
+        </a>
+        <a href="#match" class="nav-link" data-tab="match" id="tab-link-match">
+          <svg class="svg-icon" viewBox="0 0 24 24">
+            <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+          </svg>
+          <span class="nav-text" data-i18n="navMatch">CompeteMatch</span>
+        </a>
+        <a href="#journey" class="nav-link" data-tab="journey" id="tab-link-journey">
+          <svg class="svg-icon" viewBox="0 0 24 24">
+            <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path>
+            <rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect>
+          </svg>
+          <span class="nav-text" data-i18n="navJourney">My Journey</span>
+          <span class="nav-counter" id="navJourneyCounter" style="display: none;">0</span>
+        </a>
+        <a href="#playbook" class="nav-link" data-tab="playbook" id="tab-link-playbook">
+          <svg class="svg-icon" viewBox="0 0 24 24">
+            <path d="M9 18h6"></path>
+            <path d="M10 22h4"></path>
+            <path
+              d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5A4.61 4.61 0 0 1 8.91 14">
+            </path>
+          </svg>
+          <span class="nav-text" data-i18n="navPlaybook">Playbook</span>
+        </a>
+        <a href="#compare" class="nav-link" data-tab="compare" id="tab-link-compare">
+          <svg class="svg-icon" viewBox="0 0 24 24">
+            <path d="M12 3v18"></path>
+            <path d="M3 7l4 8h-8l4-8z"></path>
+            <path d="M21 7l4 8h-8l4-8z"></path>
+            <path d="M3 7h18"></path>
+          </svg>
+          <span class="nav-text" data-i18n="navCompare">So sánh</span>
+        </a>
+      </nav>
+
+      <!-- Header Actions (Search, Theme Toggle, Language Switch, Avatar) -->
+      <div class="header-actions">
+        <!-- 1. Circular Search Button -->
+        <button class="header-circle-btn" id="headerSearchBtn" title="Tìm nhanh cuộc thi (Ctrl+K)"
+          aria-label="Mở tìm kiếm nhanh">
+          <svg class="svg-icon" viewBox="0 0 24 24" style="width: 16px; height: 16px;">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </button>
+
+        <!-- 4. Circular Theme Toggle Button (Moon / Sun) -->
+        <button class="header-circle-btn" id="themeToggleBtn" onclick="window.toggleTheme &amp;&amp; window.toggleTheme()"
+          title="Chuyển đổi giao diện Sáng / Tối" aria-label="Chuyển đổi giao diện sáng tối">
+          <svg class="svg-icon-sm theme-icon-sun" viewBox="0 0 24 24" style="width: 16px; height: 16px;">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <svg class="svg-icon-sm theme-icon-moon" viewBox="0 0 24 24" style="width: 16px; height: 16px;">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+
+        <!-- 5. Segmented Language Switcher (EN / VI) (Ref: Image 3) -->
+        <div class="lang-segmented-switch" id="langToggleBtn" onclick="window.toggleLanguage &amp;&amp; window.toggleLanguage()"
+          title="Chuyển đổi ngôn ngữ / Switch Language" role="group" aria-label="Chuyển đổi ngôn ngữ">
+          <button type="button" class="lang-pill-item lang-pill-en" id="langPillEn"
+            onclick="event.stopPropagation(); window.setLanguage &amp;&amp; window.setLanguage('en')">EN</button>
+          <button type="button" class="lang-pill-item lang-pill-vi is-active" id="langPillVi"
+            onclick="event.stopPropagation(); window.setLanguage &amp;&amp; window.setLanguage('vi')">VI</button>
+        </div>
+
+        <!-- 6. Circular User Avatar (Ref: Image 3) -->
+        <a href="#profile" class="header-avatar-circle" id="headerProfileBtn" data-tab="profile"
+          title="Thiết lập hồ sơ năng lực cá nhân" aria-label="Hồ sơ cá nhân">
+          <span id="headerAvatarLetter">H</span>
+        </a>
+
+        <!-- System Reference Date Control (Available via shortcut or modal) -->
+        <button class="header-circle-btn date-ref-pill-btn" id="dateRefBtn"
+          title="Mốc thời gian xác định giai đoạn (Nhấn để đổi ngày)" aria-label="Mốc thời gian xác định giai đoạn" style="display: none;">
+          <svg class="svg-icon" viewBox="0 0 24 24" style="width: 14px; height: 14px;">
+            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+            <line x1="16" y1="2" x2="16" y2="6"></line>
+            <line x1="8" y1="2" x2="8" y2="6"></line>
+            <line x1="3" y1="10" x2="21" y2="10"></line>
+          </svg>
+          <span id="headerDateDisplay" style="display: none;">--/--/----</span>
+        </button>
+
+        <!-- Mobile Navigation Toggle -->
+        <button class="mobile-nav-toggle" id="mobileNavToggle" aria-label="Mở menu di động">
+          <svg class="svg-icon" viewBox="0 0 24 24">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ========================================================================
+       VIEW 1: COMPETEHUB (DISCOVERY ENGINE)
+       ======================================================================== -->
+  <main>
+    <section class="view-section is-active" id="view-hub" aria-labelledby="hubSectionHeading">
+      <div class="container">
+        <h1 id="hubSectionHeading" class="sr-only"
+          style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;">
+          CompeteMate - Khám phá & Đấu trường Cuộc thi Học thuật Sinh viên</h1>
+
+        <!-- Search & Filters Toolbar -->
+        <div class="hub-toolbar">
+          <!-- Primary Search Row -->
+          <div class="toolbar-primary-row">
+            <div class="search-input-box search-input-box-lg">
+              <svg class="svg-icon" viewBox="0 0 24 24">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+              <input type="text" id="hubSearchInput"
+                placeholder="Tìm theo tên cuộc thi, ban tổ chức, kỹ năng (ví dụ: Kawai, Business Case, Data Analysis)..."
+                autocomplete="off" aria-label="Tìm kiếm cuộc thi" data-i18n-placeholder="searchPlaceholder">
+            </div>
+            <button type="button" class="btn btn-search-hub" id="btnHubSearch" onclick="triggerHubSearch()">
+              <svg class="svg-icon-sm" viewBox="0 0 24 24">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+              <span data-i18n="searchBtn">Tìm</span>
+            </button>
+            <button class="btn btn-secondary" onclick="resetHubFilters()" data-i18n="resetFilters">
+              Đặt lại
+            </button>
+          </div>
+
+          <!-- Quick Category Filter Strip (Clean Horizontal 1-Touch Filter) -->
+          <div class="hub-category-strip" id="hubCategoryStrip" role="tablist" aria-label="Phân loại danh mục cuộc thi">
+            <!-- Rendered dynamically by app.js with real-time counters -->
+          </div>
+
+          <!-- Quick Controls Strip -->
+          <div class="toolbar-filter-strip">
+            <div class="sort-and-view-controls">
+              <button class="btn-toggle-advanced" id="btnToggleAdvanced" aria-expanded="false"
+                aria-controls="advancedFilterTray" title="Thu gọn / Mở rộng bộ lọc chi tiết">
+                <svg class="svg-icon-sm" viewBox="0 0 24 24">
+                  <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+                </svg>
+                <span data-i18n="btnAdvancedFilters">Bộ lọc chi tiết</span>
+              </button>
+
+              <div class="sort-dropdown">
+                <span data-i18n="sortBy">Sắp xếp:</span>
+                <select id="sortSelect" aria-label="Sắp xếp danh sách">
+                  <option value="match" data-i18n="sortMatch">Độ phù hợp (Match)</option>
+                  <option value="deadline" data-i18n="sortDeadline">Hạn chót gần nhất</option>
+                  <option value="name" data-i18n="sortName">Tên cuộc thi (A - Z)</option>
+                  <option value="prize" data-i18n="sortPrize">Quy mô giải thưởng</option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <!-- Secondary Filter Tray (Mặc định đóng) -->
+          <div class="advanced-filter-tray" id="advancedFilterTray">
+            <div class="search-scope-pills" role="group" aria-label="Phạm vi tìm kiếm">
+              <span class="search-scope-label" data-i18n="searchModeLabel">Chế độ tìm:</span>
+              <button type="button" class="filter-btn-pill search-scope-btn is-active" id="btnScopeDirect" data-scope="direct" title="Chỉ tìm trong Tên cuộc thi, Ban tổ chức, Lĩnh vực & Kỹ năng" data-i18n="scopeDirect">
+                Trực tiếp (Tên / BTC)
+              </button>
+              <button type="button" class="filter-btn-pill search-scope-btn" id="btnScopeDeep" data-scope="deep" title="Tìm mở rộng cả trong thể lệ, mô tả chi tiết và các gói giải thưởng" data-i18n="scopeDeep">
+                Mở rộng (Toàn bộ mô tả)
+              </button>
+            </div>
+
+            <div class="custom-select-wrap">
+              <label for="filterFormat" data-i18n="filterFormatLabel">Hình thức:</label>
+              <select id="filterFormat">
+                <option value="all" data-i18n="filterFormatAll">Tất cả hình thức</option>
+                <option value="individual" data-i18n="filterFormatIndividual">Cá nhân</option>
+                <option value="team" data-i18n="filterFormatTeam">Theo đội</option>
+              </select>
+            </div>
+
+            <div class="custom-select-wrap">
+              <label for="filterMode" data-i18n="filterModeLabel">Địa điểm:</label>
+              <select id="filterMode">
+                <option value="all" data-i18n="filterModeAll">Online & Offline</option>
+                <option value="Online">Online</option>
+                <option value="Offline">Offline</option>
+                <option value="Hybrid">Hybrid</option>
+              </select>
+            </div>
+
+            <div class="custom-select-wrap">
+              <label for="filterLevel" data-i18n="filterLevelLabel">Trình độ:</label>
+              <select id="filterLevel">
+                <option value="all" data-i18n="filterLevelAll">Mọi cấp độ</option>
+                <option value="Beginner">Beginner</option>
+                <option value="Intermediate">Intermediate</option>
+                <option value="Advanced">Advanced</option>
+              </select>
+            </div>
+
+            <div class="custom-select-wrap">
+              <label for="filterStatus" data-i18n="filterStatusLabel">Giai đoạn / Trạng thái:</label>
+              <select id="filterStatus">
+                <option value="all" data-i18n="filterStatusAll">Tất cả giai đoạn</option>
+                <option value="open" data-i18n="filterStatusOpen">Đang mở đơn đăng ký</option>
+                <option value="closing_soon" data-i18n="filterStatusClosing">Sắp đóng đơn (≤ 5 ngày)</option>
+                <option value="active_round" data-i18n="filterStatusActive">Đang diễn ra các vòng thi</option>
+                <option value="upcoming_round" data-i18n="filterStatusUpcoming">Sắp tới vòng tiếp theo / Chung kết</option>
+                <option value="closed" data-i18n="filterStatusClosed">Đã hoàn thành mùa 2026</option>
+              </select>
+            </div>
+          </div>
+
+        <!-- Results Indicator Bar -->
+        <div class="results-indicator-bar">
+          <div class="results-count-text" id="resultsCount">
+            Đang tải dữ liệu 106 cuộc thi...
+          </div>
+        </div>
+
+        <!-- Cards Grid View -->
+        <div class="competitions-grid" id="competitionsGrid">
+          <!-- Rendered by app.js -->
+        </div>
+
+        <!-- Progressive Loading Container -->
+        <div class="load-more-wrap" id="loadMoreWrap">
+          <button class="btn btn-secondary" id="btnLoadMore" data-i18n="loadMore">
+            Xem thêm cuộc thi
+          </button>
+        </div>
+
+        <!-- Table View (TAKENOTE Format) -->
+        <div class="table-view-container" id="tableViewContainer">
+          <table class="takenote-table" aria-label="Bảng tổng hợp cuộc thi TAKENOTE">
+            <thead>
+              <tr>
+                <th data-i18n="tableThIdx">#</th>
+                <th data-i18n="tableThName">Tên cuộc thi / Mùa giải</th>
+                <th data-i18n="tableThCategory">Lĩnh vực</th>
+                <th data-i18n="tableThOrganizer">Đơn vị tổ chức</th>
+                <th data-i18n="tableThMatch">Độ phù hợp</th>
+                <th data-i18n="tableThDeadline">Hạn đăng ký</th>
+                <th data-i18n="tableThPrize">Giải thưởng</th>
+                <th data-i18n="tableThAction">Thao tác</th>
+              </tr>
+            </thead>
+            <tbody id="takenoteTableBody">
+              <!-- Rendered by app.js -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 2: COMPETEMATCH (PERSONALIZED MATCH & SKILL GAP MATRIX)
+         ======================================================================== -->
+    <section class="view-section" id="view-match" aria-labelledby="matchSectionHeading">
+      <div class="container">
+        <div class="match-view-header">
+          <div class="match-header-grid">
+            <div>
+              <span class="chip chip-count" style="margin-bottom: 8px;" data-i18n="matchTag">CompeteMatch Personalized Engine</span>
+              <h2 class="h1" id="matchSectionHeading" style="font-size: clamp(28px, 3.5vw, 44px); margin-bottom: 8px;" data-i18n="matchHeading">
+                Đo lường độ phù hợp & Lộ trình bù đắp kỹ năng
+              </h2>
+              <p style="font-size: 14.5px; color: var(--color-muted); line-height: 1.6;" data-i18n="matchDesc">
+                Hệ thống thuật toán phân tích hồ sơ năng lực của bạn đối chiếu với yêu cầu thực tế của 106 cuộc thi.
+                Giúp bạn trả lời chính xác: <em>"Tôi có những thế mạnh nào và cần trang bị thêm kỹ năng gì trước khi nộp
+                  đơn?"</em>
+              </p>
+            </div>
+
+            <!-- Ma trận thiếu hụt kỹ năng (Tạm thời ẩn theo yêu cầu) -->
+            <div class="skill-gap-widget" id="skillGapWidget" style="display: none;">
+              <!-- Rendered by app.js -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Columns Layout: Left = Top Matches, Right = Active Profile Card -->
+        <div class="match-columns-grid">
+          <div>
+            <div class="match-section-title">
+              <h3
+                style="font-family: var(--font-display); font-size: 20px; font-weight: 800; text-transform: uppercase;" data-i18n="matchTopHeading">
+                Top Cuộc thi Phù Hợp Nhất Với Bạn (Best Matches)
+              </h3>
+              <span style="font-size: 12.5px; color: var(--color-muted);" data-i18n="matchSortHint">Sắp xếp theo % Match Score</span>
+            </div>
+
+            <div id="topMatchesList">
+              <!-- Rendered by app.js -->
+            </div>
+          </div>
+
+          <div class="match-sidebar-col">
+            <!-- Active Profile Card (Được chuyển sang cột cố định bên cạnh danh sách Best Matches) -->
+            <div class="match-profile-card" id="matchProfileSummary">
+              <!-- Rendered by app.js -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 3: MY JOURNEY (PERSONAL DASHBOARD & TRACKER)
+         ======================================================================== -->
+    <section class="view-section" id="view-journey" aria-labelledby="journeySectionHeading">
+      <div class="container">
+        <div
+          style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: var(--space-5); flex-wrap: wrap; gap: var(--space-3);">
+          <div>
+            <span class="chip chip-count" style="margin-bottom: 6px;" data-i18n="journeyTag">Dashboard Cá Nhân</span>
+            <h2 class="h1" id="journeySectionHeading" style="font-size: clamp(28px, 3.5vw, 44px);" data-i18n="journeyHeading">
+              MY COMPETITION JOURNEY
+            </h2>
+            <p style="color: var(--color-muted); font-size: 14.5px; margin-top: 4px;" data-i18n="journeyDesc">
+              Quản lý các cuộc thi đang theo đuổi, đếm ngược deadline và theo dõi checklist từng vòng thi.
+            </p>
+          </div>
+
+          <div style="display: flex; gap: 8px;">
+            <button class="btn btn-sm btn-secondary" id="btnExportJourney" data-i18n="journeyExportBtn">
+              <svg class="svg-icon-sm" viewBox="0 0 24 24">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                <polyline points="7 10 12 15 17 10"></polyline>
+                <line x1="12" y1="15" x2="12" y2="3"></line>
+              </svg>
+              <span>Xuất dữ liệu (JSON)</span>
+            </button>
+            <label class="btn btn-sm btn-subtle" style="cursor: pointer;" data-i18n="journeyImportBtn">
+              <svg class="svg-icon-sm" viewBox="0 0 24 24">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                <polyline points="17 8 12 3 7 8"></polyline>
+                <line x1="12" y1="3" x2="12" y2="15"></line>
+              </svg>
+              <span>Nhập dữ liệu</span>
+              <input type="file" id="inputImportJourney" accept=".json" style="display: none;">
+            </label>
+          </div>
+        </div>
+
+        <!-- Metrics Data Strip (NO nested card boxes) -->
+        <div class="journey-metrics-row">
+          <div class="journey-metric-card">
+            <div class="journey-metric-icon">
+              <svg class="svg-icon" viewBox="0 0 24 24">
+                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+              </svg>
+            </div>
+            <div>
+              <div style="font-size: 24px; font-weight: 800; font-family: var(--font-display);" id="metricTotalSaved">0
+              </div>
+              <div
+                style="font-size: 10.5px; text-transform: uppercase; font-weight: 700; color: var(--color-muted); letter-spacing: 0.05em;" data-i18n="journeyMetricTracking">
+                Đang theo dõi</div>
+            </div>
+          </div>
+
+          <div class="journey-metric-card">
+            <div class="journey-metric-icon" style="color: var(--color-orange);">
+              <svg class="svg-icon" viewBox="0 0 24 24">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polyline points="12 6 12 12 16 14"></polyline>
+              </svg>
+            </div>
+            <div>
+              <div
+                style="font-size: 24px; font-weight: 800; font-family: var(--font-display); color: var(--color-orange);"
+                id="metricUrgent">0</div>
+              <div
+                style="font-size: 10.5px; text-transform: uppercase; font-weight: 700; color: var(--color-muted); letter-spacing: 0.05em;" data-i18n="journeyMetricClosingSoon">
+                Hạn chót (&lt; 7 ngày)</div>
+            </div>
+          </div>
+
+          <div class="journey-metric-card">
+            <div class="journey-metric-icon" style="color: #0b6334;">
+              <svg class="svg-icon" viewBox="0 0 24 24">
+                <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z">
+                </path>
+                <path
+                  d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z">
+                </path>
+              </svg>
+            </div>
+            <div>
+              <div style="font-size: 24px; font-weight: 800; font-family: var(--font-display);" id="metricInProgress">0
+              </div>
+              <div
+                style="font-size: 10.5px; text-transform: uppercase; font-weight: 700; color: var(--color-muted); letter-spacing: 0.05em;" data-i18n="journeyMetricCompeting">
+                Đang tham gia thi</div>
+            </div>
+          </div>
+
+          <div class="journey-metric-card">
+            <div class="journey-metric-icon" style="color: var(--color-awards);">
+              <svg class="svg-icon" viewBox="0 0 24 24">
+                <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path>
+                <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path>
+                <path d="M4 22h16"></path>
+                <path
+                  d="M10 14.66V17c0 .55-.45 1-1 1H7c-.55 0-1 .45-1 1v1h12v-1c0-.55-.45-1-1-1h-2c-.55 0-1-.45-1-1v-2.34">
+                </path>
+                <path d="M6 4h12v7a6 6 0 0 1-12 0V4z"></path>
+              </svg>
+            </div>
+            <div>
+              <div style="font-size: 24px; font-weight: 800; font-family: var(--font-display);" id="metricCompleted">0
+              </div>
+              <div
+                style="font-size: 10.5px; text-transform: uppercase; font-weight: 700; color: var(--color-muted); letter-spacing: 0.05em;" data-i18n="journeyMetricCompleted">
+                Đã hoàn thành</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Kanban Board -->
+        <div class="kanban-board">
+          <div class="kanban-col">
+            <div class="kanban-col-header">
+              <span class="col-header-title">
+                <svg class="svg-icon-sm" viewBox="0 0 24 24">
+                  <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                </svg>
+                <span data-i18n="kanbanColSaved">Đã lưu / Quan tâm</span>
+              </span>
+              <span class="chip" id="count-saved">0</span>
+            </div>
+            <div class="kanban-card-list" id="kanbanSaved"></div>
+          </div>
+
+          <div class="kanban-col">
+            <div class="kanban-col-header" style="border-bottom-color: var(--color-orange);">
+              <span class="col-header-title">
+                <svg class="svg-icon-sm" viewBox="0 0 24 24">
+                  <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                  <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+                </svg>
+                <span data-i18n="kanbanColPreparing">Đang chuẩn bị đơn</span>
+              </span>
+              <span class="chip chip-orange" id="count-preparing">0</span>
+            </div>
+            <div class="kanban-card-list" id="kanbanPreparing"></div>
+          </div>
+
+          <div class="kanban-col">
+            <div class="kanban-col-header" style="border-bottom-color: #0b6334;">
+              <span class="col-header-title">
+                <svg class="svg-icon-sm" viewBox="0 0 24 24">
+                  <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z">
+                  </path>
+                  <path
+                    d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z">
+                  </path>
+                </svg>
+                <span data-i18n="kanbanColInProgress">Đang dự thi</span>
+              </span>
+              <span class="chip chip-green" id="count-in_progress">0</span>
+            </div>
+            <div class="kanban-card-list" id="kanbanInProgress"></div>
+          </div>
+
+          <div class="kanban-col">
+            <div class="kanban-col-header" style="border-bottom-color: var(--color-awards);">
+              <span class="col-header-title">
+                <svg class="svg-icon-sm" viewBox="0 0 24 24">
+                  <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path>
+                  <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path>
+                  <path d="M4 22h16"></path>
+                  <path
+                    d="M10 14.66V17c0 .55-.45 1-1 1H7c-.55 0-1 .45-1 1v1h12v-1c0-.55-.45-1-1-1h-2c-.55 0-1-.45-1-1v-2.34">
+                  </path>
+                  <path d="M6 4h12v7a6 6 0 0 1-12 0V4z"></path>
+                </svg>
+                <span data-i18n="kanbanColCompleted">Đã hoàn thành</span>
+              </span>
+              <span class="chip chip-purple" id="count-completed">0</span>
+            </div>
+            <div class="kanban-card-list" id="kanbanCompleted"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 4: WINNER'S PLAYBOOK
+         ======================================================================== -->
+    <section class="view-section" id="view-playbook" aria-labelledby="playbookSectionHeading">
+      <div class="container">
+        <div class="playbook-header">
+          <div>
+            <span class="chip chip-count" style="margin-bottom: 6px;" data-i18n="playbookTag">Knowledge & Experience Base</span>
+            <h2 class="h1" id="playbookSectionHeading" style="font-size: clamp(28px, 3.5vw, 44px);" data-i18n="playbookHeading">
+              WINNER'S PLAYBOOK
+            </h2>
+            <p style="color: var(--color-muted); font-size: 14.5px; margin-top: 4px; max-width: 680px;" data-i18n="playbookDesc">
+              Hệ thống hóa kinh nghiệm thực chiến từ các quán quân, á quân và cựu thí sinh theo bộ 4 câu hỏi vàng:
+              <em>Thách thức lớn nhất · Sai lầm cần tránh · Kỹ năng mấu chốt · Bí kíp chuẩn bị</em>.
+            </p>
+          </div>
+
+          <button class="btn btn-orange" onclick="openSubmitPlaybookModal()" data-i18n="playbookShareBtn">
+            <svg class="svg-icon-sm" viewBox="0 0 24 24">
+              <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+              <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+            </svg>
+            <span>Chia sẻ kinh nghiệm của bạn</span>
+          </button>
+        </div>
+
+        <!-- Playbook Search & Filter Toolbar -->
+        <div class="hub-toolbar" style="margin-bottom: var(--space-4);">
+          <div class="toolbar-primary-row">
+            <div class="search-input-box">
+              <svg class="svg-icon" viewBox="0 0 24 24">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+              <input type="text" id="playbookSearchInput"
+                placeholder="Tìm kinh nghiệm theo tên cuộc thi, tác giả, thách thức, sai lầm, bí quyết (ví dụ: Case Study, Pitching, Kawai)..."
+                autocomplete="off" aria-label="Tìm kiếm kinh nghiệm trong Playbook" data-i18n-placeholder="playbookSearchPlaceholder">
+            </div>
+            <button class="btn btn-secondary btn-sm" id="btnResetPlaybookSearch" onclick="resetPlaybookSearch()" data-i18n="resetFilters">
+              Đặt lại
+            </button>
+          </div>
+        </div>
+
+        <div class="playbook-grid" id="playbookGrid"></div>
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 5: SO SÁNH CUỘC THI
+         ======================================================================== -->
+    <section class="view-section" id="view-compare" aria-labelledby="compareSectionHeading">
+      <div class="container">
+        <div style="margin-bottom: var(--space-5);">
+          <span class="chip chip-count" style="margin-bottom: 6px;" data-i18n="compareTag">Decision Matrix</span>
+          <h2 class="h1" id="compareSectionHeading" style="font-size: clamp(28px, 3.5vw, 44px);" data-i18n="compareHeading">
+            BẢNG SO SÁNH CUỘC THI
+          </h2>
+          <p style="color: var(--color-muted); font-size: 14.5px; margin-top: 4px;" data-i18n="compareDesc">
+            Đặt tối đa 3 cuộc thi lên bàn cân để đối chiếu các thông số quan trọng trước khi quyết định nộp hồ sơ.
+          </p>
+        </div>
+
+        <div id="compareSelectorPanel"></div>
+
+        <div class="compare-container" id="compareTableContainer"></div>
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 6: USER PROFILE & COMPETENCY SETTINGS (Dedicated Setup Page)
+         ======================================================================== -->
+    <section class="view-section" id="view-profile" aria-labelledby="profileSectionHeading">
+      <div class="container">
+        <div style="margin-bottom: var(--space-5);">
+          <span class="chip chip-count" style="margin-bottom: 6px;" data-i18n="profileTag">CompeteMatch Profiler</span>
+          <h2 class="h1" id="profileSectionHeading" style="font-size: clamp(28px, 3.5vw, 44px);" data-i18n="profileHeading">
+            THIẾT LẬP HỒ SƠ NĂNG LỰC
+          </h2>
+          <p style="color: var(--color-muted); font-size: 14.5px; margin-top: 4px; max-width: 820px; line-height: 1.6;" data-i18n="profileDesc">
+            Cấu hình trình độ, kỹ năng thực chiến và lĩnh vực thế mạnh của bạn. Thuật toán <strong>CompeteMatch</strong>
+            sẽ đối chiếu trực tiếp với yêu cầu của 106 cuộc thi để gợi ý sân chơi phù hợp nhất và xây dựng lộ trình bù
+            đắp kỹ năng trước khi nộp hồ sơ.
+          </p>
+        </div>
+
+        <form id="profilePageForm">
+          <div class="profile-layout-grid">
+            <!-- Left Column: Personal Info & Experience -->
+            <div class="profile-left-col">
+              <div class="profile-card">
+                <h3 class="profile-card-title" data-i18n="profileBasicInfoTitle">Thông tin cơ bản</h3>
+
+                <div class="form-group-item">
+                  <label for="profilePageName" class="form-label-bold" data-i18n="profileLabelName">Họ và tên hoặc Biệt danh:</label>
+                  <input type="text" id="profilePageName" class="search-input-box"
+                    style="width: 100%; border-radius: 8px; padding: 10px 14px;" placeholder="Ví dụ: Hoàng Nguyễn" data-i18n-placeholder="profilePlaceholderName">
+                </div>
+
+                <div class="form-group-item">
+                  <label for="profilePageLevel" class="form-label-bold" data-i18n="profileLabelLevel">Mức độ kinh nghiệm dự thi:</label>
+                  <select id="profilePageLevel" class="custom-select-box"
+                    style="width: 100%; padding: 10px 12px; background: var(--nf-bg-2); border-radius: 8px; border: 1px solid var(--color-border-subtle); font-weight: 600; font-size: 13px;">
+                    <option value="Beginner" data-i18n="levelBeginner">Beginner (Mới bắt đầu / Năm 1-2)</option>
+                    <option value="Intermediate" data-i18n="levelIntermediate">Intermediate (Đã thi 1-2 lần)</option>
+                    <option value="Advanced" data-i18n="levelAdvanced">Advanced (Bán kết / Chung kết)</option>
+                  </select>
+                </div>
+
+                <div class="form-group-item">
+                  <label class="form-label-bold" data-i18n="profileLabelCategories">Lĩnh vực ưu tiên quan tâm:</label>
+                  <div class="profile-categories-select" id="profileCategoriesWrap">
+                    <!-- Checkboxes rendered dynamically -->
+                  </div>
+                </div>
+
+                <div class="profile-stat-box">
+                  <div class="profile-stat-row">
+                    <span class="profile-stat-label" data-i18n="profileStatSkillCount">Số kỹ năng đã chọn:</span>
+                    <strong id="profileSelectedSkillCount" class="accent-orange" style="font-size: 16px;">0</strong>
+                  </div>
+                  <div class="profile-stat-row">
+                    <span class="profile-stat-label" data-i18n="profileStatReadiness">Độ sẵn sàng tham chiến:</span>
+                    <strong id="profileReadinessBadge" class="chip chip-blue" data-i18n="profileReadinessReady">Sẵn sàng</strong>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Right Column: Skills Matrix & Custom Skills -->
+            <div class="profile-right-col">
+              <div class="profile-card">
+                <div
+                  style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; flex-wrap: wrap; gap: 8px;">
+                  <div>
+                    <h3 class="profile-card-title" style="margin-bottom: 2px;" data-i18n="profileFrameworkTitle">Kho năng lực chuẩn hóa (Competency Framework)</h3>
+                    <span style="font-size: 12.5px; color: var(--color-muted);" data-i18n="profileFrameworkSubtitle">30 Năng lực Chuẩn hóa &bull; Bao trùm 100% yêu cầu 106 cuộc thi sinh viên</span>
+                  </div>
+                  <div style="display: flex; gap: 6px; flex-wrap: wrap;">
+                    <button type="button" class="btn btn-xs btn-secondary" onclick="quickSelectCoreSkills()" style="font-size: 11px; padding: 4px 10px; font-weight: 600;" data-i18n="profileBtnQuickCore">
+                      ⚡ Chọn nhanh 10 Năng lực Cốt lõi
+                    </button>
+                    <button type="button" class="btn btn-xs btn-ghost" onclick="quickClearAllSkills()" style="font-size: 11px; padding: 4px 10px; color: var(--color-muted);" data-i18n="profileBtnClearAll">
+                      ✕ Bỏ chọn tất cả
+                    </button>
+                  </div>
+                </div>
+
+                <!-- Skill Search Bar & Domain Tabs Toolbar -->
+                <div class="skill-picker-toolbar" style="margin-bottom: 16px;">
+                  <div class="skill-search-box">
+                    <svg class="svg-icon-sm skill-search-icon" viewBox="0 0 24 24">
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                    <input type="text" id="profilePageSkillSearch" class="search-input-box"
+                      placeholder="Tìm kiếm năng lực hoặc công cụ (ví dụ: SQL, Excel, BMC, Figma, Tranh biện, Thuyết trình, Python...)"
+                      oninput="onProfilePageSkillSearch(this.value)" data-i18n-placeholder="profileSkillSearchPlaceholder">
+                  </div>
+
+                  <!-- Domain Tabs -->
+                  <div class="skill-tabs-nav" id="profilePageSkillTabs">
+                    <!-- Populated dynamically via JS -->
+                  </div>
+                </div>
+
+                <!-- Categorized Skills Grid -->
+                <div id="profileSkillsCategories" class="profile-skills-categories-grid">
+                  <!-- Rendered dynamically -->
+                </div>
+
+                <!-- Custom Skill Input -->
+                <div style="margin-top: 24px; padding-top: 18px; border-top: 1px solid var(--color-border-light);">
+                  <label for="profilePageCustomSkill" class="form-label-bold" data-i18n="profileCustomSkillLabel">Thêm kỹ năng khác chưa có trong danh
+                    mục:</label>
+                  <div style="display: flex; gap: 10px; margin-top: 6px;">
+                    <input type="text" id="profilePageCustomSkill" class="search-input-box"
+                      style="flex: 1; border-radius: 8px; padding: 10px 14px;"
+                      placeholder="Ví dụ: Python, SQL, SEO, Canva, Figma..." data-i18n-placeholder="profileCustomSkillPlaceholder">
+                    <button type="button" class="btn btn-secondary btn-sm" id="btnAddCustomSkill" data-i18n="profileBtnAddCustomSkill">Thêm</button>
+                  </div>
+                </div>
+
+                <!-- Action Bar -->
+                <div class="profile-action-bar">
+                  <button type="button" class="btn btn-secondary" id="btnResetProfilePage" data-i18n="profileBtnResetDefaults">
+                    Khôi phục mặc định
+                  </button>
+                  <button type="submit" class="btn btn-orange" id="btnSaveProfilePage"
+                    style="padding: 10px 24px; font-weight: 700;" data-i18n="profileBtnSaveAndMatch">
+                    Lưu hồ sơ & Xem cuộc thi phù hợp (CompeteMatch)
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- ========================================================================
+       MODAL 1: COMPETITION DNA DEEP PROFILE
+       ======================================================================== -->
+  <div class="modal-overlay" id="dnaModal" role="dialog" aria-modal="true" aria-labelledby="dnaModalTitle">
+    <div class="modal-box">
+      <div class="modal-header">
+        <div id="dnaModalTitle"></div>
+        <button class="btn-close-modal" type="button" onclick="closeAllModals()" aria-label="Đóng cửa sổ">
+          <svg class="svg-icon-sm" viewBox="0 0 24 24">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body" id="dnaModalBody"></div>
+      <div class="modal-footer" id="dnaModalFooterActions"></div>
+    </div>
+  </div>
+
+  <!-- ========================================================================
+       MODAL 2: USER PROFILE & 1-CLICK CV ONBOARDING WIZARD
+       ======================================================================== -->
+  <div class="modal-overlay" id="profileModal" role="dialog" aria-modal="true" aria-labelledby="profileModalTitle">
+    <div class="modal-box" style="max-width: 680px; width: 95%;">
+      <!-- Stepper Navigation Header -->
+      <div class="onboarding-stepper">
+        <div class="onboarding-step-item is-active" id="stepIndicator1">
+          <span class="onboarding-step-num">1</span>
+          <span data-i18n="onboardingStep1">Hồ sơ & Tải CV</span>
+        </div>
+        <div class="onboarding-step-item" id="stepIndicator2">
+          <span class="onboarding-step-num">2</span>
+          <span data-i18n="onboardingStep2">Kỹ năng thế mạnh</span>
+        </div>
+        <div class="onboarding-step-item" id="stepIndicator3">
+          <span class="onboarding-step-num">3</span>
+          <span data-i18n="onboardingStep3">Match Score</span>
+        </div>
+      </div>
+
+      <div class="modal-header" style="padding: 16px 20px;">
+        <div>
+          <span class="chip chip-count" style="font-size: 10px;" data-i18n="onboardingTag">CompeteMatch 1-Click Profiler</span>
+          <h3 id="profileModalTitle"
+            style="font-family: var(--font-display); font-size: 19px; font-weight: 800; margin-top: 4px; margin-bottom: 2px;" data-i18n="onboardingTitle">
+            Thiết lập Hồ sơ Năng lực Cá nhân
+          </h3>
+          <p style="font-size: 12.5px; color: var(--color-muted); margin: 0; line-height: 1.45;" data-i18n="onboardingDesc">
+            Tải lên CV để tự động điền trường học, kinh nghiệm và kỹ năng chỉ trong 1 click, hoặc tự điền thủ công.
+          </p>
+        </div>
+        <button class="btn-close-modal" type="button" onclick="dismissProfileModal()" aria-label="Đóng cửa sổ">
+          <svg class="svg-icon-sm" viewBox="0 0 24 24">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+
+      <form id="profileForm">
+        <div class="modal-body" style="padding: 18px 20px; gap: 14px;">
+          <!-- 1. CV Upload Dropzone (Inspired by Hustly Pattern) -->
+          <div class="cv-dropzone" id="cvDropzone">
+            <input type="file" id="cvFileInput" class="cv-hidden-input" accept=".pdf,.doc,.docx,.txt" aria-label="Tải lên tệp CV">
+            <div class="cv-dropzone-icon">
+              <svg class="svg-icon" viewBox="0 0 24 24" style="width: 22px; height: 22px;">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                <polyline points="17 8 12 3 7 8"></polyline>
+                <line x1="12" y1="3" x2="12" y2="15"></line>
+              </svg>
+            </div>
+            <div class="cv-dropzone-title" data-i18n="cvDropzoneTitle">Tự động điền toàn bộ hồ sơ trong 1 Click</div>
+            <p class="cv-dropzone-desc" data-i18n="cvDropzoneDesc">
+              Tải CV của bạn lên, hệ thống sẽ tự động quét trường đại học, ngành học và bộ kỹ năng để kích hoạt điểm Match Score.
+            </p>
+            <div class="cv-dropzone-actions">
+              <button type="button" class="btn btn-sm btn-primary" style="pointer-events: none;" data-i18n="cvChooseFileBtn">
+                Chọn tệp CV
+              </button>
+              <span style="font-size: 12px; color: var(--color-muted);" data-i18n="cvDragHint">hoặc kéo thả — PDF, DOC, TXT (tối đa 5MB)</span>
+            </div>
+            <div>
+              <button type="button" class="cv-paste-toggle-btn" id="cvPasteToggleBtn" onclick="toggleCVPasteArea()" data-i18n="cvPasteToggleBtn">
+                Hoặc dán trực tiếp đoạn văn bản CV
+              </button>
+            </div>
+          </div>
+
+          <!-- Hidden CV Text Paste Box -->
+          <div class="cv-paste-box" id="cvPasteBox">
+            <label for="cvPasteTextarea" style="font-size: 11.5px; font-weight: 700; text-transform: uppercase; color: var(--color-muted); display: block; margin-bottom: 4px;" data-i18n="cvPasteLabel">
+              Dán nội dung tóm tắt CV vào đây:
+            </label>
+            <textarea id="cvPasteTextarea" class="search-input-box" rows="3" style="width: 100%; border-radius: 8px; font-size: 13px;" placeholder="Ví dụ: Sinh viên FTU ngành Tài chính Ngân hàng, kỹ năng SQL, Financial Modeling, Problem Solving..." data-i18n-placeholder="cvPastePlaceholder"></textarea>
+            <div style="display: flex; justify-content: flex-end; margin-top: 6px;">
+              <button type="button" class="btn btn-secondary btn-sm" onclick="processPastedCVText()" data-i18n="cvAnalyzeBtn">
+                Phân tích văn bản CV
+              </button>
+            </div>
+          </div>
+
+          <!-- Detected Skills Container (Dynamic) -->
+          <div class="detected-skills-box" id="detectedSkillsBox" style="display: none;">
+            <div class="detected-skills-title">
+              <svg class="svg-icon-sm" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+              <span data-i18n="cvDetectedTitle">Đã nhận diện thành công các kỹ năng từ CV:</span>
+            </div>
+            <div class="detected-skills-list" id="detectedSkillsList"></div>
+          </div>
+
+          <!-- Basic Info Fields -->
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+            <div>
+              <label for="profileNameInput"
+                style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 6px;" data-i18n="profileLabelNameReq">
+                Họ và tên (*):
+              </label>
+              <input type="text" id="profileNameInput" class="search-input-box"
+                style="width: 100%; border-radius: 8px; padding: 9px 12px; font-size: 13.5px;" placeholder="Ví dụ: Hoàng Bùi" data-i18n-placeholder="profilePlaceholderName" required>
+            </div>
+            <div>
+              <label for="profileSchoolInput"
+                style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 6px;" data-i18n="profileLabelSchool">
+                Trường Đại học & Ngành:
+              </label>
+              <input type="text" id="profileSchoolInput" class="search-input-box"
+                style="width: 100%; border-radius: 8px; padding: 9px 12px; font-size: 13.5px;" placeholder="Ví dụ: FTU, NEU, RMIT..." data-i18n-placeholder="profilePlaceholderSchool">
+            </div>
+          </div>
+
+          <div>
+            <label for="profileLevelSelect"
+              style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 6px;" data-i18n="profileLabelLevel">
+              Mức độ kinh nghiệm dự thi:
+            </label>
+            <select id="profileLevelSelect"
+              style="width: 100%; padding: 9px 12px; background: var(--nf-bg-2); border-radius: 8px; border: 1px solid var(--color-border-subtle); font-size: 13px; font-weight: 600;">
+              <option value="Beginner" data-i18n="levelBeginner">Beginner (Mới bắt đầu / Năm 1-2)</option>
+              <option value="Intermediate" selected data-i18n="levelIntermediate">Intermediate (Đã từng dự thi 1-2 lần)</option>
+              <option value="Advanced" data-i18n="levelAdvanced">Advanced (Bán kết / Chung kết / Dày dạn kinh nghiệm)</option>
+            </select>
+          </div>
+
+          <!-- Popular Skills Quick Picker (Hustly pattern) -->
+          <div class="popular-skills-tray">
+            <span class="popular-skills-label" data-i18n="profilePopularSkillsLabel">Kỹ năng phổ biến (Chọn nhanh 1-chạm):</span>
+            <div class="popular-skills-pills" id="popularSkillsPills">
+              <!-- Dynamically populated or static fast pills -->
+            </div>
+          </div>
+        </div>
+
+        <div class="modal-footer" style="padding: 14px 20px; display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+          <button type="button" class="btn btn-ghost btn-sm" onclick="dismissProfileModal()" style="color: var(--color-muted);" data-i18n="modalBtnFillLater">
+            Điền sau
+          </button>
+          <button type="submit" class="btn btn-orange" style="font-weight: 700; padding: 10px 22px; font-size: 13.5px;" data-i18n="modalBtnSaveProfile">
+            Lưu hồ sơ & Kích hoạt Match Score →
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- ========================================================================
+       MODAL 3: SEARCH PALETTE (CTRL + K)
+       ======================================================================== -->
+  <div class="modal-overlay" id="paletteModal" role="dialog" aria-modal="true" aria-labelledby="paletteInput">
+    <div class="modal-box palette-modal-box">
+      <div class="palette-input-wrap">
+        <svg class="svg-icon" viewBox="0 0 24 24">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="paletteInput" class="palette-input"
+          placeholder="Tìm nhanh cuộc thi theo tên, BTC, kỹ năng..." aria-label="Tìm nhanh cuộc thi" data-i18n-placeholder="palettePlaceholder">
+        <kbd style="font-size: 10px; background: var(--nf-bg-1); padding: 4px 6px; border-radius: 4px;">ESC</kbd>
+      </div>
+      <div class="palette-results-list" id="paletteResults"></div>
+    </div>
+  </div>
+
+  <!-- ========================================================================
+       MODAL 4: SUBMIT COMMUNITY PLAYBOOK
+       ======================================================================== -->
+  <div class="modal-overlay" id="submitPlaybookModal" role="dialog" aria-modal="true"
+    aria-labelledby="submitPlaybookTitle">
+    <div class="modal-box" style="max-width: 660px;">
+      <div class="modal-header">
+        <div>
+          <span class="chip chip-orange" data-i18n="submitPlaybookTag">Đóng góp cộng đồng</span>
+          <h3 id="submitPlaybookTitle"
+            style="font-family: var(--font-display); font-size: 19px; font-weight: 800; margin-top: 4px;" data-i18n="submitPlaybookTitle">
+            Chia sẻ Kinh nghiệm Thực chiến (Playbook Insight)
+          </h3>
+        </div>
+        <button class="btn-close-modal" type="button" onclick="closeAllModals()" aria-label="Đóng cửa sổ">
+          <svg class="svg-icon-sm" viewBox="0 0 24 24">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+
+      <form id="submitPlaybookForm">
+        <div class="modal-body">
+          <div>
+            <label for="playbookCompName"
+              style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 4px;" data-i18n="spCompNameLabel">
+              Tên cuộc thi bạn từng tham gia (*):
+            </label>
+            <input type="text" id="playbookCompName" class="search-input-box"
+              style="width: 100%; border-radius: 8px; padding: 10px 14px;"
+              placeholder="Ví dụ: Khởi nghiệp cùng Kawai, HSBC Business Case..." data-i18n-placeholder="spCompNamePlaceholder" required>
+          </div>
+
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+            <div>
+              <label for="playbookAuthor"
+                style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 4px;" data-i18n="spAuthorLabel">
+                Tên / Biệt danh của bạn:
+              </label>
+              <input type="text" id="playbookAuthor" class="search-input-box"
+                style="width: 100%; border-radius: 8px; padding: 10px 14px;" placeholder="Ví dụ: Minh Anh (FTU)" data-i18n-placeholder="spAuthorPlaceholder">
+            </div>
+            <div>
+              <label for="playbookAchievement"
+                style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 4px;" data-i18n="spAchievementLabel">
+                Thành tích đạt được:
+              </label>
+              <input type="text" id="playbookAchievement" class="search-input-box"
+                style="width: 100%; border-radius: 8px; padding: 10px 14px;"
+                placeholder="Ví dụ: Quán quân, Top 5 Finalist, Thí sinh" data-i18n-placeholder="spAchievementPlaceholder">
+            </div>
+          </div>
+
+          <div>
+            <label for="playbookChallenge"
+              style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 4px;" data-i18n="spChallengeLabel">
+              1. Thách thức lớn nhất trong cuộc thi là gì?
+            </label>
+            <textarea id="playbookChallenge"
+              style="width: 100%; padding: 10px 14px; background: var(--nf-bg-2); border-radius: 8px; border: 1px solid var(--color-border-subtle); font-size: 13.5px;"
+              rows="2" placeholder="Ví dụ: Thời gian giải case quá gấp, đề bài dữ liệu nhiễu..." data-i18n-placeholder="spChallengePlaceholder"></textarea>
+          </div>
+
+          <div>
+            <label for="playbookMistakes"
+              style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 4px;" data-i18n="spMistakesLabel">
+              2. Sai lầm thí sinh mới hay mắc phải?
+            </label>
+            <textarea id="playbookMistakes"
+              style="width: 100%; padding: 10px 14px; background: var(--nf-bg-2); border-radius: 8px; border: 1px solid var(--color-border-subtle); font-size: 13.5px;"
+              rows="2" placeholder="Ví dụ: Slide quá dài, không bám sát đề bài, thiếu số liệu chứng minh..." data-i18n-placeholder="spMistakesPlaceholder"></textarea>
+          </div>
+
+          <div>
+            <label for="playbookSkills"
+              style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 4px;" data-i18n="spSkillsLabel">
+              3. Kỹ năng nào quan trọng nhất tạo nên chiến thắng?
+            </label>
+            <input type="text" id="playbookSkills" class="search-input-box"
+              style="width: 100%; border-radius: 8px; padding: 10px 14px;"
+              placeholder="Ví dụ: Financial Modeling, Q&A phản biện, Slide Storytelling" data-i18n-placeholder="spSkillsPlaceholder">
+          </div>
+
+          <div>
+            <label for="playbookAdvice"
+              style="display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; margin-bottom: 4px;" data-i18n="spAdviceLabel">
+              4. Lời khuyên chuẩn bị tốt nhất cho các bạn khóa sau (*):
+            </label>
+            <textarea id="playbookAdvice"
+              style="width: 100%; padding: 10px 14px; background: var(--nf-bg-2); border-radius: 8px; border: 1px solid var(--color-border-subtle); font-size: 13.5px;"
+              rows="3" placeholder="Ví dụ: Hãy luyện case trước ít nhất 1 tháng, phân chia vai trò rõ ràng..." data-i18n-placeholder="spAdvicePlaceholder"
+              required></textarea>
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary btn-sm" onclick="closeAllModals()" data-i18n="cancelBtn">Hủy bỏ</button>
+          <button type="submit" class="btn btn-orange btn-sm" data-i18n="submitPlaybookBtn">Gửi chia sẻ kinh nghiệm</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- ========================================================================
+       MODAL 5: SYSTEM REFERENCE DATE & STAGE TIME MACHINE
+       ======================================================================== -->
+  <div class="modal-overlay" id="dateRefModal" role="dialog" aria-modal="true" aria-labelledby="dateRefModalTitle">
+    <div class="modal-box" style="max-width: 580px;">
+      <div class="modal-header">
+        <div>
+          <span class="chip chip-orange" data-i18n="dateRefTag">Time Reference Engine</span>
+          <h3 id="dateRefModalTitle"
+            style="font-family: var(--font-display); font-size: 19px; font-weight: 800; margin-top: 4px;" data-i18n="dateRefTitleHeading">
+            Mốc thời gian xác định giai đoạn cuộc thi
+          </h3>
+        </div>
+        <button class="btn-close-modal" type="button" onclick="closeAllModals()" aria-label="Đóng cửa sổ">
+          <svg class="svg-icon-sm" viewBox="0 0 24 24">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+
+      <div class="modal-body" style="gap: 16px;">
+        <p style="font-size: 13.5px; color: var(--color-muted); line-height: 1.6;" data-i18n="dateRefModalDesc">
+          Hệ thống xác định chính xác cuộc thi đang ở giai đoạn nào (<strong>Đang mở đơn</strong>, <strong>Sắp đóng
+            đơn</strong>, <strong>Đang diễn ra Bán kết / Chung kết</strong>, hoặc <strong>Đã hoàn thành</strong>) và số
+          ngày đếm ngược dựa trên mốc thời gian này.
+        </p>
+
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+          <div
+            style="font-size: 12px; font-weight: 700; text-transform: uppercase; color: var(--color-primary); letter-spacing: 0.04em;" data-i18n="dateRefModeLabel">
+            Chọn mốc thời gian tham chiếu:
+          </div>
+
+          <div style="display: flex; flex-direction: column; gap: 8px;">
+            <label
+              style="display: flex; align-items: flex-start; gap: 10px; padding: 12px 14px; background: var(--nf-bg-2); border: 1px solid var(--color-border-subtle); border-radius: var(--radius-button); cursor: pointer;">
+              <input type="radio" name="dateModeRadio" id="radioRealDevice" value="real" style="margin-top: 3px;"
+                checked>
+              <div>
+                <strong style="font-size: 14px; display: block; color: var(--color-primary);" data-i18n="dateRefRealTitle">Thời gian thực tế của máy
+                  tính (Mặc định)</strong>
+                <span style="font-size: 12.5px; color: var(--color-muted); display: block; margin-top: 2px;"
+                  id="realDeviceDatePreview" data-i18n="dateRefRealDesc">
+                  Lấy ngày giờ hiện tại trực tiếp từ hệ thống thiết bị của bạn.
+                </span>
+              </div>
+            </label>
+
+            <label
+              style="display: flex; align-items: flex-start; gap: 10px; padding: 12px 14px; background: var(--nf-bg-2); border: 1px solid var(--color-border-subtle); border-radius: var(--radius-button); cursor: pointer;">
+              <input type="radio" name="dateModeRadio" id="radioCustomDate" value="custom" style="margin-top: 3px;">
+              <div style="flex: 1;">
+                <strong style="font-size: 14px; display: block; color: var(--color-primary);" data-i18n="dateRefCustomTitle">Tùy chỉnh ngày bất kỳ (Mô
+                  phỏng dòng thời gian)</strong>
+                <span
+                  style="font-size: 12.5px; color: var(--color-muted); display: block; margin-top: 2px; margin-bottom: 8px;" data-i18n="dateRefCustomDesc">
+                  Chọn một ngày cụ thể để kiểm tra xem vào thời điểm đó cuộc thi nào đang mở đơn hoặc đang ở vòng thi
+                  nào.
+                </span>
+                <input type="date" id="customDateInput" class="search-input-box"
+                  style="padding: 8px 12px; border-radius: 6px; font-weight: 600; font-size: 13px;">
+              </div>
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary btn-sm" onclick="closeAllModals()" data-i18n="closeModalBtn">Đóng</button>
+        <button type="button" class="btn btn-orange btn-sm" id="btnSaveRefDate" data-i18n="dateRefApplyBtn">Áp dụng mốc thời gian</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div class="toast-container" id="toastContainer" aria-live="polite"></div>
+
+  <!-- ========================================================================
+       EDITORIAL FOOTER
+       ======================================================================== -->
+  <footer class="footer-main" role="contentinfo">
+    <div class="container">
+      <div class="footer-top">
+        <div>
+          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
+            <img src="logo.png" alt="CompeteMate Logo" class="brand-logo-img" style="width: 32px; height: 32px;">
+            <span
+              style="font-family: var(--font-display); font-weight: 800; font-size: 18px; letter-spacing: -0.02em;">CompeteMate</span>
+          </div>
+          <p style="font-size: 13px; color: var(--color-muted); line-height: 1.6; max-width: 340px;">
+            Nền tảng khám phá, đánh giá mức độ phù hợp và hỗ trợ chuẩn bị cuộc thi toàn diện cho sinh viên Việt Nam.
+          </p>
+        </div>
+
+        <div>
+          <h4
+            style="font-family: var(--font-display); font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 12px; font-weight: 700;">
+            Tính năng chính
+          </h4>
+          <ul style="list-style: none; display: flex; flex-direction: column; gap: 8px; font-size: 13px;">
+            <li><a href="#hub">CompeteHub — Khám phá cuộc thi</a></li>
+            <li><a href="#match">CompeteMatch — Tính Match Score</a></li>
+            <li><a href="#journey">My Journey — Deadline Tracker</a></li>
+            <li><a href="#playbook">Winner's Playbook — Bí kíp thực chiến</a></li>
+            <li><a href="#compare">So sánh đa cuộc thi</a></li>
+            <li><a href="#profile">Hồ sơ năng lực cá nhân</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4
+            style="font-family: var(--font-display); font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 12px; font-weight: 700;">
+            Lĩnh vực hàng đầu
+          </h4>
+          <ul style="list-style: none; display: flex; flex-direction: column; gap: 8px; font-size: 13px;">
+            <li><a href="#hub" onclick="state.selectedCategory='business_case'; renderHub();">Business Case
+                Competition</a></li>
+            <li><a href="#hub" onclick="state.selectedCategory='startup'; renderHub();">Khởi nghiệp & Đổi mới sáng
+                tạo</a></li>
+            <li><a href="#hub" onclick="state.selectedCategory='finance'; renderHub();">Tài chính, Chứng khoán & Ngân
+                hàng</a></li>
+            <li><a href="#hub" onclick="state.selectedCategory='tech'; renderHub();">Công nghệ & Data Analytics</a></li>
+            <li><a href="#hub" onclick="state.selectedCategory='debate'; renderHub();">Tranh biện & MC chuyên nghiệp</a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- Column 4: CompeteMate Corgi Companion (Page Mascot) -->
+        <div class="footer-mascot-col">
+          <div class="footer-mascot-card">
+            <div id="footerMascot" class="footer-mascot-avatar" aria-label="Linh vật Corgi CompeteMate"></div>
+            <div class="footer-mascot-details">
+              <div class="footer-mascot-header">
+                <span class="mascot-status-dot" aria-hidden="true"></span>
+                <span class="footer-mascot-tag">Companion</span>
+              </div>
+              <p class="footer-mascot-quote" id="mascotQuote">"Gâu gâu! Sẵn sàng săn giải thưởng cùng bạn!"</p>
+              <span class="footer-mascot-hint">Nhấp vào Corgi để nhận năng lượng thi đấu</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          © 2026 CompeteMate. Discover · Match · Compete.
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ========================================================================
+       SCRIPTS: Preloaded data + Core Application Logic
+       ======================================================================== -->
+  <script src="data/competitions.js?v=20260930_5"></script>
+  <script src="app.js?v=20261003_12"></script>
+  <!-- Mascot Module (Vanilla JS Page-Mascot integration) -->
+  <script src="assets/mascot/mascot.js?v=20261001_5"></script>
+  <script>
+    function startCompeteMascot() {
+      if (window.CompeteMascot) {
+        window.CompeteMascot.init({
+          container: '#footerMascot',
+          directions: 'assets/mascot/corgi-directions.webp?v=20261001_5',
+          reactions: 'assets/mascot/corgi-reactions.webp?v=20261001_5',
+          size: 100,
+          label: 'Corgi CompeteMate',
+          quoteElement: '#mascotQuote',
+          quotes: [
+            "Bình tĩnh, tập trung và rà soát kỹ đề án nhé!",
+            "Thả tim cổ vũ tinh thần đội thi của bạn!",
+            "Tự tin tỏa sáng trước hội đồng ban giám khảo!",
+            "Oa! Ý tưởng dự án của bạn đột phá thật đấy!",
+            "Mắt sao lấp lánh — Quán quân mùa giải này là bạn!",
+            "Cảm ơn bạn đã luôn đồng hành cùng Corgi nha!",
+            "Nhớ ngủ đủ giấc để ngày mai chinh phục vòng thi!",
+            "Đọc case study nhiều hoa cả mắt rồi, nghỉ 5 phút nào!",
+            "Gâu gâu! Nụ cười chiến thắng rạng rỡ nhất!"
+          ]
+        });
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', startCompeteMascot);
+    } else {
+      startCompeteMascot();
+    }
+  </script>
+</body>
+
+</html>

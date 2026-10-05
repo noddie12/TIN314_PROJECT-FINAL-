@@ -1,0 +1,11983 @@
+window.COMPETEMATE_DATABASE = [
+  {
+    "id": "calliope-2026-trendx",
+    "name": "CALLIOPE 2026 - TrendX",
+    "season": "2026",
+    "organizer": "YEC Calliope (CLB Kinh tế trẻ HVTC)",
+    "category": "Kinh tế",
+    "short_description": "Cuộc thi hùng biện kinh tế với chủ đề Nhận diện (Vòng sơ loại)",
+    "eligibility": "Sinh viên toàn TP. Hà Nội",
+    "deadline": "22/08/2026",
+    "duration": "28/07/2026 - 19/09/2026",
+    "rounds_count": 3,
+    "rounds_description": "Round 1 (Preliminary – Recognition) online submission; Round 2 (Semifinal); Round 3 (Final).",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team or Individual or Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Not specified",
+    "registration_link": "https://bit.ly/4wWXjSB",
+    "source_url": "https://www.facebook.com/yec.calliope",
+    "required_skills": [
+      {
+        "name": "Critical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Research & Data Analysis",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Public Speaking & Persuasion",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Team Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Time Management",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Round 1: Preliminary (Recognition)",
+        "date": "2026-07-28 - 2026-08-22",
+        "description": "Submit entry on theme 'Recognition' (online).",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Round 2: Semifinal",
+        "date": "2026-09-05 - 2026-09-12",
+        "description": "Semifinal competition for top performers.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Round 3: Final",
+        "date": "2026-09-14 - 2026-09-19",
+        "description": "Grand final competition.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Preparing a concise, well‑researched argument under time pressure and balancing individual and team contributions.",
+      "common_mistakes": "Waiting until the last minute to register or start preparation; insufficient research; poor time allocation during practice.",
+      "key_success_factors": "Strong critical thinking, thorough preparation, effective teamwork, clear and confident presentation.",
+      "prep_advice": "Start early, read widely on economic trends, form a balanced team, create a detailed timeline, rehearse regularly, seek feedback, and practice speaking under pressure."
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": ""
+    }
+  },
+  {
+    "id": "khoi-nghiep-cung-kawai-2026",
+    "name": "Khởi nghiệp cùng Kawai 2026",
+    "season": "Mùa thi thứ 21 (2026)",
+    "organizer": "CLB Nhà Doanh nghiệp Tương lai (TEC) - Trường Đại học Ngoại thương",
+    "category": "Khởi nghiệp / Đổi mới sáng tạo",
+    "short_description": "Cuộc thi ý tưởng khởi nghiệp sáng tạo dành cho startup Việt Nam 18–25 tuổi trên toàn thế giới, do CLB Nhà Doanh nghiệp Tương lai (TEC FTU) tổ chức. Mùa thi thứ 21 với đêm chung kết chủ đề \"Tinh Quang\" – nơi top 5 đội xuất sắc nhất pitching trước ban giám khảo, quỹ đầu tư và doanh nghiệp.",
+    "eligibility": "Startup Việt Nam trong độ tuổi 18–25 trên toàn thế giới",
+    "deadline": "2026-07-08",
+    "duration": "Không rõ ngày bắt đầu - Chung kết: 08/07/2026",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm 3 vòng: Vòng 1 và Vòng 2 là các vòng thử thách thực chiến (chi tiết không được cung cấp trong bài đăng); Vòng 3 'Tinh Quang' là Đêm Chung kết với phần pitching của TOP 5 đội xuất sắc trước Ban giám khảo, diễn ra tại Cung Văn hóa Lao động Hữu nghị Việt Xô ngày 08/07/2026.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Chưa công bố chi tiết; ngôi vị Quán quân mùa thi thứ 21 được trao tại Đêm Chung kết",
+    "prizes_detail": "Chi tiết giải thưởng các vòng không được công bố trong bài đăng thu thập được. Chung kết TOP 5 đội có cơ hội pitching trực tiếp trước Ban giám khảo, Quỹ đầu tư và Mentor.",
+    "registration_link": "https://kbs.tec-ftu.com/",
+    "source_url": "https://kbs.tec-ftu.com/",
+    "required_skills": [
+      {
+        "name": "Phát triển ý tưởng khởi nghiệp (Ideation & Innovation)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Pitching / Thuyết trình trước nhà đầu tư",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Business Model Canvas & Lập kế hoạch kinh doanh",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Phân tích thị trường & Nghiên cứu khách hàng",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thiết kế slide / Visual Storytelling",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm & Phân công vai trò",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kiến thức về công nghệ / xu hướng đổi mới sáng tạo",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kỹ năng xử lý phản biện từ giám khảo (Q&A)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Tư duy tài chính cơ bản (dự báo doanh thu, chi phí)",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Nộp hồ sơ & Ý tưởng ban đầu",
+        "date": "Không rõ",
+        "description": "Thí sinh nộp ý tưởng khởi nghiệp ban đầu. Chi tiết yêu cầu không được công bố trong bài đăng thu thập được.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Thử thách thực chiến",
+        "date": "Không rõ",
+        "description": "Vòng thử thách thực chiến khốc liệt để chọn ra TOP 5 đội xuất sắc bước vào Chung kết. Chi tiết yêu cầu không được công bố.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3 - Tinh Quang: Đêm Chung kết",
+        "date": "2026-07-08",
+        "description": "TOP 5 đội thực hiện phần pitching ý tưởng trước Ban giám khảo, Quỹ đầu tư và Mentor tại Cung Văn hóa Lao động Hữu nghị Việt Xô - 91 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội. Khán giả đăng ký tham dự qua link tại kbs.tec-ftu.com.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Áp lực pitching trực tiếp trước Ban giám khảo, Quỹ đầu tư và Mentor tại Đêm Chung kết quy mô lớn. Thí sinh phải truyền tải được tính khả thi thực tế của ý tưởng chứ không chỉ sự sáng tạo, đồng thời xử lý tốt các câu hỏi phản biện sắc bén từ giám khảo có kinh nghiệm đầu tư.",
+      "common_mistakes": "Tập trung quá nhiều vào tính 'độc đáo' của ý tưởng mà bỏ qua phân tích thị trường và mô hình kinh doanh cụ thể. Slide quá dày đặc thông tin, thiếu storytelling cuốn hút. Không phân công rõ vai trò trong nhóm dẫn đến pitching không nhất quán. Thiếu chuẩn bị cho phần Q&A phản biện.",
+      "key_success_factors": "Ý tưởng phải giải quyết vấn đề thực tế có quy mô thị trường rõ ràng (như các dự án lọt TOP 5: GenPlay, Parroto, VietMedx, RUSTACK, Unsolved Case Vietnam). Kỹ năng pitching tự tin, súc tích và hấp dẫn. Có demo/prototype hoặc bằng chứng thực tế (traction). Đội nhóm đa dạng kỹ năng và phối hợp ăn ý trên sân khấu.",
+      "prep_advice": "Nghiên cứu kỹ 5 dự án lọt TOP 5 của mùa 2026 để hiểu tiêu chí giám khảo ưu tiên. Luyện pitching theo khung Problem - Solution - Market - Business Model - Traction - Team trong 5–7 phút. Chuẩn bị ít nhất 10 câu hỏi khó từ góc độ nhà đầu tư và tập trả lời. Thiết kế slide tối giản, mỗi slide 1 thông điệp chính. Tham gia Group Startup Guild (https://tinyurl.com/startupguild) để kết nối cộng đồng và cập nhật thông tin."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội"
+      ],
+      "cash": [
+        "ngôi vị Quán quân mùa thi thứ 21 được trao tại Đêm Chung kết"
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "Chung kết TOP 5 đội có cơ hội pitching trực tiếp trước Ban giám khảo, Quỹ đầu tư và Mentor."
+      ],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Chưa công bố chi tiết; ngôi vị Quán quân mùa thi thứ 21 được trao tại Đêm Chung kết\nChi tiết giải thưởng các vòng không được công bố trong bài đăng thu thập được. Chung kết TOP 5 đội có cơ hội pitching trực tiếp trước Ban giám khảo, Quỹ đầu tư và Mentor."
+    }
+  },
+  {
+    "id": "calliope-2026",
+    "name": "Hùng biện Kinh tế Đỉnh cao CALLIOPE 2026",
+    "season": "2026",
+    "organizer": "Học viện Tài chính",
+    "category": "Hùng biện Kinh tế",
+    "short_description": "Cuộc thi hùng biện kinh tế đẳng cấp dành cho sinh viên Học viện Tài chính, đòi hỏi khả năng lập luận sắc bén, đối đáp linh hoạt và bản lĩnh trình bày trước đám đông. CALLIOPE 2026 là sân chơi trí tuệ nổi bật trong mùa thi học thuật của AOF.",
+    "eligibility": "",
+    "deadline": "",
+    "duration": "Năm 2026 (vòng Chung kết diễn ra khoảng giữa tháng 09/2026)",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi bao gồm các vòng thi loại trừ dẫn đến vòng Chung kết, nơi các thí sinh thể hiện khả năng lập luận, đối đáp và bản lĩnh hùng biện trước ban giám khảo và khán giả. Vòng Chung kết CALLIOPE 2026 đã diễn ra song song với các sự kiện học thuật lớn khác của Học viện.",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Advanced",
+    "grand_prize": "",
+    "prizes_detail": "Không xác định rõ từ dữ liệu cung cấp",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/bpthvtc",
+    "required_skills": [
+      {
+        "name": "Hùng biện & Trình bày trước đám đông",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Lập luận & Phân tích kinh tế",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Ứng biến & Đối đáp nhanh",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kiến thức Kinh tế vĩ mô & Vi mô",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Quản lý thời gian & Cấu trúc bài nói",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng loại",
+        "date": "Trước tháng 09/2026",
+        "description": "Vòng sơ tuyển đánh giá năng lực hùng biện cơ bản và kiến thức kinh tế của thí sinh",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng bán kết",
+        "date": "Trước tháng 09/2026",
+        "description": "Vòng thi nâng cao với các chủ đề kinh tế chuyên sâu, đánh giá khả năng lập luận và phân tích",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết",
+        "date": "Giữa tháng 09/2026",
+        "description": "Vòng thi đỉnh cao với các màn lập luận, đối đáp đầy bản lĩnh trước ban giám khảo và khán giả",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Khả năng đối đáp nhanh và lập luận sắc bén trước các tình huống kinh tế phức tạp trong thời gian giới hạn, đồng thời giữ vững bản lĩnh trước đám đông và ban giám khảo khắt khe.",
+      "common_mistakes": "Chuẩn bị kiến thức nền tảng kinh tế không sâu, thiếu cấu trúc logic trong bài trình bày, quá phụ thuộc vào ghi nhớ sẵn thay vì tư duy phân tích linh hoạt, và không kiểm soát được ngôn ngữ cơ thể khi hùng biện.",
+      "key_success_factors": "Nắm vững kiến thức kinh tế chuyên sâu, khả năng tư duy phản biện nhanh, cấu trúc bài nói logic rõ ràng (mở bài - thân bài - kết luận), sự tự tin và bản lĩnh trên sân khấu, cùng kỹ năng đối đáp linh hoạt.",
+      "prep_advice": "Ôn tập kiến thức kinh tế vĩ mô, vi mô và các xu hướng kinh tế hiện tại; luyện tập hùng biện thường xuyên bằng cách tham gia các câu lạc bộ tranh luận; thực hành phân tích các case study kinh tế và rèn kỹ năng đối đáp dưới áp lực thời gian; chuẩn bị sẵn các framework lập luận cho nhiều chủ đề khác nhau."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": ""
+    }
+  },
+  {
+    "id": "khoinghiep-kinh-doanh-mua-xii-2026",
+    "name": "Khởi nghiệp Kinh doanh Mùa XII",
+    "season": "Mùa XII – 2026",
+    "organizer": "CLB Tiềm năng Quản trị (GPA) – Khoa Quản trị Kinh doanh, Trường Đại học Kinh tế – Luật, ĐHQG–HCM",
+    "category": "Khởi nghiệp / Kinh doanh",
+    "short_description": "Cuộc thi học thuật về ý tưởng khởi nghiệp dành cho sinh viên toàn quốc, tập trung vào mô hình kinh doanh sáng tạo, có tính khả thi và tạo giá trị thực cho xã hội. Mùa XII hướng tới việc kết nối tư duy khởi nghiệp của Gen Z với môi trường kinh doanh thực tiễn và khả năng mở rộng ở quy mô khu vực, quốc tế.",
+    "eligibility": "Sinh viên chính quy đang học tập tại các trường Đại học, Cao đẳng, Học viện trên toàn quốc hoặc đã tốt nghiệp chưa quá 01 năm",
+    "deadline": "Chưa được công bố ngày/thời gian cụ thể; bài đăng chỉ hiển thị đồng hồ đếm ngược 01 ngày, 01 giờ, 08 phút, 20 giây tại thời điểm thu thập.",
+    "duration": "Chưa được công bố trong nguồn.",
+    "rounds_count": 1,
+    "rounds_description": "Nguồn chỉ công bố một đợt đăng ký và nộp bài gắn với mã dự thi; chưa nêu rõ cơ cấu Vòng 1, Vòng 2 hoặc vòng chung kết.",
+    "format": "Chưa được công bố; kênh đăng ký gồm trực tiếp tại trường và trực tuyến.",
+    "team_size": {
+      "min": 2,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân, Á quân, Quý quân: Hiện kim + Giấy khen từ Đoàn trường + Quà từ nhà tài trợ. 2 Giải Khuyến khích: Hiện kim + Giấy khen. Giải Dự án được yêu thích nhất, Đội thi được yêu thích nhất, 2 Giải Đội cổ vũ nhiệt huyết nhất: Hiện kim + Giấy chứng nhận BTC.",
+    "prizes_detail": "Bao gồm quán quân, á quân, quý quân, 02 giải khuyến khích, Giải dự án được yêu thích nhất, Giải đội thi được yêu thích nhất và 02 Giải đội cổ vũ nhiệt huyết nhất. Nguồn không công bố cụ thể số tiền và giá trị hiện vật của từng giải.",
+    "registration_link": "https://khoinghiepkinhdoanhmua12.framer.website/",
+    "source_url": "https://khoinghiepkinhdoanhmua12.framer.website/",
+    "required_skills": [
+      {
+        "name": "Tư duy khởi nghiệp và đổi mới mô hình kinh doanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Nghiên cứu thị trường và xác định vấn đề xã hội",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Lập kế hoạch và khả thi tài chính",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Giải quyết vấn đề và tư duy phản biện",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Sáng tạo ý tưởng và xây dựng giá trị khác biệt",
+        "priority": "must_have",
+        "category": "Innovation"
+      },
+      {
+        "name": "Làm việc nhóm và phân công vai trò",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Trình bày và phản biện ý tưởng",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Kể chuyện và thiết kế slide",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Ứng dụng công nghệ và định hướng mở rộng quy mô",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Mở đơn, mua vé và nộp bài dự thi",
+        "date": "Chưa được công bố",
+        "description": "Đăng ký theo nhóm tối đa 05 người; vé có giá 15.000 đồng/người. Bài thi hợp lệ phải đính kèm mã dự thi nhận được sau khi mua vé thành công.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Biến một ý tưởng sáng tạo thành đề án có vấn đề rõ ràng, mô hình kinh doanh khả thi, dữ liệu thị trường thuyết phục và lộ trình tạo giá trị bền vững.",
+      "common_mistakes": "Tập trung quá nhiều vào công nghệ nhưng bỏ qua nhu cầu khách hàng; thiếu bằng chứng thị trường; doanh thu, chi phí và điểm hòa vốn không hợp lý; ý tưởng chung chung, khó nhân rộng; hoặc trình bày đẹp nhưng thiếu tính thực thi.",
+      "key_success_factors": "Ý tưởng mới mẻ nhưng giải quyết đúng vấn đề thực tế, có khách hàng mục tiêu rõ ràng, mô hình doanh thu hợp lý, tác động xã hội thuyết phục, kế hoạch tài chính khả thi và đội ngũ trình bày nhất quán.",
+      "prep_advice": "Nên dành thời gian xác định vấn đề và khách hàng, khảo sát nhu cầu, xây dựng mô hình kinh doanh, kiểm toán doanh thu–chi phí, đánh giá rủi ro, sau đó luyện thuyết trình theo cấu trúc: vấn đề – giải pháp – thị trường – mô hình kinh doanh – tác động – lộ trình triển khai."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Quán quân, Á quân, Quý quân: Hiện kim",
+        "Giải Khuyến khích: Hiện kim",
+        "Giải Dự án được yêu thích nhất, Đội thi được yêu thích nhất, 2 Giải Đội cổ vũ nhiệt huyết nhất: Hiện kim",
+        "Bao gồm quán quân, á quân, quý quân, 02 giải khuyến khích, Giải dự án được yêu thích nhất, Giải đội thi được yêu thích nhất và 02 Giải đội cổ vũ nhiệt huyết nhất."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Quà từ nhà tài trợ.",
+        "Nguồn không công bố cụ thể số tiền và giá trị hiện vật của từng giải."
+      ],
+      "certificate": [
+        "Giấy khen từ Đoàn trường",
+        "Giấy khen.",
+        "Giấy chứng nhận BTC."
+      ],
+      "raw_text": "Quán quân, Á quân, Quý quân: Hiện kim + Giấy khen từ Đoàn trường + Quà từ nhà tài trợ. 2 Giải Khuyến khích: Hiện kim + Giấy khen. Giải Dự án được yêu thích nhất, Đội thi được yêu thích nhất, 2 Giải Đội cổ vũ nhiệt huyết nhất: Hiện kim + Giấy chứng nhận BTC.\nBao gồm quán quân, á quân, quý quân, 02 giải khuyến khích, Giải dự án được yêu thích nhất, Giải đội thi được yêu thích nhất và 02 Giải đội cổ vũ nhiệt huyết nhất. Nguồn không công bố cụ thể số tiền và giá trị hiện vật của từng giải."
+    }
+  },
+  {
+    "id": "youth-entrepreneurship-2026",
+    "name": "Khởi Nghiệp Trẻ 2026",
+    "season": "2026",
+    "organizer": "Câu lạc bộ Kỹ năng Kinh doanh (BSC) – Học viện Tài chính; hỗ trợ bởi Liên chi đoàn Khoa Tài chính Doanh nghiệp và Đoàn Thanh niên Học viện Tài chính",
+    "category": "Khởi nghiệp / Kinh doanh",
+    "short_description": "Youth Entrepreneurship 2026 is a business idea creation competition organized by the Business Skills Club at the Academy of Finance, aiming to discover and develop students passionate about entrepreneurship. It provides a dynamic platform for participants to showcase creativity, network, and develop viable startup concepts.",
+    "eligibility": "Sinh viên Học viện Tài chính",
+    "deadline": "2026-09-23",
+    "duration": "September 2026 - December 2026",
+    "rounds_count": 3,
+    "rounds_description": "Round 1: Registration and initial idea submission; Round 2: Business plan development and pitching; Round 3: Final presentation and award ceremony.",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team or Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Cash prize of 30,000,000 VND + mentorship + incubation support",
+    "prizes_detail": "1st: 30,000,000 VND, 2nd: 15,000,000 VND, 3rd: 5,000,000 VND, plus certificates for all participants.",
+    "registration_link": "https://bsc-aof.com/index.php/khoi-nghiep-tre-2026/",
+    "source_url": "https://bsc-aof.com/index.php/khoi-nghiep-tre-2026/",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Business Planning",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Marketing",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Financial Analysis",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Round 1: Registration & Idea Submission",
+        "date": "2026-09-01",
+        "description": "Teams register and submit initial startup idea (max 500 words).",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Round 2: Business Plan Development",
+        "date": "2026-10-15",
+        "description": "Teams refine business plan and prepare pitch deck for semi‑final.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Round 3: Final Pitch & Awards",
+        "date": "2026-11-30",
+        "description": "Final presentations judged by industry experts; winners announced.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Creating a viable business model and differentiating the idea in a crowded market.",
+      "common_mistakes": "Insufficient market research, weak value proposition, and poor teamwork coordination.",
+      "key_success_factors": "Clear problem‑solution fit, strong team synergy, and compelling pitch delivery.",
+      "prep_advice": "Start early, iterate your concept based on feedback, seek mentorship from senior entrepreneurs, and practice your pitch regularly."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Cash prize of 30,000,000 VND",
+        "st: 30,000,000 VND, 2nd: 15,000,000 VND, 3rd: 5,000,000 VND, plus certificates for all participants."
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "incubation support"
+      ],
+      "in_kind": [],
+      "certificate": [
+        "st: 30,000,000 VND, 2nd: 15,000,000 VND, 3rd: 5,000,000 VND, plus certificates for all participants."
+      ],
+      "raw_text": "Cash prize of 30,000,000 VND + mentorship + incubation support\n1st: 30,000,000 VND, 2nd: 15,000,000 VND, 3rd: 5,000,000 VND, plus certificates for all participants."
+    }
+  },
+  {
+    "id": "rnd-to-startup-2026",
+    "name": "Cuộc thi Khởi nghiệp Sáng tạo ĐHQGHN – RnD To Startup 2026",
+    "season": "2026",
+    "organizer": "Vườn ươm Khởi nghiệp Đổi mới Sáng tạo ĐHQGHN (VISI), Trung tâm Chuyển giao Tri thức và Hỗ trợ Khởi nghiệp, Sunwah Innovations (Việt Nam) – do Đại học Quốc gia Hà Nội chỉ đạo",
+    "category": "Khởi nghiệp & Đổi mới sáng tạo (8 nhóm lĩnh vực: Y tế & sức khỏe, Nông nghiệp & thực phẩm, Môi trường & phát triển bền vững, Công nghiệp/kỹ thuật/robotics, Giáo dục, Tài chính & kinh tế số, Văn hóa/sáng tạo/xã hội, Công nghệ thông tin & chuyển đổi số)",
+    "short_description": "Cuộc thi tìm kiếm ý tưởng, sáng chế và dự án công nghệ có tiềm năng thương mại hóa, đào tạo, ươm tạo và đưa chúng ra thị trường cho sinh viên, học viên cao học, nghiên cứu sinh và du học sinh Việt Nam trên toàn quốc.",
+    "eligibility": "Học sinh, sinh viên, học viên cao học, nghiên cứu sinh và du học sinh Việt Nam trên cả nước",
+    "deadline": "30/09/2026",
+    "duration": "Tháng 08/2026 - Tháng 12/2026",
+    "rounds_count": 4,
+    "rounds_description": "Sơ khảo (Top 50) → Chuỗi 04 workshop & Kiến tạo (Top 20) → Bứt phá (Top 10) → Toả sáng (Demo Day).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "11 giải + 1 suất ươm tạo VISI. Giải Nhất (×2, mỗi bảng 1): 30 triệu + Cúp + Giấy CN + Gói ươm tạo 2 tỷ đồng + Mentor 1:1 + kết nối DN/NĐT. Giải Nhì: 2 triệu + Giấy CN + mentor chuyên môn + kết nối đối tác. Giải Ba: Giấy CN + cơ hội tiền ươm tạo. Giải KK: Giấy CN + hỗ trợ cố vấn. Giải People's Choice: 1 giải chung 2 bảng.",
+    "prizes_detail": "11 giải thưởng bao gồm: 2 Giải Nhất, 2 Giải Nhì, 2 Giải Ba, 2 Giải Khuyến khích, 1 Giải People’s Choice, và 1 suất vào vườn ươm VISI. Chi tiết: Giải Nhì – 2 triệu đồng + Giấy chứng nhận + gói mentor chuyên môn + kết nối đối tác; Giải Ba – Giấy chứng nhận + cơ hội tham gia chương trình tiền ươm tạo; Giải Khuyến khích – Giấy chứng nhận + hỗ trợ cố vấn sau cuộc thi; People’s Choice – dự án được cộng đồng bình chọn nhiều nhất (chung cho cả hai bảng).",
+    "registration_link": "https://visi.vnu.edu.vn/dich-vu/rnd-to-startup/",
+    "source_url": "https://visi.vnu.edu.vn/dich-vu/rnd-to-startup/",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Innovation & R&D",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Business Modeling",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Market Research & Validation",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Team Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Presentation & Debating",
+        "priority": "must_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Phát động & nhận hồ sơ",
+        "date": "2026-08-01 – 2026-09-30",
+        "description": "Công bố cuộc thi, truyền thông tới trường THPT, đại học, du học sinh; webinar giới thiệu; mở cổng đăng ký.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Chấm Sơ khảo",
+        "date": "2026-10-01 – 2026-10-10",
+        "description": "BGK chấm hồ sơ theo rubric, chọn Top 50 (25 Bảng Ý tưởng, 25 Bảng Dự án).",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Chuỗi 04 workshop",
+        "date": "2026-10-11 – 2026-10-31",
+        "description": "Tinh thần khởi nghiệp · Mô hình kinh doanh · Market size & User Persona · Xây dựng MVP.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Chấm Vòng 2",
+        "date": "2026-11-01 – 2026-11-08",
+        "description": "Đội thi nộp bản cập nhật dự án; BGK chấm và phản biện online nếu cần.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Mentoring 1:1 (Hoàn thiện MVP)",
+        "date": "2026-11-15",
+        "description": "Hoàn thiện MVP và mô hình kinh doanh cùng mentor.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 6,
+        "name": "Bán kết",
+        "date": "2026-11-16 – 2026-11-22",
+        "description": "Pitching trực tuyến hoặc trực tiếp theo từng bảng; BGK chọn đội vào Chung kết.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 7,
+        "name": "Mentoring 1:1 (Pitching, phản biện, tài chính)",
+        "date": "2026-11-29",
+        "description": "Pitching, phản biện, tài chính, gọi vốn và demo sản phẩm.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 8,
+        "name": "Chung kết – Demo Day",
+        "date": "2026-12-?? (Tuần 2 tháng 12/2026)",
+        "description": "Trình bày trước Hội đồng BGK, doanh nghiệp, nhà đầu tư, chuyên gia. Trưng bày sản phẩm/demo. Công bố giải thưởng.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Phát triển MVP có tính khả thi và chứng minh được nhu cầu thị trường trong thời gian ngắn, đồng thời xây dựng bài pitch thuyết phục trước các nhà đầu tư.",
+      "common_mistakes": "Thiếu vấn đề/ngu cầu thị trường rõ ràng, sao chép ý tưởng, phân chia vai trò đội nhóm không rõ ràng, chuẩn bị pitch kém và không kiểm chứng giả định MVP.",
+      "key_success_factors": "Giải quyết đúng vấn đề thị trường, tính sáng tạo/R&D rõ nét, mô hình kinh doanh khả thi, đội ngũ thực hiện kỷ luật và bài pitch chuyên nghiệp.",
+      "prep_advice": "Bắt đầu sớm với Lean Canvas, xác nhận người dùng và nhu cầu ngay từ đầu, xây dựng MVP tối giản, thực hành pitching nhiều lần, thành lập đội đa dạng kỹ năng, tận dụng mentor của cuộc thi và theo dõi lịch trình nghiêm ngặt."
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Giải Nhất (×2, mỗi bảng 1): 30 triệu",
+        "Gói ươm tạo 2 tỷ đồng",
+        "Giải Nhì: 2 triệu",
+        "Giải Ba: Giấy CN",
+        "Chi tiết: Giải Nhì – 2 triệu đồng"
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "suất ươm tạo VISI.",
+        "Gói ươm tạo 2 tỷ đồng",
+        "Mentor 1:1",
+        "kết nối DN/NĐT.",
+        "kết nối đối tác.",
+        "cơ hội tiền ươm tạo."
+      ],
+      "in_kind": [
+        "Cúp"
+      ],
+      "certificate": [
+        "Giấy chứng nhận"
+      ],
+      "raw_text": "11 giải + 1 suất ươm tạo VISI. Giải Nhất (×2, mỗi bảng 1): 30 triệu + Cúp + Giấy CN + Gói ươm tạo 2 tỷ đồng + Mentor 1:1 + kết nối DN/NĐT. Giải Nhì: 2 triệu + Giấy CN + mentor chuyên môn + kết nối đối tác. Giải Ba: Giấy CN + cơ hội tiền ươm tạo. Giải KK: Giấy CN + hỗ trợ cố vấn. Giải People's Choice: 1 giải chung 2 bảng.\n11 giải thưởng bao gồm: 2 Giải Nhất, 2 Giải Nhì, 2 Giải Ba, 2 Giải Khuyến khích, 1 Giải People’s Choice, và 1 suất vào vườn ươm VISI. Chi tiết: Giải Nhì – 2 triệu đồng + Giấy chứng nhận + gói mentor chuyên môn + kết nối đối tác; Giải Ba – Giấy chứng nhận + cơ hội tham gia chương trình tiền ươm tạo; Giải Khuyến khích – Giấy chứng nhận + hỗ trợ cố vấn sau cuộc thi; People’s Choice – dự án được cộng đồng bình chọn nhiều nhất (chung cho cả hai bảng)."
+    }
+  },
+  {
+    "id": "startup-runway-2025-due",
+    "name": "Startup Runway",
+    "season": "Startup Runway 2025",
+    "organizer": "Trường Đại học Kinh tế - Đại học Đà Nẵng",
+    "category": "Khởi nghiệp, Đổi mới sáng tạo",
+    "short_description": "Startup Runway là cuộc thi khởi nghiệp thường niên do Trường Đại học Kinh tế - Đại học Đà Nẵng tổ chức, tạo sân chơi cho sinh viên phát triển và trình bày ý tưởng khởi nghiệp sáng tạo. Cuộc thi kết hợp đào tạo kiến thức khởi nghiệp, workshop thực chiến và vòng chung kết tại Ngày hội Khởi nghiệp đổi mới sáng tạo. Mùa 2025 có chủ đề 'Ý tưởng vươn tầm, khát vọng bứt phá'.",
+    "eligibility": "Sinh viên thuộc Trường Đại học Kinh tế - Đại học Đà Nẵng và các trường đại học trong khu vực miền Trung - Tây Nguyên (thông tin chi tiết về điều kiện tham gia xem tại mục Quy định trên website chính thức)",
+    "deadline": "2025-08-24",
+    "duration": "2025 (Chung kết diễn ra ngày 24/08/2025)",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm 3 vòng chính: Vòng loại (sơ khảo ý tưởng), Vòng 1, Vòng 2 và Vòng 3 (Chung kết). Chung kết diễn ra trong khuôn khổ Ngày hội Khởi nghiệp đổi mới sáng tạo ngày 24/08/2025.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 2,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải thưởng quán quân bao gồm tiền mặt, hiện vật và cơ hội tham gia chương trình đào tạo tại Ireland (thông tin chi tiết xem tại mục Giải thưởng trên website chính thức)",
+    "prizes_detail": "Cuộc thi có cơ cấu giải thưởng đa dạng bao gồm tiền mặt và cơ hội tham gia chương trình đào tạo quốc tế tại Ireland. Chi tiết xem tại: http://due.udn.vn/vi-vn/startuprunway",
+    "registration_link": "http://due.udn.vn/vi-vn/startuprunway",
+    "source_url": "http://due.udn.vn/vi-vn/startuprunway",
+    "required_skills": [
+      {
+        "name": "Tư duy khởi nghiệp & Phát triển ý tưởng",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Lập kế hoạch kinh doanh (Business Plan)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thuyết trình & Pitch ý tưởng",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Phân tích thị trường",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm & Lãnh đạo",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế Slide / Pitch Deck",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Kiến thức tài chính cơ bản (Financial Modeling)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Design Thinking",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Tiếng Anh thương mại",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng loại: Đăng ký & Nộp ý tưởng",
+        "date": "2025",
+        "description": "Thí sinh đăng ký tham gia và nộp bản mô tả ý tưởng khởi nghiệp ban đầu theo quy định của Ban tổ chức",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 1 & Vòng 2: Phát triển ý tưởng",
+        "date": "2025",
+        "description": "Các đội lọt vào vòng trong được đào tạo, huấn luyện kiến thức khởi nghiệp qua các workshop và tiếp tục hoàn thiện ý tưởng, kế hoạch kinh doanh",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Chung kết: Ngày hội Khởi nghiệp đổi mới sáng tạo",
+        "date": "2025-08-24",
+        "description": "Vòng chung kết diễn ra trong khuôn khổ Ngày hội Khởi nghiệp đổi mới sáng tạo với chủ đề 'Ý tưởng vươn tầm, khát vọng bứt phá'. Các đội trình bày pitch trước Ban giám khảo và cộng đồng khởi nghiệp",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Xây dựng một pitch deck thuyết phục và mô hình kinh doanh khả thi trong thời gian hạn chế, đồng thời phải thể hiện được tính đột phá và tiềm năng thị trường của ý tưởng trước Ban giám khảo có kinh nghiệm trong lĩnh vực đầu tư và khởi nghiệp",
+      "common_mistakes": "Ý tưởng thiếu tính thực tế hoặc chưa giải quyết được pain point rõ ràng; kế hoạch tài chính sơ sài hoặc không có cơ sở; đội nhóm không có sự phân công vai trò rõ ràng; pitch quá tập trung vào tính năng sản phẩm thay vì giá trị mang lại cho khách hàng",
+      "key_success_factors": "Ý tưởng khởi nghiệp có tính ứng dụng thực tế và giải quyết vấn đề cụ thể; đội nhóm đa dạng kỹ năng (kỹ thuật, kinh doanh, marketing); kỹ năng pitch tự tin và rõ ràng trong 5-7 phút; hiểu rõ thị trường mục tiêu và đối thủ cạnh tranh; tận dụng các buổi workshop và mentoring từ Ban tổ chức",
+      "prep_advice": "Tham gia đầy đủ các workshop và chương trình đào tạo do Ban tổ chức cung cấp để tiếp cận kiến thức khởi nghiệp bài bản. Nghiên cứu kỹ các startup thành công trong lĩnh vực tương tự. Luyện tập pitch nhiều lần trước bạn bè và mentor. Chuẩn bị sẵn các câu trả lời cho câu hỏi về mô hình doanh thu, quy mô thị trường và kế hoạch mở rộng. Tham khảo hồ sơ các đội đoạt giải các mùa trước (2016-2024) để hiểu tiêu chí đánh giá"
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Ươm tạo & Cơ hội",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Giải thưởng quán quân bao gồm tiền mặt, hiện vật và cơ hội tham gia chương trình đào tạo tại Ireland (thông tin chi tiết xem tại mục Giải thưởng trên website chính thức)",
+        "Cuộc thi có cơ cấu giải thưởng đa dạng bao gồm tiền mặt và cơ hội tham gia chương trình đào tạo quốc tế tại Ireland."
+      ],
+      "scholarship": [
+        "Giải thưởng quán quân bao gồm tiền mặt, hiện vật và cơ hội tham gia chương trình đào tạo tại Ireland (thông tin chi tiết xem tại mục Giải thưởng trên website chính thức)",
+        "Cuộc thi có cơ cấu giải thưởng đa dạng bao gồm tiền mặt và cơ hội tham gia chương trình đào tạo quốc tế tại Ireland."
+      ],
+      "opportunity": [
+        "Giải thưởng quán quân bao gồm tiền mặt, hiện vật và cơ hội tham gia chương trình đào tạo tại Ireland (thông tin chi tiết xem tại mục Giải thưởng trên website chính thức)",
+        "Cuộc thi có cơ cấu giải thưởng đa dạng bao gồm tiền mặt và cơ hội tham gia chương trình đào tạo quốc tế tại Ireland."
+      ],
+      "in_kind": [
+        "Giải thưởng quán quân bao gồm tiền mặt, hiện vật và cơ hội tham gia chương trình đào tạo tại Ireland (thông tin chi tiết xem tại mục Giải thưởng trên website chính thức)"
+      ],
+      "certificate": [],
+      "raw_text": "Giải thưởng quán quân bao gồm tiền mặt, hiện vật và cơ hội tham gia chương trình đào tạo tại Ireland (thông tin chi tiết xem tại mục Giải thưởng trên website chính thức)\nCuộc thi có cơ cấu giải thưởng đa dạng bao gồm tiền mặt và cơ hội tham gia chương trình đào tạo quốc tế tại Ireland. Chi tiết xem tại: http://due.udn.vn/vi-vn/startuprunway"
+    }
+  },
+  {
+    "id": "ra-khoi-2026-vlu",
+    "name": "Cuộc thi Khởi nghiệp Ra Khơi 2026",
+    "season": "2026",
+    "organizer": "Trường Đại học Văn Lang (Khoa Quản trị Kinh doanh)",
+    "category": "Khởi nghiệp, Đổi mới sáng tạo, Kinh doanh bền vững (ESG, Kinh tế xanh – Kinh tế tuần hoàn)",
+    "short_description": "Ra Khơi 2026 là cuộc thi khởi nghiệp và đổi mới sáng tạo do Trường ĐH Văn Lang tổ chức, hướng đến chủ đề phát triển bền vững (ESG, kinh tế xanh – kinh tế tuần hoàn). Cuộc thi dành cho cả học sinh THPT tại TP.HCM và sinh viên đại học/cao đẳng toàn quốc, với tổng giải thưởng hơn 70 triệu VNĐ cùng cơ hội kết nối nhà đầu tư và được mentoring từ chuyên gia.",
+    "eligibility": "Bảng 1 (Future Founders): Học sinh THPT tại TP. HCM; Bảng 2 (Startup Pioneers): Sinh viên Đại học, Cao đẳng",
+    "deadline": "Bảng Sinh viên: 23h59 ngày 20/03/2026; Bảng Học sinh: 23h59 ngày 26/03/2026",
+    "duration": "Tháng 03/2026 - Tháng 05/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng Sơ khảo (01/4–20/4/2026): Training, Coaching, trình bày hồ sơ, chấm điểm chọn Top 20. Vòng Bán kết – Demo Day (22/4–30/4/2026): Trình bày dự án trực tiếp, chọn các đội vào Chung kết. Vòng Chung kết (04/5–23/5/2026): Hoàn thiện và nộp hồ sơ kêu gọi đầu tư, tranh giải thưởng chính thức.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Bảng Học sinh: Nhất 10tr, Nhì 5tr, Ba 3tr (x2), KK 1tr (x4). Bảng Sinh viên: Nhất 20tr, Nhì 10tr, Ba 6tr (x2), KK 3tr (x2), Tiềm Năng 2tr (x2). Tất cả kèm kỷ niệm chương, giấy khen, giấy CN. Tổng giải thưởng hơn 70 triệu VNĐ.",
+    "prizes_detail": "Tổng giải thưởng hơn 70 triệu VNĐ. Bảng Sinh viên: Nhất 20tr | Nhì 10tr | Ba (x2) 6tr/giải | Khuyến khích (x2) 3tr/giải | Tiềm Năng (x2) 2tr/giải. Bảng Học sinh: Nhất 10tr | Nhì 5tr | Ba (x2) 3tr/giải | Khuyến khích (x4) 1tr/giải. Tất cả giải thưởng kèm kỷ niệm chương, giấy khen, giấy chứng nhận và quà từ nhà tài trợ.",
+    "registration_link": "https://rakhoi.vlu.edu.vn/",
+    "source_url": "https://rakhoi.vlu.edu.vn/",
+    "required_skills": [
+      {
+        "name": "Tư duy khởi nghiệp & Phát triển ý tưởng kinh doanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phân tích thị trường & Tính khả thi tài chính",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Tư duy bền vững (ESG, Kinh tế xanh, Kinh tế tuần hoàn)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Trình bày & Thuyết phục (Pitching)",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Phản biện & Xử lý câu hỏi từ giám khảo",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Làm việc nhóm & Phân công dự án",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế hồ sơ dự án & Slide thuyết trình",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Lập kế hoạch kinh doanh (Business Plan / Pitch Deck)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kêu gọi đầu tư & Xây dựng hồ sơ investor-ready",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Sáng tạo & Đổi mới giải pháp địa phương",
+        "priority": "must_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 0,
+        "name": "Kick Off – Lễ Khởi Động",
+        "date": "Trước 20/03/2026 (từ 18h00)",
+        "description": "Lễ khởi động tại Hội trường N2T1, Cơ sở chính Trường ĐH Văn Lang, 69/68 Đặng Thùy Trâm, P. Bình Lợi Trung, TP.HCM. Giới thiệu thể lệ, kết nối đội thi.",
+        "status": "closed"
+      },
+      {
+        "stage": 1,
+        "name": "Vòng Đăng ký & Nộp Hồ sơ",
+        "date": "Đến 2026-03-20 (Bảng SV) / 2026-03-26 (Bảng HS)",
+        "description": "Nộp hồ sơ gồm: Tóm tắt dự án, CV nhóm dự thi, Phiếu đăng ký. Nộp online tại website hoặc trực tiếp tại Văn phòng Khoa Quản trị Kinh doanh.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Sơ khảo – Training & Chọn Top 20",
+        "date": "2026-04-01 đến 2026-04-20",
+        "description": "Training, Coaching chuyên sâu từ chuyên gia. Các đội trình bày lại hồ sơ dự thi trước Ban Giám khảo. Chấm điểm và chọn Top 20 đội xuất sắc nhất vào vòng tiếp theo.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Bán kết – Demo Day",
+        "date": "2026-04-22 đến 2026-04-30",
+        "description": "Các đội Top 20 trình bày dự án trực tiếp (Demo Day). Ban Giám khảo đánh giá và chọn các đội xuất sắc vào Chung kết.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Chung kết – Hồ sơ Kêu gọi Đầu tư",
+        "date": "2026-05-04 đến 2026-05-23",
+        "description": "Các đội chung kết hoàn thiện và nộp hồ sơ kêu gọi đầu tư cho dự án. Trình bày trước hội đồng đầu tư và giám khảo. Công bố và trao giải thưởng chính thức.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là xây dựng ý tưởng/dự án vừa mang tính sáng tạo cao vừa có tính khả thi thực tiễn về thị trường, tài chính và vận hành – đặc biệt phải lồng ghép yếu tố bền vững (ESG, kinh tế xanh) theo đúng chủ đề 'Build Local Sustain Global'. Ngoài ra, giai đoạn Chung kết yêu cầu xây dựng hồ sơ kêu gọi đầu tư chuyên nghiệp, đòi hỏi kỹ năng investor-readiness mà nhiều đội sinh viên chưa có kinh nghiệm.",
+      "common_mistakes": "Các đội mới thường (1) tập trung quá nhiều vào ý tưởng sáng tạo mà bỏ qua phân tích tài chính và tính khả thi vận hành; (2) không gắn kết rõ ràng dự án với tiêu chí ESG/kinh tế tuần hoàn dù đây là tiêu chí chấm điểm cốt lõi; (3) thiếu chuẩn bị cho phần phản biện trực tiếp từ Ban Giám khảo và nhà đầu tư; (4) nộp hồ sơ thiếu đủ 3 tài liệu bắt buộc (Tóm tắt dự án, CV nhóm, Phiếu đăng ký).",
+      "key_success_factors": "Dự án phải giải quyết vấn đề thực tiễn địa phương rõ ràng, có mô hình kinh doanh khả thi và thể hiện được tác động xã hội/môi trường đo lường được. Kỹ năng pitch tự tin, mạch lạc và xử lý phản biện sắc bén là yếu tố phân biệt Top 5 với phần còn lại. Tận dụng tối đa các buổi Training-Coaching từ chuyên gia trong giai đoạn Sơ khảo để hoàn thiện dự án.",
+      "prep_advice": "Giai đoạn trước nộp hồ sơ: Nghiên cứu kỹ tiêu chí ESG và kinh tế tuần hoàn, xác định vấn đề địa phương cụ thể để giải quyết, chuẩn bị đầy đủ 3 tài liệu theo đúng mẫu BTC cung cấp. Giai đoạn Sơ khảo: Tham gia tích cực 100% các buổi Training-Coaching, lắng nghe phản hồi của mentor và điều chỉnh ngay. Giai đoạn Demo Day: Luyện pitch không quá 10 phút, chuẩn bị Q&A với ít nhất 20 câu hỏi khó từ góc nhìn nhà đầu tư. Giai đoạn Chung kết: Học cách viết Investment Memo và trình bày Financial Projections thuyết phục."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Bảng Học sinh: Nhất 10tr, Nhì 5tr, Ba 3tr (x2), KK 1tr (x4).",
+        "Bảng Sinh viên: Nhất 20tr, Nhì 10tr, Ba 6tr (x2), KK 3tr (x2), Tiềm Năng 2tr (x2).",
+        "Tổng giải thưởng hơn 70 triệu VNĐ.",
+        "Ba (x2) 6tr/giải",
+        "Khuyến khích (x2) 3tr/giải",
+        "Tiềm Năng (x2) 2tr/giải."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Tất cả kèm kỷ niệm chương, giấy khen, giấy CN.",
+        "Tất cả giải thưởng kèm kỷ niệm chương, giấy khen, giấy chứng nhận và quà từ nhà tài trợ."
+      ],
+      "certificate": [
+        "Tất cả kèm kỷ niệm chương, giấy khen, giấy CN.",
+        "Tất cả giải thưởng kèm kỷ niệm chương, giấy khen, giấy chứng nhận và quà từ nhà tài trợ."
+      ],
+      "raw_text": "Bảng Học sinh: Nhất 10tr, Nhì 5tr, Ba 3tr (x2), KK 1tr (x4). Bảng Sinh viên: Nhất 20tr, Nhì 10tr, Ba 6tr (x2), KK 3tr (x2), Tiềm Năng 2tr (x2). Tất cả kèm kỷ niệm chương, giấy khen, giấy CN. Tổng giải thưởng hơn 70 triệu VNĐ.\nTổng giải thưởng hơn 70 triệu VNĐ. Bảng Sinh viên: Nhất 20tr | Nhì 10tr | Ba (x2) 6tr/giải | Khuyến khích (x2) 3tr/giải | Tiềm Năng (x2) 2tr/giải. Bảng Học sinh: Nhất 10tr | Nhì 5tr | Ba (x2) 3tr/giải | Khuyến khích (x4) 1tr/giải. Tất cả giải thưởng kèm kỷ niệm chương, giấy khen, giấy chứng nhận và quà từ nhà tài trợ."
+    }
+  },
+  {
+    "id": "tec-ftu-startup-program-2026",
+    "name": "TEC Startup Program 2026",
+    "season": "2026",
+    "organizer": "CLB Nhà Doanh nghiệp Tương lai - Trường Đại học Ngoại thương (TEC FTU)",
+    "category": "Khởi nghiệp (Không giới hạn lĩnh vực đề án)",
+    "short_description": "TEC Startup Program 2026 là chương trình ươm tạo khởi nghiệp hoàn toàn miễn phí, đóng vai trò bệ phóng cho các dự án startup giai đoạn đầu dành cho thế hệ học sinh, sinh viên và người trẻ toàn quốc. Chương trình trang bị kiến thức thực chiến, kết nối mentor và chuyên gia hàng đầu, đồng thời mở ra cơ hội vào thẳng Top 30 cuộc thi Khởi nghiệp cùng Kawai 2027 - cuộc thi khởi nghiệp sinh viên lớn nhất miền Bắc.",
+    "eligibility": "Học sinh, sinh viên, người đi làm từ 17–24 tuổi trên toàn quốc; có hoặc chưa có ý tưởng startup đều được tham gia",
+    "deadline": "31/08/2026 (cá nhân) – 30/09/2026 (đội thi) lúc 23h59",
+    "duration": "Tháng 08/2026 - Tháng 09/2026 (dự kiến, dựa trên hạn đăng ký 31/08/2026)",
+    "rounds_count": 2,
+    "rounds_description": "Giai đoạn 1: Đăng ký & xét duyệt hồ sơ (nộp CV, pitch deck, entry test). Giai đoạn 2: Intensive Training cùng Mentors và vòng thi chính thức - Top 3 đội xuất sắc giành giải thưởng và suất vào thẳng Top 30 Khởi nghiệp cùng Kawai 2027.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 2,
+      "max": 4,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải thưởng gồm hiện kim, hiện vật; Top 3 đội thi được đặc cách vào Top 30 cuộc thi Khởi nghiệp cùng Kawai 2027",
+    "prizes_detail": "Top 3 đội thi xuất sắc nhận gói giải thưởng gồm hiện kim, hiện vật và tấm vé vào thẳng Top 30 Khởi nghiệp cùng Kawai 2027 - cuộc thi khởi nghiệp sinh viên có quy mô lớn nhất miền Bắc. Tổng giá trị giải thưởng chưa được công bố cụ thể.",
+    "registration_link": "http://startupprogram.tec-ftu.com/",
+    "source_url": "http://startupprogram.tec-ftu.com/",
+    "required_skills": [
+      {
+        "name": "Tư duy khởi nghiệp & Phát triển ý tưởng",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Nghiên cứu thị trường (Market Research)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thuyết trình & Pitch ý tưởng",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm & Phân công vai trò",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế Pitch Deck / Slide",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Phân tích tài chính cơ bản",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Marketing & Truyền thông",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Nghiên cứu & Phát triển sản phẩm (R&D)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Nộp hồ sơ đăng ký",
+        "date": "2026-08-31",
+        "description": "Thí sinh/Đội thi nộp đơn đăng ký trực tuyến tại website chính thức. Hồ sơ bao gồm: CV cá nhân, tài liệu mô tả ý tưởng/Pitch Deck (nếu có), Entry Test. Cá nhân chưa có đội có thể đăng ký để BTC hỗ trợ ghép đội. Hạn chót: 23h59 ngày 31/08/2026.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Xét duyệt hồ sơ & Thông báo kết quả",
+        "date": "2026-09-01",
+        "description": "Ban Tổ chức xét duyệt tư cách dự thi dựa trên hồ sơ đã nộp. Các đội đạt yêu cầu được thông báo và chính thức tham gia chương trình.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Intensive Training & Vòng thi chính thức",
+        "date": "2026-09-01",
+        "description": "Các đội thi tham gia chuỗi Intensive Training với Mentors và chuyên gia. Hoàn thiện ý tưởng, xây dựng mô hình kinh doanh và chuẩn bị cho vòng pitch chính thức trước Ban giám khảo.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Chung kết: Pitch & Trao giải",
+        "date": "Chưa công bố",
+        "description": "Top các đội thi xuất sắc thực hiện phần trình bày (pitch) trước Ban giám khảo. Top 3 đội giành giải thưởng hiện kim, hiện vật và suất vào thẳng Top 30 Khởi nghiệp cùng Kawai 2027.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thách thức lớn nhất là biến ý tưởng sơ khai thành mô hình kinh doanh khả thi trong thời gian ngắn - từ việc thẩm định ý tưởng thực tế, nghiên cứu thị trường chuyên sâu đến xây dựng MVP có giá trị bền vững. Đặc biệt với các đội không có ý tưởng ban đầu, áp lực hình thành concept và gắn kết đội ngũ mới trong giai đoạn đầu là rào cản đáng kể.",
+      "common_mistakes": "Đăng ký theo nhóm bạn bè cùng chuyên môn, dẫn đến thiếu đa dạng kỹ năng (thiếu người làm R&D, tài chính hoặc marketing). Mô tả ý tưởng quá chung chung, không xác định được pain point rõ ràng. Nộp hồ sơ thiếu tài liệu yêu cầu hoặc đặt sai tên folder/file theo guideline. Không tận dụng cơ chế ghép đội từ BTC để tìm thành viên bổ sung kỹ năng.",
+      "key_success_factors": "Đội thi có cơ cấu vai trò đa dạng (R&D, Sales/Market, Marketing, Finance, Operations). Ý tưởng startup giải quyết vấn đề thực tế với lộ trình phát triển rõ ràng. Kỹ năng pitch thuyết phục và slide trình bày chuyên nghiệp. Chủ động học hỏi từ mentor và ứng dụng phản hồi nhanh trong quá trình Intensive Training.",
+      "prep_advice": "Xây dựng đội thi với ít nhất 4 vai trò chuyên môn khác nhau ngay từ đầu - nếu chưa đủ, hãy dùng group Kết nối Đội thi TEC FTU. Nghiên cứu kỹ các startup đã thành công từ mùa giải trước để học hỏi mô hình. Chuẩn bị CV chỉnh chu và bản mô tả ý tưởng dưới 150 từ sắc nét trước khi nộp đơn. Trong giai đoạn Intensive Training, chủ động đặt câu hỏi mentor và validate ý tưởng với người dùng thực tế càng sớm càng tốt."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Giải thưởng gồm hiện kim, hiện vật",
+        "Top 3 đội thi xuất sắc nhận gói giải thưởng gồm hiện kim, hiện vật và tấm vé vào thẳng Top 30 Khởi nghiệp cùng Kawai 2027 - cuộc thi khởi nghiệp sinh viên có quy mô lớn nhất miền Bắc."
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "Top 3 đội thi được đặc cách vào Top 30 cuộc thi Khởi nghiệp cùng Kawai 2027",
+        "Top 3 đội thi xuất sắc nhận gói giải thưởng gồm hiện kim, hiện vật và tấm vé vào thẳng Top 30 Khởi nghiệp cùng Kawai 2027 - cuộc thi khởi nghiệp sinh viên có quy mô lớn nhất miền Bắc."
+      ],
+      "in_kind": [
+        "Giải thưởng gồm hiện kim, hiện vật",
+        "Top 3 đội thi xuất sắc nhận gói giải thưởng gồm hiện kim, hiện vật và tấm vé vào thẳng Top 30 Khởi nghiệp cùng Kawai 2027 - cuộc thi khởi nghiệp sinh viên có quy mô lớn nhất miền Bắc."
+      ],
+      "certificate": [],
+      "raw_text": "Giải thưởng gồm hiện kim, hiện vật; Top 3 đội thi được đặc cách vào Top 30 cuộc thi Khởi nghiệp cùng Kawai 2027\nTop 3 đội thi xuất sắc nhận gói giải thưởng gồm hiện kim, hiện vật và tấm vé vào thẳng Top 30 Khởi nghiệp cùng Kawai 2027 - cuộc thi khởi nghiệp sinh viên có quy mô lớn nhất miền Bắc. Tổng giá trị giải thưởng chưa được công bố cụ thể."
+    }
+  },
+  {
+    "id": "react-2026-nic-undp-samsung",
+    "name": "RE:ACT – Thử thách thanh niên đổi mới sáng tạo vì cộng đồng bền vững",
+    "season": "2026 – 2027",
+    "organizer": "NIC (Trung tâm Đổi mới sáng tạo Quốc gia) và UNDP tại Việt Nam, với sự hỗ trợ từ Samsung",
+    "category": "Đổi mới sáng tạo; Kinh tế tuần hoàn; Sinh kế số bao trùm; Phát triển bền vững",
+    "short_description": "RE:ACT là chương trình tăng tốc đổi mới sáng tạo do NIC và UNDP Việt Nam đồng chủ trì, hỗ trợ bởi Samsung, dành cho các đội trẻ có giải pháp công nghệ giải quyết thách thức cộng đồng và phát triển bền vững. Chương trình triển khai theo mô hình Living Labs, cung cấp hỗ trợ tài chính lên đến 15.000 USD/đội, cố vấn chuyên sâu và cơ hội kết nối hệ sinh thái quốc tế. Đây không phải cuộc thi thuyết trình mà là hành trình thử nghiệm thực tế kéo dài 6 tháng.",
+    "eligibility": "Đội 1-5 thành viên do người trẻ dẫn dắt (ít nhất 1 thành viên nòng cốt 18-35 tuổi); có ít nhất 1 nhà sáng lập là công dân Việt Nam; đã có MVP hoặc nguyên mẫu chạy được; không bắt buộc thành lập doanh nghiệp",
+    "deadline": "23h59 ngày 15/09/2026",
+    "duration": "Tháng 7/2026 – Tháng 4/2027",
+    "rounds_count": 3,
+    "rounds_description": "Giai đoạn 1 – Tuyển chọn & Khởi động (Tháng 7–10/2026): nhận hồ sơ, roadshow, hội thảo, công bố đội được lựa chọn tại Diễn đàn đa phương. Giai đoạn 2 – Living Labs (Tháng 10/2026–3/2027): bootcamp, thử nghiệm giải pháp thực tế, cố vấn chuyên môn, nhận hỗ trợ tài chính lên đến 15.000 USD/đội. Giai đoạn 3 – Giới thiệu & Kết nối hệ sinh thái (Tháng 4/2027): chuyến học tập tại Hàn Quốc cho đại diện được lựa chọn, trình bày tại DEMO DAY Hà Nội, kết nối đối tác quốc tế.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Intermediate to Advanced",
+    "grand_prize": "Gói hỗ trợ vốn không hoàn lại lên đến 15.000 USD/đội (dành cho các đội xuất sắc được lựa chọn vào Living Labs); cố vấn chuyên sâu từ NIC, UNDP, Samsung, Generation17 Young Leaders; cơ hội tham gia chuyến học tập tại Hàn Quốc; giới thiệu tại Demo Day; chứng nhận từ UNDP Việt Nam và NIC",
+    "prizes_detail": "Hỗ trợ tài chính không hoàn lại tối đa 15.000 USD/đội dành cho các đội được lựa chọn vào giai đoạn Living Labs. Ngoài ra, các đội nhận cố vấn từ chuyên gia Samsung, UNDP, NIC và Generation17 Young Leaders; hạ tầng thử nghiệm thực tế (Living Labs); cơ hội tham gia chuyến trao đổi tại Hàn Quốc và trình bày tại DEMO DAY (dự kiến tháng 1/2027 tại Hà Nội). Chứng nhận tham dự từ UNDP Việt Nam và NIC cho các đội hoàn thành chương trình.",
+    "registration_link": "https://re-act.vn/",
+    "source_url": "https://re-act.vn/",
+    "required_skills": [
+      {
+        "name": "Phát triển sản phẩm / MVP",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tư duy đổi mới sáng tạo và giải quyết vấn đề",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Ứng dụng công nghệ vào bài toán xã hội",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Làm việc nhóm đa ngành và quản lý dự án",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Nghiên cứu người dùng và thu thập phản hồi thực địa",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thuyết trình và trình bày giải pháp",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy kinh doanh bền vững / Impact Measurement",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kiến thức về kinh tế tuần hoàn hoặc công nghệ sạch",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tiếng Anh giao tiếp và làm việc quốc tế",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Lập kế hoạch thử nghiệm (Experiment Design)",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Mở hồ sơ & Khởi động chương trình",
+        "date": "2026-07-01",
+        "description": "Phát động tìm kiếm giải pháp, tổ chức chuỗi hội thảo cung cấp thông tin và roadshow tại các trường đại học. Các đội tìm hiểu thể lệ, chuẩn bị và nộp hồ sơ mô tả vấn đề cộng đồng, giải pháp công nghệ và kế hoạch thử nghiệm.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Hạn nộp hồ sơ đăng ký",
+        "date": "2026-09-15",
+        "description": "Thời hạn cuối để nộp đơn đăng ký trực tuyến: 23h59 ngày 15/09/2026. Đội đã nộp có thể cập nhật hồ sơ trước thời điểm này; sau hạn không chỉnh sửa trừ khi BTC yêu cầu làm rõ.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Công bố đội được lựa chọn & Lễ khởi động Diễn đàn đa phương",
+        "date": "2026-10-01",
+        "description": "Công bố danh sách các đội được lựa chọn tại Diễn đàn đa phương (dự kiến tháng 10/2026). Tổ chức đối thoại đa bên giữa thanh niên, tổ chức hỗ trợ khởi nghiệp và nhà hoạch định chính sách. Lễ khởi động chính thức đã diễn ra ngày 07/08/2026 tại NIC Hà Nội.",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Giai đoạn Living Labs",
+        "date": "2026-10-01/2027-03-31",
+        "description": "Các đội được lựa chọn tham gia bootcamp, triển khai thử nghiệm giải pháp trong môi trường thực tế, làm việc trực tiếp với người dùng và đối tác Living Lab. Nhận hỗ trợ tài chính không hoàn lại lên đến 15.000 USD/đội, cố vấn chuyên môn từ NIC, UNDP, Samsung. Nộp báo cáo tiến độ định kỳ theo yêu cầu.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "DEMO DAY & Chuyến học tập Hàn Quốc",
+        "date": "2027-01-01/2027-04-30",
+        "description": "Các đại diện tiêu biểu tham gia chuyến học tập ngắn hạn tại Hàn Quốc (dự kiến tháng 4/2027) để kết nối đối tác Samsung và UNDP. Toàn bộ đội trình bày giải pháp tại DEMO DAY (dự kiến tháng 1/2027 tại Hà Nội) trước hệ sinh thái đổi mới sáng tạo. Các đội hoàn thành đủ tiêu chí nhận chứng nhận từ UNDP Việt Nam và NIC.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "RE:ACT không phải cuộc thi thuyết trình — thách thức lớn nhất là đội phải có MVP hoặc nguyên mẫu thực sự chạy được từ trước khi nộp hồ sơ, sau đó duy trì cam kết triển khai thực tế liên tục trong 6 tháng với người dùng thật, Living Lab thật và chịu trách nhiệm báo cáo tiến độ định kỳ. Áp lực đến từ việc phải vừa cải tiến sản phẩm liên tục vừa quản lý kỳ vọng từ nhiều bên (cố vấn, đối tác Living Lab, BTC).",
+      "common_mistakes": "Nộp hồ sơ khi giải pháp chỉ là ý tưởng hoặc deck thuyết trình mà chưa có MVP chạy được — đây là điều kiện loại trực tiếp. Không kê khai minh bạch các nguồn tài trợ đang nhận từ chương trình khác. Đội thuần kỹ thuật thiếu thành viên có kỹ năng nghiên cứu người dùng và tác động xã hội, dẫn đến giải pháp không khớp với nhu cầu thực tế của cộng đồng. Cam kết thời gian không đủ cho hành trình 6 tháng cường độ cao.",
+      "key_success_factors": "Đội đa ngành có kỹ năng bổ trợ (kỹ thuật + xã hội + kinh doanh); MVP hoạt động được với bằng chứng kiểm chứng từ người dùng thực; khả năng lặp lại cải tiến nhanh dựa trên phản hồi thực địa (iteration mindset); cam kết dài hạn và khả năng phối hợp chặt với cố vấn và đối tác Living Lab; giải pháp bám sát đúng 2 chủ đề trọng tâm (Sinh kế số bao trùm hoặc Cộng đồng bền vững & Kinh tế tuần hoàn).",
+      "prep_advice": "Trước khi nộp hồ sơ: đọc kỹ booklet chương trình, tự đánh giá giải pháp theo 6 tiêu chí lựa chọn (phù hợp cộng đồng, công nghệ, khả thi, mức độ sẵn sàng MVP, tiềm năng tác động, năng lực đội). Chuẩn bị tài liệu mô tả rõ vấn đề cộng đồng, giải pháp và kế hoạch thử nghiệm cụ thể trong Living Lab. Tham gia các hội thảo và roadshow BTC tổ chức để hiểu đúng kỳ vọng. Xác định trước Living Lab tiềm năng (cộng đồng, trường học, SME) để hồ sơ thể hiện tính sẵn sàng triển khai. Liên hệ nhóm Thanh niên vì Cộng đồng bền vững nếu có thắc mắc trong giờ hành chính."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Gói hỗ trợ vốn không hoàn lại lên đến 15.000 USD/đội (dành cho các đội xuất sắc được lựa chọn vào Living Labs)",
+        "Hỗ trợ tài chính không hoàn lại tối đa 15.000 USD/đội dành cho các đội được lựa chọn vào giai đoạn Living Labs."
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "Gói hỗ trợ vốn không hoàn lại lên đến 15.000 USD/đội (dành cho các đội xuất sắc được lựa chọn vào Living Labs)",
+        "cơ hội tham gia chuyến học tập tại Hàn Quốc",
+        "giới thiệu tại Demo Day",
+        "Hỗ trợ tài chính không hoàn lại tối đa 15.000 USD/đội dành cho các đội được lựa chọn vào giai đoạn Living Labs.",
+        "hạ tầng thử nghiệm thực tế (Living Labs)",
+        "cơ hội tham gia chuyến trao đổi tại Hàn Quốc và trình bày tại DEMO DAY (dự kiến tháng 1/2027 tại Hà Nội)."
+      ],
+      "in_kind": [],
+      "certificate": [
+        "chứng nhận từ UNDP Việt Nam và NIC",
+        "Chứng nhận tham dự từ UNDP Việt Nam và NIC cho các đội hoàn thành chương trình."
+      ],
+      "raw_text": "Gói hỗ trợ vốn không hoàn lại lên đến 15.000 USD/đội (dành cho các đội xuất sắc được lựa chọn vào Living Labs); cố vấn chuyên sâu từ NIC, UNDP, Samsung, Generation17 Young Leaders; cơ hội tham gia chuyến học tập tại Hàn Quốc; giới thiệu tại Demo Day; chứng nhận từ UNDP Việt Nam và NIC\nHỗ trợ tài chính không hoàn lại tối đa 15.000 USD/đội dành cho các đội được lựa chọn vào giai đoạn Living Labs. Ngoài ra, các đội nhận cố vấn từ chuyên gia Samsung, UNDP, NIC và Generation17 Young Leaders; hạ tầng thử nghiệm thực tế (Living Labs); cơ hội tham gia chuyến trao đổi tại Hàn Quốc và trình bày tại DEMO DAY (dự kiến tháng 1/2027 tại Hà Nội). Chứng nhận tham dự từ UNDP Việt Nam và NIC cho các đội hoàn thành chương trình."
+    }
+  },
+  {
+    "id": "agritech-startup-innovation-2026",
+    "name": "AGRITECH - Startup Innovation Competition",
+    "season": "TrendX 2026",
+    "organizer": "Khoingephinh.vn",
+    "category": "Công nghệ & Nông nghiệp",
+    "short_description": "Cuộc thi khởi nghiệp AgTech tập trung vào công nghệ nông nghiệp, khuyến khích sinh viên phát triển ý tưởng startup trong lĩnh vực nông nghiệp bền vững với cơ hội tiếp cận nguồn vốn và hợp tác với doanh nghiệp.",
+    "eligibility": "Sinh viên các trường đại học, cao đẳng tại Việt Nam, tuổi 18-25, có khả năng làm việc nhóm và am hiểu về lĩnh vực nông nghiệp hoặc công nghệ.",
+    "deadline": "2026-11-30",
+    "duration": "Tháng 10 - Tháng 12/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Nộp đề cương ý tưởng và nghiên cứu thị trường; Vòng 2: Thảo luận chuyên đề và phỏng vấn; Vòng 3: Thi đua thuyết trình chung kết trước hội đồng giám khảo.",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Intermediate",
+    "grand_prize": "Quán quân nhận 500 triệu đồng, giải thưởng vật phẩm cao cấp, cơ hội hợp tác với doanh nghiệp và đào tạo chuyên môn.",
+    "prizes_detail": "Vòng 1: Giải thưởng 100 triệu đồng cho ý tưởng tốt nhất; Vòng 2: 200 triệu đồng cho đội thuyết trình ấn tượng; Vòng 3: Quán quân 500 triệu đồng + phần thưởng phụ.",
+    "registration_link": "https://khoinghiepnongnghiep.vn/",
+    "source_url": "https://khoinghiepnongnghiep.vn/",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Innovation Thinking",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation Skills",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Technical Understanding",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Nộp Đề cương Ý tưởng",
+        "date": "2026-10-01",
+        "description": "Các đội nộp đề cương chi tiết về ý tưởng startup AgTech cùng nghiên cứu thị trường.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Thảo luận & Phỏng vấn",
+        "date": "2026-11-15",
+        "description": "Giai đoạn phỏng vấn chuyên sâu và đánh giá năng lực thuyết trình của các đội.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Thi đua Thuyết trình Chung kết",
+        "date": "2026-12-20",
+        "description": "Buổi thuyết trình chung kết trước hội đồng giám khảo để lựa chọn quán quân.",
+        "status": "scheduled"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Khả năng chuyển đổi ý tưởng từ lý thuyết sang sản phẩm thực tiễn trong bối cảnh nông nghiệp, đặc biệt là việc áp dụng công nghệ mới hiệu quả.",
+      "common_mistakes": "Thiếu nghiên cứu thị trường khách hàng, không có kế hoạch tài chính rõ ràng, trình bày không hấp dẫn và thiếu tính khả thi.",
+      "key_success_factors": "Tư duy sáng tạo, khả năng làm việc nhóm, sự chuẩn bị kỹ lưỡng cho phỏng vấn và việc có prototype hoặc mẫu thử thực tế.",
+      "prep_advice": "Nghiên cứu kỹ xu hướng AgTech, xây dựng prototype nhỏ, luyện tập thuyết trình trước đám đông và tìm hiểu kỹ về quy định của cuộc thi."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Quán quân nhận 500 triệu đồng, giải thưởng vật phẩm cao cấp, cơ hội hợp tác với doanh nghiệp và đào tạo chuyên môn.",
+        "Vòng 1: Giải thưởng 100 triệu đồng cho ý tưởng tốt nhất",
+        "Vòng 2: 200 triệu đồng cho đội thuyết trình ấn tượng",
+        "Vòng 3: Quán quân 500 triệu đồng"
+      ],
+      "scholarship": [
+        "Quán quân nhận 500 triệu đồng, giải thưởng vật phẩm cao cấp, cơ hội hợp tác với doanh nghiệp và đào tạo chuyên môn."
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "Quán quân nhận 500 triệu đồng, giải thưởng vật phẩm cao cấp, cơ hội hợp tác với doanh nghiệp và đào tạo chuyên môn."
+      ],
+      "certificate": [],
+      "raw_text": "Quán quân nhận 500 triệu đồng, giải thưởng vật phẩm cao cấp, cơ hội hợp tác với doanh nghiệp và đào tạo chuyên môn.\nVòng 1: Giải thưởng 100 triệu đồng cho ý tưởng tốt nhất; Vòng 2: 200 triệu đồng cho đội thuyết trình ấn tượng; Vòng 3: Quán quân 500 triệu đồng + phần thưởng phụ."
+    }
+  },
+  {
+    "id": "vietfuture-awards-2026",
+    "name": "Giải thưởng Sáng tạo Tương lai – VietFuture Awards",
+    "season": "VietFuture Awards 2026",
+    "organizer": "Hiệp hội Phần mềm và Dịch vụ Công nghệ thông tin (VINASA)",
+    "category": "Khởi nghiệp đổi mới sáng tạo, Công nghệ thông tin, R&D",
+    "short_description": "The VietFuture Awards is an annual competition organized by VINASA that recognizes innovative startup projects from university and college students across Vietnam. It connects academic research with industry partners, fostering commercialization and talent recruitment. The 2026 edition showcases cutting‑edge student innovations and provides networking opportunities with sponsors and enterprises.",
+    "eligibility": "Sinh viên các trường đại học, cao đẳng trên cả nước; các nhóm nghiên cứu; dự án R&D của trường đại học/cao đẳng",
+    "deadline": "Not specified",
+    "duration": "2026 (ongoing)",
+    "rounds_count": 1,
+    "rounds_description": "Submission of innovative startup project proposals followed by judging and award ceremony.",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team or Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Not disclosed",
+    "prizes_detail": "Total prize pool not disclosed.",
+    "registration_link": "https://vietfuture.world/",
+    "source_url": "https://vietfuture.world/",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Innovation & Creativity",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Submission Period",
+        "date": "TBD",
+        "description": "Register and upload project proposal and supporting documents.",
+        "status": "pending"
+      },
+      {
+        "stage": 2,
+        "name": "Judging & Shortlisting",
+        "date": "TBD",
+        "description": "Panel reviews submissions and selects finalists.",
+        "status": "pending"
+      },
+      {
+        "stage": 3,
+        "name": "Award Ceremony",
+        "date": "TBD",
+        "description": "Finalists present solutions and winners are announced.",
+        "status": "pending"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Developing a viable innovative solution with clear commercial potential and aligning it with industry needs.",
+      "common_mistakes": "Insufficient market research, unrealistic business models, poor teamwork coordination, and inadequate presentation preparation.",
+      "key_success_factors": "Strong value proposition, well‑researched problem‑solution fit, polished presentation, and effective networking with judges and sponsors.",
+      "prep_advice": "Start early, form a diverse team with complementary skills, validate the idea with potential users, iterate the prototype, and practice pitching regularly."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Not disclosed\nTotal prize pool not disclosed."
+    }
+  },
+  {
+    "id": "sinh-vien-voi-sang-kien-esg-2026",
+    "name": "Sinh viên với Sáng kiến ESG",
+    "season": "Mùa 3 (2026)",
+    "organizer": "Học viện Ngân hàng phối hợp với Đại học Công nghiệp Hà Nội, tài trợ bởi Oxfam",
+    "category": "Phát triển bền vững / ESG (Môi trường - Xã hội - Quản trị)",
+    "short_description": "Cuộc thi khuyến khích sinh viên đề xuất và phát triển các sáng kiến về Môi trường - Xã hội - Quản trị (ESG), hướng tới các Mục tiêu Phát triển Bền vững (SDGs) của Liên Hợp Quốc. Đây là mùa thi thứ 3, với điểm đặc biệt là các dự án xuất sắc có cơ hội nhận seed funding để triển khai thực tế. Chương trình kết hợp vòng thi học thuật và giai đoạn ươm tạo dài hạn.",
+    "eligibility": "Sinh viên đang theo học tại Học viện Ngân hàng và các trường đại học, học viện có quan tâm đến chủ đề cuộc thi",
+    "deadline": "15/07/2026",
+    "duration": "Tháng 06/2026 - Tháng 09/2026",
+    "rounds_count": 3,
+    "rounds_description": "Giai đoạn 1 (Lựa chọn ý tưởng, 25/06–05/08/2026) gồm 3 vòng: Vòng 1 - Ghi danh và sơ loại hồ sơ (nộp video + bản mô tả sáng kiến); Vòng 2 - Khám phá (nộp bản kế hoạch tài chính); Vòng 3 - Chinh phục (thuyết trình và bảo vệ dự án trực tiếp trước Hội đồng). Giai đoạn 2 (Ươm tạo và hỗ trợ triển khai, 06/08–30/09/2026) gồm hoàn thiện dự án và ký kết tài trợ.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Seed funding hỗ trợ triển khai dự án (mức cụ thể không được công bố); hỗ trợ huấn luyện và ký kết tài trợ cho các dự án đáp ứng yêu cầu Ban Tổ chức",
+    "prizes_detail": "Các dự án đáp ứng yêu cầu Ban Tổ chức sẽ được xem xét hỗ trợ seed funding (mức cụ thể không được công bố). Bao gồm huấn luyện chuyên sâu, ký kết tài trợ và hỗ trợ triển khai thực tế trong Giai đoạn 2.",
+    "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSdLSuaHyBeyIg.../viewform",
+    "source_url": "https://hvnh.edu.vn/bank/vi/hoatdongsinhvien/cuoc-thi-sinh-vien-voi-sang-kien-esg-1493.html",
+    "required_skills": [
+      {
+        "name": "Tư duy sáng tạo & Đổi mới",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Hiểu biết về ESG / Phát triển bền vững",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Nghiên cứu và viết báo cáo",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thuyết trình & Hùng biện",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Lập kế hoạch tài chính cơ bản",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Làm việc nhóm",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế slide / trình bày trực quan",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Sản xuất video cơ bản",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy kinh doanh / Business Model",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kỹ năng phản biện (Q&A)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Ghi danh và Sơ loại hồ sơ",
+        "date": "2026-06-30 đến 2026-07-15",
+        "description": "Nộp hồ sơ gồm: (1) 01 video giới thiệu dự án từ 3–5 phút, không vi phạm bản quyền; (2) 01 bản mô tả sáng kiến từ 5–10 trang A4. Hạn cuối: 23h59 ngày 15/07/2026.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Khám phá",
+        "date": "2026-07-16 đến 2026-07-25",
+        "description": "Các đội lọt vào vòng 2 nộp bản kế hoạch tài chính của dự án theo hướng dẫn của Ban Tổ chức.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chinh phục",
+        "date": "2026-07-26 đến 2026-08-05",
+        "description": "Thuyết trình và bảo vệ dự án trực tiếp trước Hội đồng chuyên môn. Thuyết trình tối đa 10 phút, hỏi đáp và phản biện tối đa 5 phút.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Giai đoạn 2 - Chặng 1: Hoàn thiện dự án và Tiền ươm tạo",
+        "date": "2026-08-06 đến 2026-09-30",
+        "description": "Các dự án đáp ứng yêu cầu được lựa chọn để hoàn thiện với sự đồng hành của chuyên gia và cố vấn.",
+        "status": "active"
+      },
+      {
+        "stage": 5,
+        "name": "Giai đoạn 2 - Chặng 2: Ký kết tài trợ, Huấn luyện và Triển khai",
+        "date": "2026-08-06 đến 2026-09-30",
+        "description": "Ký kết seed funding, huấn luyện chuyên sâu và triển khai dự án thực tế.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Vòng 2 yêu cầu lập kế hoạch tài chính cho dự án sáng kiến xã hội — đây là thử thách lớn với sinh viên chưa quen định lượng chi phí, doanh thu và tác động ESG thành các con số cụ thể. Vòng 3 đòi hỏi phản biện trực tiếp trước Hội đồng chuyên môn trong thời gian ngắn (5 phút), yêu cầu nắm chắc toàn bộ dự án.",
+      "common_mistakes": "Đề xuất sáng kiến quá rộng hoặc thiếu tính khả thi thực tế; không liên kết rõ ràng dự án với các tiêu chí ESG cụ thể (E/S/G); video giới thiệu thiếu trọng tâm hoặc vượt thời lượng quy định; bản mô tả sáng kiến thiếu phần phân tích tác động đo lường được.",
+      "key_success_factors": "Ý tưởng có tính ứng dụng thực tế và đo lường được tác động ESG; kế hoạch tài chính thực tế và có cơ sở; khả năng trình bày thuyết phục và xử lý phản biện linh hoạt; thể hiện rõ tư duy trách nhiệm xã hội gắn với SDGs của Liên Hợp Quốc.",
+      "prep_advice": "Tuần 1–2: Nghiên cứu kỹ 3 trụ cột ESG và xác định vấn đề cụ thể trong cộng đồng/nhà trường. Tuần 3: Xây dựng giải pháp có thể triển khai được, không chỉ lý thuyết. Tuần 4: Quay video, viết bản mô tả và nộp hồ sơ. Nếu vào vòng 2, cần chuẩn bị bản kế hoạch tài chính đơn giản nhưng có căn cứ (chi phí vận hành, nguồn thu, tác động). Tham khảo các dự án đã đoạt giải mùa 1 và 2 để hiểu tiêu chí đánh giá thực tế."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Ươm tạo & Cơ hội"
+      ],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [
+        "Seed funding hỗ trợ triển khai dự án (mức cụ thể không được công bố)",
+        "Các dự án đáp ứng yêu cầu Ban Tổ chức sẽ được xem xét hỗ trợ seed funding (mức cụ thể không được công bố)."
+      ],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Seed funding hỗ trợ triển khai dự án (mức cụ thể không được công bố); hỗ trợ huấn luyện và ký kết tài trợ cho các dự án đáp ứng yêu cầu Ban Tổ chức\nCác dự án đáp ứng yêu cầu Ban Tổ chức sẽ được xem xét hỗ trợ seed funding (mức cụ thể không được công bố). Bao gồm huấn luyện chuyên sâu, ký kết tài trợ và hỗ trợ triển khai thực tế trong Giai đoạn 2."
+    }
+  },
+  {
+    "id": "huit-startup-2026",
+    "name": "HUIT STARTUP lần thứ VII năm 2026",
+    "season": "Lần thứ VII – Năm 2026",
+    "organizer": "Trường Đại học Công Thương TP. Hồ Chí Minh (HUIT)",
+    "category": "Khởi nghiệp đổi mới sáng tạo",
+    "short_description": "Cuộc thi HUIT Startup lần 07 năm 2026 với chủ đề 'Đổi mới sáng tạo hướng tới mục tiêu phát triển bền vững' là hoạt động thường niên tìm kiếm và ươm tạo các ý tưởng, dự án sáng tạo của học sinh, sinh viên, học viên và doanh nghiệp góp phần giải quyết các vấn đề xã hội và thúc đẩy phát triển bền vững tại TP. Hồ Chí Minh và các tỉnh lân cận.",
+    "eligibility": "Học sinh, sinh viên, học viên các trường ĐH, CĐ, trung cấp, THPT, GDTX; các cá nhân, tổ chức, doanh nghiệp (HTX, hộ kinh doanh, DN vừa và nhỏ) trên địa bàn TP.HCM và các tỉnh lân cận",
+    "deadline": "N/A",
+    "duration": "Tháng 09/2026 - Tháng 12/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Đăng ký và nộp hồ sơ đề xuất ý tưởng. Vòng 2: Trình bày ý tưởng và nhận phản hồi từ chuyên gia. Vòng 3: Chung kết với các dự án được chọn lọc.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "N/A",
+    "prizes_detail": "N/A",
+    "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSdlRmaBRgPAl_rbLjDOY__ROcyZsCOnoxec2izDhRVJTcHBfA/viewform",
+    "source_url": "https://khoinghiep.huit.edu.vn/",
+    "required_skills": [
+      {
+        "name": "Innovation",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Business Planning",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Teamwork",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Đăng ký và nộp hồ sơ đề xuất ý tưởng",
+        "date": "2026-09-23",
+        "description": "Đăng ký tham gia và nộp hồ sơ đề xuất ý tưởng khởi nghiệp sáng tạo.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Trình bày ý tưởng và nhận phản hồi từ chuyên gia",
+        "date": "N/A",
+        "description": "Các dự án được chọn lọc sẽ trình bày ý tưởng và nhận phản hồi từ chuyên gia.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chung kết",
+        "date": "N/A",
+        "description": "Các dự án tiêu biểu sẽ thi đấu tại vòng chung kết để đạt giải thưởng cao nhất.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Phát triển một mô hình kinh doanh khả thi và đáp ứng yêu cầu về tính bền vững.",
+      "common_mistakes": "Thiếu nghiên cứu thị trường, không rõ ràng trong giải pháp hoặc thiếu tính khả thi.",
+      "key_success_factors": "Sáng tạo, tính khả thi và khả năng trình bày rõ rệng.",
+      "prep_advice": "Tập trung vào giải pháp đổi mới sáng tạo, nghiên cứu kỹ thị trường và luyện tập kỹ năng trình bày."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "N/A\nN/A"
+    }
+  },
+  {
+    "id": "hanh-trinh-kinh-doanh-yec-neu-2026",
+    "name": "Hành Trình Kinh Doanh",
+    "season": "2026",
+    "organizer": "NEU (Đại học Kinh tế Quốc dân)",
+    "category": "Business Case",
+    "short_description": "Cuộc thi dành cho sinh viên NEU nhằm phát triển ý tưởng kinh doanh, rèn luyện kỹ năng phân tích thị trường và xây dựng kế hoạch kinh doanh bài bản.",
+    "eligibility": "Sinh viên đang học tại trường Đại học Kinh tế - ĐHQGHN (NEU), các năm học từ 2 đến 5.",
+    "deadline": "Not specified",
+    "duration": "Not specified",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Nộp bài luận ý tưởng; Vòng 2: Presentation trước giám khảo; Vòng 3: Chung kết và trao giải.",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Not specified",
+    "prizes_detail": "Not specified",
+    "registration_link": "",
+    "source_url": "https://kinhtetre.net/hanh-trinh-kinh-doanh/",
+    "required_skills": [
+      {
+        "name": "Market Research",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Business Plan Writing",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Public Speaking",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Team Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Creative Thinking",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Nộp bài luận",
+        "date": "Not specified",
+        "description": "Nộp bài luận về ý tưởng kinh doanh mới.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là xây dựng ý tưởng kinh doanh thực tế và có tính khả thi cao.",
+      "common_mistakes": "Sai lầm phổ biến là ý tưởng quá chung chung, thiếu phân tích thị trường cụ thể.",
+      "key_success_factors": "Yếu tố then chốt là ý tưởng sáng tạo kết hợp với phân tích dữ liệu thị trường sắc bén.",
+      "prep_advice": "Chiến lược ôn luyện: tìm hiểu các case study thành công, luyện viết business plan và luyện thuyết trình."
+    },
+    "status": "active",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Not specified\nNot specified"
+    }
+  },
+  {
+    "id": "180dc-global-case-competition-2026",
+    "name": "180 Degrees Consulting Global Case Competition",
+    "season": "2026",
+    "organizer": "180 Degrees Consulting (180DC)",
+    "category": "Tư vấn chiến lược, Tác động xã hội (Social Impact Consulting)",
+    "short_description": "Cuộc thi case competition thường niên quy mô toàn cầu do 180 Degrees Consulting tổ chức, tập trung vào các vấn đề social impact thực tế từ các tổ chức phi lợi nhuận lớn. Sinh viên từ khắp nơi trên thế giới cạnh tranh qua nhiều vòng giải quyết case, thảo luận với đối tác và trình bày trước hội đồng giám khảo. Phiên bản 2026 dự kiến diễn ra từ tháng 9 đến tháng 12.",
+    "eligibility": "Sinh viên đang theo học chương trình đại học/sau đại học toàn thời gian, dưới 28 tuổi tính đến ngày nộp đơn, đam mê tác động xã hội và giải quyết vấn đề. Đội từ 3–4 thành viên, cho phép đội liên trường.",
+    "deadline": "Tháng 10/2026 (Theo thông báo từng mùa)",
+    "duration": "Tháng 09/2026 - Tháng 12/2026",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm nhiều vòng giải quyết case (multiple rounds of case-solving), bao gồm các vòng sơ loại, thảo luận chuyên sâu với đối tác case partner, và vòng chung kết trình bày trước hội đồng giám khảo. Chi tiết cụ thể về số vòng và cơ cấu của mùa 2026 sẽ được công bố khi gần đến ngày khai mạc.",
+    "format": "Online",
+    "team_size": {
+      "min": 3,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "• Giải thưởng tiền mặt (tổng giải thưởng sẽ công bố sau)\n• Quyền lợi L&D\n• Truy cập miễn phí nền tảng CasewithAI\n• Fast-track tuyển dụng vào Global Leadership Team tại 180DC\n• Ưu tiên tham gia Future Leaders Program 2025–26\n• Dự án GLT trong năm tiếp theo\n• Cúp và huy chương\n(Danh sách mang tính chỉ dẫn, danh sách đầy đủ sẽ công bố sau)",
+    "prizes_detail": "Tổng giá trị giải thưởng tiền mặt sẽ được công bố chính thức khi gần đến ngày khai mạc. Ngoài tiền mặt, các giải thưởng bao gồm: L&D perks, quyền truy cập miễn phí CasewithAI, fast-tracked recruitment vào Global Leadership Team 180DC, priority access vào Future Leaders Program, GLT sourced projects trong năm tiếp theo, cúp và huy chương. (Các giải thưởng có điều kiện áp dụng - Ts & Cs applicable.)",
+    "registration_link": "https://180dc.org/programs/global-case-competition",
+    "source_url": "https://180dc.org/programs/global-case-competition",
+    "required_skills": [
+      {
+        "name": "Problem Solving & Case Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Social Impact Thinking",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Strategic Consulting Frameworks",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation & Pitching",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Research & Data Synthesis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Slide Design & Visual Communication",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Nonprofit / NGO Operations Knowledge",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Cross-cultural Communication",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Financial Modelling & Cost-Benefit Analysis",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Mở đơn đăng ký & Công bố Case Partner 2026",
+        "date": "TBA (dự kiến tháng 09/2026)",
+        "description": "Thông báo chính thức mở đơn đăng ký, công bố đối tác case partner và tổng giải thưởng đầy đủ của mùa 2026.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng sơ loại: Nộp bài giải case",
+        "date": "TBA (dự kiến tháng 10/2026)",
+        "description": "Các đội nhóm nhận đề bài case từ đối tác phi lợi nhuận, phân tích và nộp giải pháp dạng văn bản hoặc slide theo yêu cầu.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng giữa: Thảo luận với Case Partner",
+        "date": "TBA (dự kiến tháng 11/2026)",
+        "description": "Các đội lọt vòng sẽ tham gia phiên thảo luận chuyên sâu (insightful discussions) trực tiếp với đại diện tổ chức đối tác để làm rõ bài toán và nhận phản hồi.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng chung kết: Trình bày trước hội đồng giám khảo",
+        "date": "TBA (dự kiến tháng 12/2026)",
+        "description": "Các đội lọt vào chung kết thực hiện final presentations trước panel of judges. Kết quả phân hạng Global Winner, Global Runner-Up và Regional Winners được công bố.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là hiểu sâu bối cảnh vận hành đặc thù của tổ chức phi lợi nhuận: cân bằng giữa tính khả thi về chi phí và hiệu quả tác động xã hội trong điều kiện nguồn lực hạn chế. Khác với doanh nghiệp thương mại, giải pháp phải phản ánh đúng thực tế khan hiếm nguồn lực của social enterprise, đồng thời đảm bảo tính bền vững và khả năng mở rộng quy mô.",
+      "common_mistakes": "Các đội mới thường đề xuất giải pháp quá lý tưởng mà không gắn với năng lực thực tế của tổ chức đối tác; thiếu nghiên cứu kỹ về lịch sử, mô hình hoạt động và các chương trình hiện có của đối tác; trình bày mang tính lý thuyết thay vì đưa ra khuyến nghị có thể triển khai ngay; và không cân nhắc đến yếu tố địa phương hoá (local knowledge) trong thiết kế giải pháp.",
+      "key_success_factors": "Hiểu thấu đáo về đối tác case (deeply understanding the client and their unique context) là yếu tố then chốt. Các đội thắng cuộc thường xây dựng giải pháp dựa trên tri thức cộng đồng địa phương (community-driven), có tính phù hợp giá trị tổ chức (values-aligned), và trình bày với sự chuyên nghiệp, tự tin cao. Ngoài ra, khả năng làm việc nhóm xuyên quốc gia và tư duy tác động dài hạn cũng là lợi thế cạnh tranh rõ rệt.",
+      "prep_advice": "Nghiên cứu kỹ về case partner ngay khi được công bố: đọc báo cáo thường niên, trang web, tài liệu chiến lược. Luyện tập case solving với các framework consulting cơ bản (MECE, issue tree, root cause analysis). Tham khảo đề và giải pháp của các mùa trước (2024 - One Acre Fund, 2025 - Barefoot College International) để nắm phong cách đánh giá. Phân bổ thời gian đội theo hướng: 40% nghiên cứu & phân tích, 30% xây dựng giải pháp, 30% hoàn thiện slide và luyện trình bày."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Ươm tạo & Cơ hội",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Giải thưởng tiền mặt (tổng giải thưởng sẽ công bố sau)",
+        "Tổng giá trị giải thưởng tiền mặt sẽ được công bố chính thức khi gần đến ngày khai mạc.",
+        "Ngoài tiền mặt, các giải thưởng bao gồm: L&D perks, quyền truy cập miễn phí CasewithAI, fast-tracked recruitment vào Global Leadership Team 180DC, priority access vào Future Leaders Program, GLT sourced projects trong năm tiếp theo, cúp và huy chương. (Các giải thưởng có điều kiện áp dụng - Ts & Cs applicable.)"
+      ],
+      "scholarship": [
+        "Ngoài tiền mặt, các giải thưởng bao gồm: L&D perks, quyền truy cập miễn phí CasewithAI, fast-tracked recruitment vào Global Leadership Team 180DC, priority access vào Future Leaders Program, GLT sourced projects trong năm tiếp theo, cúp và huy chương. (Các giải thưởng có điều kiện áp dụng - Ts & Cs applicable.)"
+      ],
+      "opportunity": [
+        "Fast-track tuyển dụng vào Global Leadership Team tại 180DC",
+        "Ngoài tiền mặt, các giải thưởng bao gồm: L&D perks, quyền truy cập miễn phí CasewithAI, fast-tracked recruitment vào Global Leadership Team 180DC, priority access vào Future Leaders Program, GLT sourced projects trong năm tiếp theo, cúp và huy chương. (Các giải thưởng có điều kiện áp dụng - Ts & Cs applicable.)"
+      ],
+      "in_kind": [
+        "Cúp và huy chương",
+        "Ngoài tiền mặt, các giải thưởng bao gồm: L&D perks, quyền truy cập miễn phí CasewithAI, fast-tracked recruitment vào Global Leadership Team 180DC, priority access vào Future Leaders Program, GLT sourced projects trong năm tiếp theo, cúp và huy chương. (Các giải thưởng có điều kiện áp dụng - Ts & Cs applicable.)"
+      ],
+      "certificate": [],
+      "raw_text": "• Giải thưởng tiền mặt (tổng giải thưởng sẽ công bố sau)\n• Quyền lợi L&D\n• Truy cập miễn phí nền tảng CasewithAI\n• Fast-track tuyển dụng vào Global Leadership Team tại 180DC\n• Ưu tiên tham gia Future Leaders Program 2025–26\n• Dự án GLT trong năm tiếp theo\n• Cúp và huy chương\n(Danh sách mang tính chỉ dẫn, danh sách đầy đủ sẽ công bố sau)\nTổng giá trị giải thưởng tiền mặt sẽ được công bố chính thức khi gần đến ngày khai mạc. Ngoài tiền mặt, các giải thưởng bao gồm: L&D perks, quyền truy cập miễn phí CasewithAI, fast-tracked recruitment vào Global Leadership Team 180DC, priority access vào Future Leaders Program, GLT sourced projects trong năm tiếp theo, cúp và huy chương. (Các giải thưởng có điều kiện áp dụng - Ts & Cs applicable.)"
+    }
+  },
+  {
+    "id": "cbs-case-competition-global",
+    "name": "GLOBAL – CBS Case Competition",
+    "season": "Toàn cầu 2026 (Mùa thu)",
+    "organizer": "CBS Case Competition",
+    "category": "Case Competition / Giải quyết bài toán kinh doanh thực tế",
+    "short_description": "GLOBAL is an international case competition organized by CBS, offering a 24‑hour digital case challenge for university students worldwide, with a live grand final in Copenhagen.",
+    "eligibility": "Sinh viên đại học (cử nhân và thạc sĩ) trên toàn thế giới, đã hoàn thành bằng đại học không quá 2 năm trước khi bắt đầu học thạc sĩ.",
+    "deadline": "Đăng ký tại https://signup.casecompetition.com/ (Có khác nhau cho đội và cá nhân).",
+    "duration": "September 2026 – December 2026 (approx.)",
+    "rounds_count": 3,
+    "rounds_description": "Digital initial round and semi‑finals (online), followed by an in‑person grand final in Copenhagen for the top 3 teams.",
+    "format": "Hybrid (digital rounds + in‑person final)",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team or Individual"
+    },
+    "experience_level": "Intermediate",
+    "grand_prize": "3 đội xuất sắc nhất sẽ được bay đến Copenhagen và trình bày chung kết trực tiếp trước các chuyên gia hàng đầu.",
+    "prizes_detail": "Exact prize amounts are not disclosed; typical awards include cash (varies), accommodation, and networking opportunities.",
+    "registration_link": "https://signup.casecompetition.com/",
+    "source_url": "https://www.casecompetition.com/global/",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Critical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Registration Open",
+        "date": "2026-09-23",
+        "description": "Teams and individuals can sign up via the registration link.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Case Material Released",
+        "date": "TBD",
+        "description": "Participants receive the real‑life business case for the competition.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Initial Round Submission",
+        "date": "TBD",
+        "description": "24‑hour case solution PDF submitted according to format guidelines.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Semi‑final Announcements",
+        "date": "TBD",
+        "description": "Top teams from the initial round advance to the semi‑finals.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Grand Final in Copenhagen",
+        "date": "TBD",
+        "description": "Top 3 teams present live in Copenhagen; event is streamed online.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Solving a complex business case in 24 hours while coordinating a multi‑member team and adhering to strict PDF formatting rules.",
+      "common_mistakes": "Including university or personal names in submissions, exceeding 15 slides, missing the exact PDF naming convention, and failing to meet the deadline.",
+      "key_success_factors": "Strong teamwork, clear data‑driven insights, concise storytelling, professional slide design, and meeting all submission requirements.",
+      "prep_advice": "Start team formation early, practice timed case solves, review past PDFs, allocate roles (analyst, presenter, designer), and verify formatting before the deadline."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Ươm tạo & Cơ hội"
+      ],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [
+        "đội xuất sắc nhất sẽ được bay đến Copenhagen và trình bày chung kết trực tiếp trước các chuyên gia hàng đầu."
+      ],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "3 đội xuất sắc nhất sẽ được bay đến Copenhagen và trình bày chung kết trực tiếp trước các chuyên gia hàng đầu.\nExact prize amounts are not disclosed; typical awards include cash (varies), accommodation, and networking opportunities."
+    }
+  },
+  {
+    "id": "tsinghua-global-sdg-case-competition-2026",
+    "name": "Tsinghua Global SDG Case Competition 2026",
+    "season": "2026",
+    "organizer": "Trung tâm Case Chính sách và Quản trị Công Cộng Trung Quốc (CCCPPM), Trường Chính sách và Quản trị Công cộng (SPPM), Đại học Tsinghua; Viện Mục tiêu Phát triển Bền vững Tsinghua; Trung tâm Mục tiêu Phát triển Bền vững và Phát triển Lãnh đạo Toàn cầu (GSLDC); Công ty Dịch vụ Khoa học Công nghệ Khởi Đi (Tus-S&T Service); Công ty Cổ phần Sinh thái Mata Thâm Môn",
+    "category": "Chính sách công, Quản trị công, Mục tiêu Phát triển Bền vững (SDGs) của Liên Hợp Quốc",
+    "short_description": "Cuộc thi case study chính sách công quốc tế dành cho sinh viên đại học và sau đại học trên toàn thế giới, tập trung vào 17 Mục tiêu Phát triển Bền vững (SDGs) của Liên Hợp Quốc. Thí sinh làm việc theo nhóm để nghiên cứu các tình huống thực tế, xây dựng giải pháp chính sách sáng tạo và trình bày trước hội đồng giám khảo quốc tế.",
+    "eligibility": "Sinh viên đại học và sau đại học (thạc sĩ, tiến sĩ) đang học tại các trường đại học trên toàn thế giới, không giới hạn quốc tịch.",
+    "deadline": "20/07/2026 (14:00 giờ địa phương)",
+    "duration": "Tháng 06/2026 - Tháng 11/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Nộp đề xuất case (Proposal) - Ban giám khảo chấm chọn các đội lọt vào vòng sau. Vòng 2: Nộp báo cáo phân tích case (Case Analysis Report) sau khi thực hiện nghiên cứu thực địa và phỏng vấn các bên liên quan. Vòng 3: Chung kết - Các đội lọt vào chung kết trình bày sản phẩm và trả lời câu hỏi từ hội đồng giám khảo.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải Nhất: 15.000 CNY/nhóm (1 giải); Giải Nhì: 10.000 CNY/nhóm (2 giải); Giải Ba: 5.000 CNY/nhóm (3 giải). Case xuất sắc có cơ hội xuất bản trên China Case Bank và Springer Nature.",
+    "prizes_detail": "1 Giải Nhất: RMB ¥15,000; 2 Giải Nhì: RMB ¥10,000; 3 Giải Ba: RMB ¥5,000. Các tác giả case xuất sắc được mời xuất bản với Springer Nature và nhận thù lao một lần.",
+    "registration_link": "http://competition.sppm.tsinghua.edu.cn/cmpten/login.html",
+    "source_url": "http://ecase.sppm.tsinghua.edu.cn/info/1002/1411.htm",
+    "required_skills": [
+      {
+        "name": "Policy Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Academic Research & Case Writing",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "English Academic Writing",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Public Policy Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Field Research & Stakeholder Interviewing",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Team Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Presentation & Public Speaking",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Critical Thinking & Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đăng ký & Nộp đề xuất Case (Proposal)",
+        "date": "2026-06-15 đến 2026-07-20",
+        "description": "Đăng ký đội nhóm và nộp đề xuất case qua nền tảng online trước 14:00 ngày 20/07/2026. Tham gia buổi hội thảo thông tin & tập huấn ngày 30/06/2026.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Công bố đội lọt vào Vòng 2",
+        "date": "2026-07-31",
+        "description": "Ban giám khảo công bố kết quả vòng 1, các đội được chấp nhận tiến hành nghiên cứu case.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 2: Nộp Báo cáo Phân tích Case",
+        "date": "2026-09-22",
+        "description": "Nộp báo cáo phân tích case hoàn chỉnh trước 14:00 ngày 22/09/2026. Khuyến khích nghiên cứu thực địa và phỏng vấn các bên liên quan.",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Công bố các đội lọt vào Chung kết",
+        "date": "2026-10-14",
+        "description": "Ban giám khảo xem xét các báo cáo case analysis và công bố danh sách finalist.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng Chung kết & Công bố Giải thưởng",
+        "date": "2026-11-01",
+        "description": "Các đội finalist trình bày sản phẩm và trả lời câu hỏi từ giám khảo. Công bố các giải thưởng cuối cùng.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Việc chuyển từ đề xuất case sang báo cáo phân tích chuyên sâu đòi hỏi khả năng nghiên cứu thực địa, phỏng vấn stakeholder và xây dựng narrative policy case chất lượng cao trong thời gian có hạn. Bài viết phải bằng tiếng Anh và đạt chuẩn học thuật quốc tế.",
+      "common_mistakes": "Chọn đề tài quá rộng hoặc không liên kết chặt chẽ với SDGs; thiếu dữ liệu thực chứng từ nghiên cứu thực địa; không phân công rõ ràng trong nhóm; vi phạm bản quyền khi sử dụng nguồn tham khảo; nộp bài không đúng format quy định.",
+      "key_success_factors": "Đề tài sáng tạo gắn với SDGs có tính thời sự cao; phân tích đa chiều cân bằng giữa khía cạnh xã hội, kinh tế và môi trường; narrative case hấp dẫn kết hợp với rigorous analytical insights; khả năng phỏng vấn và thu thập dữ liệu thực tế; teamwork hiệu quả.",
+      "prep_advice": "Bắt đầu chuẩn bị từ giai đoạn mở đăng ký (15/06) để có thời gian tìm hiểu chủ đề SDGs liên quan. Tham gia buổi Information Session & Training Workshop (30/06) để nắm vững phương pháp case writing. Đội nhóm nên xác định rõ vai trò ngay từ đầu, chọn đề tài có đủ dữ liệu và nguồn lực để nghiên cứu thực địa. Ôn tập kiến thức nền về public policy và SDGs, luyện viết học thuật tiếng Anh theo format của cuộc thi."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Giải Nhất: 15.000 CNY/nhóm (1 giải)",
+        "Giải Nhì: 10.000 CNY/nhóm (2 giải)",
+        "Giải Ba: 5.000 CNY/nhóm (3 giải).",
+        "Giải Nhất: RMB ¥15,000",
+        "Giải Nhì: RMB ¥10,000",
+        "Giải Ba: RMB ¥5,000."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Giải Nhất: 15.000 CNY/nhóm (1 giải); Giải Nhì: 10.000 CNY/nhóm (2 giải); Giải Ba: 5.000 CNY/nhóm (3 giải). Case xuất sắc có cơ hội xuất bản trên China Case Bank và Springer Nature.\n1 Giải Nhất: RMB ¥15,000; 2 Giải Nhì: RMB ¥10,000; 3 Giải Ba: RMB ¥5,000. Các tác giả case xuất sắc được mời xuất bản với Springer Nature và nhận thù lao một lần."
+    }
+  },
+  {
+    "id": "undergraduate-case-competition-world-cup-2027",
+    "name": "Undergraduate Case Competition World Cup",
+    "season": "Fall 2026",
+    "organizer": "Management Consulted (chủ trì), đồng tổ chức bởi Case Questions (do Marc Cosentino sáng lập)",
+    "category": "Consulting / Chiến lược kinh doanh",
+    "short_description": "The Undergraduate Case Competition World Cup challenges undergraduate students worldwide to solve a real‑world business problem under time pressure, mirroring consulting work. Hosted virtually in Fall 2026, it offers exposure to top recruiting firms like Grant Thornton Stax and a chance to showcase analytical and teamwork skills on a global stage.",
+    "eligibility": "Sinh viên đại học (undergraduate), đội 4-5 thành viên cùng trường",
+    "deadline": "13/09/2026, 11:59PM PT",
+    "duration": "September 2026 – November 2026",
+    "rounds_count": 2,
+    "rounds_description": "First round: teams submit a 5‑minute recorded video presentation after the case prompt is released. Final round: top 5 teams present live on Zoom with a 5‑minute pitch followed by 5 minutes of Q&A.",
+    "format": "Online",
+    "team_size": {
+      "min": 4,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Không có tiền mặt; giá trị chính là cơ hội tiếp cận tuyển dụng Grant Thornton Stax, info session, thuyết trình trước ban giám khảo",
+    "prizes_detail": "Top 5 teams receive exposure to recruiters, information sessions, and career opportunities; no monetary awards.",
+    "registration_link": "https://managementconsulted.com/undergraduate-case-competition-world-cup-2027/",
+    "source_url": "https://managementconsulted.com/undergraduate-case-competition-world-cup-2027/",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Data Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Teamwork",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Time Management",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Application Deadline",
+        "date": "2026-09-13",
+        "description": "Submit team leader application form, each team member's PDF resume, and two short answers (why compete & business you admire).",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Case Prompt Release",
+        "date": "2026-10-09",
+        "description": "Growth‑strategy case prompt for a private‑equity acquired company is released; teams begin analysis.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "First‑Round Video Submission",
+        "date": "2026-10-16",
+        "description": "Upload 5‑minute recorded video presentation to the provided Google Drive folder.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "First‑Round Scoring",
+        "date": "2026-10-19/2026-10-23",
+        "description": "Judges evaluate video submissions; top 5 finalists are selected.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Finalists Notified",
+        "date": "2026-10-26",
+        "description": "Top 5 teams receive notification and advance to the live final round.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 6,
+        "name": "Final Round",
+        "date": "2026-11-06",
+        "description": "Live Zoom presentation (5‑minute pitch + 5‑minute Q&A) to Grant Thornton Stax leaders and guest judges.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Solving a complex growth‑strategy case under tight time pressure while coordinating a distributed team and adhering to strict presentation rules (no university branding, 5‑minute limit, each member must present).",
+      "common_mistakes": "Relying on textbook frameworks without real‑data analysis, uneven team participation, exceeding the 5‑minute time limit, and inadvertently mentioning the university name in the presentation.",
+      "key_success_factors": "Clear data‑driven analysis, concise storytelling, strong teamwork coordination, practicing the 5‑minute delivery with each member, and aligning recommendations with real‑world impact.",
+      "prep_advice": "Start analysis immediately after the case release, allocate dedicated time for individual research, conduct quick rehearsals with all team members, seek faculty mentorship for feedback, focus on building a standout resume line, and ensure every member is comfortable presenting under pressure."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội"
+      ],
+      "cash": [
+        "Không có tiền mặt",
+        "Top 5 teams receive exposure to recruiters, information sessions, and career opportunities"
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "giá trị chính là cơ hội tiếp cận tuyển dụng Grant Thornton Stax, info session, thuyết trình trước ban giám khảo"
+      ],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không có tiền mặt; giá trị chính là cơ hội tiếp cận tuyển dụng Grant Thornton Stax, info session, thuyết trình trước ban giám khảo\nTop 5 teams receive exposure to recruiters, information sessions, and career opportunities; no monetary awards."
+    }
+  },
+  {
+    "id": "e-compete-2025-kien-tao-doanh-nhan-so",
+    "name": "E-COMPETE: Kiến tạo Doanh nhân số",
+    "season": "2025",
+    "organizer": "CLB Thương mại điện tử Trường Đại học Ngoại thương - ECOM Club FTU",
+    "category": "Thương mại điện tử xuyên biên giới",
+    "short_description": "Cuộc thi thực chiến Thương mại điện tử xuyên biên giới lớn nhất dành cho sinh viên toàn quốc. Thí sinh sẽ vận hành doanh nghiệp E-commerce thực tế với ngân sách $350, trải qua các vòng pitching và giải case study với tổng giải thưởng hơn 430 triệu đồng.",
+    "eligibility": "Sinh viên trên toàn quốc (đội thi từ các trường Đại học)",
+    "deadline": "23h59 ngày 15/08/2025",
+    "duration": "Tháng 08/2025 - Tháng 12/2025",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Pitching (7 phút trình bày + 10 phút Q&A về kết quả kinh doanh thực chiến). Vòng 2: Giải Case Study (Top 3 đội, 7 phút đọc case/thảo luận/trình bày + 5 phút Q&A). Vòng 3: Thực chiến kinh doanh E-commerce với ngân sách $350 và $100 fulfill tại Cat Kiss Fish.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 3,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Intermediate to Advanced",
+    "grand_prize": "Quán Quân: 12.000.000 VNĐ + $350 + học bổng; Quý Quân: 8.000.000 VNĐ + $350 + học bổng; Á Quân: 5.000.000 VNĐ + $350 + học bổng; Top 5: giải thưởng tương ứng.",
+    "prizes_detail": "Tổng giải thưởng 433.619.000 VNĐ. Quán quân: 166.293.000 VNĐ. Quý quân: 106.523.500 VNĐ. Á quân: 88.638.500 VNĐ. Top 5: 72.164.000 VNĐ. Tất cả đội lọt vào Chung kết đều nhận hỗ trợ ngân sách thực chiến $350 và $100 fulfill.",
+    "registration_link": "https://www.ecomftu.com/ecompete",
+    "source_url": "https://www.ecomftu.com/ecompete",
+    "required_skills": [
+      {
+        "name": "E-commerce & Cross-border Trade",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Business Strategy & Execution",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Pitching & Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Case Study Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Budget Management",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Q&A Handling",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Digital Marketing",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Data Analytics",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Hạn chót đăng ký",
+        "date": "2025-08-15",
+        "description": "Đăng ký tham gia cuộc thi thông qua website chính thức. Deadline: 23h59 ngày 15/08/2025.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 3: Thực chiến kinh doanh",
+        "date": "2025-09 đến 2025-11",
+        "description": "Các đội vận hành doanh nghiệp E-commerce thực tế trên nền tảng xuyên biên giới với ngân sách hỗ trợ $350 và $100 fulfill. Thu thập dữ liệu kinh doanh để chuẩn bị cho vòng Pitching.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 1: Pitching",
+        "date": "2025-11",
+        "description": "Trình bày báo cáo kết quả hoạt động kinh doanh thực chiến trong 7 phút, sau đó trả lời câu hỏi của Ban giám khảo trong 10 phút.",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 2: Giải Case Study (Top 3)",
+        "date": "2025-12",
+        "description": "Top 3 đội xuất sắc nhất từ vòng Pitching sẽ bốc thăm case ngẫu nhiên. Mỗi đội có 7 phút để đọc case, thảo luận, trình bày và 5 phút hỏi đáp với Ban giám khảo.",
+        "status": "active"
+      },
+      {
+        "stage": 5,
+        "name": "Đêm Chung kết Toàn quốc",
+        "date": "2025-12",
+        "description": "Công bố kết quả cuối cùng và trao giải thưởng cho các đội xuất sắc. Vinh danh Quán quân, Quý quân, Á quân và Top 5.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thực chiến kinh doanh E-commerce xuyên biên giới với ngân sách giới hạn $350, đòi hỏi tối ưu hóa chi phí marketing, logistics và fulfill trong môi trường cạnh tranh thực tế. Áp lực lớn ở vòng Case Study khi chỉ có 7 phút để đọc case, thảo luận nhóm và trình bày giải pháp.",
+      "common_mistakes": "Không tối ưu hóa ngân sách thực chiến, dẫn đến kết quả kinh doanh kém trong vòng Pitching. Thiếu hiểu biết sâu về E-commerce xuyên biên giới (logistics, thuế, nền tảng). Pitching quá tập trung vào lý thuyết thay vì dữ liệu thực tế. Không luyện tập giải case study dưới áp lực thời gian ngắn.",
+      "key_success_factors": "Kinh nghiệm hoặc kiến thức thực tế về E-commerce và các nền tảng xuyên biên giới. Kỹ năng phân tích dữ liệu kinh doanh và rút ra insights. Khả năng thuyết trình tự tin, rõ ràng và xử lý Q&A linh hoạt. Tư duy phản biện nhanh để giải quyết case study trong thời gian giới hạn. Teamwork tốt để phối hợp hiệu quả trong các vòng thi.",
+      "prep_advice": "Nghiên cứu kỹ về các nền tảng E-commerce xuyên biên giới phổ biến (Shopee, Lazada, TikTok Shop, Amazon...) và quy trình vận hành. Luyện tập pitching với timeboxing chặt chẽ và thu thập feedback. Giải nhiều case study E-commerce/Business trong thời gian giới hạn để làm quen với áp lực. Xây dựng kế hoạch chi tiêu ngân sách $350 chi tiết trước khi bắt đầu thực chiến. Tham gia các workshop về E-commerce do Ban tổ chức cung cấp."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "Tổng giải thưởng 433.619.000 VNĐ",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng"
+      ],
+      "cash": [
+        "Quán Quân: 12.000.000 VNĐ",
+        "Quý Quân: 8.000.000 VNĐ",
+        "Á Quân: 5.000.000 VNĐ",
+        "Top 5: giải thưởng tương ứng.",
+        "Tổng giải thưởng 433.619.000 VNĐ.",
+        "Quán quân: 166.293.000 VNĐ."
+      ],
+      "scholarship": [
+        "học bổng"
+      ],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Quán Quân: 12.000.000 VNĐ + $350 + học bổng; Quý Quân: 8.000.000 VNĐ + $350 + học bổng; Á Quân: 5.000.000 VNĐ + $350 + học bổng; Top 5: giải thưởng tương ứng.\nTổng giải thưởng 433.619.000 VNĐ. Quán quân: 166.293.000 VNĐ. Quý quân: 106.523.500 VNĐ. Á quân: 88.638.500 VNĐ. Top 5: 72.164.000 VNĐ. Tất cả đội lọt vào Chung kết đều nhận hỗ trợ ngân sách thực chiến $350 và $100 fulfill."
+    }
+  },
+  {
+    "id": "beyond-borders-business-case-competition-2026-ritsumeikan-apu",
+    "name": "Beyond Borders Business Case Competition",
+    "season": "2026",
+    "organizer": "Ritsumeikan Asia Pacific University (APU)",
+    "category": "Business / Entrepreneurship",
+    "short_description": "Cuộc thi phân tích case business miễn phí trực tuyến dành cho học sinh phổ thông từ Việt Nam, Thái Lan, Lào và Campuchia. Đội gồm 4 thành viên giải quyết thách thức đổi mới bền vững trong vòng 96 giờ và trình bày trước hội đồng giám khảo qua Zoom.",
+    "eligibility": "HS students grades 10-12 or recent graduates (within 3 years, not in higher education) from Vietnam, Thailand, Laos, Cambodia; teams of exactly 4.",
+    "deadline": "22/07/2026",
+    "duration": "Tháng 06/2026 - Tháng 09/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 - Sàng lọc sơ bộ (Preliminary Screening): Nộp bản tóm tắt vấn đề xác định thách thức địa phương/khu vực. Vòng 2 - Thách thức case 96 giờ (Round 1): Nhận case business, nộp báo cáo, bài thuyết trình và video trong 96 giờ. Vòng 3 - Chung kết (Grand Finale): Top 6 đội trình bày trực tiếp qua Zoom trước hội đồng giám khảo.",
+    "format": "Online",
+    "team_size": {
+      "min": 4,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner",
+    "grand_prize": "Champions: 10,000 JPY voucher; Top 6 finalists: APU merchandise + certificates; All Preliminary participants: e-certificates",
+    "prizes_detail": "Quán quân: Voucher 10,000 JPY. Top 6 đội vào Chung kết: Quà tặng APU merchandise + chứng nhận. Tất cả thí sinh vòng sơ bộ: Chứng nhận điện tử (e-certificate).",
+    "registration_link": "https://borderless.so/fr/extracurricular-programs/ritsumeikan-asia-pacific-university/beyond-borders-business-case-competition",
+    "source_url": "https://borderless.so/fr/extracurricular-programs/ritsumeikan-asia-pacific-university/beyond-borders-business-case-competition",
+    "required_skills": [
+      {
+        "name": "Business Case Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "English Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Team Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Sustainable Innovation Knowledge",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Slide Design",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Video Production",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Sàng lọc sơ bộ (Preliminary Screening)",
+        "date": "Cuối tháng 07/2026",
+        "description": "Nộp bản tóm tắt vấn đề xác định thách thức địa phương hoặc khu vực. Đăng ký đội và thông tin trường học.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Thách thức Case 96 giờ (Round 1)",
+        "date": "Tháng 08/2026",
+        "description": "Nhận case business, xây dựng báo cáo, bài thuyết trình và video trong vòng 96 giờ.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chung kết trực tiếp qua Zoom (Grand Finale)",
+        "date": "Tháng 09/2026",
+        "description": "Top 6 đội trình bày trực tiếp trước hội đồng giám khảo qua Zoom.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là hoàn thành toàn bộ báo cáo case, bài thuyết trình và video chất lượng trong chỉ 96 giờ, đòi hỏi quản lý thời gian và phân công nhóm cực kỳ hiệu quả.",
+      "common_mistakes": "Quản lý thời gian kém trong vòng 96 giờ, bản tóm tắt vấn đề ở vòng sơ bộ không rõ ràng hoặc thiếu tính cụ thể, và trình bày tiếng Anh chưa đủ tự tin hoặc mạch lạc.",
+      "key_success_factors": "Khả năng phân tích framework vững chắc, kỹ năng trình bày tiếng Anh chuyên nghiệp, sự phối hợp nhịp nhàng giữa các thành viên trong đội, và giải pháp đổi mới bền vững có tính khả thi cao.",
+      "prep_advice": "Luyện tập phân tích case business thường xuyên, rèn kỹ năng thuyết trình tiếng Anh trước đám đông, thành lập đội đa dạng sớm với các thành viên bổ trợ kỹ năng (phân tích, thiết kế, viết, trình bày), và làm quen với format case competition quốc tế."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Champions: 10,000 JPY voucher",
+        "Quán quân: Voucher 10,000 JPY."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Champions: 10,000 JPY voucher",
+        "Top 6 finalists: APU merchandise",
+        "Quán quân: Voucher 10,000 JPY.",
+        "Top 6 đội vào Chung kết: Quà tặng APU merchandise"
+      ],
+      "certificate": [
+        "certificates",
+        "chứng nhận.",
+        "Tất cả thí sinh vòng sơ bộ: Chứng nhận điện tử (e-certificate)."
+      ],
+      "raw_text": "Champions: 10,000 JPY voucher; Top 6 finalists: APU merchandise + certificates; All Preliminary participants: e-certificates\nQuán quân: Voucher 10,000 JPY. Top 6 đội vào Chung kết: Quà tặng APU merchandise + chứng nhận. Tất cả thí sinh vòng sơ bộ: Chứng nhận điện tử (e-certificate)."
+    }
+  },
+  {
+    "id": "slug-dinh-danh-khong-dau-va-nam-vi-du-calliope-2026-trendx",
+    "name": "Race of Finance",
+    "season": "2026",
+    "organizer": "CLB Chứng khoán trẻ Học viện Tài chính (YSC)",
+    "category": "Tài chính - Chứng khoán",
+    "short_description": "Cuộc thi tài chính - chứng khoán dành cho sinh viên toàn quốc với 4 vòng thi bao gồm The Maze, Speed Up, Break Out và Finish The Race, tập trung vào phân tích tài chính, chiến lược đầu tư và kỹ năng thuyết trình.",
+    "eligibility": "Sinh viên trên toàn quốc",
+    "deadline": "2026-05-26",
+    "duration": "Từ 02/03/2026 đến 26/05/2026 (khoảng 3 tháng)",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1 (The Maze): Thí sinh giải quyết 8 bộ câu hỏi đa ngành, mỗi nhóm có 2 bộ câu hỏi để thoát khỏi mê cung. Vòng 2 (Speed Up): 7 câu hỏi trắc nghiệm với thời gian 30 giây mỗi câu, hệ thống ngôi sao hy vọng. Vòng 3 (Break Out): Thực chiến giao dịch chứng khoán trên tài khoản ảo, sau đó trình bày và phản biện. Vòng 4 (Finish The Race): Thuyết trình và tranh biện trực tiếp/trực tuyến với top 4 thí sinh.",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân, Á quân, Quý quân nhận cúp vinh danh, chứng nhận danh giá, tiền mặt và các suất học bổng phân tích tài chính/chứng khoán từ các định chế tài chính đối tác.",
+    "prizes_detail": "Vòng 1: Tối đa 70 điểm; Vòng 2: Tối đa 220 điểm; Vòng 3: Tối đa 1000 điểm; Vòng 4: Giải thưởng quán quân (tiền mặt + hiện vật + cơ hội)",
+    "registration_link": "https://www.raceoffinance.com/",
+    "source_url": "https://www.raceoffinance.com/",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Financial Analysis",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Technical Writing",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Public Speaking & Debating",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Risk Assessment",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Data Interpretation",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "The Maze",
+        "date": "2026-03-02 to 2026-03-17",
+        "description": "Vòng sơ lọc với 8 nhóm ngành, mỗi thí sinh chọn 1 nhóm và vượt qua 2 bộ câu hỏi để tiếp tục",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Speed Up",
+        "date": "2026-03-18 to 2026-04-15",
+        "description": "Vòng thi nhanh với 7 câu hỏi trắc nghiệm, hệ thống ngôi sao hy vọng, điểm tối đa 220",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Break Out Phase 1",
+        "date": "2026-03-16 to 2026-04-30",
+        "description": "Thực chiến giao dịch chứng khoán trên tài khoản ảo, Top 12 thí sinh tiến vào vòng 3B",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Break Out Phase 2",
+        "date": "2026-04-01 to 2026-04-30",
+        "description": "Top 4 thí sinh cao nhất bước vào vòng chung kết",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Finish The Race",
+        "date": "2026-05-26",
+        "description": "Thuyết trình và tranh biện trực tiếp với top 4 thí sinh, giải thưởng quán quân",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Cân bằng tốc độ và độ chính xác trong các câu hỏi trắc nghiệm đa dạng, đặc biệt là phần thực chiến giao dịch và thời gian giới hạn 30 giây mỗi câu",
+      "common_mistakes": "Không đọc kỹ đề bài, bỏ sót thời gian khi trả lời nhanh, trình bày thuyết trình thiếu cấu trúc logic, thiếu dữ liệu hỗ trợ trong bài phân tích",
+      "key_success_factors": "Kiến thức chuyên sâu về tài chính và chứng khoán, khả năng xử lý áp lực trong thời gian ngắn, kỹ năng thuyết trình tự tin và có cách chứng minh rõ ràng",
+      "prep_advice": "Nghiên cứu các khái niệm cơ bản về thị trường chứng khoán, thực hành giải bài tập phân tích tài chính hàng ngày, ôn luyện kỹ năng thuyết trình với đồng nghiệp, và nắm vững quy trình đánh giá rủi ro trong đầu tư"
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Giải Quán quân Race of Finance 2026",
+        "Vòng 4: Giải thưởng quán quân (tiền mặt"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "hiện vật"
+      ],
+      "certificate": [],
+      "raw_text": "Giải Quán quân Race of Finance 2026\nVòng 1: Tối đa 70 điểm; Vòng 2: Tối đa 220 điểm; Vòng 3: Tối đa 1000 điểm; Vòng 4: Giải thưởng quán quân (tiền mặt + hiện vật + cơ hội)"
+    }
+  },
+  {
+    "id": "the-banker-2026-trendx",
+    "name": "The Banker 2026",
+    "season": "2026",
+    "organizer": "CLB Nhà Ngân hàng Tương Lai FBN, Trường Đại học Ngoại thương",
+    "category": "Tài chính - Ngân hàng",
+    "short_description": "Cuộc thi học thuật về tài chính - ngân hàng tập trung vào chuyển đổi số ngân hàng. Sinh viên sẽ được trải nghiệm với Open Banking, AI, bảo mật và mô hình kinh doanh mới trong ngành ngân hàng.",
+    "eligibility": "Sinh viên, trường Đại học, Cao đẳng trên toàn quốc",
+    "deadline": "2026-07-06",
+    "duration": "Tháng 07/2026 - Tháng 10/2026",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1: Kiến thức nền tảng tài chính, ngân hàng, dữ liệu và chuyển đổi số. Vòng 2: Giải pháp Open Banking. Vòng 3: Phát triển công nghệ từ ý tưởng. Vòng 4: Hoàn thiện sản phẩm và tranh tài chước tại đêm chung kết.",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Chưa có thông tin chi tiết",
+    "prizes_detail": "Tổng giá trị giải thưởng bao gồm tiền mặt, hiện vật và cơ hội thực tập/tương lai với MSB và các đối tác đồng hành.",
+    "registration_link": "https://ftufbn.com/",
+    "source_url": "https://ftufbn.com/",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Data Analysis",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Digital Banking Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation Skills",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "API Design",
+        "priority": "nice_to_have",
+        "category": "Technical Skills"
+      },
+      {
+        "name": "AI/ML Concepts",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Kiến thức nền tảng",
+        "date": "2026-07-06 - 2026-08-21",
+        "description": "Thí sinh nộp bài thi cá nhân đánh giá kiến thức về tài chính, ngân hàng, dữ liệu và chuyển đổi số.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Open Banking Solutions",
+        "date": "2026-08-23 - 2026-09-02",
+        "description": "Lên ý tưởng giải pháp cho khó khăn trong lĩnh vực Open Banking.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Phát triển công nghệ",
+        "date": "2026-09-10 - 2026-09-20",
+        "description": "Phát triển hồ sơ công nghệ từ ý tưởng giải pháp.",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 4: ASCEND BEYOND - Chung kết",
+        "date": "2026-09-23 - 2026-10-04",
+        "description": "Hoàn thiện sản phẩm và tranh tài trực tiếp tại đêm chung kết.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thời gian ngắn ngủi giữa các vòng thi và áp lực phải phát triển sản phẩm hoàn chỉnh trong vòng 4.",
+      "common_mistakes": "Không chuẩn bị đủ kiến thức về API, bảo mật và AI. Đội không phân công vai trò rõ ràng dẫn đến xung đột nội bộ.",
+      "key_success_factors": "Hiểu rõ Open Banking, sử dụng dữ liệu thực tế để xây dựng giải pháp khả thi, và trình bày logic chặt chẽ.",
+      "prep_advice": "Ôn lại kiến thức tài chính cơ bản, thực hành thiết kế API, và luyện tập trình bày bằng slide sinh động."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Tổng giá trị giải thưởng bao gồm tiền mặt, hiện vật và cơ hội thực tập/tương lai với MSB và các đối tác đồng hành."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Tổng giá trị giải thưởng bao gồm tiền mặt, hiện vật và cơ hội thực tập/tương lai với MSB và các đối tác đồng hành."
+      ],
+      "certificate": [],
+      "raw_text": "Chưa có thông tin chi tiết\nTổng giá trị giải thưởng bao gồm tiền mặt, hiện vật và cơ hội thực tập/tương lai với MSB và các đối tác đồng hành."
+    }
+  },
+  {
+    "id": "the-audit-race-2026-tidal-ascent-neu-t-fac",
+    "name": "The Audit Race 2026: Tidal Ascent",
+    "season": "2026",
+    "organizer": "CLB Kiểm toán viên tương lai t.FAC - Trường ĐH Kinh tế Quốc dân (NEU), bảo trợ bởi Viện Kế toán – Kiểm toán (SAA) và ACCA",
+    "category": "Kế toán - Kiểm toán",
+    "short_description": "Cuộc thi học thuật đầu tiên và duy nhất về lĩnh vực Kế toán - Kiểm toán tại Đại học Kinh tế Quốc dân (NEU), hướng đến việc rèn luyện tư duy phản biện, giải quyết tình huống thực tế và nâng cao kỹ năng trình bày trong môi trường quốc tế (Tiếng Anh).",
+    "eligibility": "Sinh viên đại học (yêu cầu thẻ sinh viên/Bảng điểm)",
+    "deadline": "23h59 ngày 29/09/2026",
+    "duration": "2026-09-10 to 2026-10-30",
+    "rounds_count": 4,
+    "rounds_description": "Cuộc thi gồm 4 vòng thi đa dạng: Vòng 1 (Mở đơn đăng ký trực tuyến chọn Top 250), Vòng 2 (Kiểm tra kiến thức cá nhân 60 phút bằng Tiếng Anh), Vòng 3 (Giải Case Study thực tế, training và pitching theo đội 5 người, riêng đội miền Nam online, miền Bắc trực tiếp), Vòng 4 (Đêm chung kết với Top 6 thi case study presentation, giải quyết tình huống mô phỏng và hùng biện cá nhân).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Intermediate to Advanced",
+    "grand_prize": "Quán quân (177.692.000 VNĐ), Á quân 1 (152.257.000 VNĐ), Á quân 2 (141.950.000 VNĐ), Top 250 (2.735.000 VNĐ), Tất cả thí sinh (736.000 VNĐ). Tổng: 4.759.410.000 VNĐ",
+    "prizes_detail": "Tổng giá trị giải thưởng toàn giải lên tới 4.759.410.000 VNĐ. Cụ thể: Quán quân nhận 177.692.000 VNĐ; Á quân 1 nhận 152.257.000 VNĐ; Á quân 2 nhận 141.950.000 VNĐ; các giải cho các vị trí thứ 3, 4, 5, 6 lần lượt là 118.763.000 VNĐ và 87.908.000 VNĐ; Top 250 nhận giải 2.735.000 VNĐ; tất cả thí sinh đăng ký thành công nhận voucher trị giá 736.000 VNĐ.",
+    "registration_link": "https://theauditrace.com/",
+    "source_url": "https://theauditrace.com/",
+    "required_skills": [
+      {
+        "name": "Kiến thức Kế toán và Kiểm toán cơ bản",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tiếng Anh chuyên ngành (Kỹ năng đọc hiểu và làm bài thi Tiếng Anh)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phân tích Case Study và Giải quyết vấn đề",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Là việc nhóm và Hỗ trợ đồng đội (Team Collaboration)",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kỹ năng thuyết trình, Pitching và Hùng biện",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Thiết kế Slide trực quan sử dụng template có sẵn",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Echoes Below - Mở đơn đăng ký",
+        "date": "2026-09-10 to 2026-09-29",
+        "description": "Thí sinh đăng ký trực tuyến trên website theauditrace.com, tải lên minh chứng sinh viên hợp lệ. Ban tổ chức chọn ra Top 250 vào vòng tiếp theo.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Sunken Pursuit - Kiểm tra kiến thức",
+        "date": "2026-10-03 to 2026-10-04",
+        "description": "Thi cá nhân trong 60 phút, nội dung hoàn toàn bằng Tiếng Anh về kiến thức kinh tế - xã hội.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Atlantis Nexus - Case Study & Pitching",
+        "date": "2026-10-10 to 2026-10-18",
+        "description": "Vòng 3.1: Training & Networking, chia 8 đội (5 người/đội). Vòng 3.2: Giải Case và Pitching (đội miền Bắc thi trực tiếp, đội miền Nam thi online). Chọn Top 6 vào chung kết.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 4: Beyond the Tide - Đêm chung kết",
+        "date": "2026-10-30",
+        "description": "Top 6 được chia thành 2 đội 3 người. Thi qua 3 chặng: Thuyết trình Case Study, giải quyết tình huống mô phỏng thực tế, và Hùng biện cá nhân về chủ đề bất ngờ.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là việc giải quyết các tình huống Case Study thực tế của doanh nghiệp trong thời gian giới hạn, cùng với áp lực chuyển đổi từ thi cá nhân (Vòng 2) sang thi nhóm chuyên sâu (Vòng 3), và phần thi Hùng biện nhanh - phản xạ ngay trong đêm chung kết (Vòng 4.3).",
+      "common_mistakes": "Các thí sinh mới thường mắc phải các sai lầm sau: không ôn tập từ vựng chuyên ngành Tiếng Anh kỹ lưỡng dẫn đến hiểu nhầm case; thiếu các framework phân tích case rõ ràng; không tận dụng tối đa template slide do BTC cung cấp; và thiếu các buổi pitch cùng bạn nhóm dẫn đến thiếu sự phối hợp ăn ý.",
+      "key_success_factors": "Kiến thức nền tảng kế toán kiểm toán chắc chắn, tư duy phản biện logic, khả năng Tiếng Anh đọc hiểu nhanh, sự phối hợp đồng đội tốt, và kỹ năng giao tiếp - thuyết trình tự tin, ứng phó linh hoạt trước các câu hỏi phản biện của Ban Giám khảo.",
+      "prep_advice": "Chiến lược ôn tập hiệu quả gồm: 1) Xây dựng từ vựng chuyên ngành Tiếng Anh kế toán kiểm toán; 2) Luyện tập giải các case study thực tế có giới hạn thời gian (60-90 phút); 3) Thành lập nhóm học nhóm và mô phỏng các buổi Pitching cùng nhau; 4) Nghiên cứu kỹ slide template và chuẩn bị các kỹ năng hùng biện, phản xạ nhanh."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Quán quân (177.692.000 VNĐ), Á quân 1 (152.257.000 VNĐ), Á quân 2 (141.950.000 VNĐ), Top 250 (2.735.000 VNĐ), Tất cả thí sinh (736.000 VNĐ).",
+        "Tổng: 4.759.410.000 VNĐ",
+        "Tổng giá trị giải thưởng toàn giải lên tới 4.759.410.000 VNĐ.",
+        "Cụ thể: Quán quân nhận 177.692.000 VNĐ",
+        "Á quân 1 nhận 152.257.000 VNĐ",
+        "Á quân 2 nhận 141.950.000 VNĐ"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "tất cả thí sinh đăng ký thành công nhận voucher trị giá 736.000 VNĐ."
+      ],
+      "certificate": [],
+      "raw_text": "Quán quân (177.692.000 VNĐ), Á quân 1 (152.257.000 VNĐ), Á quân 2 (141.950.000 VNĐ), Top 250 (2.735.000 VNĐ), Tất cả thí sinh (736.000 VNĐ). Tổng: 4.759.410.000 VNĐ\nTổng giá trị giải thưởng toàn giải lên tới 4.759.410.000 VNĐ. Cụ thể: Quán quân nhận 177.692.000 VNĐ; Á quân 1 nhận 152.257.000 VNĐ; Á quân 2 nhận 141.950.000 VNĐ; các giải cho các vị trí thứ 3, 4, 5, 6 lần lượt là 118.763.000 VNĐ và 87.908.000 VNĐ; Top 250 nhận giải 2.735.000 VNĐ; tất cả thí sinh đăng ký thành công nhận voucher trị giá 736.000 VNĐ."
+    }
+  },
+  {
+    "id": "hr-sandbox-2026",
+    "name": "HR Sandbox 2026",
+    "season": "Mùa 6 (2026)",
+    "organizer": "CLB Nguồn Nhân lực Đại học Kinh tế Quốc dân HRC-NEU",
+    "category": "Nhân sự",
+    "short_description": "Cuộc thi giải case study về Nhân sự dành cho sinh viên đại học và cao đẳng trên toàn quốc, do HRC-NEU tổ chức. Sang mùa thứ 6 (2021–2025 đã hoàn thành 5 mùa), HR Sandbox 2026 quy mô 55+ doanh nghiệp đồng hành, 120+ cố vấn & giám khảo, với lộ trình thi gồm 4 vòng và các buổi training chuyên sâu.",
+    "eligibility": "1. Sinh viên đang theo học tại các trường Đại học và Cao đẳng trên toàn quốc có quan tâm đến lĩnh vực Nhân sự. 2. Sinh viên đã tốt nghiệp dưới 2 năm kinh nghiệm. Lưu ý: Thí sinh tham gia chung kết HR Sandbox 2025 sẽ KHÔNG được tham gia; Ban Tổ chức mùa 5, 6 KHÔNG được tham gia.",
+    "deadline": "22/07/2026",
+    "duration": "Tháng 06/2026 - Tháng 08/2026",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1 (CV Application & Case Cracking): Đội 3 người nộp CV và giải case study trong 7 ngày (15/07–22/07), top 30 đội tiến vào Vòng 2. Vòng 2, 3 và 4 bao gồm các chặng mentoring, đánh giá chuyên sâu và Chung kết (chi tiết chưa được công bố đầy đủ).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 3,
+      "max": 3,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân, Á quân, Quý quân, Khuyến khích",
+    "prizes_detail": "Chưa được công bố chi tiết cho mùa 2026. Mùa trước trao giải Quán quân, Á quân, Quý quân và các giải Khuyến khích.",
+    "registration_link": "https://hrsandbox2026.zhost.education/",
+    "source_url": "https://hrsandbox2026.zhost.education/",
+    "required_skills": [
+      {
+        "name": "Problem Solving / Case Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "HR Knowledge (Tuyển dụng, Đào tạo, Lương thưởng, Văn hóa tổ chức...)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Strategic Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Presentation & Pitching",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "CV Writing & Personal Branding",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Time Management",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Lễ phát động cuộc thi",
+        "date": "2026-06-26",
+        "description": "Offline tại Hội trường A2, Đại học Kinh tế Quốc dân.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Webinar Kick-off",
+        "date": "2026-07-03",
+        "description": "Online qua Zoom – Giới thiệu thể lệ, hướng dẫn hồ sơ & case study.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 1: CV Application",
+        "date": "2026-06-21 đến 2026-07-22",
+        "description": "Đội 3 người điền đơn đăng ký dự thi & nộp CV tại Website cuộc thi. BTC hỗ trợ ghép đội qua Hustlyspace hoặc Group HR SANDBOX COMMUNITY.",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 1: Case Cracking",
+        "date": "2026-07-15 đến 2026-07-22",
+        "description": "Leader nhận đề bài 15/07, 7 ngày thực hiện giải đề. Nộp bài hợp lệ nhận Feedback từ Hội đồng Giám khảo. Top 30 đội xuất sắc tiến vào Vòng 2.",
+        "status": "active"
+      },
+      {
+        "stage": 5,
+        "name": "Buổi 1: Comprehensive Training",
+        "date": "Chưa xác định (trong Vòng 1)",
+        "description": "Chủ đề: HR Knowledge + General Skills. Đối tượng: Tất cả thí sinh Vòng 1.",
+        "status": "active"
+      },
+      {
+        "stage": 6,
+        "name": "Vòng 2",
+        "date": "Chưa công bố",
+        "description": "Chi tiết chưa được tiết lộ. Dự kiến các đội top 30 tiếp tục giải case sâu hơn.",
+        "status": "pending"
+      },
+      {
+        "stage": 7,
+        "name": "Buổi 2: Exclusive Training",
+        "date": "Chưa xác định (sau Vòng 3.1)",
+        "description": "Chủ đề: HR Knowledge. Đối tượng: Top 30 thí sinh Vòng 3.1.",
+        "status": "pending"
+      },
+      {
+        "stage": 8,
+        "name": "Vòng 3",
+        "date": "Chưa công bố",
+        "description": "Chi tiết chưa được tiết lộ.",
+        "status": "pending"
+      },
+      {
+        "stage": 9,
+        "name": "Vòng 4 – Chung kết",
+        "date": "Chưa công bố",
+        "description": "Đêm Chung kết trao giải và tôn vinh quán quân.",
+        "status": "pending"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Áp dụng kiến thức Nhân sự vào giải case study thực tế dưới áp lực thời gian, đồng thời phải thể hiện tốt trong phần thuyết trình trước hội đồng giám khảo chuyên sâu.",
+      "common_mistakes": "Không chuẩn bị CV chỉn chu (BTC nhấn mạnh CV sẽ được sử dụng trong các chặng thi sau); thiếu hiểu biết về quy trình giải case study; không chủ động tìm hiểu thể lệ trước khi thi.",
+      "key_success_factors": "Tư duy chiến lược về Nhân sự, khả năng phân tích và giải quyết vấn đề thực tiễn, kỹ năng làm việc nhóm hiệu quả, và sự tự tin trong trình bày.",
+      "prep_advice": "Tham gia đầy đủ các buổi Training (Comprehensive & Exclusive), chuẩn bị CV chuyên nghiệp ngay từ đầu, chủ động tham gia cộng đồng HR SANDBOX COMMUNITY để tìm đội và cập nhật thông tin, luyện tập giải case study từ các mùa trước."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Quán quân, Á quân, Quý quân, Khuyến khích",
+        "Mùa trước trao giải Quán quân, Á quân, Quý quân và các giải Khuyến khích."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Quán quân, Á quân, Quý quân, Khuyến khích\nChưa được công bố chi tiết cho mùa 2026. Mùa trước trao giải Quán quân, Á quân, Quý quân và các giải Khuyến khích."
+    }
+  },
+  {
+    "id": "kmac-ftu-global-innovative-ideas-contest-2026",
+    "name": "KMAC - FTU Ý tưởng Đổi mới Sáng tạo Toàn cầu 2026",
+    "season": "Gen Z Chạm vào Bản sắc 2026",
+    "organizer": "Viện Đào tạo và Tư vấn Doanh nghiệp (iEIT) – Trường Đại học Ngoại Thương (FTU) & Công ty Tư vấn Quản lý Hàn Quốc (KMAC)",
+    "category": "Innovation",
+    "short_description": "Cuộc thi ý tưởng đổi mới sáng tạo toàn cầu lần thứ 4 được đồng tổ chức tại Việt Nam và Hàn Quốc, với chủ đề 'Gen Z Chạm vào Bản sắc – Phát triển công nghiệp văn hóa từ góc nhìn thế hệ trẻ'. Sân chơi dành cho sinh viên Việt Nam từ mọi ngành học (kinh tế, công nghệ, thiết kế, du lịch, nghệ thuật...) cùng đề xuất ý tưởng sáng tạo biến các giá trị văn hóa Việt thành sản phẩm, thương hiệu và giá trị kinh tế. Đội quán quân nhận 1.500 USD và chuyến đi Hàn Quốc tham dự lễ trao giải quốc tế.",
+    "eligibility": "Sinh viên mang quốc tịch Việt Nam đang theo học tại các trường đại học trên toàn quốc (ưu tiên Hà Nội nhưng không giới hạn), thuộc các khối ngành kinh tế, công nghệ, khoa học xã hội nhân văn, mỹ thuật, thiết kế và kiến trúc, du lịch, nghệ thuật biểu diễn và các ngành liên quan. Không giới hạn năm học.",
+    "deadline": "2026-09-23",
+    "duration": "Tháng 09/2026 – Tháng 12/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 – Sơ khảo (09/09 – 23/09/2026): nộp ý tưởng/hồ sơ dự thi qua form đăng ký, ban tổ chức chấm và chọn top vào chung khảo. Vòng 2 – Chung khảo (29–30/10/2026): top các đội thuyết trình trực tiếp bằng tiếng Anh tại Trường Đại học Ngoại Thương trước hội đồng giám khảo chuyên gia. Vòng 3 – Thuyết trình quốc tế với đội Hàn Quốc (13–14/11/2026, chỉ dành cho đội Quán quân): thuyết trình online cùng các đội thi Hàn Quốc và quốc tế. Lễ trao giải tại Hàn Quốc: 08/12/2026.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "1.500 USD tiền mặt + Chứng nhận từ KMAC + Cúp từ iEIT/FTU + Vé máy bay khứ hồi và toàn bộ chi phí lưu trú tại Seoul tham dự Lễ trao giải Hàn Quốc (cho 1 người)",
+    "prizes_detail": "Tổng giá trị giải thưởng: ~2.500 USD. 1 Giải Quán quân: 1.500 USD + vé Hàn Quốc. 4 Giải Á quân: 250 USD/giải (tổng 1.000 USD) + chứng nhận + cúp. Top 10 chung cuộc: chứng nhận từ KMAC và cúp từ iEIT.",
+    "registration_link": "https://forms.gle/R2qzmfLSz2jjzsAYA",
+    "source_url": "https://www.facebook.com/kmacftuglobalinnovativeideascontest2026?locale=vi_VN",
+    "required_skills": [
+      {
+        "name": "Tư duy sáng tạo & đổi mới (Creative & Innovative Thinking)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Phát triển ý tưởng thành mô hình/dự án (Idea Development)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thuyết trình bằng tiếng Anh (English Presentation)",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Hiểu biết về công nghiệp văn hóa & bản sắc Việt Nam (Cultural Industry Knowledge)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thiết kế slide & trình bày trực quan (Slide Design)",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm liên ngành (Cross-disciplinary Teamwork)",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model Development)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Marketing & Storytelling thương hiệu văn hóa",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Công nghệ số / AI / App / VR-AR (Digital Technology)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Nghiên cứu thị trường & phân tích dữ liệu (Market Research)",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thiết kế sản phẩm / UX-UI",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Sơ khảo – Mở đơn & Nộp hồ sơ ý tưởng",
+        "date": "2026-09-09 đến 2026-09-23",
+        "description": "Thí sinh đăng ký tham gia qua Google Form, nộp thông tin cá nhân/nhóm và ý tưởng ban đầu. KMAC cung cấp cơ chế 'Tìm đồng đội' hỗ trợ kết nối sinh viên liên trường liên ngành. Ban tổ chức chấm hồ sơ và chọn top đội tiến vào vòng chung khảo. Deadline đăng ký là 23/09/2026.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Chung khảo – Thuyết trình trực tiếp tại FTU",
+        "date": "2026-10-29 đến 2026-10-30",
+        "description": "Các đội lọt vào top thuyết trình trực tiếp bằng tiếng Anh tại Trường Đại học Ngoại Thương (91 Chùa Láng, Hà Nội) trước hội đồng giám khảo gồm chuyên gia công nghệ, doanh nghiệp và học thuật. Mỗi đội có 15 phút trình bày ý tưởng và trả lời phản biện. Ban giám khảo công bố Top 5 (1 Quán quân + 4 Á quân).",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Thuyết trình Quốc tế với đội Hàn Quốc (Quán quân)",
+        "date": "2026-11-13 đến 2026-11-14",
+        "description": "Chỉ dành cho đội Quán quân Việt Nam. Thuyết trình online cùng các đội thi Hàn Quốc và quốc tế trong khuôn khổ vòng chung khảo toàn cầu của KMAC. Cơ hội để đại diện Việt Nam thi đấu ở tầm quốc tế và ghi dấu ấn trên bảng xếp hạng chung cuộc.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Lễ trao giải tại Hàn Quốc",
+        "date": "2026-12-08",
+        "description": "Lễ trao giải chính thức tại Seoul, Hàn Quốc. Đội Quán quân Việt Nam được đài thọ toàn bộ chi phí (vé máy bay khứ hồi, lưu trú) để tham dự. Dựa trên lịch sử mùa 2025, sự kiện được tổ chức tại một trong những khách sạn sang trọng tại Seoul với sự tham dự của lãnh đạo KMAC và FTU.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thách thức lớn nhất là chuyển hóa một giá trị văn hóa quen thuộc thành ý tưởng có tính thương mại và khả năng nhân rộng – tức là không chỉ 'yêu văn hóa' mà phải chứng minh được mô hình tạo ra giá trị kinh tế thực tế. Ngoài ra, vòng chung khảo yêu cầu thuyết trình bằng tiếng Anh và trả lời phản biện từ ban giám khảo chuyên ngành, nên kỹ năng trình bày học thuật bằng tiếng Anh là rào cản lớn với nhiều đội.",
+      "common_mistakes": "Các đội mới thường mắc 3 sai lầm chính: (1) Ý tưởng quá rộng và mơ hồ – chỉ mô tả vấn đề mà không có giải pháp cụ thể hoặc mô hình kinh doanh khả thi. (2) Bỏ qua yếu tố đa ngành – team toàn người cùng ngành, thiếu góc nhìn công nghệ hoặc marketing để làm dày ý tưởng. (3) Thuyết trình không thuyết phục trước ban giám khảo – slide đẹp nhưng thiếu dữ liệu thị trường, chưa trả lời được câu hỏi 'tại sao ý tưởng này khả thi và ai sẽ trả tiền cho nó'.",
+      "key_success_factors": "Từ kinh nghiệm các đội đoạt giải mùa 2025 (Easy-Comm, EGBO, Mentor A+): (1) Chọn một vấn đề xã hội thực sự có data – ý tưởng phải giải quyết một pain point cụ thể được chứng minh bằng số liệu. (2) Kết hợp công nghệ (AI, app, nền tảng số) với giá trị nhân văn – ban giám khảo đánh giá cao tính ứng dụng thực tế. (3) Team đa ngành, có sự phân công rõ vai trò (CEO/CFO/CMO/COO). (4) Thuyết trình tự tin, logic và trực quan bằng tiếng Anh, kết hợp demo hoặc prototype nếu có.",
+      "prep_advice": "Giai đoạn đăng ký (trước 23/09): Đừng chờ ý tưởng hoàn hảo – đăng ký trước, chỉnh ý tưởng sau. Tận dụng cơ chế 'Tìm đồng đội' của BTC để ghép team liên ngành. Giai đoạn chuẩn bị (tháng 10): Nghiên cứu thị trường và thu thập số liệu thực tế cho ý tưởng; tham khảo các dự án đoạt giải mùa 2024–2025 (Easy-Comm, EGBO, Mentor A+) để học cách định hình bài thi. Luyện thuyết trình tiếng Anh hàng ngày, đặc biệt phần Q&A phản biện. Chuẩn bị slide súc tích (không quá 12 trang), có section rõ về Problem – Solution – Business Model – Market Potential. Trước vòng quốc tế (nếu vào Quán quân): nghiên cứu context Hàn Quốc để liên hệ so sánh, vì ban giám khảo là người Hàn Quốc và đánh giá cao sự hiểu biết song phương Việt – Hàn."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "Tổng giá trị giải thưởng: ~2.500 USD",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "USD tiền mặt",
+        "Tổng giá trị giải thưởng: ~2.500 USD.",
+        "Giải Quán quân: 1.500 USD",
+        "Giải Á quân: 250 USD/giải (tổng 1.000 USD)"
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "Vé máy bay khứ hồi và toàn bộ chi phí lưu trú tại Seoul tham dự Lễ trao giải Hàn Quốc (cho 1 người)",
+        "vé Hàn Quốc."
+      ],
+      "in_kind": [
+        "Cúp từ iEIT/FTU",
+        "cúp.",
+        "Top 10 chung cuộc: chứng nhận từ KMAC và cúp từ iEIT."
+      ],
+      "certificate": [
+        "Chứng nhận từ KMAC",
+        "chứng nhận",
+        "Top 10 chung cuộc: chứng nhận từ KMAC và cúp từ iEIT."
+      ],
+      "raw_text": "1.500 USD tiền mặt + Chứng nhận từ KMAC + Cúp từ iEIT/FTU + Vé máy bay khứ hồi và toàn bộ chi phí lưu trú tại Seoul tham dự Lễ trao giải Hàn Quốc (cho 1 người)\nTổng giá trị giải thưởng: ~2.500 USD. 1 Giải Quán quân: 1.500 USD + vé Hàn Quốc. 4 Giải Á quân: 250 USD/giải (tổng 1.000 USD) + chứng nhận + cúp. Top 10 chung cuộc: chứng nhận từ KMAC và cúp từ iEIT."
+    }
+  },
+  {
+    "id": "vsic-2026-vietnam-social-innovation-challenge",
+    "name": "Thử thách Sáng tạo Xã hội Việt Nam 2026 (Vietnam Social Innovation Challenge - VSIC 2026)",
+    "season": "VSIC 2026 - Mùa thứ 15",
+    "organizer": "Enactus FTU Hanoi - CLB trực thuộc Trường Đại học Ngoại thương Hà Nội",
+    "category": "Startup",
+    "short_description": "VSIC 2026 là cuộc thi khởi nghiệp xã hội quy mô toàn quốc dành cho sinh viên, bước vào mùa thứ 15 với chủ đề 'Đột phá khởi nghiệp xã hội kiến tạo chương mới cho một Việt Nam tự cường'. Cuộc thi tìm kiếm và ươm mầm các ý tưởng giải quyết vấn đề xã hội trong 6 lĩnh vực trọng tâm, kết nối đội thi với chuyên gia và cố vấn thực chiến. Điểm đặc biệt của mùa 2026 là hệ thống Consulting Day dành riêng cho Early Bird và chuỗi sự kiện hỗ trợ xuyên suốt từ Talkshow đến Mini Ideathon.",
+    "eligibility": "Sinh viên đang học tại các trường đại học trên toàn quốc (không giới hạn năm học hay chuyên ngành). Đội thi có thể đến từ nhiều trường khác nhau. Phạm vi toàn quốc với chung kết khu vực miền Bắc và chung kết toàn quốc.",
+    "deadline": "2026-09-26",
+    "duration": "Tháng 08/2026 - Tháng 12/2026",
+    "rounds_count": 5,
+    "rounds_description": "Vòng 1 - Prima (28/08 - 29/09): Nộp đề án ý tưởng, có Early Bird deadline 17/09; Vòng 2 - Forge (04/10 - 05/11): Phát triển và hoàn thiện đề án; Vòng 3 - Aegis (09/11 - 25/11): Vòng bán kết, mài giũa đề án; Chung kết miền Bắc (28/11); Chung kết toàn quốc (12/12/2026).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team hoặc Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Không công bố cụ thể giá trị tiền mặt trong các bài đăng VSIC 2026. Dựa trên VSIC 2025, quán quân nhận danh hiệu, cơ hội kết nối hệ sinh thái khởi nghiệp xã hội và tiếp cận nguồn lực từ các đối tác vườn ươm và bảo trợ chuyên môn.",
+    "prizes_detail": "Giải thưởng chưa được công bố chi tiết trong các bài đăng VSIC 2026. VSIC 2025 có các giải: Quán quân (4D-BONDE), Á quân (CFIM), Quý quân (MOJITALK). Ngoài giải thưởng, các đội thi được tư vấn chuyên sâu từ Consulting Day (miễn phí cho Early Bird - 19/09/2026), kết nối đối tác vườn ươm và cố vấn chuyên môn.",
+    "registration_link": "https://bit.ly/dondangkiduthivsic26",
+    "source_url": "https://www.facebook.com/VSIC.HN.ThuthachsangtaoxahoiVietNam?locale=vi_VN",
+    "required_skills": [
+      {
+        "name": "Xác định và phân tích vấn đề xã hội",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh xã hội (Social Business Model Canvas)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Chứng minh tính khả thi và tác động xã hội",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Pitching và thuyết trình trước ban giám khảo",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm và phân công nhiệm vụ",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Design Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Nghiên cứu thị trường và khảo sát người dùng",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thiết kế slide và trình bày trực quan",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Hiểu biết về SDGs và phát triển bền vững",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phân tích tài chính và mô hình doanh thu",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng phản biện và xử lý câu hỏi từ BGK",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Mở đơn đăng ký & Early Bird",
+        "date": "2026-08-28 đến 2026-09-17",
+        "description": "Mở đơn đăng ký tham dự và nộp đề án sớm (Early Bird). Đội thi nộp đề án trước 23h59 ngày 17/09/2026 để nhận đặc quyền tham gia Consulting Day miễn phí ngày 19/09/2026 - buổi tư vấn 1-1 với chuyên gia từ 6 lĩnh vực của VSIC 2026.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 1 - Prima: Hạn nộp đề án chính thức",
+        "date": "2026-08-28 đến 2026-09-29",
+        "description": "Hạn cuối đăng ký dự thi: 23h59 ngày 26/09/2026. Đề bài vòng 1 tại https://bit.ly/Debaivong1vsic26. Yêu cầu: Xác định rõ vấn đề xã hội (kèm số liệu), chứng minh tính khả thi của giải pháp, làm nổi bật tác động xã hội dài hạn. Hồ sơ thông tin cuộc thi: https://bit.ly/hosothongtinvsic2026.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 2 - Forge: Phát triển đề án",
+        "date": "2026-10-04 đến 2026-11-05",
+        "description": "Các đội thi vượt qua Vòng 1 tiếp tục phát triển và hoàn thiện đề án. Dự kiến có hoạt động đào tạo và mentoring trong giai đoạn này.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 3 - Aegis: Bán kết",
+        "date": "2026-11-09 đến 2026-11-25",
+        "description": "Vòng bán kết - giai đoạn cuối cùng trước chung kết khu vực. Các đội thi mài giũa và hoàn thiện đề án để chuẩn bị cho đêm Chung kết miền Bắc.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Chung kết miền Bắc",
+        "date": "2026-11-28",
+        "description": "Đêm Chung kết khu vực miền Bắc. Các đội xuất sắc nhất sẽ đại diện khu vực miền Bắc tham dự Chung kết Toàn quốc.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 6,
+        "name": "Chung kết Toàn quốc",
+        "date": "2026-12-12",
+        "description": "Đêm Chung kết Toàn quốc VSIC 2026 - nơi các đội xuất sắc nhất từ hai miền tranh tài qua hai chặng Pitching và Business Case Challenge để chọn ra Quán quân, Á quân và Quý quân.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Cân bằng giữa tính khả thi kinh tế và tác động xã hội thực sự là thử thách lớn nhất. Ban giám khảo thẩm định đề án dưới góc độ tài chính, vận hành và tiêu chí ESG đồng thời - một ý tưởng có ý nghĩa xã hội nhưng thiếu mô hình doanh thu bền vững sẽ khó thuyết phục. Ngoài ra, việc duy trì đà phát triển qua 3 vòng thi kéo dài từ tháng 8 đến tháng 11 đòi hỏi đội thi phải liên tục cải thiện đề án sau mỗi phản hồi.",
+      "common_mistakes": "Ba lỗi phổ biến nhất: (1) Xác định vấn đề xã hội chung chung, thiếu số liệu thống kê và nguồn tham khảo chính thống để củng cố lập luận; (2) Đề xuất giải pháp hấp dẫn nhưng không giải thích rõ cơ chế vận hành, đối tượng thụ hưởng cụ thể và nguồn lực cần thiết để triển khai; (3) Tập trung quá nhiều vào tác động xã hội mà bỏ qua câu hỏi 'dự án sống sót như thế nào về mặt tài chính?'",
+      "key_success_factors": "Những đội đạt giải cao tại VSIC (như CFIM - Quán quân miền Bắc 2025 với vật liệu chống cháy từ phế thải công nghiệp, hay 4D-BONDE - Quán quân toàn quốc 2025) đều có điểm chung: giải quyết một vấn đề rất cụ thể và được kiểm chứng thực tế, có mô hình tạo ra lợi nhuận song song với tác động xã hội, và thể hiện được khả năng scalable. Khả năng pitching tự tin, xử lý phản biện sắc bén từ BGK, và minh chứng thực tiễn (khảo sát, prototype, phản hồi người dùng) là yếu tố tạo sự khác biệt.",
+      "prep_advice": "Nộp Early Bird trước 17/09 để tận dụng Consulting Day miễn phí ngày 19/09 - đây là cơ hội hiếm có để nhận feedback từ chuyên gia ngành trước khi nộp bản chính thức. Tham gia group kết nối đội thi (https://bit.ly/VSIC26Ketnoidoithi) để tìm teammate bổ sung kỹ năng. Ưu tiên xây dựng Social Business Model Canvas (SBMC) ngay từ đầu thay vì Business Model Canvas thông thường. Đọc kỹ đề bài Vòng 1 tại https://bit.ly/Debaivong1vsic26 và hồ sơ thông tin tại https://bit.ly/hosothongtinvsic2026. Học từ case study CFIM và 4D-BONDE từ VSIC 2025 để hiểu tiêu chí BGK kỳ vọng."
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội"
+      ],
+      "cash": [
+        "Không công bố cụ thể giá trị tiền mặt trong các bài đăng VSIC 2026.",
+        "VSIC 2025 có các giải: Quán quân (4D-BONDE), Á quân (CFIM), Quý quân (MOJITALK)."
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "Dựa trên VSIC 2025, quán quân nhận danh hiệu, cơ hội kết nối hệ sinh thái khởi nghiệp xã hội và tiếp cận nguồn lực từ các đối tác vườn ươm và bảo trợ chuyên môn.",
+        "Ngoài giải thưởng, các đội thi được tư vấn chuyên sâu từ Consulting Day (miễn phí cho Early Bird - 19/09/2026), kết nối đối tác vườn ươm và cố vấn chuyên môn."
+      ],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không công bố cụ thể giá trị tiền mặt trong các bài đăng VSIC 2026. Dựa trên VSIC 2025, quán quân nhận danh hiệu, cơ hội kết nối hệ sinh thái khởi nghiệp xã hội và tiếp cận nguồn lực từ các đối tác vườn ươm và bảo trợ chuyên môn.\nGiải thưởng chưa được công bố chi tiết trong các bài đăng VSIC 2026. VSIC 2025 có các giải: Quán quân (4D-BONDE), Á quân (CFIM), Quý quân (MOJITALK). Ngoài giải thưởng, các đội thi được tư vấn chuyên sâu từ Consulting Day (miễn phí cho Early Bird - 19/09/2026), kết nối đối tác vườn ươm và cố vấn chuyên môn."
+    }
+  },
+  {
+    "id": "i-impact-2026",
+    "name": "Cuộc thi Khởi nghiệp tạo tác động xã hội I – impACT 2026",
+    "season": "I – impACT 2026",
+    "organizer": "Khoa Kinh tế & Liên chi đoàn Khoa Kinh tế – Học viện Ngân hàng (Banking Academy of Vietnam)",
+    "category": "Startup",
+    "short_description": "I – impACT là cuộc thi khởi nghiệp tạo tác động xã hội dành cho sinh viên toàn quốc, nơi các đội thi xây dựng và phát triển dự án startup hướng tới giải quyết các vấn đề môi trường và cộng đồng. Cuộc thi kết hợp giữa học thuật và thực chiến qua 4 vòng thi từ ý tưởng đến pitching trực tiếp trước hội đồng chuyên gia, nhà đầu tư. Mùa 2026 thu hút nhiều đội thi từ các trường đại học lớn tại Hà Nội với các dự án xanh và kinh tế tuần hoàn nổi bật.",
+    "eligibility": "Sinh viên đại học, cao đẳng thuộc các trường trên toàn quốc (chủ yếu khu vực Hà Nội); một số đội có thể bao gồm học sinh THPT. Mỗi đội thi từ 5–7 thành viên, có thể đến từ nhiều trường khác nhau. Không giới hạn năm học.",
+    "deadline": "2026-03-20",
+    "duration": "Tháng 03/2026 – Tháng 05/2026",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1 – I CARE: Phát động & đăng ký theo nhóm. Vòng 2 – I AWAKE: Tập huấn & xây dựng thuyết minh dự án chi tiết. Vòng 3 – I ACT: Triển khai dự án thực tế với sự hỗ trợ của Mentor, nộp báo cáo và video thuyết minh (có bình chọn online). Vòng 4 – I IMPACT (Chung kết): Top 6 đội pitching trực tiếp + Showcase sản phẩm tại Học viện Ngân hàng.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 5,
+      "max": 7,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Danh hiệu Quán quân I – impACT 2026 (đội Greennano); giải thưởng gồm cúp, bằng khen và phần thưởng hiện vật/tiền mặt từ nhà tài trợ (giá trị cụ thể không được công bố công khai trên fanpage)",
+    "prizes_detail": "Quán quân: Greennano. Á quân: Herbfire & Chitoflow. Quý quân (hạng 3): Revive & CanTeen. Giải Tiềm năng: Phú Miêu Bang. Giải Gọi vốn cộng đồng xuất sắc nhất: Rekindle. Giải Đội thi được yêu thích nhất: EcoFive. Giải Showcase xuất sắc: HUSKIE, Eco-Shield, CocoBoom. Nhà tài trợ Kim cương: LIXCO & IELTS Arena; NTT Đồng: Novus Imperium Corporation & VAPs; NTT Hiện vật: Eduwing Global, ST Lighthouse, KissStartup, We Transform.",
+    "registration_link": "https://forms.gle/pJT7oJXn9XuLAzzn9",
+    "source_url": "https://www.facebook.com/CuocthiIimpAct/",
+    "required_skills": [
+      {
+        "name": "Social Impact Thinking – Tư duy tạo tác động xã hội",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Business Model Canvas / Lập kế hoạch kinh doanh",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Pitching & Thuyết trình trước hội đồng",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm & Phân công vai trò",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Phát triển sản phẩm / Nguyên mẫu (Prototype)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Nghiên cứu thị trường & Phân tích vấn đề xã hội",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thiết kế slide & Trình bày trực quan",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Kiến thức Kinh tế tuần hoàn / ESG / Phát triển bền vững",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Gọi vốn cộng đồng / Fundraising cơ bản",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Quản lý mạng xã hội & Vận động bình chọn online",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Sở hữu trí tuệ trong khởi nghiệp",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1 – I CARE: Phát động & Đăng ký",
+        "date": "2026-03-02 đến 2026-03-20",
+        "description": "Phát động cuộc thi chính thức. Sinh viên hình thành nhóm (5–7 người) và đăng ký tham gia theo nhóm. Hạn đăng ký: 20/03/2026.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2 – I AWAKE: Tập huấn & Xây dựng thuyết minh dự án",
+        "date": "2026-03-20 đến 2026-04-01",
+        "description": "Các đội tham gia chuỗi tập huấn, tọa đàm, tham quan doanh nghiệp thực tế. Xây dựng và hoàn thiện thuyết minh dự án chi tiết với sự hỗ trợ của Mentor.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3 – I ACT: Triển khai dự án & Bình chọn video",
+        "date": "2026-04-01 đến 2026-05-05",
+        "description": "Các đội triển khai dự án thực tế dưới sự hướng dẫn của Mentor. Nộp báo cáo dự án (deadline 23:59 ngày 05/05/2026). Mở cổng bình chọn video thuyết minh trực tuyến (30/04 – 07/05/2026): like tính 1 điểm, share công khai + hashtag tính 3 điểm, tối đa 30 điểm. Ban Tổ chức chấm điểm báo cáo và video để chọn Top 6 vào Chung kết.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 4 – I IMPACT: Chung kết Pitching & Showcase",
+        "date": "2026-05-06 đến 2026-05-17",
+        "description": "Top 6 đội thi xuất sắc (Herbfire, Revive, Chitoflow, Greennano, Phú Miêu Bang, CanTeen) pitching ý tưởng khởi nghiệp và bảo vệ dự án trước hội đồng giám khảo gồm chuyên gia đầu tư, cố vấn khởi nghiệp và giám đốc doanh nghiệp. Đồng thời tổ chức Showcase trưng bày sản phẩm thực tế. Địa điểm: Phòng D2.204, Học viện Ngân hàng. Thời gian: 08:00 ngày 17/05/2026. Quán quân: Greennano.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là hiện thực hóa ý tưởng thành sản phẩm/nguyên mẫu có tính khả thi thực tế trong thời gian ngắn (Vòng 3 chỉ ~1 tháng), đồng thời phải thuyết phục được hội đồng gồm nhà đầu tư chuyên nghiệp và chuyên gia cố vấn khởi nghiệp về cả tính ứng dụng lẫn tác động xã hội. Ngoài ra, vòng bình chọn video online tạo áp lực mobilize cộng đồng song song với việc phát triển dự án.",
+      "common_mistakes": "Các đội mới thường tập trung quá nhiều vào ý tưởng lý thuyết mà chưa có prototype hoặc số liệu kiểm chứng thực tế; xây dựng mô hình kinh doanh chưa rõ ràng về dòng doanh thu và chi phí; thiếu chiến lược huy động bình chọn online dẫn đến thua điểm video dù chất lượng dự án tốt; trình bày pitching chưa mạch lạc khi bị phản biện từ góc độ đầu tư tài chính.",
+      "key_success_factors": "Dự án phải có tác động xã hội/môi trường đo lường được và rõ ràng (đặc biệt liên quan đến kinh tế tuần hoàn, xanh hóa, giảm rác thải). Prototype hoặc bằng chứng thực nghiệm (proof of concept) là lợi thế lớn tại Showcase. Khả năng pitching tự tin, lập luận sắc bén và xử lý câu hỏi phản biện từ hội đồng quyết định phần lớn kết quả Vòng 4. Tổ chức đội nhóm tốt với phân công vai trò rõ ràng (kỹ thuật, kinh doanh, truyền thông) giúp đội vận hành trơn tru qua cả 4 vòng.",
+      "prep_advice": "Vòng 1–2: Dành thời gian nghiên cứu kỹ vấn đề xã hội/môi trường muốn giải quyết, tham khảo các dự án ESG, impact investment thực tế tại Việt Nam. Vòng 3: Ưu tiên xây dựng nguyên mẫu đơn giản nhưng hoạt động được; song song đó lên kế hoạch bình chọn video từ sớm, kết nối mạng lưới bạn bè để share rộng rãi. Vòng 4: Luyện pitching trước nhiều đối tượng khác nhau (đặc biệt với người có tư duy tài chính/đầu tư); chuẩn bị gian hàng Showcase chỉn chu với sản phẩm thực, infographic rõ ràng và script giới thiệu ngắn gọn. Tận dụng chương trình mentoring của BTC và đơn vị bảo trợ chuyên môn KissStartup."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Danh hiệu Quán quân I – impACT 2026 (đội Greennano)",
+        "giải thưởng gồm cúp, bằng khen và phần thưởng hiện vật/tiền mặt từ nhà tài trợ (giá trị cụ thể không được công bố công khai trên fanpage)",
+        "Quán quân: Greennano.",
+        "Á quân: Herbfire & Chitoflow.",
+        "Quý quân (hạng 3): Revive & CanTeen."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "giải thưởng gồm cúp, bằng khen và phần thưởng hiện vật/tiền mặt từ nhà tài trợ (giá trị cụ thể không được công bố công khai trên fanpage)",
+        "NTT Hiện vật: Eduwing Global, ST Lighthouse, KissStartup, We Transform."
+      ],
+      "certificate": [
+        "giải thưởng gồm cúp, bằng khen và phần thưởng hiện vật/tiền mặt từ nhà tài trợ (giá trị cụ thể không được công bố công khai trên fanpage)"
+      ],
+      "raw_text": "Danh hiệu Quán quân I – impACT 2026 (đội Greennano); giải thưởng gồm cúp, bằng khen và phần thưởng hiện vật/tiền mặt từ nhà tài trợ (giá trị cụ thể không được công bố công khai trên fanpage)\nQuán quân: Greennano. Á quân: Herbfire & Chitoflow. Quý quân (hạng 3): Revive & CanTeen. Giải Tiềm năng: Phú Miêu Bang. Giải Gọi vốn cộng đồng xuất sắc nhất: Rekindle. Giải Đội thi được yêu thích nhất: EcoFive. Giải Showcase xuất sắc: HUSKIE, Eco-Shield, CocoBoom. Nhà tài trợ Kim cương: LIXCO & IELTS Arena; NTT Đồng: Novus Imperium Corporation & VAPs; NTT Hiện vật: Eduwing Global, ST Lighthouse, KissStartup, We Transform."
+    }
+  },
+  {
+    "id": "sv-startup-2025-lan-thu-viii",
+    "name": "Cuộc thi Học sinh, Sinh viên với Ý tưởng Khởi nghiệp lần thứ VIII (SV STARTUP 2025)",
+    "season": "SV STARTUP 2025 – Lần thứ VIII",
+    "organizer": "Bộ Giáo dục và Đào tạo (Vụ Giáo dục Chính trị và Công tác HSSV)",
+    "category": "Startup",
+    "short_description": "SV STARTUP là cuộc thi khởi nghiệp quốc gia thường niên do Bộ GD&ĐT tổ chức, dành cho sinh viên toàn quốc nhằm tìm kiếm và ươm mầm các ý tưởng khởi nghiệp sáng tạo trên mọi lĩnh vực. Lần thứ VIII thu hút quy mô toàn quốc với sự tham gia của các trường đại học, học viện, cao đẳng trên cả nước. Chương trình gắn liền với Ngày hội Khởi nghiệp Quốc gia của học sinh, sinh viên được tổ chức trực tiếp tại Học viện Ngân hàng, Hà Nội.",
+    "eligibility": "Sinh viên đang theo học tại các cơ sở giáo dục đại học (đại học, học viện, cao đẳng) trên toàn quốc. Tham gia theo cá nhân hoặc nhóm không quá 5 thành viên. Không giới hạn năm học hay ngành đào tạo.",
+    "deadline": "2026-01-31",
+    "duration": "Tháng 12/2025 – Tháng 04/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 (Sơ khảo): Nộp hồ sơ bản mô tả ý tưởng, video clip thuyết minh và video demo mô hình (nếu có); Ban giám khảo chấm độc lập chọn các dự án vào Bán kết. Vòng 2 (Bán kết): Chấm thi theo bộ tiêu chí chi tiết hơn; kết quả Bán kết được công bố ngày 23/3/2026 theo văn bản 449/TB-BGDĐT. Vòng 3 (Chung kết): Thuyết trình trực tiếp tại Ngày hội Khởi nghiệp Quốc gia, diễn ra từ ngày 17–19/4/2026 tại Học viện Ngân hàng, Hà Nội.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải Nhất quốc gia: Bằng khen của Bộ GD&ĐT, tiền thưởng và cơ hội kết nối với nhà đầu tư, quỹ khởi nghiệp, doanh nghiệp đối tác (chi tiết cơ cấu giải thưởng theo thể lệ đính kèm Quyết định 3344/QĐ-BGDĐT ngày 05/12/2025)",
+    "prizes_detail": "Cơ cấu giải thưởng đầy đủ được quy định trong Thể lệ ban hành kèm Quyết định 3344/QĐ-BGDĐT. Nhà tài trợ Vàng: ERAS; Nhà tài trợ Bạc: Home Credit; Nhà tài trợ Đồng: Quang Uy, APEC Innovation; Đơn vị đồng hành: BIDV, MSB, VNPT – góp phần bổ sung giá trị giải thưởng và hỗ trợ các đội thi.",
+    "registration_link": "https://dean1665.vn/news/hoat-dong-noi-bat/quyet-dinh-ve-viec-ban-hanh-the-le-cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep-sv-startup-lan-thu-viii-345.html",
+    "source_url": "https://www.facebook.com/khoinghiepquocgiaHSSV/?locale=vi_VN",
+    "required_skills": [
+      {
+        "name": "Tư duy khởi nghiệp & nhận diện vấn đề thị trường",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model Canvas)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thuyết trình & bảo vệ ý tưởng trước ban giám khảo",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Viết bản mô tả ý tưởng / dự án theo mẫu",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm & phân công vai trò dự án",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Phân tích thị trường và đối thủ cạnh tranh",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Lập kế hoạch tài chính cơ bản (dự phóng doanh thu, chi phí)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Sản xuất video thuyết minh / demo mô hình",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Thiết kế slide chuyên nghiệp",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Kiến thức chuyên ngành phù hợp lĩnh vực ý tưởng (AI, Nông nghiệp, Y tế, Giáo dục...)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tư duy tác động xã hội & phát triển bền vững",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Phát động & Mở đơn đăng ký – Nộp hồ sơ Sơ khảo",
+        "date": "2025-12-10",
+        "description": "Ban hành Thể lệ (Quyết định 3344/QĐ-BGDĐT ngày 05/12/2025). Thí sinh nộp: bản mô tả ý tưởng/dự án theo mẫu, video clip thuyết minh dự án, video demo mô hình (nếu có) và cam kết bản quyền (nếu có). Nộp hồ sơ qua kênh trực tuyến theo hướng dẫn trên dean1665.vn.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Bán kết – Chấm thi & Công bố kết quả",
+        "date": "2026-03-23",
+        "description": "Ban giám khảo chấm thi độc lập theo bộ tiêu chí: tính sáng tạo, khả thi, tác động thị trường và lộ trình triển khai. Kết quả Bán kết công bố ngày 23/3/2026 theo văn bản 449/TB-BGDĐT của Bộ GD&ĐT. Các đội vào Chung kết được thông báo trực tiếp.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết & Ngày hội Khởi nghiệp Quốc gia lần thứ VIII",
+        "date": "2026-04-17",
+        "description": "Tổ chức từ ngày 17–19/4/2026 tại Học viện Ngân hàng, Hà Nội. Các đội vào Chung kết thuyết trình trực tiếp trước Hội đồng giám khảo và nhà đầu tư. Diễn ra song song với Ngày hội Khởi nghiệp Quốc gia, có gian hàng triển lãm, workshop, kết nối doanh nghiệp và Lễ trao giải.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Cân bằng giữa tính sáng tạo và tính khả thi thực tế: nhiều ý tưởng hay nhưng thiếu phân tích thị trường sâu, chưa có lộ trình triển khai cụ thể và dự phóng tài chính thuyết phục. Ở Chung kết, áp lực thuyết trình trực tiếp trước ban giám khảo và doanh nghiệp trong thời gian giới hạn đòi hỏi kỹ năng xử lý câu hỏi phản biện tốt.",
+      "common_mistakes": "Nộp bản mô tả ý tưởng chung chung, không bám sát mẫu quy định; video thuyết minh chất lượng thấp hoặc không truyền đạt được điểm độc đáo của dự án; bỏ qua phần phân tích đối thủ cạnh tranh và mô hình doanh thu; nhóm không phân công rõ vai trò dẫn đến bài thuyết trình thiếu nhất quán.",
+      "key_success_factors": "Ý tưởng giải quyết vấn đề thực tế có thể kiểm chứng được; mô hình kinh doanh rõ ràng với phân khúc khách hàng xác định; số liệu thị trường thuyết phục; video demo hoặc MVP (sản phẩm mẫu tối giản) tăng đáng kể điểm đánh giá; nhóm đa dạng kỹ năng (kỹ thuật + kinh doanh + truyền thông).",
+      "prep_advice": "Giai đoạn 1 (Sơ khảo): Dành 70% thời gian xác định vấn đề và nghiên cứu người dùng thực tế, 30% cho hồ sơ và video. Giai đoạn 2 (Bán kết → Chung kết): Bổ sung phân tích tài chính, lộ trình 12–18 tháng và kịch bản tăng trưởng; tham gia các workshop miễn phí của APEC Innovation và các đơn vị hỗ trợ trong hệ sinh thái. Luyện pitch 5–7 phút + Q&A với người ngoài ngành ít nhất 3 lần trước Chung kết."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Giải Nhất quốc gia: Bằng khen của Bộ GD&ĐT, tiền thưởng và cơ hội kết nối với nhà đầu tư, quỹ khởi nghiệp, doanh nghiệp đối tác (chi tiết cơ cấu giải thưởng theo thể lệ đính kèm Quyết định 3344/QĐ-BGDĐT ngày 05/12/2025)"
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "Giải Nhất quốc gia: Bằng khen của Bộ GD&ĐT, tiền thưởng và cơ hội kết nối với nhà đầu tư, quỹ khởi nghiệp, doanh nghiệp đối tác (chi tiết cơ cấu giải thưởng theo thể lệ đính kèm Quyết định 3344/QĐ-BGDĐT ngày 05/12/2025)"
+      ],
+      "in_kind": [],
+      "certificate": [
+        "Giải Nhất quốc gia: Bằng khen của Bộ GD&ĐT, tiền thưởng và cơ hội kết nối với nhà đầu tư, quỹ khởi nghiệp, doanh nghiệp đối tác (chi tiết cơ cấu giải thưởng theo thể lệ đính kèm Quyết định 3344/QĐ-BGDĐT ngày 05/12/2025)"
+      ],
+      "raw_text": "Giải Nhất quốc gia: Bằng khen của Bộ GD&ĐT, tiền thưởng và cơ hội kết nối với nhà đầu tư, quỹ khởi nghiệp, doanh nghiệp đối tác (chi tiết cơ cấu giải thưởng theo thể lệ đính kèm Quyết định 3344/QĐ-BGDĐT ngày 05/12/2025)\nCơ cấu giải thưởng đầy đủ được quy định trong Thể lệ ban hành kèm Quyết định 3344/QĐ-BGDĐT. Nhà tài trợ Vàng: ERAS; Nhà tài trợ Bạc: Home Credit; Nhà tài trợ Đồng: Quang Uy, APEC Innovation; Đơn vị đồng hành: BIDV, MSB, VNPT – góp phần bổ sung giá trị giải thưởng và hỗ trợ các đội thi."
+    }
+  },
+  {
+    "id": "ytkd-business-venture-challenge-2026",
+    "name": "Cuộc thi Ý Tưởng Kinh Doanh - Business Ventures Challenge 2026",
+    "season": "YTKD 2026 - Business Ventures Challenge 2026",
+    "organizer": "IEC - Câu lạc bộ Khởi nghiệp Học viện Tài chính (AOF)",
+    "category": "Startup",
+    "short_description": "Cuộc thi Ý Tưởng Kinh Doanh 2026 (Business Ventures Challenge) là sân chơi học thuật - khởi nghiệp thường niên do CLB IEC tổ chức dành cho sinh viên toàn quốc, nơi các nhóm phát triển ý tưởng kinh doanh từ ý tưởng thô (INCEPTION) đến pitching thực chiến (ACCELERATION) và gọi vốn trước ban giám khảo là doanh nhân và nhà đầu tư (VALUATION). Cuộc thi quy tụ tổng giải thưởng trị giá hơn 600 triệu đồng cùng cơ hội kết nối hệ sinh thái khởi nghiệp thực tế.",
+    "eligibility": "Sinh viên tại các trường Đại học, Học viện và Cao đẳng trên toàn quốc Việt Nam. Mỗi đội gồm 3-5 thành viên, các thành viên có thể đến từ các trường hoặc ngành khác nhau. Không tiếp nhận hồ sơ cá nhân.",
+    "deadline": "2026-04-28",
+    "duration": "Tháng 03/2026 - Tháng 05/2026 (11/03/2026 - 24/05/2026)",
+    "rounds_count": 3,
+    "rounds_description": "Chặng 1 - INCEPTION (11/03 - 28/04/2026): Nộp đề án kinh doanh thuyết minh (PDF), BGK chấm điểm theo 7 tiêu chí, chọn Top 10. Chặng 2 - ACCELERATION (06/05 - 15/05/2026): Top 10 tham gia training bắt buộc (kỹ năng thuyết trình & tài chính), kết nối mentor, làm video 'The Founder's Voice', nộp Pitch Deck và Pitching Day (Bán kết offline), chọn Top 5. Chặng 3 - VALUATION (24/05/2026): Đêm Chung kết tại HT700 - Học viện Tài chính, Top 5 pitching và phản biện trước hội đồng nhà đầu tư - doanh nhân để định giá dự án và chọn quán quân.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 3,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải Quán quân (CHITOFLOW) - danh hiệu cao nhất kèm giấy chứng nhận và phần thưởng tiền mặt (trong tổng giải thưởng hơn 600 triệu đồng); cơ hội kết nối với nhà đầu tư và hệ sinh thái khởi nghiệp quốc gia.",
+    "prizes_detail": "Tổng giải thưởng hơn 600 triệu đồng. Cơ cấu: Quán quân (CHITOFLOW), Á quân (CARBOART), Quý quân (COFFEENERGY & AQUALOG - đồng hạng), Giải Triển vọng (FRAME FORGE). Ngoài ra, Chặng 2 có giải 'Đội thi được yêu thích nhất' (tiền mặt + giấy chứng nhận) cho đội có video 'The Founder's Voice' điểm cao nhất; Top 5 được đặc quyền tham gia buổi huấn luyện định giá dự án và gọi vốn cùng chuyên gia trước Chung kết.",
+    "registration_link": "https://forms.gle/zFzBHPDFpLNUBi3V7",
+    "source_url": "https://www.facebook.com/ytkd.iec",
+    "required_skills": [
+      {
+        "name": "Business Model Canvas (BMC) & Mô hình kinh doanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phân tích thị trường & Xác định vấn đề (Problem Identification)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng thuyết trình & Pitching",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy phản biện & Xử lý Q&A",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kế hoạch tài chính & Phân bổ dòng tiền (Financial Planning)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thiết kế Pitch Deck / Slide chuyên nghiệp",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm & Quản lý thời gian",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Storytelling & Kể chuyện khởi nghiệp",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Định giá dự án & Kỹ năng gọi vốn (Valuation & Fundraising)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Sản xuất video & Truyền thông mạng xã hội",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Chiến lược Marketing & Phát triển thị trường",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Chặng 1 - INCEPTION: Mở đơn & Nộp đề án",
+        "date": "2026-03-11 đến 2026-04-28",
+        "description": "Các đội (3-5 thành viên) xây dựng và nộp bộ hồ sơ thuyết minh dự án kinh doanh gồm: bản thuyết minh PDF, danh sách thành viên và bản cam kết. Đề án được chấm theo 7 tiêu chí (thang 100 điểm): Tính cần thiết (15đ), Sáng tạo/độc đáo (15đ), BMC (15đ), Tính khả thi (15đ), Hiệu quả kinh tế & xã hội (15đ), Kế hoạch thị trường & truyền thông (15đ), Hồ sơ & trình bày (10đ). Link nộp: https://forms.gle/zFzBHPDFpLNUBi3V7. Deadline: 23h59 ngày 28/04/2026. BGK chấm tập trung ngày 05/05/2026, công bố Top 10 lúc 20h ngày 06/05/2026.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Chặng 2 - ACCELERATION: Training, Video & Bán kết (Pitching Day)",
+        "date": "2026-05-06 đến 2026-05-15",
+        "description": "Top 10 trải qua 3 hoạt động bắt buộc: (1) Kết nối Mentor chuyên môn 1-1; (2) Tham gia 2 buổi training online bắt buộc: Kỹ năng thuyết trình & phản biện (18h30 ngày 09/05) và Kế hoạch tài chính & dòng tiền (18h30 ngày 08/05 - lưu ý: thứ tự thực tế theo bài đăng là 08/05 tài chính, 09/05 thuyết trình); đội vắng >50% thành viên ở từ 1 buổi sẽ bị loại; (3) Sản xuất video 'The Founder's Voice' nộp trước 17h ngày 12/05, bình chọn online 20h ngày 12/05 - 20h ngày 14/05, đội điểm cao nhất nhận giải 'Đội thi được yêu thích nhất'. Nộp Pitch Deck (tối đa 20 slides, PDF/PPTX) trước 23h59 ngày 14/05. Bán kết (Pitching Day) offline tại Hội trường D201 - Học viện Tài chính lúc 18h ngày 15/05/2026. Top 5 được công bố sau đó.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Chặng 3 - VALUATION: Đêm Chung kết",
+        "date": "2026-05-24",
+        "description": "Top 5 tham gia Đêm Chung kết tại HT700 - Học viện Tài chính (58 Lê Văn Hiến, Đức Thắng, Bắc Từ Liêm, Hà Nội) lúc 18h00 ngày 24/05/2026. Cơ cấu 2 vòng trên sân khấu: Vòng 1 - Founder Story & Problem Reveal (giới thiệu ý tưởng & vấn đề); Vòng 2 - The Investment Duel (tranh biện, phản biện và gọi vốn trước BGK gồm 5 chuyên gia/nhà đầu tư đóng vai 'Shark'). BGK đánh giá dựa trên lõi giá trị, khả năng định giá, mô hình kinh doanh và bản lĩnh sân khấu. Quán quân: CHITOFLOW.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là vòng VALUATION (Chung kết): Top 5 phải pitching và bảo vệ định giá dự án trước hội đồng BGK là nhà đầu tư/doanh nhân thực chiến đóng vai 'Shark', đối mặt với các câu hỏi phản biện sắc bén về tính khả thi tài chính, khả năng scale-up và lỗ hổng mô hình kinh doanh. Ngoài ra, ở Chặng 2, việc vừa hoàn thiện Pitch Deck, vừa sản xuất video viral và tham gia 2 buổi training bắt buộc trong vỏn vẹn 10 ngày tạo áp lực thời gian rất lớn.",
+      "common_mistakes": "Các đội mới thường mắc phải: (1) Đề án thiên về lý thuyết, thiếu mô hình doanh thu và kế hoạch tài chính rõ ràng - BGK ưu tiên dự án có khả năng thương mại hóa thực tế; (2) Bỏ sót hoặc không logic hóa đầy đủ 9 thành tố của Business Model Canvas; (3) Pitching dàn trải, thiếu 'hook' trong 10 giây đầu và không kiểm soát được phần Q&A khi bị chất vấn; (4) Nộp bài vào phút chót gây lỗi kỹ thuật (file hỏng, server nghẽn); (5) Video 'The Founder's Voice' thiếu storytelling cảm xúc, quá tập trung vào thông số kỹ thuật thay vì lõi giá trị và 'nỗi đau' thị trường.",
+      "key_success_factors": "Yếu tố then chốt tạo nên chiến thắng: (1) Tính thực tiễn cao - dự án giải quyết vấn đề cụ thể và có mô hình doanh thu rõ ràng, không mang tính hình thức; (2) Bản lĩnh Founder - tự tin, bình tĩnh trước áp lực, không run khi bị 'Shark' chất vấn; (3) Financial Plan vững - hiểu cấu trúc chi phí, dòng tiền, biết định giá dự án và trả lời câu hỏi về ROI; (4) Storytelling cuốn hút - kể câu chuyện khởi nghiệp chạm cảm xúc BGK, không chỉ trình bày số liệu khô khan; (5) Tính độc đáo và lợi thế cạnh tranh khó sao chép của ý tưởng.",
+      "prep_advice": "Chiến lược ôn luyện: Chặng 1 - tập trung hoàn thiện Business Model Canvas và kế hoạch tài chính sơ bộ, nộp bài sớm trước deadline ít nhất 24h để tránh lỗi kỹ thuật. Chặng 2 - tận dụng tối đa buổi mentor 1-1 để vá lỗ hổng mô hình; tham gia đầy đủ 2 buổi training bắt buộc; cho video 'The Founder's Voice' phải có hook mạnh trong 10 giây đầu, thể hiện vấn đề thị trường cụ thể bằng con số và call-to-action rõ ràng. Chặng 3 - xem lại buổi Internal Sharing về định giá & gọi vốn; luyện tập xử lý các câu hỏi phản biện kiểu 'Shark Tank'; chuẩn bị sẵn kịch bản ứng biến khi gặp sự cố kỹ thuật trên sân khấu. Lời khuyên tổng quát: 60% điểm chuyên môn ở video đến từ nội dung cốt lõi và bản lĩnh Founder - đừng đổ quá nhiều công vào kỹ thuật quay phim mà bỏ qua phần kịch bản."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Giải Quán quân (CHITOFLOW) - danh hiệu cao nhất kèm giấy chứng nhận và phần thưởng tiền mặt (trong tổng giải thưởng hơn 600 triệu đồng)",
+        "Tổng giải thưởng hơn 600 triệu đồng.",
+        "Cơ cấu: Quán quân (CHITOFLOW), Á quân (CARBOART), Quý quân (COFFEENERGY & AQUALOG - đồng hạng), Giải Triển vọng (FRAME FORGE).",
+        "Ngoài ra, Chặng 2 có giải 'Đội thi được yêu thích nhất' (tiền mặt",
+        "Top 5 được đặc quyền tham gia buổi huấn luyện định giá dự án và gọi vốn cùng chuyên gia trước Chung kết."
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "cơ hội kết nối với nhà đầu tư và hệ sinh thái khởi nghiệp quốc gia."
+      ],
+      "in_kind": [],
+      "certificate": [
+        "Giải Quán quân (CHITOFLOW) - danh hiệu cao nhất kèm giấy chứng nhận và phần thưởng tiền mặt (trong tổng giải thưởng hơn 600 triệu đồng)",
+        "giấy chứng nhận) cho đội có video 'The Founder's Voice' điểm cao nhất"
+      ],
+      "raw_text": "Giải Quán quân (CHITOFLOW) - danh hiệu cao nhất kèm giấy chứng nhận và phần thưởng tiền mặt (trong tổng giải thưởng hơn 600 triệu đồng); cơ hội kết nối với nhà đầu tư và hệ sinh thái khởi nghiệp quốc gia.\nTổng giải thưởng hơn 600 triệu đồng. Cơ cấu: Quán quân (CHITOFLOW), Á quân (CARBOART), Quý quân (COFFEENERGY & AQUALOG - đồng hạng), Giải Triển vọng (FRAME FORGE). Ngoài ra, Chặng 2 có giải 'Đội thi được yêu thích nhất' (tiền mặt + giấy chứng nhận) cho đội có video 'The Founder's Voice' điểm cao nhất; Top 5 được đặc quyền tham gia buổi huấn luyện định giá dự án và gọi vốn cùng chuyên gia trước Chung kết."
+    }
+  },
+  {
+    "id": "i-startup-2026-neu",
+    "name": "Cuộc thi Khởi nghiệp I-Startup 2026",
+    "season": "I-Startup mùa thứ 11 - Bừng sáng kỷ nguyên - Vươn cao khởi nghiệp",
+    "organizer": "Ban Tổ chức Cuộc thi Khởi nghiệp I-Startup - Đại học Kinh tế Quốc dân (NEU)",
+    "category": "Startup",
+    "short_description": "Cuộc thi Khởi nghiệp I-Startup 2026 là sân chơi khởi nghiệp uy tín dành cho sinh viên, bước sang mùa thứ 11 với chủ đề 'Bừng sáng kỷ nguyên - Vươn cao khởi nghiệp'. Cuộc thi tìm kiếm và phát triển các dự án khởi nghiệp sáng tạo, kết nối thí sinh với nhà đầu tư, cố vấn và hệ sinh thái khởi nghiệp. Qua 3 vòng thi, Top 5 đội xuất sắc nhất tranh tài tại Đêm Chung kết offline tại Đại học Kinh tế Quốc dân.",
+    "eligibility": "Sinh viên đại học, ưu tiên sinh viên NEU nhưng mở rộng cho sinh viên toàn quốc (có sự tham gia của sinh viên từ Đại học Nguyễn Tất Thành và các trường khác). Dự án cần có ý tưởng khởi nghiệp cụ thể với mô hình kinh doanh rõ ràng.",
+    "deadline": "2026-04-12",
+    "duration": "Tháng 03/2026 - Tháng 05/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng Hồ sơ (17/03 - 12/04/2026): Nộp đề án khởi nghiệp và tham dự Pitching Day vòng loại trực tiếp ngày 12/04, Top 15 → chọn Top 10. Vòng Sơ khảo (13/04 - 12/05/2026): Top 10 tham gia training, I-Vote bình chọn cộng đồng, I-Startup Connect Day với Pitching Top 10 ngày 12/05 → chọn Top 5. Chung kết (29/05/2026): Top 5 tranh tài offline tại Hội trường A2 - NEU, 2 vòng pitching, công bố Quán quân.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 2,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Ngôi vị Quán quân (SENSETIFY - mùa 11), kèm cơ hội kết nối trực tiếp với nhà đầu tư, CEO, Founder và các chuyên gia trong hệ sinh thái khởi nghiệp; được cố vấn bởi VMCG Capital, Pitagon, Base Enterprise và Viện APEC",
+    "prizes_detail": "Giải Quán quân, Á quân, Quý quân và 2 giải Khuyến khích tại Đêm Chung kết. Giải I-Vote: Top 3 bình chọn cộng đồng (Nhất: VIETCYCLECONNECT, Nhì: COPLAY, Ba: HERBFIRE). Hiện vật từ nhà tài trợ KOSAY và các đơn vị đồng hành. Sinh viên NEU tham dự được cộng điểm Đoàn (5 điểm tại Chung kết, 3 điểm tại Connect Day). Giá trị giải thưởng tổng thể không được công bố cụ thể.",
+    "registration_link": "https://vnshort.com/fheP",
+    "source_url": "https://www.facebook.com/KhoiNghiepIStartup/",
+    "required_skills": [
+      {
+        "name": "Startup Pitching & Thuyết trình dự án",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Business Model Canvas & Mô hình kinh doanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Problem Solving & Kiểm chứng ý tưởng (Idea Validation)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Phân tích thị trường & Xác định khách hàng mục tiêu",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm & Phân công vai trò",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế slide & Visual Storytelling",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy đổi mới sáng tạo & Design Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Phản biện & Q&A với giám khảo",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kiến thức về đầu tư, định giá startup & ESG",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kỹ năng xây dựng MVP & prototyping",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Marketing & Community Building (cho I-Vote)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kiến thức chuyên ngành phù hợp lĩnh vực dự án (công nghệ, nông nghiệp, y tế, logistics...)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Hồ sơ - Mở đơn & Nộp đề án",
+        "date": "2026-03-17 đến 2026-04-12",
+        "description": "Các đội nộp hồ sơ đề án khởi nghiệp. Workshop hỗ trợ thí sinh: 'The B2C Growth Engine' diễn ra ngày 06/04/2026. Top 15 đề án xuất sắc được chọn vào Pitching Day.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Pitching Day - Vòng Loại Trực tiếp",
+        "date": "2026-04-12",
+        "description": "Top 15 trình bày dự án trực tiếp trước Hội đồng giám khảo và cố vấn tại Phòng Hội thảo B101-102, toà A2, ĐH Kinh tế Quốc dân. Chọn ra Top 10 đi tiếp.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Sơ khảo - Training, I-Vote & Connect Day",
+        "date": "2026-04-13 đến 2026-05-12",
+        "description": "Top 10 tham gia chuỗi training chuyên sâu (buổi 1: Kiểm chứng ý tưởng khởi nghiệp ngày 16/04). I-Vote bình chọn cộng đồng (30/04 - 03/05). I-Startup Connect Day ngày 12/05: hội chợ triển lãm + Pitching Top 10 trước giám khảo và cố vấn tại B101-102, toà A2. Chọn Top 5 vào Chung kết.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Đêm Chung kết - Tranh tài ngôi vị Quán quân",
+        "date": "2026-05-29",
+        "description": "Top 5 (RETRACK, HERBFIRE, SENSETIFY, DOOVERSE, VIETCYCLECONNECT) tranh tài offline tại Hội trường A2, ĐH Kinh tế Quốc dân từ 17h30. Vòng 1: cả 5 đội pitching → chọn Top 3 (BIOTRACKERS thay RETRACK trong Top 3 thực tế). Vòng 2: Top 3 tranh tài → công bố Quán quân. Kết quả: Quán quân SENSETIFY, Á quân DOOVERSE, Quý quân BIOTRACKERS.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thuyết phục Ban Giám khảo có kinh nghiệm thực chiến (CEO, nhà đầu tư, Founder) trong các vòng pitching trực tiếp, đặc biệt là phần Q&A phản biện sắc bén. Ngoài ra, vòng I-Vote đòi hỏi đội thi phải đồng thời vừa hoàn thiện dự án vừa vận động cộng đồng bình chọn - áp lực đôi chiều trong cùng một giai đoạn. Dự án cần được kiểm chứng thực tế (idea validation) chứ không chỉ dừng ở ý tưởng trên giấy.",
+      "common_mistakes": "Các đội mới thường mắc lỗi xây dựng mô hình kinh doanh thiếu tính khả thi và chưa kiểm chứng với người dùng thực tế. Slide pitching nặng về lý thuyết, thiếu số liệu thực chứng về thị trường và khách hàng mục tiêu. Phần phản biện với giám khảo bị động, không chuẩn bị sẵn phương án cho các câu hỏi về cạnh tranh, doanh thu và khả năng mở rộng. Nhiều đội bỏ qua tầm quan trọng của I-Vote - coi nhẹ việc xây dựng cộng đồng fan trong khi đây chiếm một phần điểm số thi đấu.",
+      "key_success_factors": "Dự án giải quyết vấn đề thực tiễn rõ ràng với bằng chứng nghiên cứu người dùng cụ thể (như SENSETIFY với số liệu độ chính xác 98%, hay VIETCYCLECONNECT với bài toán ESG). Khả năng trình bày mạch lạc, tự tin và linh hoạt ứng phó Q&A từ giám khảo là yếu tố quyết định. Đội thắng thường có sự kết hợp giữa tính đổi mới sáng tạo, tiềm năng thương mại hóa và tác động xã hội/môi trường tích cực. Chăm chút visual storytelling và narrative của dự án cũng tạo dấu ấn mạnh.",
+      "prep_advice": "Tập trung validate ý tưởng với người dùng thực ngay từ sớm - buổi training vòng Sơ khảo về 'Kiểm chứng ý tưởng' là tài liệu học quan trọng. Xem booklet chính thức (https://vnshort.com/fheP) để nắm rõ tiêu chí chấm điểm. Luyện pitching nhiều lần với thời gian hạn chế và tập trả lời các câu hỏi hóc búa về tài chính, cạnh tranh, go-to-market. Chuẩn bị chiến lược I-Vote song song với hoàn thiện dự án - xây dựng cộng đồng ủng hộ trước khi vòng bình chọn mở. Tận dụng tối đa các buổi gặp cố vấn để nhận phản hồi và điều chỉnh mô hình kinh doanh trước Connect Day."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Giải Quán quân, Á quân, Quý quân và 2 giải Khuyến khích tại Đêm Chung kết.",
+        "Giải I-Vote: Top 3 bình chọn cộng đồng (Nhất: VIETCYCLECONNECT, Nhì: COPLAY, Ba: HERBFIRE)."
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "Ngôi vị Quán quân (SENSETIFY - mùa 11), kèm cơ hội kết nối trực tiếp với nhà đầu tư, CEO, Founder và các chuyên gia trong hệ sinh thái khởi nghiệp"
+      ],
+      "in_kind": [
+        "Hiện vật từ nhà tài trợ KOSAY và các đơn vị đồng hành."
+      ],
+      "certificate": [
+        "Sinh viên NEU tham dự được cộng điểm Đoàn (5 điểm tại Chung kết, 3 điểm tại Connect Day)."
+      ],
+      "raw_text": "Ngôi vị Quán quân (SENSETIFY - mùa 11), kèm cơ hội kết nối trực tiếp với nhà đầu tư, CEO, Founder và các chuyên gia trong hệ sinh thái khởi nghiệp; được cố vấn bởi VMCG Capital, Pitagon, Base Enterprise và Viện APEC\nGiải Quán quân, Á quân, Quý quân và 2 giải Khuyến khích tại Đêm Chung kết. Giải I-Vote: Top 3 bình chọn cộng đồng (Nhất: VIETCYCLECONNECT, Nhì: COPLAY, Ba: HERBFIRE). Hiện vật từ nhà tài trợ KOSAY và các đơn vị đồng hành. Sinh viên NEU tham dự được cộng điểm Đoàn (5 điểm tại Chung kết, 3 điểm tại Connect Day). Giá trị giải thưởng tổng thể không được công bố cụ thể."
+    }
+  },
+  {
+    "id": "ic-innovator-2026",
+    "name": "Cuộc thi Khởi nghiệp Truyền thông quốc tế – IC Innovator 2026",
+    "season": "The Culture Sourcecode - Mã nguồn Văn hóa Việt",
+    "organizer": "Học viện Ngoại giao",
+    "category": "Innovation",
+    "short_description": "Cuộc thi khởi nghiệp truyền thông quốc tế đầu tiên tại Việt Nam, tìm kiếm những dự án sáng tạo ứng dụng công nghệ để bảo tồn, quảng bá và phát triển giá trị văn hóa Việt Nam ra thế giới thông qua các giải pháp truyền thông đổi mới.",
+    "eligibility": "Sinh viên các trường Đại học, Cao đẳng đang theo học tại các cơ sở giáo dục trên địa bàn Hà Nội, không giới hạn năm học hay chuyên ngành",
+    "deadline": "2026-05-31",
+    "duration": "Tháng 05/2026 - Tháng 06/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng Sơ loại (nộp Pitch Deck), Vòng Bán kết (MVP Online Pitching với 12 đội), Vòng Chung kết (Demo Day với 6 đội xuất sắc nhất tại Cung Thanh niên Hà Nội)",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 4,
+      "max": 6,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Danh hiệu Quán quân IC Innovator 2026, cơ hội kết nối với hệ sinh thái khởi nghiệp quốc gia thông qua NIC và NSSC, mentoring từ chuyên gia đầu ngành, học bổng và voucher từ các nhà tài trợ",
+    "prizes_detail": "Hệ thống giải thưởng bao gồm: Quán quân, Á quân, Quý quân, Đội thi Triển vọng, Đội thi được Yêu thích nhất. Giải thưởng bao gồm tiền mặt, cơ hội ươm tạo dự án, kết nối nhà đầu tư, mentoring chuyên sâu và các voucher giá trị từ đối tác",
+    "registration_link": "https://bom.so/ICInnovator2026-DangKySoLoai",
+    "source_url": "https://www.facebook.com/icinnovator.ficc",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Creative Thinking",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Cultural Understanding",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Pitching & Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Business Model Development",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "MVP Development",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Market Research",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Teamwork",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Sơ loại",
+        "date": "2026-05-21 đến 2026-05-31",
+        "description": "Nộp Pitch Deck thể hiện ý tưởng khởi nghiệp truyền thông ứng dụng yếu tố văn hóa Việt. Ban Giám khảo sẽ đánh giá và chọn Top 12 đội xuất sắc nhất vào Vòng Bán kết",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Bán kết - MVP Online Pitching",
+        "date": "2026-06-11",
+        "description": "Top 12 đội thi trình bày MVP (Minimum Viable Product) của dự án thông qua hình thức online pitching. Các đội được mentoring từ chuyên gia và training về xây dựng MVP. Ban Giám khảo chọn Top 6 tiến vào Chung kết",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết - Demo Day",
+        "date": "2026-06-20",
+        "description": "Top 6 đội thi trình diễn dự án hoàn chỉnh tại Demo Day, địa điểm Cung Thanh niên Hà Nội (13:30-17:00). Bao gồm pitching trước Ban Giám khảo, phần hỏi đáp và công bố kết quả cuối cùng",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là chuyển hóa các giá trị văn hóa truyền thống thành các giải pháp truyền thông khả thi, có tính ứng dụng cao và phù hợp với công chúng hiện đại. Đội thi cần cân bằng giữa tính bản sắc văn hóa và tính sáng tạo đổi mới, đồng thời chứng minh tính khả thi của mô hình kinh doanh",
+      "common_mistakes": "Các đội thường tập trung quá nhiều vào khía cạnh văn hóa mà bỏ qua tính thực tiễn và khả năng triển khai của dự án. Một số đội xây dựng ý tưởng quá lý tưởng hóa mà không nghiên cứu kỹ thị trường mục tiêu, không xác định rõ vấn đề cần giải quyết hoặc đề xuất giải pháp thiếu tính khả thi về mặt công nghệ và nguồn lực",
+      "key_success_factors": "Hiểu sâu về văn hóa Việt và biết cách kể chuyện bằng ngôn ngữ hiện đại, tư duy kinh doanh vững vàng với MVP rõ ràng, khả năng pitching thuyết phục, tinh thần đồng đội và sự kiên trì trong việc hoàn thiện dự án qua từng vòng thi. Quan trọng là phải chứng minh được giá trị thực tiễn và tiềm năng phát triển bền vững của dự án",
+      "prep_advice": "Nghiên cứu kỹ chủ đề Culture Sourcecode và các lĩnh vực khởi nghiệp văn hóa sáng tạo được đề cập trong đề bài. Tham khảo các dự án thành công trong lĩnh vực tương tự. Phân bổ thời gian hợp lý cho từng vòng thi: Vòng Sơ loại tập trung xây dựng ý tưởng và Pitch Deck chất lượng; Vòng Bán kết phát triển MVP có thể demo được; Vòng Chung kết hoàn thiện dự án và luyện tập kỹ năng thuyết trình. Tận dụng các buổi training và mentoring do BTC tổ chức để học hỏi và nhận feedback"
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Ươm tạo & Cơ hội",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Hệ thống giải thưởng bao gồm: Quán quân, Á quân, Quý quân, Đội thi Triển vọng, Đội thi được Yêu thích nhất.",
+        "Giải thưởng bao gồm tiền mặt, cơ hội ươm tạo dự án, kết nối nhà đầu tư, mentoring chuyên sâu và các voucher giá trị từ đối tác"
+      ],
+      "scholarship": [
+        "Danh hiệu Quán quân IC Innovator 2026, cơ hội kết nối với hệ sinh thái khởi nghiệp quốc gia thông qua NIC và NSSC, mentoring từ chuyên gia đầu ngành, học bổng và voucher từ các nhà tài trợ"
+      ],
+      "opportunity": [
+        "Danh hiệu Quán quân IC Innovator 2026, cơ hội kết nối với hệ sinh thái khởi nghiệp quốc gia thông qua NIC và NSSC, mentoring từ chuyên gia đầu ngành, học bổng và voucher từ các nhà tài trợ",
+        "Giải thưởng bao gồm tiền mặt, cơ hội ươm tạo dự án, kết nối nhà đầu tư, mentoring chuyên sâu và các voucher giá trị từ đối tác"
+      ],
+      "in_kind": [
+        "Danh hiệu Quán quân IC Innovator 2026, cơ hội kết nối với hệ sinh thái khởi nghiệp quốc gia thông qua NIC và NSSC, mentoring từ chuyên gia đầu ngành, học bổng và voucher từ các nhà tài trợ",
+        "Giải thưởng bao gồm tiền mặt, cơ hội ươm tạo dự án, kết nối nhà đầu tư, mentoring chuyên sâu và các voucher giá trị từ đối tác"
+      ],
+      "certificate": [],
+      "raw_text": "Danh hiệu Quán quân IC Innovator 2026, cơ hội kết nối với hệ sinh thái khởi nghiệp quốc gia thông qua NIC và NSSC, mentoring từ chuyên gia đầu ngành, học bổng và voucher từ các nhà tài trợ\nHệ thống giải thưởng bao gồm: Quán quân, Á quân, Quý quân, Đội thi Triển vọng, Đội thi được Yêu thích nhất. Giải thưởng bao gồm tiền mặt, cơ hội ươm tạo dự án, kết nối nhà đầu tư, mentoring chuyên sâu và các voucher giá trị từ đối tác"
+    }
+  },
+  {
+    "id": "startup-ba-2026",
+    "name": "Cuộc thi Ý tưởng Khởi nghiệp Sinh viên Học viện Ngân hàng - Startup BA 2026",
+    "season": "2026",
+    "organizer": "Trung tâm Hỗ trợ khởi nghiệp, đổi mới sáng tạo - Viện Nghiên cứu khoa học Ngân hàng, Học viện Ngân hàng; Chi đoàn Viện NCKH Ngân hàng; CLB Khởi nghiệp HVNH (STC)",
+    "category": "Công nghệ, Tài chính - Ngân hàng; Giáo dục, Văn hóa, Thương mại, Thời trang, Du lịch, Y tế & Đời sống; Môi trường & Kinh doanh tạo tác động xã hội",
+    "short_description": "Cuộc thi khởi nghiệp dành cho sinh viên với chuỗi chương trình đào tạo từ ý tưởng đến thị trường, kèm tư vấn chuyên gia và cơ hội kết nối quỹ đầu tư",
+    "eligibility": "Sinh viên các trường đại học, cao đẳng trên toàn quốc (không giới hạn trường)",
+    "deadline": "12/09/2026 (23h59)",
+    "duration": "Tháng 06/2026 - Tháng 11/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng Sơ loại (nộp hồ sơ dự án), Vòng 2 (pitching và mentoring trước chuyên gia), Vòng Chung kết (trình bày trước hội đồng và khán giả)",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải Nhất (01): Tiền mặt + Giấy khen + Ưu tiên thi Quốc gia. Giải Nhì (02). Giải Ba (05). Giải Khuyến khích (10). Giải Dự án Tiềm năng (01). Giải Dự án Tác động Xã hội (01). Hỗ trợ 100% chi phí in ấn, mô hình, video. Tham gia Chương trình Ươm tạo 6 tháng",
+    "prizes_detail": "Theo mỗi lĩnh vực: Nhất (01), Nhì (02), Ba (05), Khuyến khích (10). Giải đặc biệt toàn cuộc thi: Dự án Tiềm năng nhất (01), Dự án Tác động Xã hội (01). Quyền lợi: Hỗ trợ 100% chi phí in ấn/mô hình/video, tài trợ chi phí thi quốc gia, cộng điểm học tập, đào tạo miễn phí, chương trình ươm tạo, hỗ trợ thành lập DN, kết nối quỹ đầu tư.",
+    "registration_link": "https://forms.gle/pGzJcM6sVxicdnVT9",
+    "source_url": "https://www.facebook.com/StartupBA.hvnh",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Business Model Design",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "MVP Development",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "UX/UI Design",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Pitching & Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Financial Planning",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Market Research",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Digital Marketing",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "AI Application",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Teamwork",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Đăng ký & Ghép đội",
+        "date": "2026-06-27 đến 2026-07-15",
+        "description": "Thí sinh đăng ký cá nhân hoặc nhóm. BTC hỗ trợ ghép đội cho thí sinh đăng ký lẻ dựa trên thông tin kỹ năng và lĩnh vực quan tâm. Kết quả ghép đội công bố ngày 18/07.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Buổi tư vấn ý tưởng dự án (Online)",
+        "date": "2026-07-20",
+        "description": "Trao đổi trực tiếp với chuyên gia, nhà đầu tư và cố vấn khởi nghiệp. Nhận góp ý về tính khả thi, mô hình kinh doanh và hướng phát triển. Hạn đăng ký tham gia: 19/07.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Nộp bản tóm tắt dự án",
+        "date": "2026-07-30",
+        "description": "Các đội nộp bản tóm tắt sơ bộ về ý tưởng dự án qua form online. Đây là bước đầu để BTC đánh giá và lên kế hoạch hỗ trợ.",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Chuỗi đào tạo BAV Startup Accelerator",
+        "date": "2026-08-01 đến 2026-08-30",
+        "description": "7 chuyên đề: (1) Xu hướng khởi nghiệp & Hình thành ý tưởng, (2) Tư duy thiết kế & Mô hình kinh doanh, (3) Khởi nghiệp xanh & ESG, (4) Phát triển MVP & UX, (5) Ứng dụng AI, (6) Go-to-Market & Digital Marketing, (7) Kế hoạch tài chính & Pitching gọi vốn.",
+        "status": "active"
+      },
+      {
+        "stage": 5,
+        "name": "Demo Day & Mentoring",
+        "date": "2026-09-08",
+        "description": "Các đội pitching dự án trước Hội đồng chuyên gia, nhận phản biện và tư vấn chuyên sâu 1-1 về mô hình kinh doanh, MVP, tài chính và Pitch Deck.",
+        "status": "active"
+      },
+      {
+        "stage": 6,
+        "name": "Vòng Sơ loại: Nộp hồ sơ chính thức",
+        "date": "2026-09-12",
+        "description": "Hạn cuối nộp hồ sơ dự án hoàn chỉnh (23h59 ngày 12/09). File bao gồm tên nhóm và tên dự án, không điền thông tin cá nhân. Thông tin thành viên đã xác nhận tại form đăng ký.",
+        "status": "active"
+      },
+      {
+        "stage": 7,
+        "name": "Công bố kết quả Vòng 1",
+        "date": "2026-09-28 đến 2026-09-30",
+        "description": "BTC công bố danh sách các đội lọt vào Vòng 2 dựa trên đánh giá hồ sơ về tính sáng tạo, khả thi, tác động xã hội và tiềm năng phát triển.",
+        "status": "active"
+      },
+      {
+        "stage": 8,
+        "name": "Vòng 2 & Chung kết",
+        "date": "Tháng 10-11/2026",
+        "description": "Các vòng tiếp theo với pitching, phản biện và bảo vệ dự án trước hội đồng chuyên gia. Chung kết dự kiến tháng 11/2026 để tìm ra quán quân.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là biến ý tưởng thành sản phẩm MVP khả thi và chứng minh được tính thương mại hóa thực tế. Các đội cần cân bằng giữa tính sáng tạo và tính khả thi, đồng thời phải thuyết phục được cả khía cạnh kỹ thuật lẫn mô hình kinh doanh. Phần pitching và phản biện trước chuyên gia đòi hỏi bản lĩnh cao và khả năng xử lý tình huống linh hoạt.",
+      "common_mistakes": "Chạy theo trào lưu hoặc sao chép mô hình có sẵn mà thiếu đi sự quan sát thực tế; Tham tính năng (feature creep) thay vì tập trung vào giá trị cốt lõi; Chưa xác định rõ khách hàng mục tiêu và điểm nghẽn thị trường; Xây dựng sản phẩm dựa trên giả định chủ quan thay vì nhu cầu thật của người dùng; Tham gia nhiều cuộc thi cùng lúc thay vì tập trung toàn lực vào một cuộc thi; Bỏ qua việc tận dụng AI và các công cụ hỗ trợ hiện đại.",
+      "key_success_factors": "Quan sát sâu các vấn đề, lỗ hổng thực tế xung quanh để tìm ý tưởng (đừng đi tìm kiếm ý tưởng); Xây dựng MVP tập trung vào giá trị cốt lõi theo mô hình MoSCoW; Áp dụng tư duy Design Thinking và User-Centric; Tận dụng AI làm trợ thủ trong nghiên cứu, phân tích và tối ưu quy trình; Xây dựng mô hình tài chính rõ ràng với dự phóng dòng tiền thuyết phục; Kỹ năng pitching xuất sắc - biến con số thành câu chuyện; Tiếp thu góp ý từ mentor và chuyên gia để cải tiến liên tục; Có sản phẩm mẫu cụ thể và tốt nhất là có doanh thu ban đầu.",
+      "prep_advice": "Tham gia đầy đủ chuỗi đào tạo 'BAV Startup Accelerator' 7 chuyên đề từ tháng 8 để nắm vững kiến thức nền tảng; Tận dụng buổi tư vấn ý tưởng dự án ngày 20/07 để được chuyên gia định hướng sớm; Dành thời gian nghiên cứu thị trường kỹ lưỡng và phỏng vấn khách hàng tiềm năng; Xây dựng MVP sớm để thu thập feedback thực tế; Luyện tập pitching thường xuyên, đặc biệt phần xử lý câu hỏi phản biện; Học hỏi từ các dự án đạt giải năm trước (2025): InnoSpark, Feather, AI2Sign, Ecoverse, Hydrotech; Kết nối với đại sứ truyền thông và các mentor được BTC giới thiệu; Hoàn thiện hồ sơ sớm trước deadline để tránh sự cố kỹ thuật phút chót."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Ươm tạo & Cơ hội",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Giải Nhất (01): Tiền mặt",
+        "Giải Nhì (02).",
+        "Giải Ba (05).",
+        "Giải Khuyến khích (10)."
+      ],
+      "scholarship": [
+        "Quyền lợi: Hỗ trợ 100% chi phí in ấn/mô hình/video, tài trợ chi phí thi quốc gia, cộng điểm học tập, đào tạo miễn phí, chương trình ươm tạo, hỗ trợ thành lập DN, kết nối quỹ đầu tư."
+      ],
+      "opportunity": [
+        "Tham gia Chương trình Ươm tạo 6 tháng",
+        "Quyền lợi: Hỗ trợ 100% chi phí in ấn/mô hình/video, tài trợ chi phí thi quốc gia, cộng điểm học tập, đào tạo miễn phí, chương trình ươm tạo, hỗ trợ thành lập DN, kết nối quỹ đầu tư."
+      ],
+      "in_kind": [],
+      "certificate": [
+        "Giấy khen"
+      ],
+      "raw_text": "Giải Nhất (01): Tiền mặt + Giấy khen + Ưu tiên thi Quốc gia. Giải Nhì (02). Giải Ba (05). Giải Khuyến khích (10). Giải Dự án Tiềm năng (01). Giải Dự án Tác động Xã hội (01). Hỗ trợ 100% chi phí in ấn, mô hình, video. Tham gia Chương trình Ươm tạo 6 tháng\nTheo mỗi lĩnh vực: Nhất (01), Nhì (02), Ba (05), Khuyến khích (10). Giải đặc biệt toàn cuộc thi: Dự án Tiềm năng nhất (01), Dự án Tác động Xã hội (01). Quyền lợi: Hỗ trợ 100% chi phí in ấn/mô hình/video, tài trợ chi phí thi quốc gia, cộng điểm học tập, đào tạo miễn phí, chương trình ươm tạo, hỗ trợ thành lập DN, kết nối quỹ đầu tư."
+    }
+  },
+  {
+    "id": "cardano-sea-hackathon-2026",
+    "name": "Cardano SEA Hackathon 2026",
+    "season": "2026",
+    "organizer": "Hub Network & Cardano Vietnam, phối hợp Trường Đại học Nguyễn Tất Thành",
+    "category": "Công nghệ (Blockchain, AI, Fintech, EdTech, Nông nghiệp, Data Science, Green Energy)",
+    "short_description": "Hackathon công nghệ quy mô Đông Nam Á, nơi thí sinh xây dựng sản phẩm thực tế ứng dụng Blockchain (ưu tiên Cardano) và/hoặc AI để giải quyết bài toán thực tiễn, kết nối builder với mentor, startup và nhà đầu tư.",
+    "eligibility": "Học sinh, sinh viên các trường Đại học/Cao đẳng tại Việt Nam & Đông Nam Á; nhà phát triển & startup giai đoạn đầu",
+    "deadline": "08/05/2026",
+    "duration": "Tháng 04/2026 - Tháng 05/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 (Khởi động ý tưởng): Mở và đóng đăng ký nộp ý tưởng từ 09/04 đến 08/05/2026, kèm 2 Workshop Kick-off online. Vòng 2 (Nộp đề án): TOP 20 đội gửi deck dự thi từ 12/05 đến 17/05/2026. Vòng 3 (Chung kết): Huấn luyện chuyên sâu, 24H Hackathon và Demo & Pitching Day tại Trường ĐH Nguyễn Tất Thành vào 26-27/05/2026.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Tổng giải thưởng 140.000.000 VND: Bảng Blockchain (Cardano) 90tr (Nhất 45tr, Nhì 25tr, Ba×3 10tr/giải); Bảng AI 50tr (Nhất 15tr, Nhì 10tr, Ba×3 5tr/giải); kèm giấy chứng nhận, cơ hội tham gia iHub Venture và kết nối quỹ đầu tư",
+    "prizes_detail": "Tổng giá trị giải thưởng: 140.000.000 VND. Bảng Blockchain (Cardano) – 90.000.000 VND: Nhất 45tr, Nhì 25tr, Ba (x3) 10tr/giải. Bảng AI – 50.000.000 VND: Nhất 15tr, Nhì 10tr, Ba (x3) 5tr/giải. Phúc lợi thêm: Giấy chứng nhận từ Hub Network HCMC, cơ hội vào iHub Venture, kết nối nhà đầu tư trong nước và quốc tế.",
+    "registration_link": "https://form.jotform.com/260982100191046",
+    "source_url": "https://www.facebook.com/flagup.flagshipstartupclub?locale=vi_VN",
+    "required_skills": [
+      {
+        "name": "Tư duy khởi nghiệp & xác định bài toán thực tiễn",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Hiểu biết về Blockchain (ưu tiên Cardano / Plutus)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Ứng dụng AI vào sản phẩm / mô hình kinh doanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Pitching & trình bày dự án",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Thiết kế slide & storytelling",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm & phân vai trong startup team",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Xây dựng prototype / MVP (kể cả No-code / Low-code)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Smart Contract (Plutus / Cardano ecosystem)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Chiến lược gọi vốn & tư duy nhà đầu tư",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Tiếng Anh (trình bày tài liệu khu vực Đông Nam Á)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Khởi động ý tưởng & Mở đăng ký",
+        "date": "2026-04-09 đến 2026-05-08",
+        "description": "Mở cổng đăng ký và nộp ý tưởng dự án ứng dụng Blockchain và/hoặc AI. Kèm theo 2 Workshop Kick-off online hỗ trợ đội thi: Workshop 1 (25/04) về phát triển ý tưởng với Blockchain & AI; Workshop 2 (03/05) về xây sản phẩm với Plutus và smart contract. Đội có thể đăng ký cá nhân hoặc nhóm tối đa 4 người.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Nộp đề án (TOP 20)",
+        "date": "2026-05-12 đến 2026-05-17",
+        "description": "TOP 20 đội được chọn từ Vòng 1 nộp pitch deck dự thi chi tiết để ban giám khảo đánh giá và chọn đội vào Chung kết.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chung kết – 24H Hackathon & Demo Day",
+        "date": "2026-05-26 đến 2026-05-27",
+        "description": "Huấn luyện chuyên sâu từ mentor (26/05), tiếp theo là 24H Hackathon xây dựng sản phẩm thực tế. Kết thúc bằng Demo & Pitching Day trước ban giám khảo và trao giải. Tổ chức tại Trường ĐH Nguyễn Tất Thành, 300A Nguyễn Tất Thành, P. Xóm Chiếu, TP. HCM.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Kết hợp được công nghệ Blockchain (đặc biệt Cardano/Plutus) với AI vào một sản phẩm có mô hình kinh doanh rõ ràng và bài toán thực tiễn trong vỏn vẹn 24 giờ hackathon là thách thức lớn nhất. Nhiều đội mạnh về kỹ thuật nhưng thiếu tư duy 'business-first', dẫn đến sản phẩm không thuyết phục được ban giám khảo về tính khả thi thương mại.",
+      "common_mistakes": "Đội mới thường sa vào giải thích công nghệ quá nhiều thay vì làm rõ vấn đề thực tiễn và khách hàng mục tiêu. Bỏ qua các Workshop Kick-off khiến đội vào vòng sau không có nền tảng kỹ thuật Cardano đủ vững. Pitch deck thiếu số liệu thị trường và lộ trình triển khai cụ thể.",
+      "key_success_factors": "Đội chiến thắng thường có: (1) bài toán thực tiễn rõ ràng thuộc 7 lĩnh vực trọng tâm; (2) prototype / demo sản phẩm hoạt động được dù ở mức MVP; (3) pitch narrative thuyết phục về thị trường Đông Nam Á và khả năng scale; (4) phân vai rõ ràng giữa technical founder và business/product founder trong đội.",
+      "prep_advice": "Tham gia đủ cả 2 Workshop Kick-off online để nắm bắt kỹ thuật Cardano và cách dùng AI No-code/Low-code. Xác định rõ lĩnh vực thi đấu (Blockchain hay AI track) sớm để tập trung tài nguyên. Chuẩn bị pitch deck từ Vòng 1 theo tiêu chí: Problem – Solution – Market – Tech Stack – Business Model – Team. Tìm hiểu hệ sinh thái Cardano Vietnam và iHub Ventures để hiểu tiêu chí đánh giá của ban giám khảo."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "Tổng giải thưởng 140.000.000 VND",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Tổng giải thưởng 140.000.000 VND: Bảng Blockchain (Cardano) 90tr (Nhất 45tr, Nhì 25tr, Ba×3 10tr/giải)",
+        "Bảng AI 50tr (Nhất 15tr, Nhì 10tr, Ba×3 5tr/giải)",
+        "Tổng giá trị giải thưởng: 140.000.000 VND.",
+        "Bảng Blockchain (Cardano) – 90.000.000 VND: Nhất 45tr, Nhì 25tr, Ba (x3) 10tr/giải.",
+        "Bảng AI – 50.000.000 VND: Nhất 15tr, Nhì 10tr, Ba (x3) 5tr/giải."
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "kèm giấy chứng nhận, cơ hội tham gia iHub Venture và kết nối quỹ đầu tư",
+        "Phúc lợi thêm: Giấy chứng nhận từ Hub Network HCMC, cơ hội vào iHub Venture, kết nối nhà đầu tư trong nước và quốc tế."
+      ],
+      "in_kind": [],
+      "certificate": [
+        "kèm giấy chứng nhận, cơ hội tham gia iHub Venture và kết nối quỹ đầu tư",
+        "Phúc lợi thêm: Giấy chứng nhận từ Hub Network HCMC, cơ hội vào iHub Venture, kết nối nhà đầu tư trong nước và quốc tế."
+      ],
+      "raw_text": "Tổng giải thưởng 140.000.000 VND: Bảng Blockchain (Cardano) 90tr (Nhất 45tr, Nhì 25tr, Ba×3 10tr/giải); Bảng AI 50tr (Nhất 15tr, Nhì 10tr, Ba×3 5tr/giải); kèm giấy chứng nhận, cơ hội tham gia iHub Venture và kết nối quỹ đầu tư\nTổng giá trị giải thưởng: 140.000.000 VND. Bảng Blockchain (Cardano) – 90.000.000 VND: Nhất 45tr, Nhì 25tr, Ba (x3) 10tr/giải. Bảng AI – 50.000.000 VND: Nhất 15tr, Nhì 10tr, Ba (x3) 5tr/giải. Phúc lợi thêm: Giấy chứng nhận từ Hub Network HCMC, cơ hội vào iHub Venture, kết nối nhà đầu tư trong nước và quốc tế."
+    }
+  },
+  {
+    "id": "biz4good-2025",
+    "name": "Cuộc thi Sinh viên Khởi nghiệp - Biz4Good 2025",
+    "season": "Biz4Good 2025",
+    "organizer": "Học viện Ngoại giao (DAV Startup)",
+    "category": "Khởi nghiệp bền vững, Kinh tế xanh, Phát triển cộng đồng dân tộc thiểu số",
+    "short_description": "Cuộc thi khởi nghiệp dành cho sinh viên và startup trẻ, tìm kiếm ý tưởng kinh doanh sáng tạo hướng đến phát triển kinh tế xanh và hỗ trợ cộng đồng dân tộc thiểu số phát triển sinh kế bền vững.",
+    "eligibility": "Sinh viên đại học, cao đẳng, học viện toàn quốc; doanh nghiệp khởi nghiệp thành lập dưới 2 năm; cá nhân/tổ chức có ý tưởng về phát triển xã hội. Tham gia cá nhân hoặc nhóm tối đa 5 thành viên.",
+    "deadline": "25/04/2025 (23h59)",
+    "duration": "Tháng 03/2025 - Tháng 06/2025",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 - Good4 Roots (Vòng Đơn): Nộp hồ sơ ý tưởng khởi nghiệp, đánh giá bởi Ban Giám khảo; chọn Top 10 đội vào Bán kết. Vòng 2 - Good4 Growth (Bán kết): Pitching trực tuyến qua Google Meet, hoàn thiện mô hình kinh doanh với sự cố vấn của chuyên gia; chọn Top 5 vào Chung kết. Vòng 3 - Good4 Future (Chung kết): Đêm thi trực tiếp tại Hội trường A - Học viện Ngoại giao, bảo vệ đề án trước Ban Giám khảo và khán giả.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân, Á quân, Quý quân (3 đội); Giải Đề án Triển vọng, Giải Đề án Nhân văn, Giải Đề án Ấn tượng. Vòng Đơn: Giải Nhất (học bổng 100% - 20tr VNĐ khóa học Inda Academy), Giải Nhì (70%), Giải Ba (50%).",
+    "prizes_detail": "Vòng Đơn - Giải Ý tưởng Triển vọng nhất: học bổng toàn phần 100% (20.000.000 VNĐ) khóa Data Engineer/Data Analyst tại Inda Academy; Giải Ý tưởng Ấn tượng: học bổng 70%; Giải Ý tưởng Nhân văn: học bổng 50%. Chung kết: Giải Quán quân, Á quân, Quý quân, Giải Đề án Triển vọng, Giải Đề án Nhân văn, Giải Đề án Ấn tượng (giá trị tiền mặt cụ thể không được công bố trong các bài đăng).",
+    "registration_link": "https://forms.gle/PrThYhQVs75CJn1NA",
+    "source_url": "https://www.facebook.com/biz4goodcompetition",
+    "required_skills": [
+      {
+        "name": "Business Model Development",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Pitching & Thuyết trình",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Problem Solving & Tư duy hệ thống",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Social Impact Thinking (Tư duy tác động xã hội)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Sustainable Development / Kinh tế xanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Teamwork & Leadership",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Market Research & Customer Insight",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Financial Modeling / Lập kế hoạch tài chính cơ bản",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Slide Design & Visual Storytelling",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Marketing & Truyền thông",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Good4 Roots - Mở đơn & Nộp hồ sơ ý tưởng",
+        "date": "2025-03-30 đến 2025-04-25",
+        "description": "Thí sinh đăng ký và nộp hồ sơ ý tưởng khởi nghiệp theo đề bài (giải pháp phát triển kinh tế xanh cho cộng đồng dân tộc thiểu số). Deadline gốc là 20/04/2025, đã được gia hạn đến 23h59 ngày 25/04/2025. Kết quả công bố ngày 30/04/2025, chọn Top 10 đội.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Good4 Growth - Bán kết trực tuyến",
+        "date": "2025-05-04",
+        "description": "Top 10 đội thi pitching trực tuyến qua Google Meet (8h sáng Chủ nhật 04/05/2025). Các đội hoàn thiện mô hình kinh doanh và nhận cố vấn từ chuyên gia. Ban Giám khảo chọn Top 5 vào Chung kết (công bố 09/05/2025).",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Good4 Future - Đêm Chung kết Rạng Rỡ Việt Nam",
+        "date": "2025-05-26",
+        "description": "Top 5 đội thi bảo vệ đề án trực tiếp tại Hội trường A - Học viện Ngoại giao (17h30 - 21h30 ngày 26/05/2025). Kết quả: Quán quân SweetieBoss, Á quân GypFoam, Quý quân F5 ECONOVAST - Pandaner - Bamboo. Các giải phụ: Triển vọng (Ba Con Hổ), Nhân văn (High Five), Ấn tượng (Nem Nướng).",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là xây dựng một mô hình kinh doanh vừa khả thi về mặt tài chính, vừa tạo ra tác động xã hội thực sự cho cộng đồng dân tộc thiểu số - đòi hỏi sự am hiểu sâu về bối cảnh địa phương, kinh tế xanh và khả năng thuyết phục ban giám khảo về tính ứng dụng thực tiễn của đề án.",
+      "common_mistakes": "Các đội mới thường mô tả ý tưởng chung chung mà thiếu phân tích vấn đề cụ thể; đề xuất giải pháp thiếu tính khả thi về nguồn lực và thị trường; trình bày thiên về cảm xúc nhưng yếu phần số liệu, dữ liệu chứng minh; bỏ qua việc xác định rõ đối tượng hưởng lợi (cộng đồng dân tộc thiểu số cụ thể nào) và cơ chế tạo ra sinh kế bền vững.",
+      "key_success_factors": "Ý tưởng phải chạm đúng vào bài toán thực tế của cộng đồng dân tộc thiểu số (không chỉ lý thuyết); mô hình kinh doanh phải có cả yếu tố kinh tế xanh lẫn tính khả thi thương mại; kỹ năng pitching tự tin, câu chuyện thương hiệu rõ ràng và phần phản biện sắc bén với ban giám khảo là yếu tố tạo ra sự khác biệt ở vòng Chung kết.",
+      "prep_advice": "Ở Vòng Đơn: đọc kỹ đề bài, nghiên cứu về kinh tế xanh và thực trạng cộng đồng dân tộc thiểu số trước khi xây dựng hồ sơ. Ở Vòng Bán kết: tận dụng tối đa buổi mentoring với cố vấn để hoàn thiện Business Model Canvas, chuẩn bị câu trả lời cho các câu hỏi phản biện về tài chính và thị trường. Ở Vòng Chung kết: luyện tập pitch nhiều lần, đảm bảo mỗi thành viên nắm rõ mọi chi tiết của đề án, thiết kế slide rõ ràng và chú trọng phần impact storytelling để chinh phục cả ban giám khảo lẫn khán giả."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng"
+      ],
+      "cash": [
+        "Quán quân, Á quân, Quý quân (3 đội)",
+        "Chung kết: Giải Quán quân, Á quân, Quý quân, Giải Đề án Triển vọng, Giải Đề án Nhân văn, Giải Đề án Ấn tượng (giá trị tiền mặt cụ thể không được công bố trong các bài đăng)."
+      ],
+      "scholarship": [
+        "Vòng Đơn: Giải Nhất (học bổng 100% - 20tr VNĐ khóa học Inda Academy), Giải Nhì (70%), Giải Ba (50%).",
+        "Vòng Đơn - Giải Ý tưởng Triển vọng nhất: học bổng toàn phần 100% (20.000.000 VNĐ) khóa Data Engineer/Data Analyst tại Inda Academy",
+        "Giải Ý tưởng Ấn tượng: học bổng 70%",
+        "Giải Ý tưởng Nhân văn: học bổng 50%."
+      ],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Quán quân, Á quân, Quý quân (3 đội); Giải Đề án Triển vọng, Giải Đề án Nhân văn, Giải Đề án Ấn tượng. Vòng Đơn: Giải Nhất (học bổng 100% - 20tr VNĐ khóa học Inda Academy), Giải Nhì (70%), Giải Ba (50%).\nVòng Đơn - Giải Ý tưởng Triển vọng nhất: học bổng toàn phần 100% (20.000.000 VNĐ) khóa Data Engineer/Data Analyst tại Inda Academy; Giải Ý tưởng Ấn tượng: học bổng 70%; Giải Ý tưởng Nhân văn: học bổng 50%. Chung kết: Giải Quán quân, Á quân, Quý quân, Giải Đề án Triển vọng, Giải Đề án Nhân văn, Giải Đề án Ấn tượng (giá trị tiền mặt cụ thể không được công bố trong các bài đăng)."
+    }
+  },
+  {
+    "id": "big-idea-2025-dynamic-ueh",
+    "name": "Cuộc thi Ý tưởng Khởi nghiệp BIG IDEA 2025",
+    "season": "BIG IDEA 2025",
+    "organizer": "CLB Sinh viên Khởi nghiệp Dynamic UEH (Trường Đại học Kinh tế TP. HCM)",
+    "category": "Khởi nghiệp / Đổi mới sáng tạo",
+    "short_description": "BIG IDEA 2025 là cuộc thi ý tưởng khởi nghiệp thường niên do CLB Dynamic UEH tổ chức, dành cho sinh viên các trường Cao đẳng, Đại học tại TP.HCM. Cuộc thi kết hợp chuỗi training thực chiến với 5 chủ đề từ Design Thinking đến Pitching Skill, giúp thí sinh xây dựng và hoàn thiện ý tưởng khởi nghiệp qua 4 vòng thi từ online đến Gala Chung kết offline. Tổng giá trị giải thưởng lên đến hơn 1,1 tỷ đồng (bao gồm hiện kim, hiện vật và học bổng).",
+    "eligibility": "Sinh viên đang học tại các trường Cao đẳng, Đại học trên địa bàn TP.HCM hoặc mới tốt nghiệp không quá 2 năm; tham gia cá nhân hoặc nhóm 3–5 thành viên; lệ phí 15.000 VNĐ/thí sinh",
+    "deadline": "27/04/2025",
+    "duration": "Tháng 03/2025 – Tháng 06/2025",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1 – WARMING UP (Online, 28/03–27/04): thi trắc nghiệm + nộp infographic ý tưởng qua mail, kèm Training 1 Design Thinking (18/04) và Training 2 Problem Solution Fit (08/05) và Session PSF Canvas (10–11/05). Vòng 2 – BOOTCAMP (Offline, 24/05): training Product Offering và Market Size, các đội nộp bài và được đánh giá bởi ban giám khảo để chọn Top 10. Vòng 3 – SHOWCASE (Offline 23/05, kèm Training 5 Pitching Skill 02/06): Top 10 trình bày pitch trực tiếp để chọn Top 5. Vòng 4 – GALA CHUNG KẾT (Offline 07/06): Top 5 pitching trước ban giám khảo để xác định Quán quân, Á quân, Quý quân và Khuyến khích.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân: 300.000.000đ (hiện kim, hiện vật, học bổng) + giấy CN & kỷ niệm chương; Á quân: 250.000.000đ; Quý quân: 220.000.000đ; 2 giải Khuyến khích: 180.000.000đ/đội; Đội được yêu thích nhất (bình chọn online): 500.000đ; ngoài ra còn các giải thưởng phụ khác",
+    "prizes_detail": "Quán quân: 300.000.000 VNĐ | Á quân: 250.000.000 VNĐ | Quý quân: 220.000.000 VNĐ | 02 giải Khuyến khích: 180.000.000 VNĐ/giải | Giải được yêu thích nhất (bình chọn online): 500.000 VNĐ. Ngoài ra còn nhiều giải thưởng phụ (hiện kim, hiện vật, học bổng, cơ hội nghề nghiệp) được trao xuyên suốt cuộc thi. Tổng giá trị ước tính trên 1,1 tỷ đồng.",
+    "registration_link": "https://tinyurl.com/mtnu4mrb",
+    "source_url": "https://www.facebook.com/bigidea.dynamicueh",
+    "required_skills": [
+      {
+        "name": "Design Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Problem Solution Fit – xác định và kiểm chứng vấn đề khách hàng",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Pitching Skill – trình bày ý tưởng thuyết phục trước ban giám khảo",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Business Model Canvas / Product Offering",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Market Sizing – TAM/SAM/SOM",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Teamwork và phân công nhóm hiệu quả",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Slide Design – thiết kế bộ slide trình bày chuyên nghiệp",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Storytelling khởi nghiệp – kể chuyện truyền cảm hứng",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Sustainability & Social Innovation – tư duy giải pháp bền vững",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phản biện và Q&A linh hoạt trước ban giám khảo",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: WARMING UP – Mở đơn & Thi trắc nghiệm + Nộp Infographic",
+        "date": "2025-03-28 đến 2025-04-27",
+        "description": "Thí sinh đăng ký tham gia (lệ phí 15.000 VNĐ/người), hoàn thành bài thi trắc nghiệm online, nộp file infographic ý tưởng qua mail. Tham gia Training 1 chủ đề Design Thinking (online tối 18/04). Sau khi kết thúc vòng 1, thí sinh tham gia Training 2 Problem Solution Fit (offline tối 08/05) và Session PSF Canvas (online 10–11/05) để chuẩn bị cho vòng tiếp theo.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: BOOTCAMP – Đào tạo chuyên sâu & Đánh giá chọn Top 10",
+        "date": "2025-05-24",
+        "description": "Các đội vượt qua vòng Session tham gia Bootcamp offline tại phòng B1.205, cơ sở B, UEH (đã dời từ 13–19/05 sang 24/05). Gồm Training 3 Product Offering và Training 4 Market Size, dẫn dắt bởi anh Trần Minh Mạnh và Nguyễn Phan Anh. Ban giám khảo đánh giá và chọn Top 10 đội xuất sắc.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: SHOWCASE – Pitching Day & Chọn Top 5",
+        "date": "2025-05-23 và 2025-06-02",
+        "description": "Top 10 tham gia Showcase + Pitching Day (offline 23/05). Training 5 Pitching Skill (online 02/06) do anh Nguyễn Đình Thành Đạt – CEO GUVI Platform dẫn dắt. Ban giám khảo chọn ra Top 5 đội vào Gala Chung kết.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 4: GALA CHUNG KẾT BIG IDEA 2025",
+        "date": "2025-06-07",
+        "description": "Top 5 đội (AMORIS, DA CAM, INNOVA5, TECADEV, TÀI LỘC QUÁ LỚN) trình bày ý tưởng và kế hoạch kinh doanh trước ban giám khảo, trả lời phản biện để tranh tài các ngôi vị. Kết quả: Quán quân – AMORIS, Á quân – INNOVA5, Quý quân – DA CAM, 02 Khuyến khích – TECADEV và TÀI LỘC QUÁ LỚN, Được yêu thích nhất – TÀI LỘC QUÁ LỚN.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là liên tục phát triển và hoàn thiện ý tưởng qua từng vòng với tiêu chí đánh giá ngày càng khắt khe hơn – từ việc xác định vấn đề (Problem Solution Fit) đến định lượng thị trường (Market Size) rồi thuyết phục ban giám khảo chuyên nghiệp trong vòng Showcase và Gala. Thí sinh còn phải quản lý thời gian giữa lịch thi học kỳ và lịch Bootcamp (BTC từng phải dời lịch vì thí sinh bận ôn thi), nên áp lực song song là rất thực tế.",
+      "common_mistakes": "Nhiều đội mới hay sa vào ý tưởng quá lớn hoặc quá kỹ thuật mà không kiểm chứng được nhu cầu thực của khách hàng – thiếu Problem Solution Fit. Sai lầm phổ biến khác là số liệu Market Size không có nguồn dẫn chứng, slide trình bày dài dòng thiếu story-telling, và khi bị ban giám khảo phản biện thì lúng túng thiếu phương án dự phòng. Ngoài ra, các đội thường bỏ qua tính bền vững và khả năng scale của mô hình kinh doanh.",
+      "key_success_factors": "Những đội lọt Top 5 đều có ý tưởng giải quyết vấn đề xã hội/môi trường rõ ràng và có tính thực tiễn (AMORIS với nến thơm hương Việt, DA CAM với da sinh học từ vỏ cam, TÀI LỌC QUÁ LỚN với vật liệu từ vỏ sầu riêng). Yếu tố then chốt là: (1) Problem-Solution Fit được kiểm chứng rõ ràng, (2) Pitching tự tin, có cấu trúc và kể chuyện cảm xúc, (3) Đội nhóm đồng đều và hỗ trợ nhau tốt, (4) Chủ động tham gia đầy đủ các buổi training để tích lũy phản hồi từ mentors và giám khảo.",
+      "prep_advice": "Đăng ký sớm và tham gia đầy đủ 5 buổi training vì đây là cơ hội nhận feedback trực tiếp từ chuyên gia và điều chỉnh ý tưởng trước khi nộp bài chính thức. Dành 1–2 tuần đầu để nghiên cứu vấn đề thực tế và xây dựng Problem Solution Fit Canvas vững chắc. Tuần trước Bootcamp tập trung vào Market Size với số liệu thực. Tuần cuối trước Showcase luyện pitch 5–7 phút nhiều lần, chuẩn bị tốt phần Q&A bằng cách tự đặt câu hỏi khó nhất cho chính ý tưởng của mình. Chú ý thiết kế slide rõ ràng, tối giản và có điểm nhấn về impact xã hội."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Á quân: 250.000.000đ",
+        "Quý quân: 220.000.000đ",
+        "giải Khuyến khích: 180.000.000đ/đội",
+        "Quán quân: 300.000.000 VNĐ",
+        "Á quân: 250.000.000 VNĐ",
+        "Quý quân: 220.000.000 VNĐ"
+      ],
+      "scholarship": [
+        "Quán quân: 300.000.000đ (hiện kim, hiện vật, học bổng)",
+        "Ngoài ra còn nhiều giải thưởng phụ (hiện kim, hiện vật, học bổng, cơ hội nghề nghiệp) được trao xuyên suốt cuộc thi."
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "Quán quân: 300.000.000đ (hiện kim, hiện vật, học bổng)",
+        "giấy CN & kỷ niệm chương",
+        "Ngoài ra còn nhiều giải thưởng phụ (hiện kim, hiện vật, học bổng, cơ hội nghề nghiệp) được trao xuyên suốt cuộc thi."
+      ],
+      "certificate": [],
+      "raw_text": "Quán quân: 300.000.000đ (hiện kim, hiện vật, học bổng) + giấy CN & kỷ niệm chương; Á quân: 250.000.000đ; Quý quân: 220.000.000đ; 2 giải Khuyến khích: 180.000.000đ/đội; Đội được yêu thích nhất (bình chọn online): 500.000đ; ngoài ra còn các giải thưởng phụ khác\nQuán quân: 300.000.000 VNĐ | Á quân: 250.000.000 VNĐ | Quý quân: 220.000.000 VNĐ | 02 giải Khuyến khích: 180.000.000 VNĐ/giải | Giải được yêu thích nhất (bình chọn online): 500.000 VNĐ. Ngoài ra còn nhiều giải thưởng phụ (hiện kim, hiện vật, học bổng, cơ hội nghề nghiệp) được trao xuyên suốt cuộc thi. Tổng giá trị ước tính trên 1,1 tỷ đồng."
+    }
+  },
+  {
+    "id": "ceo-innovators-2026-the-leadership-battle",
+    "name": "CEO Innovators 2026 – The Leadership Battle (Mùa 9)",
+    "season": "Mùa 9 (2026)",
+    "organizer": "Khoa Kinh tế – Trường Đại học Kinh tế – Tài chính TP.HCM (UEF), BIHub",
+    "category": "Khởi nghiệp, Đổi mới sáng tạo, Lãnh đạo doanh nghiệp",
+    "short_description": "CEO Innovators 2026 là sân chơi khởi nghiệp học thuật thường niên lần thứ 9 do Khoa Kinh tế UEF tổ chức, dành cho sinh viên đại học và cao đẳng tại TP.HCM muốn biến ý tưởng thành dự án khởi nghiệp thực tế. Cuộc thi tập trung phát triển tư duy lãnh đạo, kỹ năng xây dựng mô hình kinh doanh và khả năng pitching, với sự đồng hành của các chuyên gia, doanh nhân và chương trình ươm tạo iVG dành cho Top 10.",
+    "eligibility": "Sinh viên các trường Đại học/Cao đẳng tại TP.HCM và khu vực lân cận",
+    "deadline": "05/05/2026 (hết Vòng Sơ tuyển)",
+    "duration": "Tháng 04/2026 – Tháng 05/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng Sơ tuyển (13/04 – 05/05/2026): Đăng ký và nộp hồ sơ ý tưởng dự án khởi nghiệp tập trung vào tính đổi mới, khả thi và ứng dụng thực tiễn. Vòng Bán kết (sáng 28/05/2026): Pitching trực tiếp trước ban giám khảo. Vòng Chung kết (chiều 28/05/2026): Tranh tài quyết định ngôi vị quán quân tại UEF.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Chưa công bố cụ thể giá trị tiền mặt. Các phần thưởng bao gồm: cúp, chứng nhận, cơ hội mentoring, tham gia chương trình ươm tạo iVG cho Top 10, và kết nối với hệ sinh thái khởi nghiệp (BSSC, InnoEx, Startup Wheel).",
+    "registration_link": "https://forms.gle/4xUEpPrtVx4K71QC9",
+    "source_url": "https://www.facebook.com/YoungInnovators2024",
+    "required_skills": [
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model Canvas)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Pitching & Thuyết trình gọi vốn",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy sáng tạo và đổi mới (Innovation Thinking)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Phân tích thị trường và tính khả thi của ý tưởng",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm và lãnh đạo dự án",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Phản biện và xử lý câu hỏi từ ban giám khảo",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế slide và trực quan hóa ý tưởng",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Kiến thức về chiến lược marketing và xây dựng thương hiệu",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Design Thinking",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Networking và kết nối hệ sinh thái khởi nghiệp",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Lễ Kick-off CEO Innovators 2026",
+        "date": "2026-04-13",
+        "description": "Lễ phát động chính thức tại Hội trường Liberty, Tầng 15, UEF (13:30–16:00). Công bố thể lệ cuộc thi, keynote 'Why Most Student Startups Fail – And How to Beat the Odds' và tọa đàm 'From Pitch Deck to Real Market'. Đăng ký tham dự kick-off qua: https://forms.gle/9Ezre6e6ffWZETfX9",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Sơ tuyển: Mở đơn & Nộp hồ sơ ý tưởng",
+        "date": "2026-04-13 đến 2026-05-05",
+        "description": "Các đội (cá nhân hoặc nhóm) đăng ký và nộp hồ sơ ý tưởng dự án khởi nghiệp qua Google Form. Dự án cần thể hiện tính đổi mới, tính khả thi và khả năng ứng dụng thực tiễn. Đăng ký tại: https://forms.gle/4xUEpPrtVx4K71QC9",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Bán kết",
+        "date": "2026-05-28 (buổi sáng)",
+        "description": "Top các đội vượt qua sơ tuyển pitching trực tiếp trước ban giám khảo, trình bày mô hình kinh doanh và trả lời phản biện chuyên môn. Địa điểm: UEF.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Chung kết",
+        "date": "2026-05-28 (buổi chiều)",
+        "description": "Tranh tài quyết định giữa các đội xuất sắc nhất. Top 10 đội vào Chung kết nhận được cố vấn chuyên môn và cơ hội tham gia chương trình ươm tạo iVG. Công bố quán quân CEO Innovators 2026.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thách thức lớn nhất là chuyển hóa ý tưởng từ lý thuyết sang mô hình kinh doanh có tính khả thi thực tế (từ 'pitch deck' đến 'real market'). Nhiều đội sinh viên có ý tưởng tốt nhưng thiếu hiểu biết về thị trường, mô hình doanh thu và cách vận hành thực tiễn. Vòng Bán kết và Chung kết diễn ra cùng ngày 28/05, đòi hỏi sức bền và sự chuẩn bị liên tục trong một ngày thi dài.",
+      "common_mistakes": "Theo keynote tại Kick-off từ chuyên gia BSSC: đa số startup sinh viên thất bại không phải do ý tưởng kém mà do chưa làm tới cùng, thiếu cam kết thực chiến. Các lỗi thường gặp gồm: trình bày ý tưởng mơ hồ thiếu dữ liệu thị trường, Business Model Canvas chưa hoàn thiện, kỹ năng pitching yếu dẫn đến không truyền được cảm hứng cho giám khảo, và không chuẩn bị tốt cho phần phản biện Q&A.",
+      "key_success_factors": "Ba yếu tố then chốt: (1) Ý tưởng phải gắn với vấn đề thực tiễn và có tính đổi mới rõ ràng – giám khảo là các doanh nhân và chuyên gia khởi nghiệp thực chiến sẽ phản biện rất kỹ; (2) Kỹ năng pitching chuyên nghiệp – làm chủ sân khấu, ngôn ngữ cơ thể tự tin, xử lý câu hỏi sắc sảo; (3) Tận dụng tối đa các hoạt động bên lề (training BMC, pitching workshop, field trip) để hoàn thiện dự án và nhận góp ý từ mentor trước ngày thi.",
+      "prep_advice": "Đăng ký sớm và tham dự đầy đủ các hoạt động bên lề đi kèm (dự kiến có training Business Model Canvas, kỹ năng pitching và field trip thực tế tương tự mùa 2025). Nghiên cứu kỹ mô hình kinh doanh theo Business Model Canvas trước khi nộp hồ sơ. Chuẩn bị bài pitch không quá 10 phút với cấu trúc rõ: vấn đề – giải pháp – thị trường – mô hình doanh thu – đội nhóm. Tham khảo các dự án xuất sắc từ mùa 2025 (PineUp, EcoCredits, BỘT, EduConnect-TwinklePuff) để hiểu tiêu chuẩn đánh giá. Chủ động liên hệ tìm đồng đội ngay từ buổi Kick-off để có thêm thời gian phát triển ý tưởng."
+    },
+    "status": "active",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Ươm tạo & Cơ hội",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Chưa công bố cụ thể giá trị tiền mặt."
+      ],
+      "scholarship": [],
+      "opportunity": [
+        "Các phần thưởng bao gồm: cúp, chứng nhận, cơ hội mentoring, tham gia chương trình ươm tạo iVG cho Top 10, và kết nối với hệ sinh thái khởi nghiệp (BSSC, InnoEx, Startup Wheel)."
+      ],
+      "in_kind": [
+        "Các phần thưởng bao gồm: cúp, chứng nhận, cơ hội mentoring, tham gia chương trình ươm tạo iVG cho Top 10, và kết nối với hệ sinh thái khởi nghiệp (BSSC, InnoEx, Startup Wheel)."
+      ],
+      "certificate": [
+        "Các phần thưởng bao gồm: cúp, chứng nhận, cơ hội mentoring, tham gia chương trình ươm tạo iVG cho Top 10, và kết nối với hệ sinh thái khởi nghiệp (BSSC, InnoEx, Startup Wheel)."
+      ],
+      "raw_text": "Chưa công bố cụ thể giá trị tiền mặt. Các phần thưởng bao gồm: cúp, chứng nhận, cơ hội mentoring, tham gia chương trình ươm tạo iVG cho Top 10, và kết nối với hệ sinh thái khởi nghiệp (BSSC, InnoEx, Startup Wheel)."
+    }
+  },
+  {
+    "id": "univ-star-2025",
+    "name": "Cuộc thi Ý tưởng Khởi nghiệp Sinh viên Univ. Star 2025",
+    "season": "2025",
+    "organizer": "Sở Khoa học và Công nghệ TP.HCM (DOST), Trung tâm Khởi nghiệp sáng tạo TP.HCM (SIHUB), Trung tâm Xúc tiến Thương mại Việt - Hàn (KORETOVIET), Trung tâm Kinh tế Đổi mới Sáng tạo tỉnh Jeonbuk - JBCCEI (Hàn Quốc)",
+    "category": "Khởi nghiệp, Công nghệ, AI, ESG, Thành phố thông minh, Thực phẩm và Nông nghiệp công nghệ cao",
+    "short_description": "UNIV. STAR 2025 là cuộc thi ý tưởng khởi nghiệp sinh viên quốc tế duy nhất kết nối sinh viên Việt Nam và Hàn Quốc, với chủ đề 'Ứng dụng Khoa học Công nghệ vào Kinh doanh Thời đại Số'. Tổng giải thưởng lên đến 200 triệu đồng, thí sinh được mentoring chuyên sâu, huấn luyện kỹ năng, và cơ hội giao lưu quốc tế. Chung kết tổ chức trong khuôn khổ Mega Us Expo 2025 tại White Palace, TP.HCM.",
+    "eligibility": "Sinh viên các trường Đại học tại TP. Hồ Chí Minh (Việt Nam) và sinh viên các trường đại học tại Hàn Quốc",
+    "deadline": "23h59 ngày 20/06/2025",
+    "duration": "Tháng 04/2025 - Tháng 08/2025",
+    "rounds_count": 6,
+    "rounds_description": "Gồm 6 giai đoạn chính: (1) Đăng ký & Nộp hồ sơ ý tưởng; (2) Vòng Sơ tuyển - chọn 20-30 dự án nổi bật; (3) Huấn luyện kỹ năng chuyên sâu; (4) Vòng Bán kết - mỗi đội trình bày 8 phút + 7 phút phản biện; (5) Vòng Cố vấn - hoàn thiện dự án trước khi tranh tài với đội Hàn Quốc; (6) Vòng Chung kết & Trao giải tại Mega Us Expo 2025. Sau cuộc thi có thêm giai đoạn Ươm tạo (2025-2026) theo Nghị quyết 20/2023/NQ-HĐND.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Tổng giải thưởng 200 triệu đồng: 1 Giải Nhất (40 triệu), 2 Giải Nhì (20 triệu/giải), 3 Giải Ba (15 triệu/giải), 4 Giải Khuyến khích (10 triệu/giải), 10 Giải top 20 (3,5 triệu/giải)",
+    "prizes_detail": "Tổng giải thưởng 200 triệu đồng cho 20 đội: 1 Giải Nhất (Top Prize): 40.000.000 VNĐ | 2 Giải Nhì (Innovation Prize): 20.000.000 VNĐ/giải | 3 Giải Ba (Excellence Prize): 15.000.000 VNĐ/giải | 4 Giải Khuyến khích (Encouragement Prize): 10.000.000 VNĐ/giải | 10 Giải trong Top 20: 3.500.000 VNĐ/giải. Tất cả 20 đội vào Chung kết đều có giải thưởng.",
+    "registration_link": "https://forms.gle/ZS1CTJfZ7mHiJppH6",
+    "source_url": "https://www.facebook.com/innostarcontest",
+    "required_skills": [
+      {
+        "name": "Phát triển & Trình bày ý tưởng khởi nghiệp (Pitching)",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model Canvas)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Giao tiếp tiếng Anh",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Làm việc nhóm & Quản lý xung đột",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Quản lý thời gian",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Tư duy phản biện & Lập luận logic",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kiến thức về ứng dụng công nghệ trong kinh doanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thiết kế slide thuyết trình",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Đề xuất giá trị (Value Proposition Canvas)",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Phân tích thị trường & cạnh tranh",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kiến thức về ESG, AI, Fintech, Agritech hoặc lĩnh vực dự án",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kỹ năng giao tiếp nội bộ nhóm đa văn hóa (Việt - Hàn)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Mở đăng ký & Nộp hồ sơ ý tưởng",
+        "date": "2025-04-21 đến 2025-06-20",
+        "description": "Điền form đăng ký tại https://forms.gle/ZS1CTJfZ7mHiJppH6, tải biểu mẫu mô tả ý tưởng tại https://byvn.net/WLVi, sau đó gửi biểu mẫu đã điền về email univstarcontest@gmail.com trước 23h59 ngày 20/06/2025. Lưu ý: deadline gốc là 10/06, đã được gia hạn đến 20/06/2025.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Sơ tuyển",
+        "date": "2025-07",
+        "description": "Ban cố vấn xét duyệt toàn bộ hồ sơ hợp lệ và chọn ra 20-30 dự án nổi bật nhất để bước vào Vòng Bán kết. Tiêu chí: tính sáng tạo, khả năng ứng dụng công nghệ, tính khả thi, hiệu quả kinh tế - xã hội.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Huấn luyện kỹ năng",
+        "date": "2025-07",
+        "description": "Các đội được tuyển chọn tham gia khóa huấn luyện chuyên sâu về: Value Proposition Canvas, Prototype, Business Model Canvas, thiết kế slide chuẩn và kỹ năng thuyết trình trước Hội đồng. Dẫn dắt bởi giảng viên và chuyên gia khởi nghiệp.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Bán kết",
+        "date": "2025-07",
+        "description": "Mỗi đội trình bày dự án trong 8 phút và trả lời phản biện 7 phút trước Hội đồng cố vấn. Hội đồng chọn ra các đội xuất sắc nhất để tiếp tục vào Vòng Cố vấn.",
+        "status": "closed"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng Cố vấn",
+        "date": "2025-07 đến 2025-08",
+        "description": "Các đội nhận cố vấn chuyên sâu 1-1 từ mentor để hoàn thiện ý tưởng, mô hình kinh doanh và kỹ năng thuyết trình, chuẩn bị cho vòng tranh tài quốc tế với sinh viên Hàn Quốc tại Chung kết.",
+        "status": "closed"
+      },
+      {
+        "stage": 6,
+        "name": "Vòng Chung kết & Trao giải (Demo Day tại Mega Us Expo 2025)",
+        "date": "2025-08-14 đến 2025-08-15",
+        "description": "Các đội Việt Nam giao lưu và tranh tài cùng các đội sinh viên Hàn Quốc. Trình bày dự án trước Hội đồng quốc tế và nhà đầu tư tại White Palace (194 Hoàng Văn Thụ, P.9, Q. Phú Nhuận, TP.HCM) trong khuôn khổ Mega Us Expo 2025 với 200 doanh nghiệp và startup Hàn Quốc. Trao giải thưởng tổng trị giá 200 triệu đồng cho 20 đội.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là hoàn thiện và bảo vệ ý tưởng trước Hội đồng quốc tế Việt - Hàn bằng tiếng Anh, đồng thời phải làm việc nhóm đa quốc gia (ghép đội ngẫu nhiên với sinh viên Hàn Quốc cùng lĩnh vực) trong thời gian ngắn. Ngoài ra, việc chứng minh tính khả thi thương mại và trả lời những câu hỏi 'hack não' của ban giám khảo về mô hình doanh thu, đối thủ cạnh tranh và chiến lược mở rộng thị trường là điểm sàng lọc gắt gao nhất.",
+      "common_mistakes": "Các đội mới thường: (1) Đăng ký form nhưng quên gửi biểu mẫu mô tả ý tưởng về email cuộc thi - dẫn đến hồ sơ không hợp lệ; (2) Ý tưởng quá chung chung, không thể tóm tắt trong 1 câu rõ ràng; (3) Không chuẩn bị trả lời câu hỏi phản biện về cạnh tranh và mô hình kiếm tiền; (4) Trễ hạn đăng ký vì chần chừ; (5) Bỏ qua việc validate ý tưởng với người ngoài trước khi thuyết trình.",
+      "key_success_factors": "Dự án thắng giải thường có: (1) Giải quyết vấn đề thực tế rõ ràng với đề xuất giá trị độc đáo và cụ thể; (2) Kết hợp công nghệ vào mô hình kinh doanh có tính khả thi cao; (3) Đội nhóm có kỹ năng tiếng Anh tốt, phân công vai trò rõ ràng và phối hợp ăn ý với thành viên Hàn Quốc; (4) Phần trình bày súc tích, logic và ấn tượng trong khung 8 phút; (5) Khả năng tư duy phản biện và xử lý câu hỏi của Ban giám khảo một cách tự tin.",
+      "prep_advice": "Chiến lược chuẩn bị hiệu quả: (1) Ngay khi đăng ký xong, dành 2 tuần đầu hoàn thiện Business Model Canvas và Value Proposition Canvas; (2) Tập trình bày ý tưởng trong 1 câu và 1 phút trước khi mở rộng thành pitch 8 phút; (3) Luyện tiếng Anh chuyên ngành khởi nghiệp và chuẩn bị bộ câu hỏi phản biện thường gặp (market size, revenue model, competitive advantage, go-to-market strategy); (4) Thực hành thuyết trình trước bạn bè hoặc mentor ít nhất 3 lần và ghi nhận phản hồi; (5) Nghiên cứu các dự án đoạt giải năm 2024 (Sign Language Translator, Sốt Tỏi Đen & Kombucha Thanh Long) để hiểu tiêu chí đánh giá thực tế của Hội đồng."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "Tổng giải thưởng 200 triệu đồng",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Tổng giải thưởng 200 triệu đồng: 1 Giải Nhất (40 triệu), 2 Giải Nhì (20 triệu/giải), 3 Giải Ba (15 triệu/giải), 4 Giải Khuyến khích (10 triệu/giải), 10 Giải top 20 (3,5 triệu/giải)",
+        "Tổng giải thưởng 200 triệu đồng cho 20 đội: 1 Giải Nhất (Top Prize): 40.000.000 VNĐ",
+        "Giải Nhì (Innovation Prize): 20.000.000 VNĐ/giải",
+        "Giải Ba (Excellence Prize): 15.000.000 VNĐ/giải",
+        "Giải Khuyến khích (Encouragement Prize): 10.000.000 VNĐ/giải",
+        "Giải trong Top 20: 3.500.000 VNĐ/giải."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Tổng giải thưởng 200 triệu đồng: 1 Giải Nhất (40 triệu), 2 Giải Nhì (20 triệu/giải), 3 Giải Ba (15 triệu/giải), 4 Giải Khuyến khích (10 triệu/giải), 10 Giải top 20 (3,5 triệu/giải)\nTổng giải thưởng 200 triệu đồng cho 20 đội: 1 Giải Nhất (Top Prize): 40.000.000 VNĐ | 2 Giải Nhì (Innovation Prize): 20.000.000 VNĐ/giải | 3 Giải Ba (Excellence Prize): 15.000.000 VNĐ/giải | 4 Giải Khuyến khích (Encouragement Prize): 10.000.000 VNĐ/giải | 10 Giải trong Top 20: 3.500.000 VNĐ/giải. Tất cả 20 đội vào Chung kết đều có giải thưởng."
+    }
+  },
+  {
+    "id": "techstart-2024-hust",
+    "name": "Cuộc thi Sáng tạo Khởi nghiệp Công nghệ HUST - TECHSTART 2024",
+    "season": "TECHSTART 2024",
+    "organizer": "HIEC - Đại học Bách khoa Hà Nội (HUST)",
+    "category": "Blockchain & Web3; Cloud Computing & AI; Smart Services & Devices; Smart Environment & Carbon Credit; Edtech",
+    "short_description": "TECHSTART 2024 là sân chơi khởi nghiệp công nghệ thường niên do Đại học Bách khoa Hà Nội tổ chức, quy mô toàn quốc với 60+ đề án từ khắp ba miền. Cuộc thi tập trung vào 5 chủ đề công nghệ đột phá gồm Blockchain & Web3, Cloud Computing & AI, Smart Services & Devices, Smart Environment & Carbon Credit, và Edtech, với tổng giải thưởng lên tới 695 triệu đồng.",
+    "eligibility": "Sinh viên các trường đại học trên toàn quốc (ưu tiên có ít nhất 1 thành viên từ Đại học Bách khoa Hà Nội)",
+    "deadline": "23h59 ngày 26/05/2024",
+    "duration": "Tháng 05/2024 - Tháng 06/2024",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 (TS-Start): Nộp đề án khởi nghiệp công nghệ, chọn TOP 16. Vòng 2 (TS-Marathon/Bán kết): TOP 16 tham gia Pitching Day, training chuyên sâu (Lean Startup, Finance, Pitching & Debate), chọn TOP 5. Vòng 3 (TS-Final/Chung kết): TOP 5 pitching 5 phút + Q&A trước BGK và Hội đồng Quỹ đầu tư, sau đó TOP 3 tham gia vòng phản biện vòng tròn (Debate).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 2,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân: 105tr VNĐ | Á quân: 70tr VNĐ | Quý quân: 35tr VNĐ | 2 Khuyến khích: 17,5tr VNĐ/giải | 2 Women Leader in Tech: 10tr VNĐ/giải | Ý tưởng yêu thích nhất: 2tr VNĐ | Đội cổ vũ ấn tượng nhất: 2tr VNĐ | Tổng: 695tr VNĐ (bao gồm cả giải Blockchain)",
+    "prizes_detail": "Tổng giải thưởng: 695.000.000 VNĐ. Cơ cấu chung cuộc: Quán quân 105tr, Á quân 70tr, Quý quân 35tr, 2 giải Khuyến khích 17,5tr/giải, 2 giải Women Leader in Tech 10tr/giải, 1 giải Ý tưởng được yêu thích nhất 2tr, 1 giải Đội cổ vũ ấn tượng nhất 2tr. Riêng track Solana Blockchain Hackday: Giải nhất $500 + AWS Credit $15.000, Giải nhì $300 + AWS Credit, Giải ba $200 + AWS Credit; giải nhất mỗi hạng mục (DePin, DeFi & Payment, Consumer, Game, Infra): $200.",
+    "registration_link": "https://techstart.hiec.vn/",
+    "source_url": "https://www.facebook.com/techstart.hust",
+    "required_skills": [
+      {
+        "name": "Lập kế hoạch kinh doanh & Business Model",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Pitching & Thuyết trình",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Phản biện & Debate",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Phân tích vấn đề & Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kiến thức công nghệ (AI, Blockchain, IoT, Cloud, Edtech)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thiết kế Slide & Visual Storytelling",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Lean Startup & Phương pháp luận khởi nghiệp",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phân tích tài chính cơ bản (Finance for Startup)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm & Quản lý đội",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Blockchain / Web3 Development (Solana)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Nghiên cứu thị trường & Phân tích người dùng",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Quản lý dự án & Agile",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Mở đơn đăng ký & Early Bird",
+        "date": "2024-05-04 đến 2024-05-15",
+        "description": "Mở cổng nộp đề án. Chương trình Early Bird (nộp sớm trước 23h59 ngày 15/05) được nhận feedback từ BGK chuyên môn trước khi nộp chính thức. Đồng thời mở Founder Matching để kết nối thành viên đội thi.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 1 (TS-Start): Nộp đề án chính thức",
+        "date": "2024-05-26",
+        "description": "Deadline nộp đề án vòng đơn (đã gia hạn 1 ngày từ 25/05 sang 26/05). Hồ sơ gồm: đề án kinh doanh, CV và giấy tờ tùy thân thành viên, sử dụng nhận diện thương hiệu TECHSTART. Tiêu chí chấm: Tính độc đáo, tính cấp bách, tính khả thi của kế hoạch kinh doanh. BGK chấm và chọn TOP 16.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Công bố TOP 16 & Training chuyên sâu",
+        "date": "2024-06-01 đến 2024-06-13",
+        "description": "Công bố TOP 16 ngày 01/06. TOP 16 tham gia 3 buổi training chuyên sâu: Lean Startup, Finance, và Pitching & Debate cùng coach Đỗ Minh Phương.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 2 (TS-Marathon): Bán kết - Pitching Day",
+        "date": "2024-06-15",
+        "description": "TOP 16 tham gia Pitching Day tại HUST. Mỗi đội trình bày ý tưởng và trả lời câu hỏi từ BGK. BGK chọn TOP 5 vào vòng chung kết. Đối với đội thi không thể dự trực tiếp, đại diện HUST thay thế.",
+        "status": "closed"
+      },
+      {
+        "stage": 5,
+        "name": "Solana Blockchain Hackday",
+        "date": "2024-06-16",
+        "description": "Sự kiện vệ tinh dành riêng cho track Blockchain Solana. Buổi sáng: mentoring chuyên sâu với chuyên gia Solana Superteam Vietnam. Buổi chiều: pitching MVP trên nền tảng Solana. Deadline nộp đề án track Blockchain đã gia hạn đến 23h59 ngày 08/08/2024.",
+        "status": "closed"
+      },
+      {
+        "stage": 6,
+        "name": "Vòng 3 (TS-Final): Đêm chung kết",
+        "date": "2024-06-21",
+        "description": "TOP 5 thi tại Hội trường C2 - HUST, 18h00. Phần 1 (Pitching): Mỗi đội pitch 5 phút + Q&A 7 phút với BGK và Hội đồng Quỹ đầu tư. TOP 3 được chọn vào Phần 2 (Debate): phản biện vòng tròn giữa 3 đội. BGK nhận xét 10 phút. Công bố Quán quân, Á quân, Quý quân và các giải thưởng phụ.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất nằm ở vòng Bán kết và Chung kết: phải thuyết phục được BGK gồm các chuyên gia kỹ thuật, kinh tế lẫn Hội đồng Quỹ đầu tư thực thụ. Đặc biệt phần Debate ở chung kết yêu cầu khả năng phản biện sắc bén, xử lý câu hỏi hóc búa từ đội đối thủ trong thời gian ngắn. Hành trình kéo dài 2 tháng đòi hỏi sức bền và khả năng cân bằng giữa thi cử và phát triển dự án.",
+      "common_mistakes": "Nộp đề án thiếu tài liệu bắt buộc (CV thành viên, giấy tờ tùy thân, nhận diện thương hiệu TECHSTART) dẫn đến bị loại trước khi vào BGK. Tập trung quá vào ý tưởng mà bỏ qua tính khả thi tài chính và kế hoạch kinh doanh cụ thể. Pitch quá dài, không tối ưu 5 phút. Không chuẩn bị kỹ phần Q&A và Debate, dễ mất điểm trước BGK khi bị hỏi về điểm yếu của dự án.",
+      "key_success_factors": "Đội ngũ đa dạng kỹ năng (kỹ thuật + kinh doanh + truyền thông) - 2/5 đội TOP 5 năm 2023 thành công nhờ Founder Matching. Ý tưởng giải quyết vấn đề thực tế, cấp bách với ứng dụng công nghệ rõ ràng. Tận dụng chương trình Early Bird để có feedback từ chuyên gia và chỉnh sửa đề án trước deadline. Chuẩn bị kỹ phần Debate: lập luận sắc bén, dẫn chứng thuyết phục để bảo vệ và làm nổi bật điểm khác biệt của sản phẩm.",
+      "prep_advice": "Tham gia sớm chương trình Founder Matching để hoàn thiện đội hình từ đầu mùa. Nộp đề án Early Bird để nhận review từ BGK và còn thời gian chỉnh sửa. Tham gia đầy đủ 3 buổi training chuyên sâu (Lean Startup, Finance, Pitching & Debate) vì đây là chìa khóa để vượt qua Pitching Day. Nghiên cứu kỹ 5 chủ đề công nghệ của cuộc thi, đặc biệt xu hướng Blockchain/Web3 nếu muốn tham gia thêm track Hackday để có cơ hội giành thêm giải thưởng. Luyện pitch trong 5 phút đúng chuẩn: problem - solution - business model - traction - team."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "Tổng giải thưởng: 695.000.000 VNĐ",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Quán quân: 105tr VNĐ",
+        "Á quân: 70tr VNĐ",
+        "Quý quân: 35tr VNĐ",
+        "Khuyến khích: 17,5tr VNĐ/giải",
+        "Women Leader in Tech: 10tr VNĐ/giải",
+        "Ý tưởng yêu thích nhất: 2tr VNĐ"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Quán quân: 105tr VNĐ | Á quân: 70tr VNĐ | Quý quân: 35tr VNĐ | 2 Khuyến khích: 17,5tr VNĐ/giải | 2 Women Leader in Tech: 10tr VNĐ/giải | Ý tưởng yêu thích nhất: 2tr VNĐ | Đội cổ vũ ấn tượng nhất: 2tr VNĐ | Tổng: 695tr VNĐ (bao gồm cả giải Blockchain)\nTổng giải thưởng: 695.000.000 VNĐ. Cơ cấu chung cuộc: Quán quân 105tr, Á quân 70tr, Quý quân 35tr, 2 giải Khuyến khích 17,5tr/giải, 2 giải Women Leader in Tech 10tr/giải, 1 giải Ý tưởng được yêu thích nhất 2tr, 1 giải Đội cổ vũ ấn tượng nhất 2tr. Riêng track Solana Blockchain Hackday: Giải nhất $500 + AWS Credit $15.000, Giải nhì $300 + AWS Credit, Giải ba $200 + AWS Credit; giải nhất mỗi hạng mục (DePin, DeFi & Payment, Consumer, Game, Infra): $200."
+    }
+  },
+  {
+    "id": "sang-tao-tre-2026-hust",
+    "name": "Cuộc thi Sáng tạo trẻ và Sáng tạo xanh 2026",
+    "season": "2026",
+    "organizer": "Trung tâm Sáng tạo và Khởi nghiệp Sinh viên - Đại học Bách khoa Hà Nội",
+    "category": "Công nghệ Thông tin & AI; Công nghệ Môi trường & Năng lượng tái tạo; Y sinh học & Công nghệ Sức khỏe; Nông nghiệp Công nghệ cao & Thực phẩm; Công nghệ Vật liệu mới & Sản xuất thông minh; Tài chính số & Blockchain; Giáo dục, Văn hóa, Xã hội & Đổi mới sáng tạo vì Cộng đồng",
+    "short_description": "Sáng tạo trẻ 2026 là cuộc thi đổi mới sáng tạo và khởi nghiệp quy mô toàn quốc dành cho sinh viên, học viên cao học và nghiên cứu sinh trong và ngoài nước, tổ chức bởi Đại học Bách khoa Hà Nội. Cuộc thi tìm kiếm các ý tưởng và dự án đột phá trong nhiều lĩnh vực công nghệ, hướng tới giải quyết các vấn đề thực tiễn của xã hội. Ngoài giải thưởng, các đội xuất sắc còn được hỗ trợ ươm tạo, kết nối chuyên gia và nhà đầu tư.",
+    "eligibility": "Sinh viên, học viên cao học và nghiên cứu sinh tại các cơ sở giáo dục đại học, học viện và viện nghiên cứu trong và ngoài nước. Mỗi đội 03–05 thành viên, tối thiểu 50% thuộc ngành KHKT-CN hoặc kinh tế số. Mỗi thí sinh/đội chỉ đăng ký 01 đề tài.",
+    "deadline": "23h59 ngày 15/08/2026 (hạn nộp đề án vòng Ý tưởng, sau gia hạn)",
+    "duration": "Tháng 07/2026 - Tháng 12/2026 (dự kiến)",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 - Gieo Ý tưởng: Nộp đề án (bản thuyết minh WORD + slide PDF), ban giám khảo chấm và chọn Top 35 đội vào vòng tiếp theo. Vòng 2 - Training & Phát triển dự án: Các đội được tham gia training workshops chuyên sâu (đánh giá thị trường, hoàn thiện đề án). Vòng 3 - Chung kết (Dự kiến): Pitch trước ban giám khảo, chuyên gia và nhà đầu tư để tranh giải quán quân.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 3,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Tổng giá trị giải thưởng hơn 400 triệu đồng (gồm tiền mặt, chứng nhận từ ĐHBK Hà Nội, gói hỗ trợ ươm tạo và cơ hội kết nối đầu tư tại Việt Nam, Singapore, Silicon Valley).",
+    "prizes_detail": "Giải thưởng và chứng nhận giá trị từ Đại học Bách khoa Hà Nội cho các vòng; cơ hội được hỗ trợ ươm tạo, hoàn thiện và phát triển dự án trong môi trường thực tiễn; kết nối với mạng lưới chuyên gia, cố vấn và nhà đầu tư. Chi tiết giải thưởng từng hạng chưa được công bố rõ trong các bài đăng hiện có.",
+    "registration_link": "https://bke-site.web.app/dang-ky-stt-stx-2026/",
+    "source_url": "https://www.facebook.com/BKEntrepreneurshipCenter",
+    "required_skills": [
+      {
+        "name": "Tư duy đổi mới sáng tạo (Innovation Thinking)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Viết đề án / Thuyết minh dự án",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Thiết kế Slide thuyết trình (PDF)",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Phân tích và đánh giá tiềm năng thị trường",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kiến thức chuyên ngành STEM hoặc kinh tế số",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Làm việc nhóm và phân công vai trò (Teamwork)",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kỹ năng thuyết trình & Pitching",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model Canvas)",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng nghiên cứu và tổng hợp tài liệu khoa học",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng kết nối và xây dựng mạng lưới (Networking)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Kick-off & Ngày hội Thông tin",
+        "date": "2026-07-20",
+        "description": "Sự kiện giới thiệu thể lệ, format, timeline và các mốc quan trọng của cuộc thi. Diễn giả và mentor chia sẻ kinh nghiệm. Cộng điểm rèn luyện cho sinh viên HUST. Địa điểm: Hội trường dốc B1, ĐHBK Hà Nội.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Founder Matching Day",
+        "date": "2026-08-05",
+        "description": "Sự kiện trực tuyến qua Zoom (14h00–17h30) giúp các thí sinh tìm kiếm đồng đội và co-founder. Diễn giả từ Quỹ ThinkZone Ventures – BK Fund và đội Á quân Sáng tạo trẻ 2025 chia sẻ kinh nghiệm.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 1 – Gieo Ý tưởng: Mở & Đóng cổng nộp đề án",
+        "date": "2026-07-08 đến 2026-08-15",
+        "description": "Mở cổng nộp đề án từ 08/07/2026. Deadline ban đầu là 31/07/2026, đã gia hạn lên 23h59 ngày 15/08/2026. Nộp gồm: Bản thuyết minh đề án (WORD <5MB) và Slide giới thiệu (PDF <35MB) qua link https://bke-site.web.app/dang-ky-stt-stx-2026/",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Họp Ban Giám khảo & Công bố kết quả Vòng 1",
+        "date": "2026-09-04 đến 2026-09-09",
+        "description": "Ban Giám khảo họp xét duyệt đề án. Công bố Top 35 đội xuất sắc nhất vào ngày 09/09/2026. Các đội chưa đạt sẽ nhận thông báo qua email.",
+        "status": "completed"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng 2 – Training Workshops & Phát triển dự án",
+        "date": "2026-09-22 trở đi",
+        "description": "Training Workshop 01 'Đánh giá và khai thác tiềm năng thị trường' tổ chức 14h00–17h00 ngày 22/09/2026 tại phòng 302 C1, ĐHBK Hà Nội. Các Top 35 đội được đào tạo chuyên sâu, hoàn thiện dự án trước khi bước vào vòng chung kết.",
+        "status": "active"
+      },
+      {
+        "stage": 6,
+        "name": "Vòng Chung kết",
+        "date": "Tháng 11–12/2026 (dự kiến)",
+        "description": "Các đội xuất sắc vượt qua vòng 2 sẽ trình bày dự án trước ban giám khảo, chuyên gia và nhà đầu tư. Vinh danh quán quân và trao giải thưởng.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là thuyết phục ban giám khảo không chỉ bằng tính sáng tạo của ý tưởng, mà còn phải chứng minh tính khả thi, giá trị thực tiễn và tiềm năng phát triển rõ ràng. Cuộc thi yêu cầu đội có ít nhất 50% thành viên STEM, nên việc cân bằng giữa tư duy kỹ thuật và tư duy kinh doanh/thị trường là bài toán khó cho nhiều đội. Giai đoạn từ Vòng 1 (ý tưởng) sang Vòng 2 (phát triển dự án) đòi hỏi sự hoàn thiện nhanh chóng sau khi nhận phản hồi từ ban giám khảo.",
+      "common_mistakes": "Các đội mới thường nộp đề án chưa đúng format (sai định dạng WORD/PDF, vượt quá dung lượng cho phép) dẫn đến bị loại ở vòng sàng lọc hồ sơ – BTC đã phải thông báo kết quả sàng lọc hồ sơ chưa hợp lệ lần 1. Sai lầm khác là tập trung quá nhiều vào tính sáng tạo kỹ thuật mà bỏ qua phân tích thị trường, đối tượng khách hàng và mô hình kinh doanh. Một số đội cũng gặp khó khăn khi tìm co-founder phù hợp và bắt đầu quá trễ (BTC phải gia hạn deadline từ 31/07 sang 15/08/2026).",
+      "key_success_factors": "Theo chia sẻ từ Quỹ ThinkZone Ventures – BK Fund và đội Á quân 2025 tại Founder Matching Day: Đội ngũ đa năng (kết hợp Tech – Biz) với tầm nhìn chung là nền tảng quan trọng hơn kỹ năng đơn lẻ. Đề án cần thể hiện rõ Market Validation – tức là chứng minh thị trường thực sự cần giải pháp, không chỉ dừng ở ý tưởng hay. Dự án có tính khả thi cao, đề xuất giá trị cụ thể cho cộng đồng và có con đường thương mại hóa rõ ràng sẽ được ban giám khảo đánh giá cao.",
+      "prep_advice": "Tham dự Ngày hội Thông tin và các Training Workshops ngay từ đầu để nắm rõ tiêu chí chấm điểm và kỳ vọng của ban giám khảo. Sử dụng Founder Matching Day để tìm co-founder có kỹ năng bổ trợ trước khi nộp đề án. Đọc kỹ thể lệ tại https://bom.so/O0whw6 và chuẩn bị đầy đủ bản thuyết minh WORD (<5MB) + slide PDF (<35MB) theo đúng template. Ưu tiên xây dựng phần phân tích thị trường và tính khả thi ngay từ vòng ý tưởng. Đặt deadline nội bộ sớm hơn ít nhất 3 ngày so với deadline chính thức để tránh sự cố kỹ thuật khi nộp bài."
+    },
+    "status": "active",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Ươm tạo & Cơ hội",
+        "Chứng nhận"
+      ],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [
+        "cơ hội ươm tạo và phát triển dự án",
+        "kết nối với chuyên gia, nhà đầu tư (chi tiết giải thưởng cụ thể chưa được công bố trong các bài đăng)",
+        "cơ hội được hỗ trợ ươm tạo, hoàn thiện và phát triển dự án trong môi trường thực tiễn",
+        "kết nối với mạng lưới chuyên gia, cố vấn và nhà đầu tư."
+      ],
+      "in_kind": [],
+      "certificate": [
+        "Giải thưởng và chứng nhận từ Đại học Bách khoa Hà Nội",
+        "Giải thưởng và chứng nhận giá trị từ Đại học Bách khoa Hà Nội cho các vòng"
+      ],
+      "raw_text": "Giải thưởng và chứng nhận từ Đại học Bách khoa Hà Nội; cơ hội ươm tạo và phát triển dự án; kết nối với chuyên gia, nhà đầu tư (chi tiết giải thưởng cụ thể chưa được công bố trong các bài đăng)\nGiải thưởng và chứng nhận giá trị từ Đại học Bách khoa Hà Nội cho các vòng; cơ hội được hỗ trợ ươm tạo, hoàn thiện và phát triển dự án trong môi trường thực tiễn; kết nối với mạng lưới chuyên gia, cố vấn và nhà đầu tư. Chi tiết giải thưởng từng hạng chưa được công bố rõ trong các bài đăng hiện có."
+    }
+  },
+  {
+    "id": "chia-khoa-thanh-cong-2025",
+    "name": "Chìa Khóa Thành Công",
+    "season": "2025",
+    "organizer": "Khoa Quản trị Kinh doanh - Học viện Ngân hàng (Đơn vị thực hiện: Liên chi Hội Khoa Quản trị Kinh doanh - Học viện Ngân hàng)",
+    "category": "Khởi nghiệp, Quản trị kinh doanh, Chuỗi cung ứng",
+    "short_description": "Chìa Khóa Thành Công là sân chơi học thuật thường niên dành cho sinh viên khối ngành Kinh tế, do Khoa Quản trị Kinh doanh – Học viện Ngân hàng tổ chức. Mùa thi 2025 xoay quanh chủ đề 'Khởi nghiệp trong kỷ nguyên số – Sức mạnh của chuỗi cung ứng toàn cầu', thách thức thí sinh xây dựng và pitching ý tưởng khởi nghiệp ứng dụng công nghệ số vào quản trị chuỗi cung ứng quốc tế. Cuộc thi thu hút gần một trăm đội tham dự từ khắp cả nước, đỉnh cao là Đêm Chung kết tổ chức tại Hội trường lớn D1 – Học viện Ngân hàng với hơn 500 khán giả.",
+    "eligibility": "Sinh viên khối ngành Kinh tế (ưu tiên sinh viên Học viện Ngân hàng và các trường đại học trên cả nước)",
+    "deadline": "Không có thông tin deadline đăng ký thi rõ ràng (hạn nộp bài Vòng 2: 23:59 ngày 05/10/2025; đăng ký xem Chung kết: đến 23h59 ngày 23/10/2025)",
+    "duration": "Tháng 08/2025 – Tháng 10/2025",
+    "rounds_count": 4,
+    "rounds_description": "Vòng Đơn (nộp ý tưởng sơ bộ, 25/08–09/09/2025) → Vòng 1 INITIATE – Khởi động, nộp poster & bình chọn (11/09–24/09/2025) → Vòng 2 PITCH – Trình bày ý tưởng, video 3 phút + pitching trực tiếp trước BGK (26/09–12/10/2025) → Vòng 3 Chung kết – GuesChain + Global Pitch trước BGK doanh nghiệp (24/10/2025).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 4,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "🏆 Quán quân: ECOLINK | 🥈 Á quân: UNLOCKER | 🥉 Đồng Quý quân: 2PLAN & DIGICHAIN | Giải phụ: Đội được yêu thích nhất (BreakChain - Vòng 2)",
+    "prizes_detail": "Quán quân: EcoLink – giải nhất toàn cuộc; Á quân: Unlocker; Đồng Quý quân (hạng 3 chung): 2Plan & DigiChain. Giải phụ 'Đội có dự án được yêu thích nhất' (bình chọn tổng hợp Vòng 1 + Vòng 2): BreakChain. Giải thưởng hiện vật từ các nhà tài trợ được trao trong Đêm Chung kết; tổng giá trị giải thưởng không được công bố chính thức.",
+    "registration_link": "https://drive.google.com/file/d/1FM7g3lm_yPU20AbM8Q8VLTvOW_q0l8HR/view?usp=sharing",
+    "source_url": "https://www.facebook.com/Chiakhoathanhconghvnh",
+    "required_skills": [
+      {
+        "name": "Tư duy khởi nghiệp & đổi mới sáng tạo",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Hiểu biết về chuỗi cung ứng & logistics toàn cầu",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model Canvas)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng pitching & thuyết trình trước ban giám khảo",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Phân tích thị trường & chân dung khách hàng",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thiết kế & trình bày slide chuyên nghiệp",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm & phân công nhiệm vụ hiệu quả",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Ứng dụng công nghệ số (AI, IoT, Blockchain) vào vận hành",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Lập kế hoạch tài chính & đánh giá tính khả thi",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Sản xuất video truyền thông ngắn (≤3 phút)",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy phản biện & xử lý tình huống bất ngờ trên sân khấu",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Chiến lược mở rộng thị trường quốc tế",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 0,
+        "name": "Vòng Đơn – Nộp ý tưởng sơ bộ & mở đăng ký",
+        "date": "2025-08-25 đến 2025-09-09",
+        "description": "Các đội đăng ký tham dự và nộp ý tưởng khởi nghiệp sơ bộ theo chủ đề 'Khởi nghiệp trong kỷ nguyên số – Sức mạnh của chuỗi cung ứng toàn cầu'. Booklet thể lệ được công bố tại: https://drive.google.com/file/d/1FM7g3lm_yPU20AbM8Q8VLTvOW_q0l8HR/view",
+        "status": "closed"
+      },
+      {
+        "stage": 1,
+        "name": "Vòng 1 – INITIATE: Khởi động (Nộp poster + Bình chọn)",
+        "date": "2025-09-11 đến 2025-09-24",
+        "description": "Các đội nộp poster dự án, đăng lên Fanpage để kêu gọi bình chọn cộng đồng. Cách tính điểm: Lượt tiếp cận = 1 điểm, React = 2 điểm, Share công khai kèm hashtag #CKTC2025 = 3 điểm. Top 10 đội cao điểm nhất (1 đội bình chọn cao nhất vào thẳng Vòng 2, 9 đội còn lại do BGK chấm) bước vào Vòng 2. Bình chọn đóng cửa ngày 24/09; kết quả công bố ngày 25/09/2025.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2 – PITCH: Trình bày ý tưởng (Video + Pitching trực tiếp)",
+        "date": "2025-09-26 đến 2025-10-12",
+        "description": "Top 10 đội thi sản xuất video truyền thông ≤3 phút đăng Fanpage và pitching trực tiếp (7 phút thuyết trình + 5 phút phản biện BGK) tại Hội trường lớn tầng 7 Toà A2 – HVNH vào ngày 06/10/2025. Nội dung pitching gồm: phân tích thị trường, Business Model Canvas, ứng dụng công nghệ số, kênh tiếp cận toàn cầu, lộ trình mở rộng. BGK chấm 140 điểm (40 điểm video + 100 điểm pitching). Top 4 điểm cao nhất vào Vòng Chung kết. Kết quả công bố 20:00 ngày 12/10/2025. Link nộp bài: https://forms.gle/o6hMBmgZBVAH6Tq37",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3 – Chung kết: GuesChain + Global Pitch",
+        "date": "2025-10-24",
+        "description": "Top 4 đội (EcoLink, Unlocker, 2Plan, DigiChain) tranh tài 2 chặng: Chặng 1 – GuessChain (đoán từ khóa về chuỗi cung ứng, 90 giây, mỗi từ đúng 5 điểm); Chặng 2 – Global Pitch (6 phút pitching trên 1 trang giấy + 6 phút phản biện BGK + xử lý tình huống khủng hoảng bất ngờ trong 3–5 phút). Tổ chức 18:00 tại Hội trường lớn D1 – Học viện Ngân hàng. BGK gồm 5 chuyên gia doanh nghiệp và học viện.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Vòng 2 là thử thách lớn nhất: phải vừa sản xuất video truyền thông chất lượng ≤3 phút vừa chuẩn bị bài pitching 7 phút có chiều sâu về mô hình kinh doanh, tài chính và chiến lược chuỗi cung ứng toàn cầu, tất cả trong vòng chưa đầy 2 tuần. Ở Vòng Chung kết, Chặng 2 Global Pitch yêu cầu xử lý tình huống khủng hoảng chuỗi cung ứng bất ngờ do BGK đặt ra (ví dụ: đứt gãy nguồn cung, đối thủ quốc tế tham nhập thị trường) ngay trên sân khấu chỉ trong 3–5 phút chuẩn bị, đòi hỏi tư duy nhanh và khả năng ứng biến chiến lược cao.",
+      "common_mistakes": "Các đội mới thường mắc phải: (1) Ý tưởng thiếu tính thực tiễn, chỉ dừng ở lý thuyết mà không có lộ trình tài chính và vận hành cụ thể; (2) Bỏ qua yếu tố quốc tế hóa – chủ đề cuộc thi nhấn mạnh 'chuỗi cung ứng toàn cầu' nhưng nhiều đội chỉ tập trung thị trường nội địa; (3) Video truyền thông quá nặng kỹ thuật, thiếu câu chuyện cảm xúc khiến điểm bình chọn cộng đồng thấp; (4) Pitching thiếu cấu trúc logic (mở đầu – triển khai – kết luận), không quản lý được thời gian 7 phút; (5) Không chuẩn bị kịch bản phản biện từ BGK dẫn đến lúng túng khi bị chất vấn.",
+      "key_success_factors": "Đội vô địch EcoLink và các đội lọt top thể hiện: (1) Tư duy đột phá với giải pháp có tính ứng dụng cao và tầm nhìn bền vững (ESG, kinh tế tuần hoàn, công nghệ số); (2) Kết hợp hài hòa giữa kiến thức học thuật và insight thực tiễn thị trường; (3) Kỹ năng thuyết trình tự tin, mạch lạc với khả năng phản biện sắc bén; (4) Chiến lược bình chọn cộng đồng hiệu quả ngay từ Vòng 1 để ghi điểm giải phụ và tạo momentum; (5) Đội hình gắn kết với phân công vai trò rõ ràng (CEO/CMO/CFO/CTO).",
+      "prep_advice": "Giai đoạn Vòng Đơn (2 tuần): Xác định vấn đề thực tiễn trong chuỗi cung ứng, nghiên cứu thị trường sơ bộ và lập Business Model Canvas phác thảo. Tham khảo các dự án từ mùa thi trước (logistics xanh, blockchain truy xuất nguồn gốc, platform B2B) để hiểu khẩu vị BGK. Giai đoạn Vòng 1 (2 tuần): Thiết kế poster tập trung vào pain point và giải pháp cốt lõi, triển khai chiến dịch bình chọn có kế hoạch (huy động mạng lưới bạn bè, cựu sinh viên). Giai đoạn Vòng 2 (2,5 tuần): Ưu tiên hoàn thiện nội dung pitching trước, sau đó sản xuất video – không để video ăn vào thời gian ôn pitching. Luyện tập phản biện với câu hỏi khó về tài chính, rủi ro và chiến lược cạnh tranh quốc tế. Tham dự buổi training do BTC tổ chức (đã có training Vòng 2 với PGS.TS Nguyễn Vân Hà). Giai đoạn Chung kết: Chuẩn bị 3–5 kịch bản khủng hoảng chuỗi cung ứng (đứt gãy nguồn cung, biến động địa chính trị, cạnh tranh từ tập đoàn quốc tế) và luyện xử lý tình huống tốc độ cao."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "🏆 Quán quân: ECOLINK",
+        "🥈 Á quân: UNLOCKER",
+        "🥉 Đồng Quý quân: 2PLAN & DIGICHAIN",
+        "Quán quân: EcoLink – giải nhất toàn cuộc",
+        "Á quân: Unlocker",
+        "Đồng Quý quân (hạng 3 chung): 2Plan & DigiChain."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Giải thưởng hiện vật từ các nhà tài trợ được trao trong Đêm Chung kết"
+      ],
+      "certificate": [],
+      "raw_text": "🏆 Quán quân: ECOLINK | 🥈 Á quân: UNLOCKER | 🥉 Đồng Quý quân: 2PLAN & DIGICHAIN | Giải phụ: Đội được yêu thích nhất (BreakChain - Vòng 2)\nQuán quân: EcoLink – giải nhất toàn cuộc; Á quân: Unlocker; Đồng Quý quân (hạng 3 chung): 2Plan & DigiChain. Giải phụ 'Đội có dự án được yêu thích nhất' (bình chọn tổng hợp Vòng 1 + Vòng 2): BreakChain. Giải thưởng hiện vật từ các nhà tài trợ được trao trong Đêm Chung kết; tổng giá trị giải thưởng không được công bố chính thức."
+    }
+  },
+  {
+    "id": "neuron-2023-uom-tao-khoi-nghiep-neu",
+    "name": "Chương trình Ươm tạo Khởi nghiệp NEUrON",
+    "season": "NEUrON 2023 (Mùa 6)",
+    "organizer": "Trung tâm Khởi nghiệp và Sáng tạo Xã hội (CSIE) - Trường Đại học Kinh tế Quốc dân",
+    "category": "Khởi nghiệp, Đổi mới sáng tạo, Kinh doanh",
+    "short_description": "NEUrON là chương trình ươm tạo khởi nghiệp dành cho người trẻ trên quy mô toàn quốc, được tổ chức bởi CSIE - ĐH Kinh tế Quốc dân. Mùa 6 năm 2023 kéo dài gần 4 tháng, tập trung vào các mô hình kinh doanh gắn với kinh tế tuần hoàn và tạo tác động xã hội. Chương trình kết hợp đào tạo, mentoring và thi đấu, với vòng chung kết DEMO DAY quy tụ TOP 6 đội xuất sắc nhất.",
+    "eligibility": "Sinh viên các trường Đại học trên toàn quốc",
+    "deadline": "",
+    "duration": "Tháng 08/2023 - Tháng 11/2023",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Mở đơn đăng ký và nộp ý tưởng khởi nghiệp; Vòng 2: Tuyển chọn và đào tạo/ươm tạo (các khóa training, mentoring trong ~3 tháng); Vòng Chung kết: DEMO DAY - TOP 6 đội thi thuyết trình trước hội đồng giám khảo ngày 24/11/2023",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 2,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải Quán Quân; Top 5 đội xuất sắc được đại diện trường tham gia cuộc thi \"Ý tưởng khởi nghiệp học sinh, sinh viên - SV STARTUP\"",
+    "prizes_detail": "TOP 5 đội thi xuất sắc nhất đại diện trường ĐH Kinh tế Quốc dân tham gia SV STARTUP 2023. Quán quân mùa 6: Đội CO2FIT (thương hiệu thời trang tái chế từ bã cà phê). Thông tin giá trị tiền mặt không được công bố cụ thể trong các bài đăng.",
+    "registration_link": "https://www.facebook.com/CSIE.NEUrON",
+    "source_url": "https://www.facebook.com/uomtaokhoinghiep.NEU",
+    "required_skills": [
+      {
+        "name": "Tư duy khởi nghiệp & Phát triển ý tưởng kinh doanh",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thuyết trình & Pitching dự án",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model Canvas)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Hiểu biết về kinh tế tuần hoàn & tác động xã hội",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Làm việc nhóm & quản lý dự án",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế slide & trình bày trực quan",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Nghiên cứu thị trường & phân tích đối thủ",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kiến thức tài chính cơ bản (dự báo doanh thu, chi phí)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Nộp hồ sơ ý tưởng",
+        "date": "2023-08-01 - 2023-09-15",
+        "description": "Các đội đăng ký tham gia và nộp hồ sơ ý tưởng khởi nghiệp. Ban tổ chức tuyển chọn các dự án tiềm năng để bước vào giai đoạn ươm tạo.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Ươm tạo & Đào tạo chuyên sâu",
+        "date": "2023-09-15 - 2023-11-20",
+        "description": "Các đội được tham gia các khóa training, mentoring từ chuyên gia và giảng viên. Nội dung đào tạo bao gồm kiến thức khởi nghiệp xã hội từ nền tảng impactUP, phát triển mô hình kinh doanh và kỹ năng pitching.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết: DEMO DAY",
+        "date": "2023-11-24",
+        "description": "TOP 6 đội thi xuất sắc nhất thuyết trình dự án trước Hội đồng Ban giám khảo gồm các chuyên gia, doanh nhân và giảng viên. Các đội trình bày ý tưởng kinh doanh, mô hình tác động và kế hoạch phát triển. TOP 5 đội xuất sắc nhất đại diện NEU tham gia SV STARTUP 2023.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Phát triển ý tưởng khởi nghiệp gắn với kinh tế tuần hoàn đòi hỏi sự kết hợp giữa tính khả thi thương mại và tác động xã hội thực sự - hai yếu tố thường mâu thuẫn nhau. Ngoài ra, việc duy trì momentum của nhóm suốt 3-4 tháng ươm tạo trong khi vẫn song song với học tập là thách thức lớn.",
+      "common_mistakes": "Các đội mới thường xây dựng ý tưởng quá lý tưởng mà thiếu tính khả thi tài chính; không nghiên cứu kỹ thị trường mục tiêu trước khi pitching; slide trình bày quá nhiều thông tin mà thiếu câu chuyện (storytelling) thuyết phục; đánh giá thấp tầm quan trọng của việc tham gia đầy đủ các buổi training và mentoring.",
+      "key_success_factors": "Ý tưởng phải giải quyết vấn đề thực tế và có yếu tố đổi mới sáng tạo rõ ràng (như CO2FIT với vật liệu tái chế từ bã cà phê). Khả năng pitching tự tin và trả lời phản biện sắc bén từ giám khảo. Đội nhóm đa dạng kỹ năng (kinh doanh, kỹ thuật, marketing). Tận dụng tối đa mạng lưới mentor và các buổi coaching.",
+      "prep_advice": "Tháng 1-2: Nghiên cứu vấn đề xã hội và thị trường, hình thành ý tưởng và đội nhóm. Tháng 3: Hoàn thiện Business Model Canvas và nộp hồ sơ. Trong giai đoạn ươm tạo: Học đầy đủ các module trên impactUP, chủ động xin feedback từ mentor sau mỗi buổi. Trước DEMO DAY 2-3 tuần: Tập trung drill pitching, giảm slide xuống còn core message, chuẩn bị kịch bản Q&A từ góc nhìn nhà đầu tư."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Giải Quán Quân",
+        "Top 5 đội xuất sắc được đại diện trường tham gia cuộc thi \"Ý tưởng khởi nghiệp học sinh, sinh viên - SV STARTUP\"",
+        "TOP 5 đội thi xuất sắc nhất đại diện trường ĐH Kinh tế Quốc dân tham gia SV STARTUP 2023.",
+        "Quán quân mùa 6: Đội CO2FIT (thương hiệu thời trang tái chế từ bã cà phê).",
+        "Thông tin giá trị tiền mặt không được công bố cụ thể trong các bài đăng."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Giải Quán Quân; Top 5 đội xuất sắc được đại diện trường tham gia cuộc thi \"Ý tưởng khởi nghiệp học sinh, sinh viên - SV STARTUP\"\nTOP 5 đội thi xuất sắc nhất đại diện trường ĐH Kinh tế Quốc dân tham gia SV STARTUP 2023. Quán quân mùa 6: Đội CO2FIT (thương hiệu thời trang tái chế từ bã cà phê). Thông tin giá trị tiền mặt không được công bố cụ thể trong các bài đăng."
+    }
+  },
+  {
+    "id": "startup-challenge-2026-tdtu",
+    "name": "STARTUP CHALLENGE 2026",
+    "season": "2026",
+    "organizer": "Khoa Quản trị Kinh doanh - Đại học Tôn Đức Thắng, Câu lạc bộ học thuật BAC - International Business, Đội truyền thông SBA Communications",
+    "category": "Khởi nghiệp bền vững - Môi trường - 17 mục tiêu phát triển bền vững của Liên Hiệp Quốc",
+    "short_description": "Startup Challenge 2026 là sân chơi khởi nghiệp sinh viên thường niên của TDTU, nơi các đội thi phát triển và pitching dự án startup thực tiễn xoay quanh chủ đề phát triển bền vững và các mục tiêu SDGs của Liên Hiệp Quốc. Cuộc thi trải qua 3 vòng thi chuyên nghiệp kết hợp chuỗi training từ mentor/chuyên gia thực chiến, quy tụ hội đồng giám khảo cấp cao từ các tập đoàn lớn. Mùa 2026 ghi nhận nhà vô địch AQUALOG với giải pháp số hóa ngành hàng hải gắn với kinh tế tuần hoàn.",
+    "eligibility": "Sinh viên Đại học Tôn Đức Thắng",
+    "deadline": "",
+    "duration": "Tháng 02/2026 – Tháng 05/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 (Ideas Submission): Nộp bài luận/ý tưởng khởi nghiệp bằng văn bản. Vòng 2 (Pitching Round): Các đội lọt vào trình bày dự án và phản biện trực tiếp trước Ban Giám khảo (diễn ra khoảng 11–12/04/2026); Top 5 được công bố ngày 14/04/2026. Vòng Chung kết – LEGACY NIGHT: Top 5 pitching trên sân khấu lớn tại Hội trường 6M TDTU, ngày 08/05/2026, 17:00–21:00.",
+    "format": "Hybrid (Vòng 1 online; Vòng 2 & Chung kết offline tại TDTU)",
+    "team_size": {
+      "min": 3,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải Nhất: 8 triệu VNĐ + 7 triệu voucher + học bổng | Giải Nhì: 5 triệu + 5 triệu voucher | Giải Ba: 3 triệu + 2 triệu voucher | 2 Giải Khuyến khích | Giải Đội được yêu thích nhất (Grab): 3 triệu | Giải Startup Ý tưởng đột phá (OKR Business): học bổng 30%",
+    "prizes_detail": "🥇 Giải Nhất (Champion): 8tr VNĐ tiền mặt + 7tr VNĐ voucher + học bổng IBEP 70% + DOL 1 năm + OKR 70% + Data Analysis (Talent Force) | 🥈 Giải Nhì: 5tr + 5tr voucher + IBEP 50% + DOL 6 tháng + OKR 50% | 🥉 Giải Ba: 3tr + 2tr voucher + IBEP 40% + DOL 3 tháng + OKR 50% | 🎁 02 Giải Khuyến khích: Kỷ niệm chương + IBEP 20%/đội | 💙 Giải Đội thi yêu thích nhất (Grab): 3tr VNĐ + Giấy khen | 🚀 Giải Startup Ý tưởng Đột phá (OKR Business): 05 suất học bổng 30%/đội. Tổng giá trị ước tính trên 50tr VNĐ cộng học bổng.",
+    "registration_link": "https://bit.ly/SC2026_FinalBooklet",
+    "source_url": "https://www.facebook.com/startupchallenge.tdtu",
+    "required_skills": [
+      {
+        "name": "Startup Ideation & Problem-Solution Fit",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Business Model Canvas & Mô hình kinh doanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Pitching & Public Speaking",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Slide Design & Visual Storytelling",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Market Research & Phân tích thị trường",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Q&A / Phản biện & Xử lý câu hỏi giám khảo",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Sustainability & ESG Knowledge (SDGs, CBAM, IUU...)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Teamwork & Project Management",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Financial Modeling & Viability Assessment",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Technology Literacy (AI, Blockchain, IoT cơ bản)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Prototype / MVP Development",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Networking & Stakeholder Communication",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Nộp ý tưởng khởi nghiệp",
+        "date": "2026-02-01 – 2026-02-28",
+        "description": "Các đội đăng ký tham gia và nộp bài luận/ý tưởng startup bằng văn bản theo chủ đề phát triển bền vững, gắn với 17 SDGs của Liên Hiệp Quốc. Ban tổ chức sẽ sàng lọc và chọn các đội vào Vòng 2.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Pitching Round & Training Sessions",
+        "date": "2026-03-01 – 2026-04-14",
+        "description": "Các đội lọt vòng tham gia chuỗi training chuyên sâu (6 session với mentor/trainer về ESG, mô hình kinh doanh, kỹ năng pitching...). Sau đó trình bày và phản biện trực tiếp trước Ban Giám khảo vòng 2 (khoảng 11–12/04/2026). Kết quả Top 5 vào Chung kết được công bố ngày 14/04/2026.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết – LEGACY NIGHT",
+        "date": "2026-05-08",
+        "description": "Top 5 đội thi xuất sắc pitching trên sân khấu lớn Hội trường 6M (TDTU), 17:00–21:00. Hội đồng giám khảo gồm 8 chuyên gia cấp cao từ Thiên Long, Yamada Consulting, SIHUB, Việt Úc, OKR Business... Có thêm Training Day 18/04 (ESG) và hạng mục Grab Favorite Team vote online/offline. Công bố Quán quân và trao giải ngay tại sự kiện.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là vòng Q&A phản biện trước Ban Giám khảo gồm CEO, Founder và chuyên gia thực chiến. Các câu hỏi đào sâu vào lỗ hổng tài chính, khả năng nhân rộng, tính khả thi thị trường và nền tảng vận hành – đòi hỏi đội phải nắm toàn bộ dự án từ trong ra ngoài, không được học thuộc lòng mà phải hiểu thực chất.",
+      "common_mistakes": "Đội mới thường mắc 3 lỗi phổ biến: (1) Ý tưởng bay bổng nhưng thiếu nền tảng thực tiễn và số liệu thị trường cụ thể; (2) Slide đẹp nhưng logic trình bày không rõ ràng, không thể hiện được business model khả thi; (3) Không chuẩn bị kỹ cho phần phản biện – bị 'đứng hình' hoặc trả lời thiếu thuyết phục trước câu hỏi về tài chính và rủi ro.",
+      "key_success_factors": "Nhà vô địch AQUALOG và các đội lọt Top 5 đều có điểm chung: ý tưởng gắn chặt với vấn đề thực tế có thể đo lường được (IUU compliance, carbon tax, thiếu hụt nhân sự F&B...); tích hợp công nghệ có chiều sâu (AI, Blockchain, IoT) nhưng trình bày theo hướng giải quyết bài toán chứ không phô trương kỹ thuật; và đặc biệt là khả năng pitching tự tin, trả lời phản biện sắc bén với số liệu cụ thể.",
+      "prep_advice": "Phân bổ thời gian theo tỷ lệ 40-30-30: 40% nghiên cứu thị trường và xây dựng mô hình kinh doanh vững chắc, 30% luyện tập pitching và xử lý câu hỏi khó (mock Q&A với người ngoài nhóm), 30% hoàn thiện slide và storytelling. Tận dụng tối đa các buổi training của BTC để nhận feedback từ mentor. Chủ đề ESG và SDGs là bắt buộc phải nắm vững vì giám khảo rất chú trọng tính bền vững. Nên chuẩn bị prototype hoặc demo trực quan để tăng tính thuyết phục."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Giải Nhất: 8 triệu VNĐ",
+        "Giải Nhì: 5 triệu",
+        "Giải Ba: 3 triệu",
+        "Giải Khuyến khích",
+        "Giải Đội được yêu thích nhất (Grab): 3 triệu",
+        "🥇 Giải Nhất (Champion): 8tr VNĐ tiền mặt"
+      ],
+      "scholarship": [
+        "học bổng",
+        "Giải Startup Ý tưởng đột phá (OKR Business): học bổng 30%",
+        "học bổng IBEP 70%",
+        "IBEP 50%",
+        "IBEP 40%",
+        "IBEP 20%/đội"
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "triệu voucher",
+        "tr VNĐ voucher",
+        "tr voucher",
+        "🎁 02 Giải Khuyến khích: Kỷ niệm chương"
+      ],
+      "certificate": [
+        "Giấy khen"
+      ],
+      "raw_text": "Giải Nhất: 8 triệu VNĐ + 7 triệu voucher + học bổng | Giải Nhì: 5 triệu + 5 triệu voucher | Giải Ba: 3 triệu + 2 triệu voucher | 2 Giải Khuyến khích | Giải Đội được yêu thích nhất (Grab): 3 triệu | Giải Startup Ý tưởng đột phá (OKR Business): học bổng 30%\n🥇 Giải Nhất (Champion): 8tr VNĐ tiền mặt + 7tr VNĐ voucher + học bổng IBEP 70% + DOL 1 năm + OKR 70% + Data Analysis (Talent Force) | 🥈 Giải Nhì: 5tr + 5tr voucher + IBEP 50% + DOL 6 tháng + OKR 50% | 🥉 Giải Ba: 3tr + 2tr voucher + IBEP 40% + DOL 3 tháng + OKR 50% | 🎁 02 Giải Khuyến khích: Kỷ niệm chương + IBEP 20%/đội | 💙 Giải Đội thi yêu thích nhất (Grab): 3tr VNĐ + Giấy khen | 🚀 Giải Startup Ý tưởng Đột phá (OKR Business): 05 suất học bổng 30%/đội. Tổng giá trị ước tính trên 50tr VNĐ cộng học bổng."
+    }
+  },
+  {
+    "id": "apec-innovation-iii-2026-2027",
+    "name": "Cuộc thi Ý tưởng Khởi nghiệp Sáng tạo Sinh viên APEC Innovation lần thứ III",
+    "season": "Mùa III (2026–2027)",
+    "organizer": "Viện Nghiên cứu và Đào tạo Doanh nhân APEC",
+    "category": "Khởi nghiệp đổi mới sáng tạo sinh viên (Startup & Innovation); các lĩnh vực: AI & Công nghệ, Kinh tế xanh, HealthTech, AgriTech, Giải pháp xã hội",
+    "short_description": "APEC Innovation là cuộc thi khởi nghiệp sáng tạo thường niên dành cho sinh viên toàn quốc, được tổ chức bởi Viện Nghiên cứu và Đào tạo Doanh nhân APEC. Cuộc thi không chỉ tìm kiếm ý tưởng sáng tạo mà còn đồng hành đào tạo, kết nối chuyên gia và trao cơ hội trải nghiệm quốc tế cho các đội thi tiềm năng. Sau hai mùa thành công (mùa I và mùa II với 30 ý tưởng vào chung kết, 6 dự án được hỗ trợ trải nghiệm tại Singapore), mùa III (2026–2027) chính thức được phát động tại Lễ Tổng kết APEC Innovation II ngày 17/05/2026.",
+    "eligibility": "Sinh viên đại học trên toàn quốc",
+    "deadline": "",
+    "duration": "Dự kiến năm học 2026–2027 (khoảng tháng 09/2026 – tháng 05/2027, tương tự lịch trình mùa II)",
+    "rounds_count": 3,
+    "rounds_description": "Mùa III dự kiến tiếp nối cấu trúc 3 giai đoạn của mùa II: Giai đoạn 1 – Nộp ý tưởng và sơ loại (online); Giai đoạn 2 – Đào tạo chuyên sâu và chọn Top 15–30 vào chung kết; Giai đoạn 3 – Vòng Chung kết thuyết trình trực tiếp và Lễ Tổng kết & Trao giải, tiếp theo là giai đoạn đồng hành hiện thực hóa ý tưởng (hậu cuộc thi) bao gồm cơ hội trải nghiệm quốc tế.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "05 Giải Nhất, 05 Giải Nhì, 05 Giải Ba, 15 Giải Khuyến khích; 02 suất trải nghiệm tại Hoa Kỳ trị giá 180 triệu đồng; 06 ý tưởng được hỗ trợ trải nghiệm tại Singapore (mùa II). Mùa III: cơ cấu giải thưởng đổi mới chưa công bố chi tiết.",
+    "prizes_detail": "Mùa II (tham khảo): 05 Giải Nhất + 05 Giải Nhì + 05 Giải Ba + 15 Giải Khuyến khích; 2 suất trải nghiệm tại Hoa Kỳ (180 triệu đồng); 6 ý tưởng được hỗ trợ trải nghiệm tại Singapore; học bổng dành cho 08 sinh viên xuất sắc; đồng hành chuyên sâu sau cuộc thi với chuyên gia riêng cho từng dự án. Mùa III hứa hẹn cơ cấu giải thưởng đổi mới và hấp dẫn hơn.",
+    "registration_link": "https://apecinnovation.vn/",
+    "source_url": "https://www.facebook.com/apecinnovation",
+    "required_skills": [
+      {
+        "name": "Phát triển và kiểm chứng ý tưởng khởi nghiệp (Idea Validation)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Xây dựng mô hình kinh doanh (Business Model)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kỹ năng thuyết trình và Pitching",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Thiết kế slide và trình bày trực quan",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy giải quyết vấn đề (Problem Solving)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Nghiên cứu thị trường và phân tích nhu cầu khách hàng",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm và quản lý dự án",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kiến thức cơ bản về tài chính khởi nghiệp và dòng tiền",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kỹ năng gọi vốn và tiếp cận nhà đầu tư",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kỹ năng phản biện và xử lý câu hỏi từ ban giám khảo (Q&A)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Hiểu biết về xu hướng công nghệ (AI, GreenTech, HealthTech, AgriTech...)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tiếng Anh (hỗ trợ cho vòng pitching quốc tế)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Phát động & Mở đơn đăng ký APEC Innovation III",
+        "date": "2026-05-17",
+        "description": "APEC Innovation lần thứ III chính thức được phát động tại Lễ Tổng kết APEC Innovation II ngày 17/05/2026. Thông tin chi tiết về thể lệ, chủ đề và hạn nộp ý tưởng mùa III chưa được công bố – theo dõi fanpage và website để cập nhật.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Nộp ý tưởng & Sơ loại (Vòng 1)",
+        "date": "Chưa công bố",
+        "description": "Các đội thi nộp bài luận/hồ sơ ý tưởng khởi nghiệp theo form đăng ký. Ban tổ chức sơ loại và chọn các ý tưởng tiềm năng vào vòng tiếp theo. Dựa trên mùa II, giai đoạn này diễn ra trong khoảng tháng 10–12.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Đào tạo chuyên sâu & Vòng loại Top 30 (Vòng 2)",
+        "date": "Chưa công bố",
+        "description": "Các đội lọt vòng sẽ được tham gia các buổi đào tạo về mô hình kinh doanh, kỹ năng pitching, tư duy khởi nghiệp từ chuyên gia. Sau đó ban giám khảo chấm bài và chọn Top 15–30 vào chung kết. Dựa trên mùa II, giai đoạn này khoảng tháng 01–04.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Chung kết thuyết trình trực tiếp & Lễ Tổng kết – Trao giải",
+        "date": "Dự kiến tháng 05/2027",
+        "description": "Top 15 đội thi xuất sắc thuyết trình trực tiếp (pitching) trước Hội đồng Giám khảo. Ngay sau đó là Lễ Tổng kết và Trao giải vinh danh các ý tưởng đoạt giải Nhất, Nhì, Ba, Khuyến khích và các giải thưởng đặc biệt. Mùa II tổ chức tại Đại học Ngoại ngữ – ĐHQGHN.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Giai đoạn đồng hành hậu cuộc thi & Trải nghiệm quốc tế",
+        "date": "Dự kiến tháng 06–08/2027",
+        "description": "Các dự án tiềm năng được đồng hành chuyên sâu bởi chuyên gia, tư vấn hoàn thiện mô hình kinh doanh và sản phẩm. Các đội xuất sắc có cơ hội tham gia chương trình trải nghiệm và pitching tại nước ngoài (mùa II là Singapore; mùa II cũng trao 2 suất trải nghiệm tại Hoa Kỳ).",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thách thức lớn nhất là chứng minh ý tưởng có nhu cầu thực tế và tính khả thi thương mại, không chỉ sáng tạo về mặt kỹ thuật. Ban giám khảo gồm các doanh nhân, nhà đầu tư và chuyên gia đặt câu hỏi gay gắt về mô hình tài chính, dòng tiền, khách hàng mục tiêu và khả năng mở rộng thị trường. Vòng chung kết đòi hỏi pitching trực tiếp trong thời gian ngắn, đòi hỏi sự tự tin và khả năng phản biện Q&A tốt.",
+      "common_mistakes": "1. Yêu sản phẩm hơn khách hàng – xây dựng giải pháp mà không kiểm chứng nhu cầu thực tế. 2. Thiếu bài toán tài chính rõ ràng (chi phí, doanh thu, dòng tiền) trong phần pitching. 3. Slide quá phức tạp hoặc thiếu trọng tâm – BGK chú trọng sự rõ ràng, mạch lạc và số liệu thực tế. 4. Không chuẩn bị kỹ cho phần Q&A sau pitching – nhiều đội lúng túng khi bị hỏi về khả năng thương mại hóa. 5. Bắt đầu tìm nhà đầu tư quá sớm khi sản phẩm chưa đủ chất lượng và chưa được thị trường chấp nhận.",
+      "key_success_factors": "1. Ý tưởng giải quyết vấn đề XÃ HỘI CÓ THỰC (sức khỏe, môi trường, nông nghiệp, giáo dục...) được BGK đánh giá cao. 2. Sản phẩm đã có prototype hoặc MVP – các ý tưởng đoạt giải cao đều có sản phẩm mẫu thực tế (DotRead E-Braille, BanaFoam, Stabily...). 3. Pitching tự tin, ngắn gọn, rõ ràng với số liệu thực tế và truyền được đam mê. 4. Tư duy 'Làm thật – Thi thật': BTC nhấn mạnh đây là triết lý xuyên suốt, không phải ý tưởng trên giấy. 5. Đội nhóm có sự phân công rõ ràng và cam kết cao trong suốt hành trình.",
+      "prep_advice": "1. Bắt đầu bằng nghiên cứu người dùng: phỏng vấn ít nhất 20–30 người có vấn đề mà ý tưởng hướng tới giải quyết trước khi xây dựng sản phẩm. 2. Xây dựng Business Model Canvas hoặc Lean Canvas để kiểm tra tính khả thi từ sớm. 3. Luyện pitch nhiều lần với thầy cô, mentor và người không quen biết – nhắm vào 5–7 phút rõ ràng, trọng tâm. 4. Chuẩn bị 5–10 câu hỏi phản biện khó nhất và tập trả lời thuyết phục. 5. Tham gia Group Zalo hỗ trợ sinh viên của BTC để nhận cập nhật và hỗ trợ sớm. 6. Học từ các dự án đoạt giải mùa trước (DotRead E-Braille, BanaFoam, Stabily, YORICE, VINA-STRAW, CarboArt) để hiểu tiêu chí BGK ưu tiên."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Ươm tạo & Cơ hội"
+      ],
+      "cash": [
+        "Giải Nhất, 05 Giải Nhì, 05 Giải Ba, 15 Giải Khuyến khích",
+        "suất trải nghiệm tại Hoa Kỳ trị giá 180 triệu đồng",
+        "Mùa II (tham khảo): 05 Giải Nhất",
+        "suất trải nghiệm tại Hoa Kỳ (180 triệu đồng)"
+      ],
+      "scholarship": [
+        "học bổng dành cho 08 sinh viên xuất sắc"
+      ],
+      "opportunity": [
+        "suất trải nghiệm tại Hoa Kỳ trị giá 180 triệu đồng",
+        "ý tưởng được hỗ trợ trải nghiệm tại Singapore (mùa II).",
+        "suất trải nghiệm tại Hoa Kỳ (180 triệu đồng)"
+      ],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "05 Giải Nhất, 05 Giải Nhì, 05 Giải Ba, 15 Giải Khuyến khích; 02 suất trải nghiệm tại Hoa Kỳ trị giá 180 triệu đồng; 06 ý tưởng được hỗ trợ trải nghiệm tại Singapore (mùa II). Mùa III: cơ cấu giải thưởng đổi mới chưa công bố chi tiết.\nMùa II (tham khảo): 05 Giải Nhất + 05 Giải Nhì + 05 Giải Ba + 15 Giải Khuyến khích; 2 suất trải nghiệm tại Hoa Kỳ (180 triệu đồng); 6 ý tưởng được hỗ trợ trải nghiệm tại Singapore; học bổng dành cho 08 sinh viên xuất sắc; đồng hành chuyên sâu sau cuộc thi với chuyên gia riêng cho từng dự án. Mùa III hứa hẹn cơ cấu giải thưởng đổi mới và hấp dẫn hơn."
+    }
+  },
+  {
+    "id": "agriup-2025-the-regentale",
+    "name": "AGRIUP 2025: THE REGENTALE - Cuộc thi Tìm kiếm Ý tưởng Khởi nghiệp và Đổi mới Sáng tạo trong Kinh doanh Nông nghiệp",
+    "season": "AGRIUP 2025 (mùa thứ 2)",
+    "organizer": "Liên chi Đoàn Khoa Bất động sản và Kinh tế tài nguyên (Đại học Kinh tế Quốc dân) phối hợp Câu lạc bộ Khởi nghiệp Nông nghiệp ASC",
+    "category": "Khởi nghiệp nông nghiệp; Kinh doanh nông nghiệp; Đổi mới sáng tạo",
+    "short_description": "AGRIUP 2025: The RegenTale là cuộc thi tìm kiếm ý tưởng khởi nghiệp và đổi mới sáng tạo trong kinh doanh nông nghiệp, hướng đến chủ đề nông nghiệp tái sinh và bền vững. Cuộc thi kéo dài gần 3 tháng, quy tụ sinh viên từ nhiều trường đại học trên toàn quốc với hành trình 4 vòng thi, từ nộp hồ sơ đến đêm chung kết offline tại Đại học Kinh tế Quốc dân. Đây là mùa thi thứ hai của AGRIUP, tiếp nối thành công của AGRIUP 2024.",
+    "eligibility": "Sinh viên các trường Cao đẳng, Đại học trên toàn quốc có mối quan tâm đến khởi nghiệp, đổi mới, sáng tạo trong lĩnh vực Kinh tế và Kinh doanh nông nghiệp",
+    "deadline": "26/08/2025 (đăng ký đội); 07/09/2025 (nộp hồ sơ dự án, sau gia hạn)",
+    "duration": "Tháng 08/2025 - Tháng 10/2025",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1 – Hồ sơ: Đăng ký và nộp hồ sơ dự án (05/08–07/09/2025). Vòng 2 – Trình bày dự án (Pitching Day): Top 15 pitching online qua Microsoft Teams (19/09–05/10/2025), kết hợp 3 buổi Training chuyên sâu. Vòng 3 – Lan tỏa: Top 6 nộp video giới thiệu dự án và bình chọn cộng đồng (11/10–20/10/2025). Vòng 4 – Chung kết: Top 6 tranh tài trực tiếp tại Hội trường A, Nhà Văn Hoá, ĐH Kinh tế Quốc dân (24/10/2025).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân: đội R2F; Á quân: PINEAPPLE & SWEETIEBOSS; Quý quân (Top 3); Giải Yêu thích: PINEAPPLE; Giải Triển vọng; Học bổng từ DOL English, NET English, Thalic Voice",
+    "prizes_detail": "Cơ cấu giải thưởng gồm: Quán quân (đội R2F), 02 Á quân (PINEAPPLE & SWEETIEBOSS), Quý quân, Giải Triển vọng và Giải Yêu thích (PINEAPPLE). Học bổng từ DOL English, NET English, Thalic Voice dành cho thí sinh xuất sắc. Sinh viên NEU tham dự đêm chung kết nhận 5 điểm Đoàn. Giá trị tiền mặt cụ thể không được tiết lộ công khai.",
+    "registration_link": "https://forms.gle/JL4aoJNLpvZapeDR7",
+    "source_url": "https://www.facebook.com/agriup.NEU",
+    "required_skills": [
+      {
+        "name": "Tư duy khởi nghiệp & Lập kế hoạch kinh doanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kiến thức Kinh tế / Kinh doanh Nông nghiệp",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Xây dựng ý tưởng sáng tạo & Đổi mới (Innovation Thinking)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thuyết trình & Pitching ý tưởng trước Ban giám khảo",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Thiết kế slide / deck thuyết trình",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm & Quản lý dự án",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Lập kế hoạch tài chính cơ bản (Financial Planning)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Hiểu biết về Nông nghiệp bền vững / Nông nghiệp tái sinh",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Sản xuất nội dung video / truyền thông mạng xã hội",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Nghiên cứu thị trường & Phân tích đối thủ",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Hiểu biết về tiêu chuẩn SPS và xuất khẩu nông sản",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Đăng ký & Nộp hồ sơ dự án",
+        "date": "2025-08-05 đến 2025-09-07",
+        "description": "Chặng 1 (05/08–26/08): Đăng ký tham gia qua Google Form. Chặng 2 (22/08–07/09): Nộp hồ sơ dự án khởi nghiệp nông nghiệp theo mẫu BTC gửi qua email sau khi đăng ký thành công. Deadline nộp hồ sơ được gia hạn thêm 01 ngày từ 06/09 sang 07/09/2025.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Sơ khảo: Công bố Top 15",
+        "date": "2025-09-18 đến 2025-09-19",
+        "description": "Ban Cố vấn và BTC đánh giá hồ sơ dự án, công bố Top 15 đội thi xuất sắc nhất ngày 19/09/2025. Kết quả gửi qua email đến từng đội.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 2: Training & Pitching Day (Top 15)",
+        "date": "2025-09-24 đến 2025-10-09",
+        "description": "Top 15 tham gia 3 buổi Training chuyên sâu (24/09, 25/09, 26/09) tại phòng B103-104, ĐH Kinh tế Quốc dân với các chuyên gia: TS. Ngô Xuân Nam (SPS & xuất khẩu nông sản), TS. Hoàng Mạnh Hùng & PGS.TS. Đỗ Xuân Luận (Kinh tế nông nghiệp & tài chính), TS. Đặng Văn Cường (Hình thành sản phẩm, tiếp cận thị trường & gọi vốn). Pitching Day diễn ra ngày 04–05/10/2025 online qua Microsoft Teams. Kết quả Top 6 công bố ngày 09/10/2025.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 3: Lan tỏa (Top 6)",
+        "date": "2025-10-11 đến 2025-10-20",
+        "description": "Top 6 nộp video giới thiệu tóm tắt ý tưởng khởi nghiệp (tối đa 2 phút, Full HD, tỷ lệ 16:9) trước 23h59 ngày 16/10. Bình chọn cộng đồng từ 20h ngày 18/10 đến 23h59 ngày 20/10 theo công thức: điểm = (share × 0.6) + (like × 0.4). Kết quả bình chọn không ảnh hưởng điểm thi chính thức.",
+        "status": "closed"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng 4: Chung kết (Top 6)",
+        "date": "2025-10-24",
+        "description": "Đêm Chung kết diễn ra lúc 18h00, thứ Sáu ngày 24/10/2025 tại Hội trường A – Nhà Văn Hoá, Đại học Kinh tế Quốc dân. Top 6 tranh tài trực tiếp trước Ban giám khảo gồm 6 chuyên gia cấp cao từ Bộ NN&PTNT, Agribank, ĐH Kinh tế Quốc dân và doanh nghiệp nông nghiệp. Sinh viên NEU tham dự nhận 5 điểm Đoàn. Đơn đăng ký dự khán đóng sớm do số lượng vượt giới hạn hội trường.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là phải phát triển một ý tưởng khởi nghiệp nông nghiệp vừa có tính sáng tạo, vừa khả thi về mặt kinh doanh và phù hợp với bối cảnh thực tế Việt Nam. Vòng Pitching Day online đòi hỏi khả năng thuyết phục Ban cố vấn chỉ qua màn hình, trong khi Vòng Chung kết yêu cầu trình bày live trước BGK gồm các chuyên gia từ Bộ NN&PTNT, ngân hàng và doanh nghiệp lớn – áp lực về chuyên môn rất cao. Ngoài ra, các đội phải đồng thời quản lý việc sản xuất video cho Vòng Lan tỏa trong thời gian ngắn.",
+      "common_mistakes": "Các đội mới thường mắc phải: (1) Ý tưởng thiếu tính thực tiễn, chỉ dừng ở lý thuyết mà không giải quyết bài toán cụ thể của nông nghiệp Việt Nam; (2) Hồ sơ dự án nộp cẩu thả hoặc trễ hạn, bỏ lỡ ngay từ vòng đầu; (3) Slide pitching quá dày đặc thông tin, không truyền tải được điểm đột phá của ý tưởng; (4) Thiếu dữ liệu thị trường và kế hoạch tài chính sơ bộ khi pitching; (5) Bỏ qua các buổi Training – đây là sai lầm nghiêm trọng vì kiến thức từ Training trực tiếp ảnh hưởng đến chất lượng dự án.",
+      "key_success_factors": "Ba yếu tố then chốt tạo nên đội chiến thắng: (1) Ý tưởng có tính ứng dụng thực tiễn cao, gắn với chủ đề tái sinh/bền vững (như R2F với Ecofee Mask từ phụ phẩm cà phê, hay PINEAPPLE với bao bì từ lá dứa); (2) Phần pitching tự tin, cấu trúc rõ ràng, thuyết phục được cả BGK chuyên môn lẫn khán giả; (3) Tinh thần đồng đội gắn kết và khả năng tiếp thu phản hồi nhanh từ các buổi Training để hoàn thiện dự án liên tục.",
+      "prep_advice": "Phân bổ thời gian theo 4 giai đoạn: (1) Trước khi nộp hồ sơ – dành 2 tuần nghiên cứu kỹ một vấn đề cụ thể của chuỗi giá trị nông nghiệp Việt Nam và xác định giải pháp khác biệt; đọc kỹ booklet tại https://bom.so/AGRIUP2025_BOOKLET. (2) Giai đoạn Training – tham dự đầy đủ cả 3 buổi, ghi chép và áp dụng ngay phản hồi từ diễn giả vào dự án. (3) Trước Pitching Day – luyện pitch tối đa 10 phút, chuẩn bị Q&A về tài chính, thị trường mục tiêu và rào cản kỹ thuật. (4) Giai đoạn Lan tỏa – chuẩn bị script video từ sớm, đầu tư vào chất lượng hình ảnh và storytelling vì đây là vòng tiếp cận cộng đồng rộng rãi nhất."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Quán quân: đội R2F",
+        "Á quân: PINEAPPLE & SWEETIEBOSS",
+        "Quý quân (Top 3)",
+        "Cơ cấu giải thưởng gồm: Quán quân (đội R2F), 02 Á quân (PINEAPPLE & SWEETIEBOSS), Quý quân, Giải Triển vọng và Giải Yêu thích (PINEAPPLE).",
+        "Giá trị tiền mặt cụ thể không được tiết lộ công khai."
+      ],
+      "scholarship": [
+        "Học bổng từ DOL English, NET English, Thalic Voice"
+      ],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [
+        "Sinh viên NEU tham dự đêm chung kết nhận 5 điểm Đoàn."
+      ],
+      "raw_text": "Quán quân: đội R2F; Á quân: PINEAPPLE & SWEETIEBOSS; Quý quân (Top 3); Giải Yêu thích: PINEAPPLE; Giải Triển vọng; Học bổng từ DOL English, NET English, Thalic Voice\nCơ cấu giải thưởng gồm: Quán quân (đội R2F), 02 Á quân (PINEAPPLE & SWEETIEBOSS), Quý quân, Giải Triển vọng và Giải Yêu thích (PINEAPPLE). Học bổng từ DOL English, NET English, Thalic Voice dành cho thí sinh xuất sắc. Sinh viên NEU tham dự đêm chung kết nhận 5 điểm Đoàn. Giá trị tiền mặt cụ thể không được tiết lộ công khai."
+    }
+  },
+  {
+    "id": "ce-hackathon-2025",
+    "name": "CE Hackathon (Cuộc thi Sáng tạo Giải pháp Kinh tế tuần hoàn)",
+    "season": "Mùa 5 – CE Hackathon 2025",
+    "organizer": "Trung tâm Sáng tạo và Ươm tạo FTU (FIIS) & Cộng đồng Kinh tế tuần hoàn trẻ (CEYC) – Trường Đại học Ngoại thương",
+    "category": "Kinh tế tuần hoàn & Phát triển bền vững",
+    "short_description": "CE Hackathon là cuộc thi sáng tạo giải pháp kinh tế tuần hoàn quy mô toàn quốc dành cho sinh viên, nằm trong chuỗi chương trình CE Journey 2025 gồm Webinar, Bootcamp, Field Trip và Hackathon. Các đội thi nhận đề bài thực tế từ doanh nghiệp xanh, đề xuất mô hình kinh doanh bền vững và pitch trực tiếp trước ban giám khảo chuyên môn. Mùa 5 thu hút sự đồng hành của các doanh nghiệp ECONOW và SUPPRO với chủ đề kinh tế tuần hoàn trong kỷ nguyên chuyển đổi kép.",
+    "eligibility": "Sinh viên, học sinh các trường đại học trong và ngoài nước (ưu tiên sinh viên Trường Đại học Ngoại thương)",
+    "deadline": "Mùa 5 (2025): ~30/05/2025 (deadline đăng ký CE Journey 2025, bao gồm CE Hackathon)",
+    "duration": "Tháng 04/2025 – Tháng 06/2025 (CE Bootcamp: 31/05–01/06; CE Hackathon: 02/06–29/06/2025)",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 – Genesis: Nộp đề án ý tưởng kinh tế tuần hoàn, chọn Top 10. Vòng 2 – Verdant Ascent (Pitching): Top 10 đội pitch trực tiếp với đề bài thực tế từ doanh nghiệp ECONOW và SUPPRO, kết hợp bình chọn cộng đồng (30% điểm bình chọn + 70% BGK), chọn Top 6. Vòng 3 – Chung kết (Grand Finale): Top 6 đội hoàn thiện và trình bày đề án trong 48 giờ, thuyết trình 5 phút + Q&A 10 phút trước ban giám khảo tại Hội trường D201, FTU, ngày 29/06/2025.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 2,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Mùa 4 (2024): Quán quân ~171.591.000 VNĐ; Á quân ~125.383.000 VNĐ; Quý quân ~97.279.000 VNĐ; Đội được yêu thích nhất ~31.562.000 VNĐ (gồm hiện kim + học bổng + voucher). Mùa 5 chưa công bố chi tiết.",
+    "prizes_detail": "Mùa 5 chưa công bố chi tiết giải thưởng. Theo lịch sử mùa 4: Tổng giải thưởng từ 3 vị trí chính xấp xỉ 394 triệu VNĐ, cộng thêm giải Đội thi được yêu thích nhất (~31.562.000 VNĐ). Thí sinh tham dự đêm chung kết còn nhận điểm rèn luyện học kỳ (áp dụng SV FTU cơ sở Hà Nội tham gia từ 2/3 thời lượng chương trình).",
+    "registration_link": "https://byvn.net/7vWe",
+    "source_url": "https://www.facebook.com/p/CE-Hackathon-61557390196431",
+    "required_skills": [
+      {
+        "name": "Tư duy giải quyết vấn đề kinh doanh (Business Problem Solving)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kiến thức Kinh tế tuần hoàn & Phát triển bền vững",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thiết kế mô hình kinh doanh (Business Model Canvas / Circular Business Model)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thuyết trình & Pitching",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm & Phân công công việc",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế slide chuyên nghiệp (PowerPoint / Canva)",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Phân tích chuỗi giá trị (Value Chain Analysis)",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Phản biện & trả lời Q&A dưới áp lực",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Sản xuất sản phẩm truyền thông (video, content marketing)",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Nghiên cứu thị trường & phân tích dữ liệu",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Tư duy ESG / Chuyển đổi xanh",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 0,
+        "name": "Mở đơn đăng ký CE Journey 2025 (Webinar + Bootcamp + Field Trip + Hackathon)",
+        "date": "2025-04-15",
+        "description": "Chính thức mở đơn đăng ký tham gia toàn bộ chuỗi chương trình CE Journey 2025. Link đăng ký: https://byvn.net/7vWe. Booklet: https://byvn.net/QPez",
+        "status": "completed"
+      },
+      {
+        "stage": 1,
+        "name": "CE Bootcamp",
+        "date": "2025-05-31 đến 2025-06-01",
+        "description": "Chuỗi 5 module đào tạo chuyên sâu về chuyển đổi mô hình Kinh tế tuần hoàn dành cho doanh nghiệp và sinh viên, tạo nền tảng kiến thức trước khi bước vào Hackathon.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 1 – Genesis: Nộp đề án ý tưởng",
+        "date": "2025-06-02 đến 2025-06-14",
+        "description": "Các đội đăng ký và nộp đề án ý tưởng giải pháp kinh tế tuần hoàn. Ban giám khảo chấm điểm và chọn Top 10 dự án xuất sắc nhất bước vào Vòng 2.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Công bố Top 10 – Vào Vòng 2 Verdant Ascent",
+        "date": "2025-06-14",
+        "description": "BTC công bố danh sách Top 10 đội thi xuất sắc nhất vượt qua Vòng 1 Genesis.",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 2 – Verdant Ascent: Pitching & Bình chọn cộng đồng",
+        "date": "2025-06-15 đến 2025-06-23",
+        "description": "Top 10 đội nhận đề bài thực tế từ doanh nghiệp ECONOW (rác thải, tái chế, kinh tế không phát thải) và SUPPRO (dinh dưỡng bền vững, thảo dược Việt). Các đội sản xuất sản phẩm truyền thông (video) và pitch trực tiếp. Điểm = 70% BGK + 30% bình chọn cộng đồng (vote kết thúc 21h00 ngày 23/06). Chọn Top 6 vào Chung kết.",
+        "status": "completed"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng 3 – Chung kết (Grand Finale): 48 giờ Hackathon + Pitching",
+        "date": "2025-06-24 đến 2025-06-29",
+        "description": "Top 6 đội có 48 giờ hoàn thiện đề án (PowerPoint + PDF + tài liệu tham khảo). Đêm Chung kết ngày 29/06/2025, 17h30–21h45, tại Hội trường D201, Trường Đại học Ngoại thương cơ sở I, 91 Chùa Láng, Hà Nội. Mỗi đội thuyết trình 5 phút + Q&A 10 phút với ban giám khảo chuyên môn.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là giải quyết đề bài thực tế từ doanh nghiệp trong thời gian rất ngắn (48 giờ ở vòng cuối), vừa phải đảm bảo tính khả thi của mô hình kinh tế tuần hoàn, vừa phải trả lời phản biện sắc sảo từ ban giám khảo gồm chuyên gia ESG, đại diện tổ chức quốc tế (GIZ) và lãnh đạo doanh nghiệp lớn (Coca-Cola, LIXIL). Đồng thời, ở vòng 2, điểm bình chọn cộng đồng chiếm 30% nên việc xây dựng sản phẩm truyền thông hấp dẫn cũng quan trọng không kém nội dung chuyên môn.",
+      "common_mistakes": "Các đội mới thường mắc lỗi: (1) đề xuất giải pháp thiếu tính khả thi kinh doanh, chỉ mang tính lý thuyết mà không có roadmap triển khai; (2) chưa hiểu rõ đặc thù ngành của doanh nghiệp ra đề nên giải pháp không bám sát thực tế; (3) slide trình bày thiếu chuyên nghiệp, quá nhiều chữ; (4) không phân bổ vai trò rõ ràng trong nhóm dẫn đến mất đồng bộ khi pitching; (5) bỏ qua phần bình chọn cộng đồng – vốn chiếm 30% điểm vòng 2.",
+      "key_success_factors": "Yếu tố tạo nên chiến thắng: (1) Hiểu sâu mô hình kinh tế tuần hoàn và ứng dụng được vào bài toán cụ thể của doanh nghiệp; (2) Tư duy hệ thống – kết nối chuỗi giá trị, công nghệ và trách nhiệm xã hội thành một mô hình kinh doanh liền mạch; (3) Khả năng trả lời phản biện tự tin, logic và có dẫn chứng; (4) Sản phẩm truyền thông chỉn chu kết hợp chiến lược bình chọn cộng đồng hiệu quả; (5) Đội hình đa ngành (kinh tế + truyền thông + kỹ thuật/môi trường) tạo lợi thế lớn.",
+      "prep_advice": "Trước khi thi: Hoàn thành đầy đủ CE Bootcamp để nắm vững 5 module về kinh tế tuần hoàn. Nghiên cứu kỹ hồ sơ và mô hình kinh doanh của 2 doanh nghiệp đối tác (ECONOW – tiêu dùng xanh; SUPPRO – dinh dưỡng thảo dược bền vững). Luyện tập Business Model Canvas và Circular Economy framework. Trong khi thi: Vòng 2 nên đầu tư làm video chất lượng cao và lên kế hoạch mobilize mạng lưới bình chọn từ sớm. Vòng 3 (48 giờ): phân công rõ người làm slide, người làm tài liệu tham khảo và người luyện pitching ngay từ giờ đầu. Dành ít nhất 10 giờ cuối để rehearse Q&A với phản biện giả định từ góc độ chuyên gia ESG và nhà đầu tư tác động xã hội."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Mùa 4 (2024): Quán quân ~171.591.000 VNĐ",
+        "Á quân ~125.383.000 VNĐ",
+        "Quý quân ~97.279.000 VNĐ",
+        "Đội được yêu thích nhất ~31.562.000 VNĐ (gồm hiện kim",
+        "Theo lịch sử mùa 4: Tổng giải thưởng từ 3 vị trí chính xấp xỉ 394 triệu VNĐ, cộng thêm giải Đội thi được yêu thích nhất (~31.562.000 VNĐ)."
+      ],
+      "scholarship": [
+        "học bổng"
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "voucher)."
+      ],
+      "certificate": [
+        "Thí sinh tham dự đêm chung kết còn nhận điểm rèn luyện học kỳ (áp dụng SV FTU cơ sở Hà Nội tham gia từ 2/3 thời lượng chương trình)."
+      ],
+      "raw_text": "Mùa 4 (2024): Quán quân ~171.591.000 VNĐ; Á quân ~125.383.000 VNĐ; Quý quân ~97.279.000 VNĐ; Đội được yêu thích nhất ~31.562.000 VNĐ (gồm hiện kim + học bổng + voucher). Mùa 5 chưa công bố chi tiết.\nMùa 5 chưa công bố chi tiết giải thưởng. Theo lịch sử mùa 4: Tổng giải thưởng từ 3 vị trí chính xấp xỉ 394 triệu VNĐ, cộng thêm giải Đội thi được yêu thích nhất (~31.562.000 VNĐ). Thí sinh tham dự đêm chung kết còn nhận điểm rèn luyện học kỳ (áp dụng SV FTU cơ sở Hà Nội tham gia từ 2/3 thời lượng chương trình)."
+    }
+  },
+  {
+    "id": "ueb-business-challenges-season-7",
+    "name": "UEB Business Challenges",
+    "season": "Season 7",
+    "organizer": "Đại học Kinh tế - ĐHQGHN (UEB)",
+    "category": "Khởi nghiệp",
+    "short_description": "Cuộc thi khởi nghiệp và giải quyết bài toán kinh doanh thực tế dành cho sinh viên, quy mô đa trường với sự đồng hành của các nhà tài trợ lớn như Tập đoàn Phương Linh, Dagoras, YBOX, Thảm Len Hàng Kênh. Mùa 7 quy tụ cả đội thi trong nước và quốc tế tại Gala Chung kết offline.",
+    "eligibility": "Sinh viên các trường đại học",
+    "deadline": "",
+    "duration": "Tháng 02/2025 - Tháng 04/2025",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm nhiều vòng sơ loại dẫn đến Gala Chung kết. Các đội thi được chia thành 2 Nhánh (Nhánh 1 & Nhánh 2) song song. Vòng sơ loại: nộp bài luận/phân tích case; Vòng bán kết hoặc vòng loại trực tiếp: trình bày và đánh giá; Gala Chung kết (20/04/2025): tranh tài trực tiếp tại F-Ville 3, FPT Software Hòa Lạc với phần thuyết trình và trả lời câu hỏi Ban Giám khảo.",
+    "format": "Hybrid (Vòng sơ loại có thể online, Gala Chung kết offline tại F-Ville 3, FPT Software Hòa Lạc, Km29 Đại lộ Thăng Long, Thạch Thất, Hà Nội)",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Á Quân, Quý Quân, Giải Tiềm Năng (cho mỗi nhánh); Giải Đội thi được yêu thích nhất; Giải đặc biệt cho đội thi quốc tế",
+    "prizes_detail": "Quán quân Nhánh 1: LLAMAS; Á quân Nhánh 1: CHILL GUYS; Quán quân Nhánh 2: TRAILBLAZERS; Á quân Nhánh 2: CHILL G; Giải Tiềm năng: AIVOS, HIỆP SĨ BTEC, MẬN TRÁI MÙA MỘC CHÂU (Nhánh 1); KQMB, ZENITH, VÌ SAO TINH TÚ (Nhánh 2). Đội thi quốc tế có hệ thống giải thưởng riêng biệt.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/UEB.BusinessChallenges",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Business Analysis",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Pitching & Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Strategic Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Data Analysis",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Creativity & Innovation",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Financial Literacy",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Mở đơn & Nộp bài luận sơ loại",
+        "date": "Tháng 02/2025 - Tháng 03/2025 (ước tính)",
+        "description": "Các đội nộp bài phân tích case/đề bài kinh doanh thực tế để xét duyệt vòng loại",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Bán kết / Vòng loại trực tiếp",
+        "date": "Tháng 03/2025 - Tháng 04/2025 (ước tính)",
+        "description": "Các đội lọt vào vòng trong trình bày và tranh tài, được phân bổ vào Nhánh 1 hoặc Nhánh 2",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Gala Chung kết",
+        "date": "2025-04-20",
+        "description": "Đêm Gala Chung kết tại F-Ville 3, FPT Software Hòa Lạc. 14h00 bắt đầu. Các đội thi (trong nước và quốc tế) tranh tài trực tiếp trước Ban Giám khảo. MC đặc biệt: Nhữ Hoàng Minh. Công bố kết quả Nhánh 1 (LLAMAS quán quân) và Nhánh 2 (TRAILBLAZERS quán quân) vào ngày 20-21/04/2025.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Chuyển hóa bài toán kinh doanh thực tế thành giải pháp khả thi trong thời gian giới hạn, đồng thời thuyết phục Ban Giám khảo và đối mặt với câu hỏi chất vấn sâu sắc tại vòng Chung kết",
+      "common_mistakes": "Thiếu hiểu biết thực tiễn về ngành nghề của case, trình bày quá lý thuyết mà thiếu tính ứng dụng, không phân bổ thời gian hợp lý cho phần thuyết trình và chuẩn bị câu hỏi phòng bị",
+      "key_success_factors": "Tư duy chiến lược sắc bén, am hiểu sâu sắc về thực tiễn doanh nghiệp, giải pháp thực tế và khả thi, tinh thần tự tin và bản lĩnh khi trình bày, sự phối hợp ăn ý trong đội nhóm",
+      "prep_advice": "Nghiên cứu kỹ case và bối cảnh ngành nghề, xây dựng framework phân tích rõ ràng, luyện tập thuyết trình nhiều lần, chuẩn bị sẵn các kịch bản trả lời câu hỏi, phân bổ thời gian hợp lý giữa các phần thi, tận dụng sự hướng dẫn của Mentors chuyên gia"
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Á Quân, Quý Quân, Giải Tiềm Năng (cho mỗi nhánh)",
+        "Quán quân Nhánh 1: LLAMAS",
+        "Á quân Nhánh 1: CHILL GUYS",
+        "Quán quân Nhánh 2: TRAILBLAZERS",
+        "Á quân Nhánh 2: CHILL G"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Á Quân, Quý Quân, Giải Tiềm Năng (cho mỗi nhánh); Giải Đội thi được yêu thích nhất; Giải đặc biệt cho đội thi quốc tế\nQuán quân Nhánh 1: LLAMAS; Á quân Nhánh 1: CHILL GUYS; Quán quân Nhánh 2: TRAILBLAZERS; Á quân Nhánh 2: CHILL G; Giải Tiềm năng: AIVOS, HIỆP SĨ BTEC, MẬN TRÁI MÙA MỘC CHÂU (Nhánh 1); KQMB, ZENITH, VÌ SAO TINH TÚ (Nhánh 2). Đội thi quốc tế có hệ thống giải thưởng riêng biệt."
+    }
+  },
+  {
+    "id": "e-contest-14-0-legends-leap-ftu-hcmc-2026",
+    "name": "E!CONTEST 14.0",
+    "season": "14.0",
+    "organizer": "CLB Nhà Kinh Tế Trẻ YEC - Phân hiệu Trường Đại học Ngoại thương tại TP.HCM",
+    "category": "Kinh tế / Business Case",
+    "short_description": "E!CONTEST 14.0 là cuộc thi Business Case dành cho sinh viên đại học tại Việt Nam, thách thức các đội thi giải quyết bài toán chiến lược gia nhập thị trường của doanh nghiệp trang sức thực tế, với hành trình từ Vòng 1 chiến lược đến Gala Night trình bày và xử lý tình huống trực tiếp.",
+    "eligibility": "Sinh viên từ 18 - 24 tuổi đang theo học tại các trường Đại học tại Việt Nam, có quan tâm đến lĩnh vực kinh tế.",
+    "deadline": "21/05/2026",
+    "duration": "Tháng 05/2026 – Tháng 06/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 – Strategic Vision (25–29/05/2026): Giải bài toán Business Case về định hướng chiến lược gia nhập thị trường, TOP 15 đội tiến vào Vòng 2. Vòng 2 – Effective Execution (04–09/06/2026): TOP 15 tham gia Training Day và xây dựng kế hoạch triển khai, Ban Giám khảo chọn TOP 5 vào Gala Night. Gala Night: TOP 5 trình bày kế hoạch, TOP 3 thi Q&A và xử lý tình huống trực tiếp để xác định Quán quân, Á quân, Quý quân.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 3,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "TOP 3 chung cuộc tại Gala Night: Quán quân, Á quân và Quý quân; Miễn phí vé tham dự Gala Night cho thí sinh đăng ký dự thi; Sinh viên FTU HCMC được cộng 2 điểm rèn luyện mục 1.1 khi tham gia Webinar, Gala Night và dự thi Vòng 1",
+    "prizes_detail": "Cấu trúc giải thưởng: TOP 3 chung cuộc (Quán quân, Á quân, Quý quân) được xác định tại Gala Night qua phần trình bày kế hoạch và Q&A xử lý tình huống. Thí sinh đăng ký dự thi được miễn phí vé tham dự Gala Night. Sinh viên FTU HCMC được cộng 2 điểm rèn luyện mục 1.1 khi tham gia Webinar, Gala Night và dự thi Vòng 1.",
+    "registration_link": "https://tinyurl.com/dangkythiecontest",
+    "source_url": "https://www.facebook.com/thuvienecase",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Strategic Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Market Analysis",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Business Case Frameworks",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Presentation & Public Speaking",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Time Management",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Slide Design",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Webinar: ECONEX – Cracking New Grounds",
+        "date": "2026-05-18",
+        "description": "Buổi webinar giải đáp thắc mắc về cuộc thi và cách giải Business Case, kết hợp chia sẻ kiến thức ngành hàng trang sức từ chuyên gia.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Đăng ký tham gia",
+        "date": "2026-05-11 – 2026-05-23",
+        "description": "Mở đơn đăng ký (online qua form và offline tại booth FTU HCMC). Gia hạn thêm 48 giờ so với deadline ban đầu 21/05/2026.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 1: Strategic Vision",
+        "date": "2026-05-25 – 2026-05-29",
+        "description": "Các đội có 4 ngày để giải bài toán Business Case về định hướng chiến lược gia nhập thị trường cho sản phẩm trang sức. Nộp bài qua Google Form. TOP 15 đội có điểm cao nhất tiến vào Vòng 2.",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 2: Effective Execution",
+        "date": "2026-06-04 – 2026-06-09",
+        "description": "TOP 15 đội tham gia Training Day (04/06) và xây dựng kế hoạch triển khai dựa trên đề bài phát triển từ Vòng 1. Ban Giám khảo chọn TOP 5 đội xuất sắc nhất tiến vào Gala Night.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Gala Night",
+        "date": "Sau 2026-06-09",
+        "description": "TOP 5 đội trình bày kế hoạch trước Ban Giám khảo, sau đó TOP 3 thi Q&A và xử lý tình huống trực tiếp để xác định Quán quân, Á quân, Quý quân.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Giải quyết bài toán Business Case thực tế về ngành hàng trang sức trong thời gian rất ngắn (chỉ 4 ngày ở Vòng 1), đòi hỏi khả năng phân tích nhanh, tư duy chiến lược và làm việc nhóm hiệu quả dưới áp lực deadline.",
+      "common_mistakes": "Không nắm rõ bản chất bài toán và nhầm lẫn giữa giải pháp chiến lược với kế hoạch triển khai; bỏ qua kiến thức đặc thù về ngành trang sức; phân bổ thời gian kém dẫn đến bài làm thiếu chỉn chu; không phân biệt rõ giữa chiến lược gia nhập thị trường (Vòng 1) và thực thi kế hoạch (Vòng 2).",
+      "key_success_factors": "Tư duy chiến lược sắc bén, khả năng phân tích dữ liệu và thị trường, kỹ năng trình bày thuyết phục, sự phối hợp nhịp nhàng trong đội nhóm, và khả năng xử lý tình huống linh hoạt tại Gala Night.",
+      "prep_advice": "Tham dự webinar ECONEX để nắm framework giải Business Case và kiến thức ngành trang sức; nghiên cứu kỹ đề bài và xác định vấn đề trọng tâm trước khi đi vào giải pháp; phân bổ thời gian đều cho các phần: phân tích – chiến lược – triển khai – trình bày; luyện tập thuyết trình và Q&A xử lý tình huống cùng đội nhóm."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "TOP 3 chung cuộc tại Gala Night: Quán quân, Á quân và Quý quân",
+        "Cấu trúc giải thưởng: TOP 3 chung cuộc (Quán quân, Á quân, Quý quân) được xác định tại Gala Night qua phần trình bày kế hoạch và Q&A xử lý tình huống."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [
+        "Sinh viên FTU HCMC được cộng 2 điểm rèn luyện mục 1.1 khi tham gia Webinar, Gala Night và dự thi Vòng 1"
+      ],
+      "raw_text": "TOP 3 chung cuộc tại Gala Night: Quán quân, Á quân và Quý quân; Miễn phí vé tham dự Gala Night cho thí sinh đăng ký dự thi; Sinh viên FTU HCMC được cộng 2 điểm rèn luyện mục 1.1 khi tham gia Webinar, Gala Night và dự thi Vòng 1\nCấu trúc giải thưởng: TOP 3 chung cuộc (Quán quân, Á quân, Quý quân) được xác định tại Gala Night qua phần trình bày kế hoạch và Q&A xử lý tình huống. Thí sinh đăng ký dự thi được miễn phí vé tham dự Gala Night. Sinh viên FTU HCMC được cộng 2 điểm rèn luyện mục 1.1 khi tham gia Webinar, Gala Night và dự thi Vòng 1."
+    }
+  },
+  {
+    "id": "economist-up-2026-hanh-trinh-hoi-nhap",
+    "name": "Economist Up 2026 - Hành trình Hội nhập",
+    "season": "2026",
+    "organizer": "Học viện Ngoại giao",
+    "category": "Kinh tế quốc tế / Hội nhập quốc tế",
+    "short_description": "Cuộc thi case study học thuật dành cho sinh viên, tập trung vào các vấn đề kinh tế hội nhập, thúc đẩy tư duy phân tích, phản biện và kỹ năng trình bày trước hội đồng giám khảo.",
+    "eligibility": "Sinh viên các trường đại học tại Hà Nội",
+    "deadline": "",
+    "duration": "Tháng 02/2026 - Tháng 06/2026",
+    "rounds_count": 3,
+    "rounds_description": "Ba vòng thi: (1) Mở đơn & nộp bài luận, (2) Vòng tranh biện & trình bày, (3) Vòng Chung kết - Tranh tài trực tiếp tại Hội trường Bộ Ngoại giao.",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team hoặc Individual hoặc Individual or Team"
+    },
+    "experience_level": "Intermediate",
+    "grand_prize": "Giải Nhất, Giải Nhì, Giải Ba, Giải khuyến khích, Giải Đề án triển vọng, Đội thi được yêu thích nhất",
+    "prizes_detail": "Tổng giá trị giải thưởng: hơn 30.000.000 VND, bao gồm tiền mặt cho ba hạng mục, học bổng ngắn hạn và các gói hỗ trợ phát triển kỹ năng.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/economistup",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Analytical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Research",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Teamwork",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Nộp bài luận",
+        "date": "2026-02-01",
+        "description": "Đăng ký tham gia và nộp bài luận ngắn (không quá 1500 từ) về một chủ đề kinh tế hội nhập.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Tranh biện & Trình bày",
+        "date": "2026-04-15",
+        "description": "Các đội vào vòng trong trình bày case study và phản biện trước hội đồng giám khảo.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết: Tranh tài trực tiếp",
+        "date": "2026-06-07",
+        "description": "Vòng Chung kết diễn ra tại Hội trường Bộ Ngoại giao, Hà Nội, với các bài thuyết trình và phần hỏi đáp trực tiếp.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thời gian chuẩn bị ngắn, yêu cầu nghiên cứu sâu về chủ đề hội nhập trong khi cân bằng với lịch học và hoạt động ngoại khóa.",
+      "common_mistakes": "Thiếu phân tích đa chiều, tập trung quá nhiều vào lý thuyết mà không đưa ra giải pháp thực tiễn, và phân chia công việc không đều trong nhóm.",
+      "key_success_factors": "Kết hợp chặt chẽ giữa dữ liệu thực tế, lập luận logic, kỹ năng trình bày tự tin và khả năng phản biện sắc bén.",
+      "prep_advice": "Bắt đầu nghiên cứu sớm, sử dụng phương pháp DCA cho việc học, tham gia các buổi workshop kỹ năng, thực hành trình bày trước bạn bè, và xây dựng portfolio các case study đã hoàn thành."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng"
+      ],
+      "cash": [
+        "Giải Nhất, Giải Nhì, Giải Ba, Giải khuyến khích, Giải Đề án triển vọng, Đội thi được yêu thích nhất"
+      ],
+      "scholarship": [
+        "Tổng giá trị giải thưởng: hơn 30.000.000 VND, bao gồm tiền mặt cho ba hạng mục, học bổng ngắn hạn và các gói hỗ trợ phát triển kỹ năng."
+      ],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Giải Nhất, Giải Nhì, Giải Ba, Giải khuyến khích, Giải Đề án triển vọng, Đội thi được yêu thích nhất\nTổng giá trị giải thưởng: hơn 30.000.000 VND, bao gồm tiền mặt cho ba hạng mục, học bổng ngắn hạn và các gói hỗ trợ phát triển kỹ năng."
+    }
+  },
+  {
+    "id": "ung-vien-tai-nang-2026",
+    "name": "Ứng viên Tài năng",
+    "season": "2026",
+    "organizer": "HRC",
+    "category": "Nhân sự",
+    "short_description": "Cuộc thi mô phỏng quá trình tuyển dụng của các tập đoàn lớn dành cho sinh viên năm 3, 4 và cử nhân dưới 1 năm trên toàn quốc. Mùa thứ 16 kế thừa di sản hơn một thập kỷ, đi kèm chuỗi Training Kickstart Series, hệ sinh thái Broadcast Channel và Group cộng đồng hỗ trợ độc quyền.",
+    "eligibility": "Sinh viên năm 3, 4 và cử nhân dưới 1 năm trên toàn quốc",
+    "deadline": "12h00 ngày 25/09/2026",
+    "duration": "Dự kiến từ tháng 09/2026 đến cuối năm 2026 (chưa công bố chính thức toàn bộ timeline)",
+    "rounds_count": 3,
+    "rounds_description": "Cơ cấu vòng thi được tham chiếu từ mùa trước và thông tin tổng quát: (1) Vòng sơ tuyển – Nộp hồ sơ và bài đánh giá năng lực (Aptitude Test / Case); (2) Vòng bán kết – Đánh giá chuyên sâu qua Assessment Center, phỏng vấn và bài toán thực chiến; (3) Đêm chung kết – Big Case do chuyên gia doanh nghiệp thiết kế, trình bày và tranh luận trước hội đồng giám khảo.",
+    "format": "Hybrid (kết hợp Online và Offline)",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "2 ĐRL và bộ tài liệu độc quyền (bộ đề thi & đáp án Aptitude Test UVTN 2023-2025, Aptitude Test Guideline, tài liệu CV, Interview, Logical Test & Case) cho người tham gia chuỗi Kickstart Series",
+    "prizes_detail": "Dựa trên thông tin từ các mùa trước: Top 40 – shortcuts vào vòng phỏng vấn nhanh của các tập đoàn đối tác; Top 6 – cơ hội tương tác trực tiếp với chuyên gia và consultants từ các doanh nghiệp hàng đầu (BCG, Unilever, Nestlé, Carlsberg, Suntory PepsiCo). Giá trị cụ thể mùa 2026 chưa được công bố.",
+    "registration_link": "https://aboutus.hrc.com.vn/uvtn16kickstartseries",
+    "source_url": "https://www.facebook.com/hrc.ungvientainang/",
+    "required_skills": [
+      {
+        "name": "Problem Solving (Tư duy giải quyết vấn đề)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Proactive Adaptability (Năng lực chủ động thích ứng)",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Case Study Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Strategic Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "CV & Interview Preparation",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Logical Reasoning",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Slide Design",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "AI & Digital Literacy",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "UVTN Kickstart Series 2026: Future-Ready Mastery",
+        "date": "2026-09-25",
+        "description": "Chuỗi training chuyên sâu với KSS #1 x SPVB (Beyond Case-Solving) và KSS #2 x BCG (Exclusive Networking Session). Đăng ký qua https://aboutus.hrc.com.vn/uvtn16kickstartseries. Người tham gia nhận 2 ĐRL và bộ tài liệu độc quyền (đề thi Aptitude Test 2023-2025, Guideline, tài liệu CV/Interview/Logical Test/Case).",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng sơ tuyển – Nộp hồ sơ & Đánh giá năng lực",
+        "date": "Dự kiến cuối năm 2026",
+        "description": "Nộp hồ sơ cá nhân/nhóm và hoàn thành bài đánh giá Aptitude Test / Case Study sơ bộ.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng bán kết – Assessment Center & Phỏng vấn",
+        "date": "Dự kiến cuối năm 2026",
+        "description": "Đánh giá chuyên sâu qua bài toán thực chiến, Assessment Center và phỏng vấn.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Đêm chung kết – Big Case & Trao giải",
+        "date": "Dự kiến cuối năm 2026 / Đầu 2027",
+        "description": "Trình bày Big Case do chuyên gia doanh nghiệp thiết kế, tranh luận trước hội đồng giám khảo và trao giải tổng kết.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Cuộc thi mô phỏng quy trình tuyển dụng thực tế với cường độ cao, đòi hỏi thí sinh xử lý đồng thời nhiều dạng bài (Aptitude Test, Case Study, Assessment Center, Interview) trong thời gian ngắn. Đề bài Big Case có tính trừu tượng cao, dữ kiện ít và cấu trúc nhiều lớp, đòi hỏi tư duy chiến lược vượt trội.",
+      "common_mistakes": "(1) Không chủ động tham gia hệ sinh thái hỗ trợ (Broadcast Channel, Group cộng đồng) để tiếp cận tài liệu và kinh nghiệm từ Mentor, Top thí sinh các mùa; (2) Chuẩn bị hồ sơ và kỹ năng mềm (CV, Interview) một cách thụ động; (3) Không luyện tập với đề thi Aptitude Test các năm trước; (4) Bỏ qua các buổi Kickstart Series – nguồn tài liệu và kết nối độc quyền.",
+      "key_success_factors": "Tư duy giải quyết vấn đề sắc bén, khả năng chủ động thích ứng với tình huống mới, kỹ năng trình bày và thuyết phục rõ ràng, tinh thần làm việc nhóm hiệu quả, và tận dụng tối đa hệ sinh thái hỗ trợ của cuộc thi (tài liệu, Mentor, cộng đồng).",
+      "prep_advice": "Bước 1: Tham gia ngay UVTN Kickstart Series để nhận bộ tài liệu độc quyền (đề thi Aptitude Test 2023-2025, Guideline, tài liệu CV/Interview/Logical Test/Case). Bước 2: Gia nhập Group cộng đồng 'How I Become UVTN' và Broadcast Channel để cập nhật thông tin nhanh nhất. Bước 3: Luyện tập Case Study và Logical Test thường xuyên từ tài liệu các mùa trước. Bước 4: Xây dựng CV và chuẩn bị kỹ năng phỏng vấn dựa trên định dạng thực tế của doanh nghiệp. Bước 5: Kết nối với Mentor và Top thí sinh các mùa để đúc kết kinh nghiệm thực chiến."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "2 ĐRL và bộ tài liệu độc quyền (bộ đề thi & đáp án Aptitude Test UVTN 2023-2025, Aptitude Test Guideline, tài liệu CV, Interview, Logical Test & Case) cho người tham gia chuỗi Kickstart Series\nDựa trên thông tin từ các mùa trước: Top 40 – shortcuts vào vòng phỏng vấn nhanh của các tập đoàn đối tác; Top 6 – cơ hội tương tác trực tiếp với chuyên gia và consultants từ các doanh nghiệp hàng đầu (BCG, Unilever, Nestlé, Carlsberg, Suntory PepsiCo). Giá trị cụ thể mùa 2026 chưa được công bố."
+    }
+  },
+  {
+    "id": "you-can-14-youcan-kncs",
+    "name": "YOU CAN",
+    "season": "YOU CAN 14",
+    "organizer": "CLB Kỹ năng Cuộc sống Học viện Tài chính",
+    "category": "Tìm kiếm nguồn nhân lực",
+    "short_description": "Cuộc thi tìm kiếm nguồn nhân lực Management Trainee kết hợp Business Case Study, quy mô toàn quốc, đồng hành cùng sinh viên trong hơn 3 tháng với nhiều vòng thi cam go nhằm rèn luyện tư duy, kỹ năng và bản lĩnh bứt phá.",
+    "eligibility": "Sinh viên các trường đại học",
+    "deadline": "12h00 ngày 16/05/2026",
+    "duration": "Khoảng 3 tháng (ước tính từ đầu năm 2026 - tháng 05/2026)",
+    "rounds_count": 4,
+    "rounds_description": "Cuộc thi gồm nhiều vòng thi: Vòng sơ loại (sàng lọc thí sinh), các vòng bán kết (đánh giá chuyên môn và kỹ năng), Vòng Top 5 (trưng bày năng lực), và Đêm Chung kết (tranh tài cuối cùng trước Ban Giám khảo chuyên gia).",
+    "format": "Offline (Chung kết tại HT 700, Học viện Tài chính, cơ sở 58 Lê Văn Hiến)",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Quán quân: 1 suất; Á quân: 1 suất (Nguyễn Ngọc Ánh - AOF); 3 Quý quân: Lê Kim Ngân (FTU 2xUK), Hà Lê Thanh Trà (FTU), Vũ Thành Lâm (NEU); Top 5 triển vọng: 5 suất. Tổng giải thưởng bao gồm cơ hội thực tập, trải nghiệm doanh nghiệp và phần thưởng vật chất từ nhà tài trợ.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/youcan.kncs",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Business Case Analysis",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Strategic Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Confidence & Stage Presence",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Financial & Market Knowledge",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Time Management",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Sàng lọc",
+        "date": "Đầu năm 2026 (ước tính)",
+        "description": "Tiếp nhận hồ sơ thí sinh và sàng lọc ban đầu dựa trên năng lực cơ bản.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Vòng thi chuyên môn & Bán kết",
+        "date": "Giữa năm 2026 (ước tính)",
+        "description": "Đánh giá chuyên môn qua các bài toán kinh doanh/case study, sàng lọc Top thí sinh tiềm năng.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Top 5 Triển vọng",
+        "date": "Trước 16/05/2026",
+        "description": "5 thí sinh xuất sắc nhất được công bố và tiếp tục tranh tài để giành vé vào Chung kết.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Đêm Chung kết YOU CAN 14",
+        "date": "2026-05-16",
+        "description": "Đêm thi đấu cuối cùng tại HT 700, Học viện Tài chính (58 Lê Văn Hiến). Ban Giám khảo gồm Tiến sĩ Nguyễn Hữu Tân (CFA), đại diện Nhựa Tiền Phong, Cảng Hải Phòng, The Trainee Club, Dai-ichi Life, JobOKO, HR Companion. Công bố Quán quân, Á quân và 3 Quý quân.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Vòng thi cuối cùng (Chung kết) đòi hỏi sự bản lĩnh, tư duy sắc bén và khả năng ứng biến trước Ban Giám khảo chuyên gia từ nhiều lĩnh vực. Áp lực phải thể hiện tốt trên sân khấu trước đông đảo khán giả là thử thách lớn nhất.",
+      "common_mistakes": "Không có thông tin cụ thể từ dữ liệu cung cấp. Tuy nhiên, thí sinh mới thường mắc sai lầm như: thiếu chuẩn bị kỹ năng thuyết trình, không nắm vững kiến thức chuyên môn về business case, và chưa biết cách thể hiện bản lĩnh dưới áp lực.",
+      "key_success_factors": "Tư duy sắc sảo, lập luận chặt chẽ, phong thái tự tin, khả năng ứng biến thuyết phục và tinh thần dám bứt phá bản thân - đó là những yếu tố tạo nên chiến thắng theo đánh giá của Ban Giám khảo.",
+      "prep_advice": "Cần chuẩn bị đồng thời cả kiến thức chuyên môn (business case, tài chính, thị trường) lẫn kỹ năng mềm (thuyết trình, giao tiếp, xử lý tình huống). Tích lũy kinh nghiệm qua các cuộc thi tương tự và rèn luyện sự tự tin qua thực hành thường xuyên."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Quán quân: 1 suất",
+        "Á quân: 1 suất (Nguyễn Ngọc Ánh - AOF)",
+        "Quý quân: Lê Kim Ngân (FTU 2xUK), Hà Lê Thanh Trà (FTU), Vũ Thành Lâm (NEU)",
+        "Top 5 triển vọng: 5 suất."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Quán quân: 1 suất; Á quân: 1 suất (Nguyễn Ngọc Ánh - AOF); 3 Quý quân: Lê Kim Ngân (FTU 2xUK), Hà Lê Thanh Trà (FTU), Vũ Thành Lâm (NEU); Top 5 triển vọng: 5 suất. Tổng giải thưởng bao gồm cơ hội thực tập, trải nghiệm doanh nghiệp và phần thưởng vật chất từ nhà tài trợ."
+    }
+  },
+  {
+    "id": "pac-2026-the-optimal-fit",
+    "name": "PAC – Professional Accountancy Champion 2026",
+    "season": "The Optimal Fit 2026",
+    "organizer": "Câu lạc bộ Kế toán - Kiểm toán AAS, Trường Đại học Kinh tế và Kinh doanh (UEB), Đại học Quốc gia Hà Nội (VNU)",
+    "category": "Business case",
+    "short_description": "Cuộc thi học thuật chuyên ngành Kế toán - Kiểm toán - Tài chính dành cho sinh viên đại học toàn quốc, mùa thứ 4 với chủ đề 'The Optimal Fit' – Quản trị kế toán trong kỷ nguyên AI, tìm kiếm những 'Super Accountant' có khả năng làm chủ công nghệ và tư duy phản biện.",
+    "eligibility": "Sinh viên đại học chính quy trên toàn quốc, đam mê lĩnh vực Kế toán - Kiểm toán - Tài chính",
+    "deadline": "2026-09-20",
+    "duration": "Tháng 09/2026 - Tháng 10/2026",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1 – Application (Vòng đơn): Nộp hồ sơ đăng ký. Vòng 2 – Discover Your Potential (Sơ loại): Sàng lọc thí sinh. Vòng 3 – Challenge Your Thinking (Group Interview): Phỏng vấn nhóm, phân tích trường hợp. Vòng 4 – Prove Your Excellence (Chung kết): Tranh tài quyết định quán quân.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 3,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Intermediate",
+    "grand_prize": "Không được đề cập cụ thể trong các bài đăng. Giải thưởng bao gồm danh hiệu Super Accountant, chứng nhận và cơ hội kết nối chuyên ngành.",
+    "prizes_detail": "Tổng giá trị giải thưởng chưa được công bố. Cuộc thi trao danh hiệu và chứng nhận cho các thí sinh đạt thành tích xuất sắc qua 4 vòng thi.",
+    "registration_link": "https://forms.gle/9huZjxJcFDgyBEVz9",
+    "source_url": "https://www.facebook.com/ClbKTKT/posts/pfbid0fqD1Ek2Mi1ffBhNhbiuQbKdsVeKPt91jJFsV2J92pBZGqDUdWKky6NUPT2c2PotNl",
+    "required_skills": [
+      {
+        "name": "Financial Accounting & Management Accounting",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Data Analysis & Numerical Processing",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Critical Thinking & Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "AI Literacy & Digital Tools",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Application – Vòng đơn",
+        "date": "2026-09-07 đến 2026-09-20",
+        "description": "Nộp hồ sơ đăng ký tham gia cuộc thi qua Google Forms. Mở rộng cho sinh viên toàn quốc.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Discover Your Potential – Sơ loại",
+        "date": "2026-09-23 đến 2026-09-27",
+        "description": "Vòng sàng lọc thí sinh, đánh giá năng lực nền tảng về kế toán và tư duy phân tích.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Challenge Your Thinking – Group Interview",
+        "date": "2026-09-28 đến 2026-10-10",
+        "description": "Phỏng vấn nhóm, phân tích trường hợp quản trị kế toán, đánh giá khả năng hợp tác và tư duy chiến lược.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 4: Prove Your Excellence – Chung kết",
+        "date": "2026-10-11 đến 2026-10-24",
+        "description": "Vòng chung kết quyết định quán quân – Super Accountant. Tranh tài trước hội đồng giám khảo chuyên gia.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Tích hợp kiến thức quản trị kế toán truyền thống với công cụ AI và phân tích dữ liệu trong thời gian ngắn. Các vòng thi sau (Group Interview, Chung kết) yêu cầu tư duy phản biện và khả năng xử lý tình huống thực tế dưới áp lực thời gian.",
+      "common_mistakes": "Chỉ tập trung vào kiến thức lý thuyết mà bỏ qua kỹ năng ứng dụng thực tiễn; quá phụ thuộc vào AI mà thiếu khả năng kiểm chứng và phản biện kết quả; không chuẩn bị kỹ cho vòng phỏng vấn nhóm dẫn đến thiếu đồng điệu trong đội.",
+      "key_success_factors": "Tư duy phản biện kết hợp với khả năng phân tích dữ liệu; hiểu sâu về quản trị kế toán và vai trò của AI; kỹ năng thuyết trình và làm việc nhóm; đạo đức nghề nghiệp vững vàng – đúng tinh thần 'Optimal Fit' giữa AI và con người.",
+      "prep_advice": "Ôn tập nền tảng kế toán quản trị và tài chính doanh nghiệp; làm quen với các công cụ AI phổ biến trong kế toán (Power BI, Excel nâng cao, AI hỗ trợ báo cáo); luyện tập phân tích case study thực tế; rèn kỹ năng thuyết trình và trình bày ý tưởng rõ ràng; chuẩn bị tinh thần cho vòng phỏng vấn nhóm bằng cách tham gia các buổi workshop hoặc thảo luận nhóm."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Ươm tạo & Cơ hội",
+        "Chứng nhận"
+      ],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [
+        "Giải thưởng bao gồm danh hiệu Super Accountant, chứng nhận và cơ hội kết nối chuyên ngành."
+      ],
+      "in_kind": [],
+      "certificate": [
+        "Giải thưởng bao gồm danh hiệu Super Accountant, chứng nhận và cơ hội kết nối chuyên ngành.",
+        "Cuộc thi trao danh hiệu và chứng nhận cho các thí sinh đạt thành tích xuất sắc qua 4 vòng thi."
+      ],
+      "raw_text": "Không được đề cập cụ thể trong các bài đăng. Giải thưởng bao gồm danh hiệu Super Accountant, chứng nhận và cơ hội kết nối chuyên ngành.\nTổng giá trị giải thưởng chưa được công bố. Cuộc thi trao danh hiệu và chứng nhận cho các thí sinh đạt thành tích xuất sắc qua 4 vòng thi."
+    }
+  },
+  {
+    "id": "ebattlefield-2026-tieu-khoi-dai-thanh",
+    "name": "Cuộc thi Thực chiến Kinh doanh E-BATTLEFIELD 2026: Tiểu Khởi – Đại Thành",
+    "season": "E-BattleField Season 4 – Tiểu Khởi – Đại Thành (2026)",
+    "organizer": "Câu lạc bộ Thương mại Điện tử Đại học Kinh tế Quốc dân (NEU E-commerce Club - ECC)",
+    "category": "Thương mại điện tử",
+    "short_description": "Cuộc thi thực chiến kinh doanh xuyên biên giới dành cho sinh viên toàn quốc, tập trung vào thương mại điện tử trong kỷ nguyên AI. E-BattleField 2026 đưa thí sinh qua 5 vòng thi từ đánh giá trực tuyến đến đêm chung kết thực chiến, kiểm tra tư duy chiến lược, khả năng ứng biến và tinh thần đồng đội.",
+    "eligibility": "Sinh viên toàn quốc yêu thích và quan tâm đến Thương mại Điện tử (TMĐT). Không giới hạn năm học hay trường đại học.",
+    "deadline": "2026-09-18",
+    "duration": "Tháng 09/2026 - Tháng 11/2026",
+    "rounds_count": 5,
+    "rounds_description": "Vòng 1 – Đăng ký (06/09–18/09): Nộp đơn đăng ký theo đội hoặc ghép đội. Vòng 2 – Đánh giá trực tuyến Decode (23/09–24/09): Thi đánh giá kiến thức & tư duy trực tuyến. Vòng 3 – Đề án Maneuver (27/09–04/10): Xây dựng và nộp đề án kinh doanh. Vòng 4 – Thực chiến Strike (18/10–08/11): Trình bày và chiến đấu trước ban giám khảo. Vòng 5 – Đêm Chung kết Promote (dự kiến 25/11): Chung kết với phần trình bày cuối cùng và công bố kết quả.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team or Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Chưa được công bố chi tiết trong các bài đăng. Top 20 nhận tiêu chí phụ 'Học tập tốt'; Early Birds (50 đội đầu tiên) nhận tài liệu độc quyền và bài dự thi chung kết E-BattleField 2025.",
+    "prizes_detail": "Top 20: Fill tiêu chí phụ 'Học tập tốt'. Early Birds (50 đội nhanh nhất): Tài liệu tổng hợp kiến thức độc quyền + Bài dự thi Đêm chung kết TOP 4 E-BattleField 2025. Giải thưởng cụ thể cho các vòng và quán quân chưa được công bố chi tiết.",
+    "registration_link": "https://bit.ly/ebf26_tform",
+    "source_url": "https://www.facebook.com/ebattlefield.ecc.neu",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Strategic Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "E-commerce Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Cross-border Commerce Understanding",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Adaptability & Crisis Response",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "AI Literacy in Commerce",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Slide Design & Data Visualization",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Time Management",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Đăng ký – Registration",
+        "date": "2026-09-06 – 2026-09-18",
+        "description": "Nộp đơn đăng ký theo đội qua form chính thức hoặc đăng ký ghép đội qua form riêng. Hạn cuối: 18/09/2026.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Đánh giá trực tuyến – Decode",
+        "date": "2026-09-23 – 2026-09-24",
+        "description": "Thi đánh giá trực tuyến kiểm tra kiến thức nền tảng và tư duy phân tích về TMĐT xuyên biên giới.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Đề án – Maneuver",
+        "date": "2026-09-27 – 2026-10-04",
+        "description": "Xây dựng và nộp đề án kinh doanh chi tiết, vận dụng kiến thức đã được đánh giá ở vòng Decode.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Thực chiến – Strike",
+        "date": "2026-10-18 – 2026-11-08",
+        "description": "Trình bày trước ban giám khảo trong môi trường áp lực cao, thể hiện bản lĩnh thực chiến.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Đêm Chung kết – Promote",
+        "date": "2026-11-25 (dự kiến)",
+        "description": "Đêm chung kết với phần trình bày cuối cùng, công bố quán quân và tổng trao giải.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Cuộc thi đòi hỏi thí sinh phải liên tục thích nghi với đề bài thay đổi qua từng vòng, từ kiến thức nền tảng sang xây dựng đề án thực tế rồi trình bày trước giám khảo. Áp lực về thời gian và yêu cầu tư duy đa chiều (phân tích, chiến lược, sáng tạo, ứng biến) là thử thách lớn nhất.",
+      "common_mistakes": "Chờ đợi đến phút cuối để đăng ký hoặc tìm teammate; chỉ tập trung vào một khía cạnh (ví dụ chỉ kỹ thuật mà bỏ qua chiến lược); không chủ động kết nối và trao đổi trong nhóm trước các vòng thi; đánh giá thấp tầm quan trọng của việc chuẩn bị kiến thức nền tảng về TMĐT xuyên biên giới và AI.",
+      "key_success_factors": "Sự chủ động và tinh thần sẵn sàng học hỏi là chìa khóa quan trọng nhất để bứt phá (theo chia sẻ Top 4 E-BattleField 2025). Khả năng ứng biến trước tình huống bất ngờ, tư duy khác biệt và bản lĩnh chinh phục bài toán không có đáp án duy nhất sẽ tạo nên chiến thắng.",
+      "prep_advice": "Nên chủ động tìm hiểu kiến thức nền tảng về thương mại điện tử xuyên biên giới và AI commerce ngay từ giai đoạn mở đơn. Tận dụng tài liệu Early Birds và bài chia sẻ từ Top 4 mùa trước để nắm bắt kỳ vọng của BTC. Chủ động kết nối teammate sớm thông qua form ghép đội và các nền tảng hỗ trợ (ECOMmunity, Hustly). Phân bổ thời gian ôn luyện đều đặn qua từng vòng thay vì dồn ép cuối kỳ."
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Giải thưởng cụ thể cho các vòng và quán quân chưa được công bố chi tiết."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Chưa được công bố chi tiết trong các bài đăng. Top 20 nhận tiêu chí phụ 'Học tập tốt'; Early Birds (50 đội đầu tiên) nhận tài liệu độc quyền và bài dự thi chung kết E-BattleField 2025.\nTop 20: Fill tiêu chí phụ 'Học tập tốt'. Early Birds (50 đội nhanh nhất): Tài liệu tổng hợp kiến thức độc quyền + Bài dự thi Đêm chung kết TOP 4 E-BattleField 2025. Giải thưởng cụ thể cho các vòng và quán quân chưa được công bố chi tiết."
+    }
+  },
+  {
+    "id": "tai-nang-lanh-dao-2025",
+    "name": "Tài Năng Lãnh Đạo",
+    "season": "2025",
+    "organizer": "CLB DEL HANU",
+    "category": "Quản trị / Lãnh đạo",
+    "short_description": "Cuộc thi mô phỏng quy trình tuyển dụng Management Trainee hàng đầu dành cho tài năng trẻ tiên phong, dám bứt phá về tư duy và năng lực lãnh đạo, do CLB DEL HANU tổ chức với 14 mùa giải thành công.",
+    "eligibility": "Tài năng trẻ tiên phong, dám bứt phá về tư duy và năng lực lãnh đạo",
+    "deadline": "",
+    "duration": "Năm 2025 – Đêm chung kết diễn ra đầu tháng 02/2026",
+    "rounds_count": 3,
+    "rounds_description": "Bao gồm vòng sơ loại (sàng lọc hồ sơ & đánh giá năng lực), vòng bán kết (đào tạo chuyên sâu & đánh giá tổng hợp), và Đêm Chung kết (Grand Finale) với sự giám khảo của hội đồng chuyên gia doanh nghiệp.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Cuộc thi trao 3 danh hiệu cao nhất: Quán quân (Huỳnh Gia Phú – UEH), Á Quân (Đinh Thị Hồng Thắm), Quý Quân (Nguyễn Thị Như Ý). Chi tiết giá trị giải thưởng không được công bố cụ thể trong các bài đăng cung cấp.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/DEL.TNLD",
+    "required_skills": [
+      {
+        "name": "Lãnh đạo & Quản trị",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phân tích & Giải quyết vấn đề",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Giao tiếp & Thuyết trình",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Tư duy chiến lược",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Xử lý tình huống linh hoạt",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Làm việc nhóm",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế bài thuyết trình (Pitch Deck)",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Sơ loại & Đánh giá năng lực",
+        "date": "Cuối năm 2025 (không xác định chính xác)",
+        "description": "Sàng lọc hồ sơ, đánh giá năng lực nền tảng của thí sinh trên toàn quốc",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Bán kết – Đào tạo & Đánh giá tổng hợp",
+        "date": "Đầu năm 2026 (không xác định chính xác)",
+        "description": "Top thí sinh xuất sắc được đào tạo chuyên sâu cùng chuyên gia, sau đó tham gia đánh giá tổng hợp qua các tình huống mô phỏng",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chung kết – Đêm Tài Năng Lãnh Đạo 2025",
+        "date": "2026-02-02",
+        "description": "Đêm chung kết tại Nắng Homestay Hà Nội, nơi 3 thí sinh xuất sắc nhất (Quán quân, Á Quân, Quý Quân) được công bố sau khi vượt qua các thử thách từ Hội đồng Giám khảo",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Xử lý các tình huống thử thách hóc búa từ Hội đồng Giám khảo ngay trên sân khấu chung kết, đòi hỏi sự bình tĩnh, tư duy nhanh và phong thái lãnh đạo đĩnh đạc",
+      "common_mistakes": "Thí sinh thiếu cấu trúc trong cách tiếp cận vấn đề, không trực diện và gãy gọn đủ trong phân tích quản trị; hoặc thiếu tự tin khi trình bày trước hội đồng giám khảo",
+      "key_success_factors": "Phong thái lãnh đạo đĩnh đạc, khả năng xử lý tình huống linh hoạt, năng lực phân tích sắc bén, tư duy chiến lược rõ ràng và sự tự tin trên sân khấu",
+      "prep_advice": "Xây dựng nền tảng tư duy chiến lược vững chắc, luyện tập kỹ năng thuyết trình và xử lý tình huống qua các tình huống mô phỏng thực tế, nghiên cứu案例 các cuộc thi tương tự (B-LEAD, iNext Leader) để hiểu cấu trúc đánh giá, và phát triển khả năng gãy gọn trong phân tích quản trị"
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Cuộc thi trao 3 danh hiệu cao nhất: Quán quân (Huỳnh Gia Phú – UEH), Á Quân (Đinh Thị Hồng Thắm), Quý Quân (Nguyễn Thị Như Ý)."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Cuộc thi trao 3 danh hiệu cao nhất: Quán quân (Huỳnh Gia Phú – UEH), Á Quân (Đinh Thị Hồng Thắm), Quý Quân (Nguyễn Thị Như Ý). Chi tiết giá trị giải thưởng không được công bố cụ thể trong các bài đăng cung cấp."
+    }
+  },
+  {
+    "id": "doanh-nhan-tap-su-2026-actionftu",
+    "name": "Doanh Nhân Tập Sự 2026",
+    "season": "2026",
+    "organizer": "Action Club FTU – Câu lạc bộ Doanh Nhân Tập Sự, Trường Đại học Ngoại thương",
+    "category": "Quản trị kinh doanh (Sales, Marketing, Supply Chain, Finance, Human Resources)",
+    "short_description": "Cuộc thi Doanh Nhân Tập Sự 2026 là sân chơi học thuật và phát triển kỹ năng quản trị hàng đầu dành cho sinh viên đại học tại Việt Nam, với quy mô TOP 40 thí sinh vượt qua nhiều vòng thi chuyên sâu (Warm-up, Phỏng vấn nhóm – cá nhân, Assessment Camp, Đêm Chung kết) cùng sự đồng hành chiến lược của các tập đoàn FMCG hàng đầu như Unilever, P&G, Nestlé, Carlsberg, Suntory PepsiCo, Masan, Colgate-Palmolive, Beiersdorf, Mondelez, Shopee, Deloitte và Adecco. Mùa giải thứ 11 khép lại với hàng loạt workshop, networking và thử thách thực tiễn.",
+    "eligibility": "Sinh viên đại học trên toàn quốc",
+    "deadline": "",
+    "duration": "Tháng 02/2026 – Tháng 09/2026",
+    "rounds_count": 4,
+    "rounds_description": "Cuộc thi gồm 4 vòng chính: (1) Vòng Warm-up – Khởi động với các bài giảng và workshop chuyên môn; (2) Vòng 2: Phỏng vấn Nhóm (Group Interview) và Phỏng vấn Cá nhân (Individual Interview) – Sàng lọc thí sinh năng lực; (3) Vòng 03: Assessment Camp – 3 ngày 2 đêm tại trại thi với các thử thách MTSS, Assessment Day và Networking Night; (4) Vòng Final Night – Đêm chung kết với bài thuyết trình và đánh giá từ hội đồng chuyên gia. TOP 40 thí sinh xuất sắc nhất tiến vào vòng Assessment Camp.",
+    "format": "Hybrid (kết hợp Online và Offline)",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Học bổng từ các nhà tài trợ (Tomorrow Marketers, UNITRAIN, AIM Academy, THALICEDU, OKR Business, Con Đường Thành Công, BRIDGEM, Thiết kế Bộ Sưu Tập Quốc Tế) cùng các giải thưởng từ Nhà tài trợ Vàng (Suntory Pepsico, Carlsberg), Bạc (Beiersdorf, Mondelez) và Đồng (BAT, Perfetti Van Melle, Shopee, Wipro, Colgate-Palmolive)",
+    "prizes_detail": "Học bổng từ 8 đơn vị tài trợ học bổng; Chương trình đào tạo và trải nghiệm thực tế tại các tập đoàn FMCG và tư vấn hàng đầu; Cơ hội kết nối mạng lưới DNTS Alumni và các chuyên gia ngành. Giá trị tiền mặt cụ thể không được công bố trong dữ liệu cung cấp.",
+    "registration_link": "https://clbkynangdoanhnhan.com/dnts-2026",
+    "source_url": "https://www.facebook.com/doanhnhantapsu.actionftu",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Communication & Presentation",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Business Acumen",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Time Management",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Leadership",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Strategic Thinking",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Slide Design & Visual Communication",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Industry Knowledge (FMCG/Retail/Finance)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Warm-up",
+        "date": "Tháng 05–06/2026 (ước tính)",
+        "description": "Khởi động cuộc thi với các bài giảng chuyên môn, workshop và giới thiệu định dạng thi. Có Host, Diễn giả từ Unilever, Avery Dennison hỗ trợ.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Group Interview & Individual Interview",
+        "date": "Tháng 06–07/2026 (ước tính)",
+        "description": "Sàng lọc thí sinh qua phỏng vấn nhóm (đánh giá làm việc nhóm, xử lý tình huống) và phỏng vấn cá nhân (đánh giá năng lực chuyên môn, tiềm năng lãnh đạo). Hội đồng đánh giá gồm đại diện từ Wipro, Mondelez, Beiersdorf, Deloitte, Suntory PepsiCo, Colgate-Palmolive, P&G, Masan, Carlsberg, Adecco,...",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 03: Assessment Camp",
+        "date": "Cuối tháng 07 – đầu tháng 08/2026",
+        "description": "TOP 40 thí sinh tham gia trại thi 3 ngày 2 đêm gồm chuỗi training MTSS, Assessment Day với các thử thách kinh doanh liên hoàn thời gian giới hạn, và Networking Night. Mentor đến từ cựu quán quân/án quân DNTS (2018, 2021, 2022) và đại diện Unilever, FrieslandCampina, Nestlé, HEINEKEN, Shopee, Masan, P&G, Carlsberg, Perfetti Van Melle, Suntory PepsiCo, Deloitte, Mondelez,...",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Final Night",
+        "date": "Tháng 08/2026 (ước tính)",
+        "description": "Đêm chung kết với bài thuyết trình và đánh giá từ hội đồng chuyên gia gồm đại diện Unilever, Nestlé, Suntory PepsiCo, Carlsberg, Perfetti Van Melle, Shopee, Colgate-Palmolive, Masan, Mondelez, Deloitte, P&G, Adecco. Mentor Vòng Final Night: Anh Trần Hồng Phúc & Anh Phạm Hiền Đạt (Deloitte Việt Nam).",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là Assessment Camp – nơi thí sinh phải đối mặt với các bài thử thách kinh doanh liên hoàn trong thời gian giới hạn, đòi hỏi khả năng xử lý vấn đề nhanh, làm việc nhóm hiệu quả dưới áp lực cao và thể hiện tốt trong môi trường chuyên nghiệp với sự đánh giá trực tiếp từ các chuyên gia ngành.",
+      "common_mistakes": "Không có thông tin cụ thể trong dữ liệu cung cấp. Tuy nhiên, dựa trên cấu trúc thi, sai lầm thường gặp gồm: chuẩn bị chưa kỹ cho phỏng vấn cá nhân (không nắm rõ kiến thức ngành), thiếu khả năng phối hợp nhóm trong Group Interview, và không quản lý thời gian tốt trong các thử thách ở Assessment Camp.",
+      "key_success_factors": "Bản lĩnh thí sinh, tinh thần dám nghĩ dám làm, khả năng vận dụng tư duy xử lý vấn đề thực tiễn, kỹ năng thuyết trình tự tin, và khả năng thích ứng nhanh với các tình huống bất ngờ. Sự đồng hành của cựu quán quân/án quân DNTS làm Mentor cũng là yếu tố quan trọng giúp thí sinh học hỏi kinh nghiệm thực tế.",
+      "prep_advice": "Ôn tập kiến thức nền tảng về các lĩnh vực FMCG, Retail, Finance, Marketing, HR, Supply Chain; rèn luyện kỹ năng thuyết trình và xử lý tình huống; tham gia các workshop và training trước cuộc thi; xây dựng tinh thần đồng đội vững chắc; nghiên cứu kỹ về các doanh nghiệp đối tác và định dạng thi từ các mùa trước thông qua cộng đồng DNTS."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Ươm tạo & Cơ hội"
+      ],
+      "cash": [
+        "Giá trị tiền mặt cụ thể không được công bố trong dữ liệu cung cấp."
+      ],
+      "scholarship": [
+        "Học bổng từ các nhà tài trợ (Tomorrow Marketers, UNITRAIN, AIM Academy, THALICEDU, OKR Business, Con Đường Thành Công, BRIDGEM, Thiết kế Bộ Sưu Tập Quốc Tế) cùng các giải thưởng từ Nhà tài trợ Vàng (Suntory Pepsico, Carlsberg), Bạc (Beiersdorf, Mondelez) và Đồng (BAT, Perfetti Van Melle, Shopee, Wipro, Colgate-Palmolive)",
+        "Học bổng từ 8 đơn vị tài trợ học bổng",
+        "Chương trình đào tạo và trải nghiệm thực tế tại các tập đoàn FMCG và tư vấn hàng đầu"
+      ],
+      "opportunity": [
+        "Cơ hội kết nối mạng lưới DNTS Alumni và các chuyên gia ngành."
+      ],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Học bổng từ các nhà tài trợ (Tomorrow Marketers, UNITRAIN, AIM Academy, THALICEDU, OKR Business, Con Đường Thành Công, BRIDGEM, Thiết kế Bộ Sưu Tập Quốc Tế) cùng các giải thưởng từ Nhà tài trợ Vàng (Suntory Pepsico, Carlsberg), Bạc (Beiersdorf, Mondelez) và Đồng (BAT, Perfetti Van Melle, Shopee, Wipro, Colgate-Palmolive)\nHọc bổng từ 8 đơn vị tài trợ học bổng; Chương trình đào tạo và trải nghiệm thực tế tại các tập đoàn FMCG và tư vấn hàng đầu; Cơ hội kết nối mạng lưới DNTS Alumni và các chuyên gia ngành. Giá trị tiền mặt cụ thể không được công bố trong dữ liệu cung cấp."
+    }
+  },
+  {
+    "id": "x-speed-2026-xleader-bacftu",
+    "name": "X-SPEED 2026",
+    "season": "2026",
+    "organizer": "Câu lạc bộ Quản trị kinh doanh - BAC (FTU HCMC)",
+    "category": "Học thuật",
+    "short_description": "X-SPEED 2026 là cuộc thi học thuật về Business Case do Câu lạc bộ Quản trị kinh doanh BAC lần đầu tiên tổ chức, tiếp nối chuỗi thành công của X-LEADER. Cuộc thi mang thông điệp 'Kickstart The Journey', thách thức sinh viên tư duy đột phá và phân tích dữ liệu đa chiều trong các ngành công nghiệp mới.",
+    "eligibility": "Du học sinh; sinh viên đến từ các trường Đại học, Cao đẳng trên toàn quốc (trừ thành viên BAC nhiệm kỳ XVII, ban tổ chức, sinh viên đã tốt nghiệp)",
+    "deadline": "23:59 ngày 08/07/2026",
+    "duration": "Tháng 07/2026 (01/07/2026 - 27/07/2026)",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 - Application Form (01/07 - 08/07/2026): Nộp hồ sơ đăng ký đội thi. Vòng 2 - Business Case (09/07 - 18/07/2026): Phân tích và xử lý tình huống kinh doanh thực tế. Vòng 3 - Final Pitch (19/07 - 27/07/2026): Trình bày và bảo vệ giải pháp trước Ban Giám khảo.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 3,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Giải thưởng chi tiết được công bố qua link thông tin chính thức: https://tinyurl.com/ThongtinX-Speed2026. Cuộc thi miễn phí lệ phí đăng ký.",
+    "registration_link": "https://www.facebook.com/groups/xleadercommunity",
+    "source_url": "https://www.facebook.com/XLeaderBACFTU2",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Business Case Analysis",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Data Analysis (Multi-dimensional)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Market Sensitivity & Research",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation & Pitching",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Strategic & Breakthrough Thinking",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Slide Design",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Application Form",
+        "date": "2026-07-01 - 2026-07-08",
+        "description": "Nộp đơn đăng ký đội thi (tối thiểu 3, tối đa 5 thành viên). Đội chưa đủ thành viên có thể sử dụng nền tảng ghép đội trực tuyến hustly.space.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Business Case",
+        "date": "2026-07-09 - 2026-07-18",
+        "description": "Phân tích tình huống kinh doanh thực tế, vận dụng tư duy đột phá và phân tích dữ liệu đa chiều để đưa ra giải pháp.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Final Pitch",
+        "date": "2026-07-19 - 2026-07-27",
+        "description": "Trình bày và bảo vệ giải pháp trước Ban Giám khảo. Xếp hạng và công bố quán quân X-SPEED 2026.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Cuộc thi đặt ra các tình huống kinh doanh không theo khuôn mẫu truyền thống, đòi hỏi thí sinh thoát khỏi vùng an toàn, ứng dụng tư duy đột phá vào các ngành công nghiệp mới và phân tích dữ liệu đa chiều để nắm bắt cơ hội.",
+      "common_mistakes": "Không có thông tin cụ thể từ BTC về sai lầm phổ biến. Tuy nhiên, do thiếu kinh nghiệm với các case phi truyền thống, các đội mới thường gặp khó trong việc định hướng giải pháp và trình bày chưa đủ thuyết phục.",
+      "key_success_factors": "Tinh thần chiến đấu, tư duy sắc bén, khả năng thích ứng trước các thử thách bất ngờ, và năng lực phân tích dữ liệu đa chiều kết hợp sự nhạy bén với thị trường là những yếu tố quyết định chiến thắng.",
+      "prep_advice": "Xây dựng đội hình đa dạng kỹ năng (phân tích, sáng tạo, trình bày). Luyện tập phân tích case từ nhiều góc độ khác nhau, rèn kỹ năng pitch trước đám đông. Nghiên cứu kỹ các ngành công nghiệp mới và xu hướng thị trường. Sử dụng nền tảng ghép đội hustly.space nếu chưa đủ thành viên."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Giải thưởng chi tiết được công bố qua link thông tin chính thức: https://tinyurl.com/ThongtinX-Speed2026. Cuộc thi miễn phí lệ phí đăng ký."
+    }
+  },
+  {
+    "id": "vietnam-esg-challenge-2026",
+    "name": "Cuộc thi Quản trị Công ty hướng tới Phát triển Bền vững – Vietnam ESG Challenge 2026",
+    "season": "2026",
+    "organizer": "Ủy ban Chứng khoán Nhà nước Việt Nam (SSC/UBCKNN) phối hợp ICAEW Việt Nam",
+    "category": "ESG và Quản trị Công ty",
+    "short_description": "Cuộc thi học thuật quốc gia về ESG và quản trị công ty bền vững, quy tụ sinh viên từ 18 trường đại học trên cả nước, kết hợp đào tạo chuyên sâu, tham quan doanh nghiệp thực tế và vòng chung kết tranh biện kịch tính gắn với cột mốc kỷ niệm 30 năm UBCKNN và Thị trường Chứng khoán Việt Nam.",
+    "eligibility": "Sinh viên các trường đại học trên toàn quốc",
+    "deadline": "",
+    "duration": "Khoảng 07/2026 - 09/2026 (hơn 2 tháng từ khởi động đến chung kết)",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm 3 vòng: Vòng 1 - Ươm Mầm (vòng loại ban đầu), Vòng 2 - Tăng Trưởng (vòng bán kết, chọn ra 90 thí sinh xuất sắc nhất từ 18 trường), Vòng 3 - Bền Vững (vòng Chung kết khu vực, thi đấu tại Hà Nội và TP.HCM).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 5,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải Vô địch – Hội đồng Quản trị Hiệu quả; Giải Nhì – Hội đồng quản trị Thông thái; Giải Ba – Hội đồng quản trị Sáng tạo; Giải Ba – Hội đồng quản trị Đổi mới; Giải Tiềm năng – Hội đồng quản trị Bền vững; Giải thưởng Best Video; Giải thưởng Best Cheering",
+    "prizes_detail": "Vòng Chung kết khu vực Bắc: 1 giải Vô địch (Đội THE GOAT - Greenwich Vietnam), 1 giải Nhì (Đội VINSPIRATION - VinUni), 2 giải Ba (Đội NEURA - NEU; Đội AOF-FINFINITY - AOF), 5 giải Tiềm năng. Vòng Chung kết khu vực Nam: 1 giải Champion (Đội ECOGINE - HCMUT), 1 giải Nhì (Đội ZEENERS - UEH), 2 giải Ba (Đội FTUnlock - FTU; Đội OU Green Up - HCMUS), 5 giải Tiềm năng. Ngoài ra có giải Best Video và Best Cheering cho mỗi khu vực.",
+    "registration_link": null,
+    "source_url": "https://www.facebook.com/icaewvietnam",
+    "required_skills": [
+      {
+        "name": "Kiến thức ESG và Phát triển Bền vững",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Quản trị Công ty và Governance",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tư duy Phản biện và Phân tích",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Hùng biện và Tranh biện",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Thuyết trình và Đóng vai tình huống thực tế",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm và Lãnh đạo",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Phân tích Tài chính và Đầu tư",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thiết kế Slide / Trình bày trực quan",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Ươm Mầm (Vòng loại)",
+        "date": "Khoảng 07/2026",
+        "description": "Vòng thi đầu tiên quy tụ sinh viên từ 18 trường đại học trên cả nước để sàng lọc thí sinh tiềm năng.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Tăng Trưởng (Bán kết)",
+        "date": "Khoảng 08/2026",
+        "description": "Chọn ra 90 thí sinh xuất sắc nhất (5 thí sinh/trường, 18 trường) bước vào vòng chung kết. Bao gồm các buổi đào tạo chuyên sâu và tham quan doanh nghiệp (Deloitte, VinaCapital, HOSE, HNX...).",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Bền Vững (Chung kết) - Khu vực TP.HCM",
+        "date": "2026-09-20",
+        "description": "Vòng chung kết khu vực phía Nam tại Sở Giao dịch Chứng khoán TP.HCM (HOSE) với 9 đội thi tranh tài qua hai phần thi: Xử lý tình huống và tranh biện, Đóng vai trong tình huống thực tế.",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Bền Vững (Chung kết) - Khu vực Hà Nội",
+        "date": "2026-09-22",
+        "description": "Vòng chung kết khu vực phía Bắc tại khách sạn Pan Pacific, Hà Nội với 9 đội thi tranh tài. Đội THE GOAT (Greenwich Vietnam) giành giải Vô địch.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Đối mặt với hai phần thi đòi hỏi bản lĩnh cao: Xử lý tình huống và tranh biện, cùng Đóng vai trong tình huống thực tế. Thí sinh phải vận dụng kiến thức ESG chuyên sâu vào bối cảnh thực tiễn, đồng thời thể hiện tư duy phản biện và khả năng lãnh đạo dưới áp lực thời gian.",
+      "common_mistakes": "Không có thông tin cụ thể từ các bài đăng về sai lầm phổ biến. Tuy nhiên, dựa trên bản chất cuộc thi, thí sinh thường gặp khó khăn khi thiếu kiến thức thực tiễn về ESG, không gắn giải pháp với mô hình kinh doanh thực tế, hoặc chuẩn bị chưa kỹ cho phần tranh biện.",
+      "key_success_factors": "Tư duy phản biện sắc bén, khả năng xử lý tình huống linh hoạt, kiến thức chuyên sâu về ESG và quản trị công ty, kỹ năng tranh biện và thuyết trình tự tin, cùng sự sáng tạo trong cách tiếp cận vấn đề. Như chia sẻ từ chuyên gia CRIF: chọn đúng vấn đề trọng yếu, dùng số liệu có nguồn, gắn với mô hình kinh doanh và trung thực về chi phí.",
+      "prep_advice": "Tham gia các buổi đào tạo chuyên sâu và tham quan doanh nghiệp thực tế (như chuỗi đào tạo tại Deloitte, VinaCapital, HOSE, HNX) để tích lũy kiến thức thực chiến. Ôn tập kiến thức về Bộ nguyên tắc quản trị công ty theo OECD, các tiêu chuẩn ESG quốc tế, và thực hành phân tích tài chính bền vững. Rèn luyện kỹ năng tranh biện và thuyết trình qua các tình huống giả lập."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Giải Nhì – Hội đồng quản trị Thông thái",
+        "Giải Ba – Hội đồng quản trị Sáng tạo",
+        "Giải Ba – Hội đồng quản trị Đổi mới",
+        "Vòng Chung kết khu vực Bắc: 1 giải Vô địch (Đội THE GOAT - Greenwich Vietnam), 1 giải Nhì (Đội VINSPIRATION - VinUni), 2 giải Ba (Đội NEURA - NEU",
+        "Vòng Chung kết khu vực Nam: 1 giải Champion (Đội ECOGINE - HCMUT), 1 giải Nhì (Đội ZEENERS - UEH), 2 giải Ba (Đội FTUnlock - FTU"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Giải Vô địch – Hội đồng Quản trị Hiệu quả; Giải Nhì – Hội đồng quản trị Thông thái; Giải Ba – Hội đồng quản trị Sáng tạo; Giải Ba – Hội đồng quản trị Đổi mới; Giải Tiềm năng – Hội đồng quản trị Bền vững; Giải thưởng Best Video; Giải thưởng Best Cheering\nVòng Chung kết khu vực Bắc: 1 giải Vô địch (Đội THE GOAT - Greenwich Vietnam), 1 giải Nhì (Đội VINSPIRATION - VinUni), 2 giải Ba (Đội NEURA - NEU; Đội AOF-FINFINITY - AOF), 5 giải Tiềm năng. Vòng Chung kết khu vực Nam: 1 giải Champion (Đội ECOGINE - HCMUT), 1 giải Nhì (Đội ZEENERS - UEH), 2 giải Ba (Đội FTUnlock - FTU; Đội OU Green Up - HCMUS), 5 giải Tiềm năng. Ngoài ra có giải Best Video và Best Cheering cho mỗi khu vực."
+    }
+  },
+  {
+    "id": "stockwise-2026",
+    "name": "STOCKWISE 2026",
+    "season": "2026",
+    "organizer": "CLB Chứng khoán Học viện Ngoại giao (DSC) phối hợp cùng kNowHow Career Hub",
+    "category": "Tài chính - Chứng khoán",
+    "short_description": "Cuộc thi tài chính - chứng khoán dành cho sinh viên đại học, cao đẳng toàn quốc, gồm 5 vòng thi từ trắc nghiệm online đến thuyết trình nhóm và chung kết, với sự đồng hành của chuyên gia ngành và hệ thống giải thưởng giá trị.",
+    "eligibility": "Sinh viên trong độ tuổi từ 18 - 22 đang theo học tại các trường Đại học, Cao đẳng trên toàn quốc có niềm đam mê với lĩnh vực Tài chính - Chứng khoán và các thí sinh chưa từng tham dự đến vòng Chung kết STOCKWISE ở các mùa trước",
+    "deadline": "23h59' ngày 28/08/2026",
+    "duration": "2026-08-05 - 2026-11-01",
+    "rounds_count": 5,
+    "rounds_description": "Vòng 1 - Gate of Echoes (Thi online trên nền tảng JobOKO); Vòng 2 - Hall of Verdict (Kiểm tra giấy 90 phút, 33 câu hỏi tại Học viện Ngoại giao); Vòng 3 - Prime Union (Thuyết trình nhóm); Vòng 4 - Reign Summit (Thuyết trình cá nhân - Bán kết); Vòng 5 - Shatter to Reign (Chung kết).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 3,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Top 40: Voucher giảm 55% học phí Net English/Net HSK (5.500.000đ), voucher giảm 80% Retudy (1.600.000đ), voucher giảm 80% MCNA Technology Combo Power BI (1.920.000đ), voucher giảm 70% MCNA Technology (840.000đ), voucher CFA Online (500.000đ), suất học MOS miễn phí 10Education (300.000đ). Top 350: Voucher giảm 55% Net English/Net HSK (5.500.000đ), voucher giảm 80% Retudy (1.600.000đ).",
+    "prizes_detail": "Top 40: Voucher giảm 55% Net English/Net HSK (5.500.000đ), voucher giảm 80% Retudy (1.600.000đ), voucher giảm 80% MCNA Technology Combo Power BI (1.920.000đ), voucher giảm 70% MCNA khóa đơn (840.000đ), voucher CFA Online (500.000đ), suất học MOS miễn phí 10Education (300.000đ). Top 350: Voucher Net English/Net HSK (5.500.000đ), voucher Retudy (1.600.000đ). Ngoài ra: 3-5 điểm SHCĐ cho sinh viên Học viện Ngoại giao, cơ hội thực tập và nhận 3-5 điểm SHCĐ.",
+    "registration_link": "https://bit.ly/3RwwfuF",
+    "source_url": "https://www.facebook.com/stockwise.dscdav",
+    "required_skills": [
+      {
+        "name": "Phân tích tài chính & Đầu tư",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kiến thức Chứng khoán & Thị trường tài chính",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Giải quyết vấn đề (Problem Solving)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Tư duy chiến lược (Strategic Thinking)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng tính toán & Xử lý số liệu",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Quản lý thời gian (Time Management)",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thuyết trình & Hùng biện",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Thiết kế Slide / Trình bày chuyên nghiệp",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Gate of Echoes",
+        "date": "2026-08-05 - 2026-08-26",
+        "description": "Vòng thi online trên nền tảng JobOKO. Hơn 850 đơn dự thi được gửi về. Thí sinh hoàn thành bài thi online để giành vé vào vòng 2.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Hall of Verdict",
+        "date": "2026-09-06",
+        "description": "Vòng kiểm tra giấy 90 phút gồm 33 câu hỏi (30 trắc nghiệm + 3 tự luận), 100 điểm, tại Học viện Ngoại giao. Chọn ra Top 40 thí sinh xuất sắc nhất. Có thể tham dự trực tuyến nếu không thể đến trực tiếp.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Prime Union",
+        "date": "2026-09-11 - 2026-09-27",
+        "description": "Vòng thuyết trình nhóm. Top 40 chia đội nhóm để trình bày bài phân tích tài chính/chứng khoán chuyên sâu.",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 4: Reign Summit",
+        "date": "2026-10-01 - 2026-10-11",
+        "description": "Vòng Bán kết - Thuyết trình cá nhân. Các thí sinh xuất sắc nhất từ Vòng 3 tranh tài cá nhân.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng 5: Shatter to Reign",
+        "date": "2026-11-01",
+        "description": "Vòng Chung kết. Trao giải quán quân và tổng kết mùa thi STOCKWISE 2026.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Sự chuyển đổi từ hình thức thi online (Vòng 1) sang kiểm tra giấy trực tiếp (Vòng 2) với áp lực thời gian 90 phút cho 33 câu hỏi, kết hợp phần trắc nghiệm và tự luận. Vòng 3 đòi hỏi khả năng thuyết trình nhóm và phân tích case study tài chính thực tế, yêu cầu kỹ năng làm việc nhóm và trình bày chuyên nghiệp.",
+      "common_mistakes": "Trì hoãn đăng ký dẫn đến bỏ lỡ deadline (BTC đã phải gia hạn do nhu cầu cao); đánh giá thấp độ sâu kiến thức yêu cầu ở Vòng 2; không chuẩn bị kỹ cho cả phần trắc nghiệm lẫn tự luận; thiếu chiến thuật quản lý thời gian trong bài thi 90 phút.",
+      "key_success_factors": "Nền tảng kiến thức tài chính - chứng khoán vững chắc, tư duy phân tích sắc bén, khả năng xử lý tình huống và ra quyết định dưới áp lực thời gian. Kỹ năng thuyết trình và trình bày luận điểm logic ở các vòng sau. Đồng hành cùng các buổi training & workshop chuyên môn (kNowHow, chuyên gia ngành).",
+      "prep_advice": "1) Tham gia các buổi Training & Workshop do BTC tổ chức (ví dụ: Training 1 với chuyên gia Mẫn Hưng từ kNowHow) để hệ thống hóa kiến thức cốt lõi và chiến thuật làm bài. 2) Luyện tập với case study thực tế, rèn kỹ năng phân tích cổ phiếu đa ngành và đánh giá hiệu suất so với VN-Index. 3) Quản lý thời gian chặt chẽ, đặc biệt ở Vòng 2 (90 phút/33 câu). 4) Chuẩn bị tinh thần cho sự chuyển đổi format từ online sang giấy sang thuyết trình. 5) Theo dõi thường xuyên email và Fanpage để không bỏ lỡ thông báo kết quả và hướng dẫn từng vòng."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Hiện vật & Cúp"
+      ],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Top 40: Voucher giảm 55% học phí Net English/Net HSK (5.500.000đ), voucher giảm 80% Retudy (1.600.000đ), voucher giảm 80% MCNA Technology Combo Power BI (1.920.000đ), voucher giảm 70% MCNA Technology (840.000đ), voucher CFA Online (500.000đ), suất học MOS miễn phí 10Education (300.000đ).",
+        "Top 350: Voucher giảm 55% Net English/Net HSK (5.500.000đ), voucher giảm 80% Retudy (1.600.000đ).",
+        "Top 40: Voucher giảm 55% Net English/Net HSK (5.500.000đ), voucher giảm 80% Retudy (1.600.000đ), voucher giảm 80% MCNA Technology Combo Power BI (1.920.000đ), voucher giảm 70% MCNA khóa đơn (840.000đ), voucher CFA Online (500.000đ), suất học MOS miễn phí 10Education (300.000đ).",
+        "Top 350: Voucher Net English/Net HSK (5.500.000đ), voucher Retudy (1.600.000đ)."
+      ],
+      "certificate": [],
+      "raw_text": "Top 40: Voucher giảm 55% học phí Net English/Net HSK (5.500.000đ), voucher giảm 80% Retudy (1.600.000đ), voucher giảm 80% MCNA Technology Combo Power BI (1.920.000đ), voucher giảm 70% MCNA Technology (840.000đ), voucher CFA Online (500.000đ), suất học MOS miễn phí 10Education (300.000đ). Top 350: Voucher giảm 55% Net English/Net HSK (5.500.000đ), voucher giảm 80% Retudy (1.600.000đ).\nTop 40: Voucher giảm 55% Net English/Net HSK (5.500.000đ), voucher giảm 80% Retudy (1.600.000đ), voucher giảm 80% MCNA Technology Combo Power BI (1.920.000đ), voucher giảm 70% MCNA khóa đơn (840.000đ), voucher CFA Online (500.000đ), suất học MOS miễn phí 10Education (300.000đ). Top 350: Voucher Net English/Net HSK (5.500.000đ), voucher Retudy (1.600.000đ). Ngoài ra: 3-5 điểm SHCĐ cho sinh viên Học viện Ngoại giao, cơ hội thực tập và nhận 3-5 điểm SHCĐ."
+    }
+  },
+  {
+    "id": "go-finance-2025",
+    "name": "Cuộc thi Go Finance 2025",
+    "season": "Mùa thứ 11",
+    "organizer": "CLB Chứng khoán Sinh viên SSC – Đại học Kinh tế Quốc dân (đồng tổ chức bởi Ủy ban Chứng khoán Nhà nước và các công ty tài chính hàng đầu)",
+    "category": "Kinh tế – Tài chính – Chứng khoán",
+    "short_description": "Cuộc thi học thuật toàn quốc dành cho sinh viên chuyên ngành Tài chính – Chứng khoán, kết hợp phân tích case, thử thách số liệu và thuyết trình trước ban giám khảo gồm các chuyên gia trong ngành.",
+    "eligibility": "Sinh viên có đam mê với lĩnh vực Tài chính – Chứng khoán",
+    "deadline": "",
+    "duration": "Tháng 07/2025 - Tháng 11/2025",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Mở đơn & Nộp bài luận (tháng 07/2025); Vòng 2: Vòng Play‑off & Thuyết trình (tháng 09/2025); Vòng 3: Đêm Chung kết The Vision Beyond (20/10/2025).",
+    "format": "Online (vòng 1 & 2) và Offline (vòng chung kết)",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Intermediate to Advanced",
+    "grand_prize": "",
+    "prizes_detail": "Quán quân: 30 triệu + học bổng 12 triệu; Á quân: 20 triệu + học bổng 8 triệu; Top 3: 10 triệu + học bổng 5 triệu; Top 5: 3 triệu + học bổng 2 triệu.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/cuocthigofinance",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Financial Analysis",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation & Public Speaking",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Excel & Data Modeling",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Time Management",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Nộp bài luận",
+        "date": "2025-07-01",
+        "description": "Thí sinh nộp bài luận cá nhân và hồ sơ dự thi trực tuyến.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Vòng Play‑off & Thuyết trình",
+        "date": "2025-09-15",
+        "description": "Vòng loại trực tiếp – thí sinh trình bày case trước ban giám khảo và trả lời câu hỏi.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Đêm Chung kết The Vision Beyond",
+        "date": "2025-10-20",
+        "description": "Tranh tài trực tiếp tại đêm gala, giành ngôi vị Quán quân.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Cân bằng chiều sâu phân tích tài chính với áp lực thời gian trong các bài thuyết trình trực tiếp.",
+      "common_mistakes": "Sử dụng mẫu bài luận chung chung, thiếu thông tin chuyên sâu dựa trên dữ liệu, quản lý thời gian kém.",
+      "key_success_factors": "Kể chuyện rõ ràng, lập luận định lượng mạnh mẽ, phong thái tự tin khi thuyết trình, liên tục tích hợp phản hồi.",
+      "prep_advice": "Bắt đầu với các bài tập case study thực tế, tham gia các workshop chuyên ngành, ôn tập đề thi các năm trước, thực hành mô hình Excel, tham gia nhóm học tập để luyện kỹ năng thuyết trình."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng"
+      ],
+      "cash": [
+        "Quán quân: 30 triệu",
+        "Á quân: 20 triệu",
+        "Top 3: 10 triệu",
+        "Top 5: 3 triệu"
+      ],
+      "scholarship": [
+        "học bổng 12 triệu",
+        "học bổng 8 triệu",
+        "học bổng 5 triệu",
+        "học bổng 2 triệu."
+      ],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Quán quân: 30 triệu + học bổng 12 triệu; Á quân: 20 triệu + học bổng 8 triệu; Top 3: 10 triệu + học bổng 5 triệu; Top 5: 3 triệu + học bổng 2 triệu."
+    }
+  },
+  {
+    "id": "vietnam-finance-case-competition-2026-aof",
+    "name": "Vietnam Finance Case Competition 2026 - AOF",
+    "season": "2026",
+    "organizer": "Vietnam Finance Association International (VFAI)",
+    "category": "Finance, Investment, Accounting, Auditing",
+    "short_description": "Vietnam Finance Case Competition 2026 (VFCC 2026) is a national English‑language business case competition for university students, focusing on M&A, corporate valuation and transaction advisory. It features a school‑level preliminary round at the Academy of Finance followed by a four‑stage national finale with training workshops and networking with global finance experts.",
+    "eligibility": "Year 3-4 students of Học viện Tài chính",
+    "deadline": "12/09/2026 12:00",
+    "duration": "September 2026 – December 2026",
+    "rounds_count": 7,
+    "rounds_description": "School‑level preliminary: (1) Offline test, (2) teamwork case. National round: (3) Launch, (4) Training workshops, (5) Written screening, (6) National finale.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Intermediate",
+    "grand_prize": "Academic badges for full offline participation, certificates for top representatives, networking with professors/investors, mentorship from HVTC trainers.",
+    "prizes_detail": "Total prize pool not disclosed in the available posts.",
+    "registration_link": "https://sukien.hvtc.edu.vn/su-kien/viet-nam-finance-case-competition-aof",
+    "source_url": "https://www.facebook.com/vfcc.aof",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Financial Analysis & Valuation",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "M&A Knowledge",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Time Management",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Registration Open",
+        "date": "2026-09-06",
+        "description": "Submit registration form via the official link to secure a spot in VFCC 2026.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Offline Test (School Round)",
+        "date": "2026-09-09",
+        "description": "30‑minute minitest covering Finance, Investment, and Analysis topics.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Teamwork Case (School Round)",
+        "date": "2026-09-12",
+        "description": "Solve a mini case as a 4‑member team, present findings and defend solutions.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Launch (National Round)",
+        "date": "2026-09-??",
+        "description": "Orientation session introducing competition guidelines, case themes, and judging criteria.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Training Workshops (National Round)",
+        "date": "2026-10-??",
+        "description": "Professional workshops on M&A, valuation techniques, and presentation skills.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 6,
+        "name": "Written Screening (National Round)",
+        "date": "2026-11-??",
+        "description": "Submit written case solutions for preliminary evaluation.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 7,
+        "name": "National Finale",
+        "date": "2026-12-18",
+        "description": "Final presentations and live judging by a panel of finance experts.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Balancing depth of financial analysis with the tight time constraints of each case round.",
+      "common_mistakes": "Relying solely on theory without real‑world data; poor division of tasks within the team leading to duplicated effort.",
+      "key_success_factors": "Strong valuation modeling, clear communication of insights, and coordinated teamwork.",
+      "prep_advice": "Practice mini‑cases weekly, join study groups focusing on M&A scenarios, review past competition cases, and develop concise slide decks for presentations."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Chứng nhận"
+      ],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [
+        "Academic badges for full offline participation, certificates for top representatives, networking with professors/investors, mentorship from HVTC trainers."
+      ],
+      "raw_text": "Academic badges for full offline participation, certificates for top representatives, networking with professors/investors, mentorship from HVTC trainers.\nTotal prize pool not disclosed in the available posts."
+    }
+  },
+  {
+    "id": "phân-tích-đầu-tư-tài-chính-2025",
+    "name": "Cuộc thi Phân tích Đầu tư Tài chính",
+    "season": "2025",
+    "organizer": "Khoa Tài chính Doanh nghiệp, Học viện Tài chính (phối hợp cùng Liên chi đoàn Khoa, Bộ môn Phân tích Tài chính và Công ty CP Chứng khoán MB - MBS)",
+    "category": "Tài chính",
+    "short_description": "Cuộc thi thường niên về Phân tích và Đầu tư Tài chính dành cho sinh viên các trường khối ngành Kinh tế, nhằm nâng cao khả năng sử dụng công cụ phân tích định tính và định lượng, với tổng giá trị giải thưởng gần 400 triệu đồng và sự đồng hành của các đơn vị truyền thông, bảo trợ uy tín.",
+    "eligibility": "Sinh viên đang học tập tại các trường đại học, khối ngành Kinh tế, có niềm đam mê trong lĩnh vực Phân tích và Đầu tư Tài chính",
+    "deadline": "Không được đề cập trong các bài đăng cung cấp",
+    "duration": "Không được xác định đầy đủ trong các bài đăng cung cấp; Chung kết diễn ra ngày 21/11/2025",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm nhiều vòng thi (vòng sơ khảo và các vòng tiếp theo) dẫn đến vòng Chung kết với 4 đội thi xuất sắc nhất. Vòng Chung kết gồm 3 phần thi nhằm đánh giá kiến thức cơ bản, toàn diện và hệ thống về khoa học Tài chính - Ngân hàng, kiến thức chuyên sâu về Phân tích tài chính, khả năng sáng tạo, kỹ năng thuyết trình và tinh thần đồng đội.",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Intermediate",
+    "grand_prize": "Tổng giá trị giải thưởng gần 400 triệu đồng, bao gồm tiền mặt, hiện vật, suất học bổng danh giá và cơ hội thực tập từ các đơn vị tài trợ",
+    "prizes_detail": "Cơ cấu giải thưởng lên đến hơn 400 triệu đồng, bao gồm giá trị tiền mặt, hiện vật, suất học bổng danh giá và cơ hội thực tập đến từ các đơn vị tài trợ (MB Securities, IDA Coaching Center, PVcomBank, VNTravel Group, v.v.).",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/phantichdaututaichinh/",
+    "required_skills": [
+      {
+        "name": "Phân tích Tài chính (Financial Analysis)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phân tích Đầu tư (Investment Analysis)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Sử dụng công cụ phân tích định lượng",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Phân tích dữ liệu (Data Analysis)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng thuyết trình (Presentation Skills)",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy chiến lược",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm (Teamwork)",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kiến thức Tài chính - Ngân hàng",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kỹ năng sáng tạo",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Nghiên cứu ngành và cổ phiếu",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng sơ khảo & Các vòng loại",
+        "date": "Không được xác định cụ thể",
+        "description": "Các vòng thi đầu tiên nhằm筛选 các đội thi xuất sắc, nội dung chi tiết không được đề cập trong các bài đăng cung cấp",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng bán kết",
+        "date": "Không được xác định cụ thể",
+        "description": "Vòng thi trung gian chọn ra 4 đội thi xuất sắc nhất bước vào Chung kết",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết",
+        "date": "2025-11-21",
+        "description": "4 đội thi xuất sắc nhất tranh tài tại Hội trường 700, Học viện Tài chính, gồm 3 phần thi đánh giá kiến thức Tài chính - Ngân hàng, Phân tích tài chính chuyên sâu, khả năng sáng tạo, thuyết trình và tinh thần đồng đội. Ban giám khảo gồm TS. Nguyễn Hữu Tân (CFA, Học viện Tài chính), Anh Nguyễn Minh Đức (MBS), Chị Phạm Phương Thảo (CFA, IDA Coaching), Anh Nguyễn Kim Quang (PVcomBank), Anh Phạm Trung Đức (VNTravel Group).",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Phải sử dụng thành thạo các công cụ phân tích định tính và định lượng để đáp ứng yêu cầu nghề nghiệp thực tế, đồng thời phải thể hiện tốt kỹ năng thuyết trình và tinh thần đồng đội trên sân khấu Chung kết.",
+      "common_mistakes": "Không được đề cập cụ thể trong các bài đăng cung cấp.",
+      "key_success_factors": "Khả năng vận dụng kiến thức chuyên ngành vào thực tế, tư duy phân tích sắc sảo, kỹ năng thuyết trình ấn tượng, tinh thần đồng đội vững chắc và sự sáng tạo trong cách tiếp cận case study.",
+      "prep_advice": "Nắm vững kiến thức cơ bản và chuyên sâu về Tài chính - Ngân hàng, luyện tập sử dụng thành thạo các công cụ phân tích định tính và định lượng, rèn luyện kỹ năng thuyết trình và làm việc nhóm, đồng thời cập nhật kiến thức từ các chuyên gia phân tích thực thụ thông qua các đơn vị bảo trợ và ban giám khảo của cuộc thi."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Học bổng",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [],
+      "scholarship": [
+        "Tổng giá trị giải thưởng gần 400 triệu đồng, bao gồm tiền mặt, hiện vật, suất học bổng danh giá và cơ hội thực tập từ các đơn vị tài trợ",
+        "Cơ cấu giải thưởng lên đến hơn 400 triệu đồng, bao gồm giá trị tiền mặt, hiện vật, suất học bổng danh giá và cơ hội thực tập đến từ các đơn vị tài trợ (MB Securities, IDA Coaching Center, PVcomBank, VNTravel Group, v.v.)."
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "Tổng giá trị giải thưởng gần 400 triệu đồng, bao gồm tiền mặt, hiện vật, suất học bổng danh giá và cơ hội thực tập từ các đơn vị tài trợ",
+        "Cơ cấu giải thưởng lên đến hơn 400 triệu đồng, bao gồm giá trị tiền mặt, hiện vật, suất học bổng danh giá và cơ hội thực tập đến từ các đơn vị tài trợ (MB Securities, IDA Coaching Center, PVcomBank, VNTravel Group, v.v.)."
+      ],
+      "certificate": [],
+      "raw_text": "Tổng giá trị giải thưởng gần 400 triệu đồng, bao gồm tiền mặt, hiện vật, suất học bổng danh giá và cơ hội thực tập từ các đơn vị tài trợ\nCơ cấu giải thưởng lên đến hơn 400 triệu đồng, bao gồm giá trị tiền mặt, hiện vật, suất học bổng danh giá và cơ hội thực tập đến từ các đơn vị tài trợ (MB Securities, IDA Coaching Center, PVcomBank, VNTravel Group, v.v.)."
+    }
+  },
+  {
+    "id": "i-invest-2026-trendx",
+    "name": "Cuộc thi I-INVEST! 2026 - THE FINAL: I-SHINE!",
+    "season": "I-INVEST! 2026 (Mùa giải thứ 17)",
+    "organizer": "CLB Chứng khoán SIC - Trường Đại học Ngoại Thương",
+    "category": "Tài chính",
+    "short_description": "Cuộc thi Tài chính - Chứng khoán lớn nhất toàn quốc dành cho sinh viên, trải qua 17 mùa giải với sự đồng hành của hàng nghìn thí sinh và các đơn vị bảo trợ chuyên môn hàng đầu. Mùa giải thứ 17 diễn ra trong 4 tháng với nhiều vòng thi thử thách, khép lại bằng Đêm Gala Chung kết THE FINAL: I-SHINE! tại Nhà hát Quân đội.",
+    "eligibility": "Sinh viên trên toàn quốc (không giới hạn trường, năm học)",
+    "deadline": "Không xác định từ dữ liệu cung cấp (cuộc thi đã kết thúc)",
+    "duration": "Tháng 02/2026 - Tháng 06/2026 (xấp xỉ 4 tháng)",
+    "rounds_count": 4,
+    "rounds_description": "Cuộc thi gồm nhiều vòng thi trải dài trong 4 tháng, culminating tại Đêm Gala Chung kết THE FINAL: I-SHINE! với 5 gương mặt xuất sắc nhất tranh tài tại Nhà hát Quân đội. Cơ cấu chi tiết các vòng không được nêu rõ trong các bài đăng recap.",
+    "format": "Offline (Chung kết tại Nhà hát Quân đội) / Online (các vòng trước có thể kết hợp)",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team hoặc Individual (không xác định rõ từ dữ liệu)"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Gói giải thưởng tổng trị giá 180.750.000 VNĐ cho Quán quân Tạ Đức Minh, bao gồm: 15.000.000 VNĐ tiền mặt, suất thực tập tại VCBS, suất thực tập tại TVS, suất thực tập tại VCI, và học bổng khóa học + giải thưởng hiện vật trị giá 165.750.000 VNĐ.",
+    "prizes_detail": "Quán quân: 180.750.000 VNĐ (tiền mặt 15M + 3 suất thực tập + học bổng/hiện vật 165.75M). Các giải khác: Không nêu chi tiết trong dữ liệu cung cấp.",
+    "registration_link": "https://sicftu-iinvest.com/",
+    "source_url": "https://www.facebook.com/iinvest.sic",
+    "required_skills": [
+      {
+        "name": "Phân tích tài chính",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kiến thức Chứng khoán & Thị trường tài chính",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tư duy phân tích sắc bén",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng trình bày & Hùng biện",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Data Analysis",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Quản lý rủi ro",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng sơ khảo & Mở đơn",
+        "date": "Tháng 02/2026",
+        "description": "Không xác định chi tiết từ dữ liệu cung cấp",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng loại",
+        "date": "Tháng 03/2026",
+        "description": "Không xác định chi tiết từ dữ liệu cung cấp",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng bán kết",
+        "date": "Tháng 04-05/2026",
+        "description": "Không xác định chi tiết từ dữ liệu cung cấp",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Chung kết - THE FINAL: I-SHINE!",
+        "date": "2026-06-06",
+        "description": "Đêm Gala Chung kết tại Nhà hát Quân đội, tranh tài giữa 5 gương mặt xuất sắc nhất. Quán quân: Tạ Đức Minh - Trường Đại học Ngoại Thương Cơ sở I.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Đòi hỏi kiến thức chuyên sâu về tài chính - chứng khoán kết hợp khả năng phân tích sắc bén và trình bày tự tin trước ban giám khảo. Cuộc thi kéo dài 4 tháng với nhiều vòng thi, đòi hỏi sự kiên trì và học hỏi liên tục.",
+      "common_mistakes": "Không có thông tin cụ thể từ dữ liệu cung cấp. Tuy nhiên, dựa trên bản chất cuộc thi, sai lầm thường gặp có thể bao gồm: thiếu cập nhật thông tin thị trường, chuẩn bị hồ sơ không kỹ lưỡng, và không phân bổ thời gian ôn tập hợp lý qua các vòng.",
+      "key_success_factors": "Nền tảng kiến thức vững chắc, tư duy phân tích sắc bén, phong thái tự tin và bản lĩnh, khả năng thích nghi, tinh thần học hỏi và khát vọng vươn lên. (Dựa trên đánh giá của BTC về Quán quân Tạ Đức Minh).",
+      "prep_advice": "Nên ôn tập kiến thức tài chính - chứng khoán nền tảng, theo dõi sát diễn biến thị trường, rèn luyện kỹ năng trình bày và thuyết trình, đồng thời xây dựng tinh thần đồng đội vững chắc. Khai thác tối đa các nguồn tài nguyên từ đơn vị bảo trợ chuyên môn (Khoa Tài chính - Ngân hàng FTU) và các nhà tài trợ."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "giải thưởng hiện vật trị giá 165.750.000 VNĐ.",
+        "Quán quân: 180.750.000 VNĐ (tiền mặt 15M"
+      ],
+      "scholarship": [
+        "Gói giải thưởng tổng trị giá 180.750.000 VNĐ cho Quán quân Tạ Đức Minh, bao gồm: 15.000.000 VNĐ tiền mặt, suất thực tập tại VCBS, suất thực tập tại TVS, suất thực tập tại VCI, và học bổng khóa học",
+        "học bổng/hiện vật 165.75M)."
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "giải thưởng hiện vật trị giá 165.750.000 VNĐ.",
+        "học bổng/hiện vật 165.75M)."
+      ],
+      "certificate": [],
+      "raw_text": "Gói giải thưởng tổng trị giá 180.750.000 VNĐ cho Quán quân Tạ Đức Minh, bao gồm: 15.000.000 VNĐ tiền mặt, suất thực tập tại VCBS, suất thực tập tại TVS, suất thực tập tại VCI, và học bổng khóa học + giải thưởng hiện vật trị giá 165.750.000 VNĐ.\nQuán quân: 180.750.000 VNĐ (tiền mặt 15M + 3 suất thực tập + học bổng/hiện vật 165.75M). Các giải khác: Không nêu chi tiết trong dữ liệu cung cấp."
+    }
+  },
+  {
+    "id": "ban-linh-nha-dau-tu-the-lost-throne-2025",
+    "name": "Bản lĩnh Nhà đầu tư",
+    "season": "The Lost Throne 2025",
+    "organizer": "CLB Chứng khoán SEC - Học viện Ngân hàng",
+    "category": "Tài chính",
+    "short_description": "Cuộc thi hàng đầu dành cho sinh viên trên toàn quốc đam mê lĩnh vực Tài chính - Chứng khoán, với 5 vòng thi từ test online đến thuyết trình danh mục, tổng giải thưởng hơn 400 triệu đồng.",
+    "eligibility": "Sinh viên trên toàn quốc có niềm đam mê với lĩnh vực Tài chính - Chứng khoán",
+    "deadline": "2025-11-14T23:59:00",
+    "duration": "Tháng 10/2025 - Tháng 01/2026",
+    "rounds_count": 5,
+    "rounds_description": "Vòng 1: Test Online (trắc nghiệm + tự luận); Vòng 2: Test Sơ Loại (thi trên giấy, trắc nghiệm + tự luận, 100 điểm/60 phút); Vòng 3: Thử thách chuyên sâu; Vòng 4: Thuyết trình danh mục; Vòng 5: Chung kết",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "100,400,000 VND (Giải Nhất) + cơ hội vinh danh và trải nghiệm thực tế",
+    "prizes_detail": "Tổng giải thưởng trị giá hơn 400 triệu đồng: Giải Nhất 100,400,000 VND; Giải Nhì 75,800,000 VND; Giải Ba 67,000,000 VND; 02 giải khuyến khích mỗi giải 61,300,000 VND",
+    "registration_link": "https://landing.banlinhnhadautu.com/",
+    "source_url": "https://www.facebook.com/banlinhnhadautu.sec",
+    "required_skills": [
+      {
+        "name": "Kiến thức Tài chính - Chứng khoán",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phân tích và tư duy logic",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kiến thức Kinh tế vĩ mô & vi mô",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Quản lý thời gian",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kỹ năng làm bài thi dưới áp lực",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Test Online",
+        "date": "2025-10-31 - 2025-11-14",
+        "description": "Bài thi online gồm phần trắc nghiệm và tự luận về Kinh tế - Tài chính - Chứng khoán. Deadline đăng ký được gia hạn đến 23h59 ngày 14/11/2025.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Test Sơ Loại",
+        "date": "2025-11-16",
+        "description": "Thi trên giấy gồm 2 phần: Trắc nghiệm (25 câu, 50 điểm) và Tự luận (50 điểm), tổng 100 điểm, thời gian 60 phút. Top 50 thí sinh có điểm cao nhất tiến vào Vòng 3. Địa điểm: Hà Nội thi trực tiếp tại Tầng 7-8 tòa D2 Học viện Ngân hàng; ngoài Hà Nội thi qua Zoom.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Thử thách chuyên sâu",
+        "date": "2025-11-19 - 2025-11-30",
+        "description": "Vòng thi thử thách chuyên sâu dành cho Top 50 thí sinh, bao gồm buổi training đặc biệt 'The Guiding Mentor' với diễn giả khách mời Nguyễn Minh Khôi (Trưởng phòng Phân tích, MoneyGain).",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 4: Thuyết trình danh mục",
+        "date": "2025-12-01 - 2026-01-11",
+        "description": "Thuyết trình danh mục đầu tư trước hội đồng giám khảo.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng 5: Chung kết",
+        "date": "2026-01-28",
+        "description": "Chung kết - vòng đấu danh giá quyết định Ngai vàng Bản lĩnh Nhà đầu tư 2025.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Vòng 2 (Test Sơ Loại) là rào cản lớn nhất khi chỉ Top 50/ hàng nghìn thí sinh được tiếp tục, với bài thi 100 điểm/60 phút đòi hỏi cả kiến thức lẫn tốc độ. Vòng 3 còn thử thách thêm khả năng chịu áp lực và tư duy chiến lược trước biến động thị trường.",
+      "common_mistakes": "Không kiểm tra kỹ email (bao gồm Promotions, Spam) sau Vòng 1 dẫn đến bỏ lỡ thông tin quan trọng; không chuẩn bị tâm lý cho sự chuyển đổi từ thi online sang thi trực tiếp/Zoom ở Vòng 2; chủ quan với phần tự luận vì yêu cầu tư duy phân tích sâu hơn trắc nghiệm.",
+      "key_success_factors": "Nền tảng kiến thức Tài chính - Chứng khoán - Kinh tế vững chắc; khả năng phân tích và tư duy logic nhanh; sự kiên định tinh thần trước áp lực thời gian và cạnh tranh gay gắt; kỹ năng quản lý cảm xúc khi đối mặt với thử thách.",
+      "prep_advice": "Ôn tập tổng hợp kiến thức Kinh tế vĩ mô, vi mô, Tài chính doanh nghiệp và Chứng khoán; luyện làm bài thi dạng trắc nghiệm có giới hạn thời gian (25 câu/60 phút); rèn kỹ năng tự luận phân tích bằng cách đọc các case study thực tế; theo dõi sát thông báo từ Fanpage và email để không bỏ lỡ bất kỳ cập nhật nào."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        ",400,000 VND (Giải Nhất)",
+        "Tổng giải thưởng trị giá hơn 400 triệu đồng: Giải Nhất 100,400,000 VND",
+        "Giải Nhì 75,800,000 VND",
+        "Giải Ba 67,000,000 VND",
+        "giải khuyến khích mỗi giải 61,300,000 VND"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "100,400,000 VND (Giải Nhất) + cơ hội vinh danh và trải nghiệm thực tế\nTổng giải thưởng trị giá hơn 400 triệu đồng: Giải Nhất 100,400,000 VND; Giải Nhì 75,800,000 VND; Giải Ba 67,000,000 VND; 02 giải khuyến khích mỗi giải 61,300,000 VND"
+    }
+  },
+  {
+    "id": "rmit-research-challenge-2026",
+    "name": "RMIT Research Challenge 2026",
+    "season": "Season 10 - The Nebula Awakening",
+    "organizer": "RMIT Vietnam Research Challenge Committee (BTC RMIT Research Challenge)",
+    "category": "Tài chính",
+    "short_description": "A premier finance competition for university students offering hands-on mentoring in financial analysis and equity research best practices. Now in its 10th season, RRC 2026 combines competitive challenges with transformative learning and industry networking under the theme 'The Nebula Awakening'.",
+    "eligibility": "University students with a passion for finance, equity research, and financial analysis. Open to both individual participants and teams. Prior financial knowledge is beneficial but not strictly required as the competition emphasizes learning and growth.",
+    "deadline": "2026-05-03",
+    "duration": "March 2026 - May 2026",
+    "rounds_count": 3,
+    "rounds_description": "Based on available information: (1) Registration & Minigame Phase – participants register and engage in preliminary activities such as the 'Mission to the Finance Galaxy' minigame; (2) Competition Rounds – case-based financial analysis challenges evaluated by industry professionals; (3) Final Round – top-performing teams/individuals compete in a culminating event with prizes, scholarships, and certification awarded.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Total prize pool valued at nearly 7,500,000,000 VND. Final round participants receive attractive prizes, scholarships, and official prestigious certification. All participants receive exclusive vouchers upon joining.",
+    "prizes_detail": "Total value: ~7.5 billion VND. All participants receive vouchers. Final round members receive prizes, scholarships, and certification. Minigame winners receive official RRC 2026 lanyards. Early Bird registrants (first 250) received exclusive Mock-up Test Package.",
+    "registration_link": "https://bit.ly/4aWUGs6 (Individual) | https://bit.ly/3N06d0x (Team) | Info: https://bit.ly/4udfK4W",
+    "source_url": "https://www.facebook.com/RMITVietnamResearchChallenge/",
+    "required_skills": [
+      {
+        "name": "Financial Analysis",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Equity Research",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Data Interpretation",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Financial Modeling",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Early Bird Registration",
+        "date": "Before 2026-03-16",
+        "description": "Early bird registration period for the first 250 registrants. Closed successfully; exclusive Mock-up Test Package sent to early registrants.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Normal Registration Open",
+        "date": "2026-03-17 to 2026-05-03",
+        "description": "Standard registration period open for individual and team sign-ups. Deadline: 23:59, May 3, 2026.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Minigame: Mission to the Finance Galaxy",
+        "date": "2026-03-19 to 2026-03-24",
+        "description": "Preliminary engagement activity featuring crossword puzzle and random number challenges testing financial knowledge. Winners received RRC 2026 lanyards.",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Competition Rounds (Round 1 & Round 2)",
+        "date": "2026-05-2026 (estimated)",
+        "description": "Case-based financial analysis and equity research challenges. Participants apply financial analysis skills to solve real-world business cases under mentorship guidance.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Final Round",
+        "date": "TBD (likely April-May 2026)",
+        "description": "Top teams/individuals compete in the culminating event. Finalists receive prizes, scholarships, and official certification.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Applying financial analysis and equity research methodologies to real-world business cases under time pressure, especially for participants without prior industry experience. The transition from academic knowledge to practical financial decision-making is the steepest learning curve.",
+      "common_mistakes": "(1) Underestimating the importance of understanding cost structure and financial management beyond textbook formulas, as noted by industry professionals. (2) Failing to leverage available resources such as workshops and community groups for preparation. (3) Not forming well-rounded teams with complementary skills.",
+      "key_success_factors": "Strong foundation in financial analysis, ability to interpret complex financial data, effective teamwork, and a genuine passion for finance. Engaging with the RRC Community and attending preparatory workshops (e.g., cost management, FP&A topics) significantly boosts readiness.",
+      "prep_advice": "Start early by joining the RRC Community group and engaging with minigames and workshops. Focus on building practical financial analysis skills (cost management, budgeting, financial modeling) rather than purely theoretical knowledge. Utilize the Mock-up Test Package and any provided study materials. Network with past participants and mentors for insider insights on case study approaches."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Total prize pool valued at nearly 7,500,000,000 VND."
+      ],
+      "scholarship": [
+        "Final round participants receive attractive prizes, scholarships, and official prestigious certification.",
+        "Final round members receive prizes, scholarships, and certification."
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "All participants receive exclusive vouchers upon joining.",
+        "All participants receive vouchers."
+      ],
+      "certificate": [],
+      "raw_text": "Total prize pool valued at nearly 7,500,000,000 VND. Final round participants receive attractive prizes, scholarships, and official prestigious certification. All participants receive exclusive vouchers upon joining.\nTotal value: ~7.5 billion VND. All participants receive vouchers. Final round members receive prizes, scholarships, and certification. Minigame winners receive official RRC 2026 lanyards. Early Bird registrants (first 250) received exclusive Mock-up Test Package."
+    }
+  },
+  {
+    "id": "rmit-research-challenge-2026-season10",
+    "name": "RMIT Research Challenge 2026",
+    "season": "Season 10 (Mùa 10)",
+    "organizer": "RMIT Vietnam",
+    "category": "Tài chính / Phân tích chứng khoán (Equity Research)",
+    "short_description": "RMIT Research Challenge 2026 is a financial analysis and equity research competition for university students, offering hands‑on mentoring, cash prizes worth nearly 7.5 billion VND, scholarships and certification.",
+    "eligibility": "Sinh viên đại học có niềm đam mê với lĩnh vực tài chính",
+    "deadline": "23:59, 03/05/2026",
+    "duration": "March 2026 - July 2026 (approx.)",
+    "rounds_count": 3,
+    "rounds_description": "Round 1: Registration & Minigame (Crossword & Random Number). Round 2: Mock‑up Test & Preliminary Analysis. Round 3: Final Equity Research Presentation & Judging.",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Tổng giá trị giải thưởng gần 7.500.000.000 VNĐ. Tất cả thí sinh nhận voucher; đội vào vòng Chung kết nhận giải thưởng, học bổng và chứng nhận uy tín.",
+    "prizes_detail": "All participants receive exclusive vouchers; each round adds rewards; final round members receive attractive prizes, scholarships, and official RRC 2026 certification.",
+    "registration_link": "https://bit.ly/4aWUGs6",
+    "source_url": "https://www.facebook.com/RMITVietnamResearchChallenge",
+    "required_skills": [
+      {
+        "name": "Financial Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Data Interpretation & Excel Modeling",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Written & Oral Communication",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Team Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Equity Research Fundamentals",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Registration Open",
+        "date": "2026-03-17",
+        "description": "Submit individual or team registration form via provided links.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Minigame: Mission to the Finance Galaxy",
+        "date": "2026-03-19 to 2026-03-23",
+        "description": "Participate in Crossword puzzle and Random Number challenges to warm up and earn early rewards.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Prize Pool Announcement",
+        "date": "2026-03-26",
+        "description": "Official prize value (~7.5 billion VND) and reward structure revealed.",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Registration Deadline",
+        "date": "2026-05-03",
+        "description": "Last day to register for the season; after this date only new cohorts can join next season.",
+        "status": "active"
+      },
+      {
+        "stage": 5,
+        "name": "Final Round",
+        "date": "TBD (expected June‑July 2026)",
+        "description": "Submit final equity research report and presentation for judging.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Balancing deep financial analysis with tight timelines while integrating mentorship feedback into a polished research report.",
+      "common_mistakes": "Ignoring data quality checks, poorly structuring reports, missing submission deadlines, and under‑estimating teamwork coordination.",
+      "key_success_factors": "Strong analytical and Excel skills, clear written & oral communication, proactive engagement with the RRC community, and timely use of mock‑test resources.",
+      "prep_advice": "Start early, join the minigames to familiarize with the finance terminology, complete the Mock‑up Test Package, practice case‑study analysis, and network with peers through the RRC Community Group."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng",
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [
+        "Tổng giá trị giải thưởng gần 7.500.000.000 VNĐ."
+      ],
+      "scholarship": [
+        "đội vào vòng Chung kết nhận giải thưởng, học bổng và chứng nhận uy tín.",
+        "final round members receive attractive prizes, scholarships, and official RRC 2026 certification."
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "Tất cả thí sinh nhận voucher",
+        "All participants receive exclusive vouchers"
+      ],
+      "certificate": [
+        "đội vào vòng Chung kết nhận giải thưởng, học bổng và chứng nhận uy tín."
+      ],
+      "raw_text": "Tổng giá trị giải thưởng gần 7.500.000.000 VNĐ. Tất cả thí sinh nhận voucher; đội vào vòng Chung kết nhận giải thưởng, học bổng và chứng nhận uy tín.\nAll participants receive exclusive vouchers; each round adds rewards; final round members receive attractive prizes, scholarships, and official RRC 2026 certification."
+    }
+  },
+  {
+    "id": "duong-đua-tai-chinh-2026",
+    "name": "Đường đua Tài chính 2026",
+    "season": "2026",
+    "organizer": "Học viện Ngân hàng (Banking Academy)",
+    "category": "Tài chính",
+    "short_description": "Cuộc thi tài chính dành cho sinh viên đại học trên toàn quốc, gồm 4 vòng thi từ kiểm tra kiến thức nền tảng đến phỏng vấn cá nhân, với buổi training chuyên sâu cùng chuyên gia ngành tài chính - đầu tư.",
+    "eligibility": "Sinh viên",
+    "deadline": "09/03/2026 - 20/03/2026",
+    "duration": "Tháng 03/2026 - Tháng 04/2026",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1: Khởi động (09/03 - 20/03) - Đăng ký & nộp bài thi sơ bộ; Vòng 2: Test sơ loại (22/03 - 25/03) - Bài test 20 trắc nghiệm + 1 tự luận, chọn TOP 40-45 thí sinh; Giai đoạn 2 Vòng 2: Training cùng chuyên gia tại FIDT (04/04); Vòng 3: Phỏng vấn cá nhân (12/04 - 13/04); Vòng 4: Chung kết (22/04)",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Không được đề cập trong các bài đăng",
+    "registration_link": "https://forms.gle/8LCTYd2PRmRmfWWi8",
+    "source_url": "https://www.facebook.com/hvnh.duongduataichinh",
+    "required_skills": [
+      {
+        "name": "Kiến thức tài chính",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tư duy phân tích",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Giải quyết vấn đề",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Quản lý thời gian",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kỹ năng trình bày",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Quản lý áp lực",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Khởi động",
+        "date": "2026-03-09 - 2026-03-20",
+        "description": "Đăng ký tham gia và hoàn thành bài thi sơ bộ qua Google Form. BTC gửi đề thi qua email.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Test sơ loại",
+        "date": "2026-03-22 - 2026-03-25",
+        "description": "Bài test gồm 20 câu trắc nghiệm và 1 câu tự luận. Thí sinh HN làm bài trực tiếp tại Học viện Ngân hàng có giám sát; thí sinh thành phố khác làm bài qua Zoom. Chọn TOP 40-45 thí sinh xuất sắc nhất.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 2 Giai đoạn 2: Training chuyên gia",
+        "date": "2026-04-04",
+        "description": "Buổi training offline tại FIDT Hà Nội (Tầng 26, Mipec Tower, 229 Tây Sơn) với diễn giả Ms. Nguyễn Thanh Huyền (CFA, CPA Australia, Trưởng phòng Đầu tư BIDV, hơn 20 năm kinh nghiệm).",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 3: Phỏng vấn cá nhân",
+        "date": "2026-04-12 - 2026-04-13",
+        "description": "Phỏng vấn cá nhân các thí sinh đã vượt qua vòng sơ loại.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng 4: Chung kết",
+        "date": "2026-04-22",
+        "description": "Vòng thi chung kết quyết định quán quân Đường đua Tài chính 2026.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Vòng 2: Test sơ loại là thử thách lớn nhất - bài test gồm 20 trắc nghiệm + 1 tự luận, đánh giá toàn diện kiến thức nền tảng lẫn khả năng tư duy, được BTC mô tả là 'phép thử khắc nghiệt' để lựa chọn ra những thí sinh đủ sức đi tiếp.",
+      "common_mistakes": "Không kiểm tra kỹ hộp thư spam/thư rác dẫn đến bỏ lỡ email chứa đề thi và thông báo kết quả từ BTC. Ngoài ra, thiếu chuẩn bị kiến thức tài chính thực tế cho bài test tự luận.",
+      "key_success_factors": "Nền tảng kiến thức tài chính vững chắc, tư duy phân tích sắc bén, khả năng xử lý nhanh dưới áp lực thời gian, và tinh thần quyết tâm bứt phá qua từng vòng thi.",
+      "prep_advice": "Ôn tập kiến thức tài chính tổng hợp (tài chính doanh nghiệp, đầu tư, quản trị rủi ro), theo dõi các chủ đề tài chính thực tiễn trên phương tiện truyền thông, luyện làm bài trắc nghiệm tốc độ, và chuẩn bị tinh thần cho bài tự luận đòi hỏi phân tích sâu. Tham gia các buổi training chuyên gia để nâng cao hiểu biết thực tế."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không được đề cập trong các bài đăng"
+    }
+  },
+  {
+    "id": "fsc14-the-verdictum-2026",
+    "name": "Cuộc thi Sinh viên với Tài chính - FSC14",
+    "season": "Mùa thứ 14",
+    "organizer": "SeSEC (Student Economic & Securities Club)",
+    "category": "Tài chính - Đầu tư",
+    "short_description": "Cuộc thi giao dịch chứng khoán dành cho sinh viên với 3 vòng thi kéo dài gần 3 tháng, kết thúc bằng đêm Gala chung kết The Verdictum tại Nhà hát IDECAF, TP.HCM. Mùa thi quy tụ hàng trăm thí sinh cạnh tranh qua các chặng đua từ chiến lược đầu tư đến quản trị danh mục và rủi ro.",
+    "eligibility": "Sinh viên",
+    "deadline": "19/06/2026",
+    "duration": "Tháng 03/2026 - Tháng 06/2026",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1: The Nascent Spark (22/03 - 05/04) - Vòng mở đầu kiểm định nền tảng kiến thức tài chính. Vòng 2: The Propulsive Surge (08/04 - 24/04) - Vòng thi tăng tốc với các thử thách chiến lược đầu tư. Vòng 3: The Overdrive Apex (27/04 - 14/06) - Vòng thi quyết định với giao dịch chứng khoán thực tế trên thị trường. Gala: The Verdictum (20/06) - Đêm Gala chung kết offline tại Nhà hát kịch IDECAF, công bố quán quân FSC14.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 3,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Cúp vô địch và giải thưởng ấn tượng cho đội chiến thắng tại Gala; 500.000 đồng hiện kim cho đội thi được yêu thích nhất.",
+    "prizes_detail": "Giải thưởng bao gồm: Cúp quán quân FSC14, phần thưởng tiền mặt cho các đội top, giải thưởng 500.000 VNĐ cho đội thi được yêu thích nhất (bình chọn), cùng nhiều phần quà từ ban tổ chức và đối tác FTMS Global.",
+    "registration_link": "https://forms.gle/CjwXc6rhYoKQUq6T7",
+    "source_url": "https://www.facebook.com/sinhvienvoitaichinh",
+    "required_skills": [
+      {
+        "name": "Phân tích thị trường chứng khoán",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Quản trị danh mục đầu tư",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Quản lý rủi ro",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Tư duy chiến lược",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Đọc hiểu báo cáo tài chính",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Xử lý dữ liệu tài chính",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng thuyết trình",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Quyết định nhanh dưới áp lực",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: The Nascent Spark",
+        "date": "2026-03-22 - 2026-04-05",
+        "description": "Vòng mở đầu kiểm định nền tảng kiến thức tài chính và khả năng phân tích cơ bản của thí sinh",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: The Propulsive Surge",
+        "date": "2026-04-08 - 2026-04-24",
+        "description": "Vòng thi tăng tốc với các thử thách chiến lược đầu tư phức tạp hơn",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: The Overdrive Apex",
+        "date": "2026-04-27 - 2026-06-14",
+        "description": "Vòng thi quyết định với giao dịch chứng khoán thực tế trên thị trường, bao gồm 11 tuần giao dịch liên tục",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Gala Chung kết: The Verdictum",
+        "date": "2026-06-20",
+        "description": "Đêm Gala chung kết tại Nhà hát kịch IDECAF (28 Lê Thánh Tôn, P.Sài Gòn, TP.HCM), công bố quán quân FSC14, có workshop chuyên môn và bình chọn đội thi yêu thích nhất",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Quản lý danh mục đầu tư trong bối cảnh thị trường biến động liên tục với nhiều phiên đứt gãy, đòi hỏi bản lĩnh và khả năng thích ứng nhanh",
+      "common_mistakes": "Quá tự tin vào đầu cơ ngắn hạn mà bỏ qua quản lý rủi ro; không phân bổ thời gian hợp lý giữa các vòng thi; thiếu nghiên cứu kỹ lưỡng về diễn biến thị trường trước mỗi phiên giao dịch",
+      "key_success_factors": "Tư duy chiến lược vững vàng, khả năng quản trị rủi ro hiệu quả, phân tích dữ liệu chính xác và bản lĩnh ra quyết định đúng thời điểm then chốt",
+      "prep_advice": "Tham gia các workshop chuyên môn (như Workshop Quản trị Rủi ro & Danh mục đầu tư của FTMS Global), nghiên cứu kỹ booklet cuộc thi, ôn tập kiến thức về phân tích kỹ thuật và cơ bản, luyện tập quản trị danh mục mẫu trước khi vào vòng thi thực tế"
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "đồng hiện kim cho đội thi được yêu thích nhất.",
+        "Giải thưởng bao gồm: Cúp quán quân FSC14, phần thưởng tiền mặt cho các đội top, giải thưởng 500.000 VNĐ cho đội thi được yêu thích nhất (bình chọn), cùng nhiều phần quà từ ban tổ chức và đối tác FTMS Global."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Cúp vô địch và giải thưởng ấn tượng cho đội chiến thắng tại Gala",
+        "Giải thưởng bao gồm: Cúp quán quân FSC14, phần thưởng tiền mặt cho các đội top, giải thưởng 500.000 VNĐ cho đội thi được yêu thích nhất (bình chọn), cùng nhiều phần quà từ ban tổ chức và đối tác FTMS Global."
+      ],
+      "certificate": [],
+      "raw_text": "Cúp vô địch và giải thưởng ấn tượng cho đội chiến thắng tại Gala; 500.000 đồng hiện kim cho đội thi được yêu thích nhất.\nGiải thưởng bao gồm: Cúp quán quân FSC14, phần thưởng tiền mặt cho các đội top, giải thưởng 500.000 VNĐ cho đội thi được yêu thích nhất (bình chọn), cùng nhiều phần quà từ ban tổ chức và đối tác FTMS Global."
+    }
+  },
+  {
+    "id": "wapa-challenging-2026",
+    "name": "WAPA Challenging 2026",
+    "season": "2026",
+    "organizer": "WAPA CLUB - University of Economics - Law (UEL)",
+    "category": "Accounting - Auditing",
+    "short_description": "WAPA Challenging 2026 is a business case competition organized by WAPA CLUB at the University of Economics - Law, designed to develop participants' problem‑solving, teamwork and presentation skills through a three‑round recruitment process (essay, team challenge, interview). It includes workshops, career talks and networking opportunities for students nationwide.",
+    "eligibility": "Học viên ICAEW ưu tiên, sinh viên năm 3 & 4 chuyên ngành Kế, Kiểm và Tài chính",
+    "deadline": "02/09/2026",
+    "duration": "August 17, 2026 - September 13, 2026",
+    "rounds_count": 3,
+    "rounds_description": "Round 1 (Catsummon): Submit a reflective essay on personal and professional goals (Aug 17 - Sep 2). Round 2 (Cardventure): Team‑based problem‑solving challenges (Sep 6). Round 3 (Cardoria's call): Final interview to select core members (Sep 13).",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team hoặc Individual hoặc Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Chưa có thông tin",
+    "registration_link": "https://forms.gle/Y1PueHgdnnpfs1f27",
+    "source_url": "https://www.facebook.com/wapaclub.official",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Teamwork / Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Communication / Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Time Management",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Analytical Thinking",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Leadership",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Round 1: Catsummon",
+        "date": "2026-08-17 to 2026-09-02",
+        "description": "Submit a reflective essay on personal and professional goals.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Round 2: Cardventure",
+        "date": "2026-09-06",
+        "description": "Team‑based problem‑solving challenges.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Round 3: Cardoria's call",
+        "date": "2026-09-13",
+        "description": "Final interview to select core members.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Balancing deep personal reflection with concise storytelling in the Catsummon essay while managing tight deadlines.",
+      "common_mistakes": "Submitting incomplete forms, missing deadlines, poor team coordination, and neglecting to proofread essays.",
+      "key_success_factors": "Clear communication within teams, early start on the essay, authentic personal stories, and thorough interview preparation.",
+      "prep_advice": "Begin the essay at least one week early, create a shared team schedule for Cardventure tasks, rehearse interview answers, and review all submission guidelines carefully."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Chưa có thông tin"
+    }
+  },
+  {
+    "id": "talented-auditor-cup-2026",
+    "name": "Kiểm toán viên Tài năng 2026 (Talented Auditor Cup 2026)",
+    "season": "Mùa thứ 16 - TAC 2026",
+    "organizer": "Câu lạc bộ Kế toán Kiểm toán viên tương lai trường Đại học Ngoại thương (CFAA FTU)",
+    "category": "Kế toán - Kiểm toán - Tài chính",
+    "short_description": "Talented Auditor Cup is Vietnam’s premier annual accounting and auditing competition for university students, challenging participants with realistic audit case studies, rapid‑fire quizzes, and a final debate to unlock treasury insights. The 2026 edition (Season 16) blends rigorous technical skills with networking opportunities with Big4 experts and offers substantial scholarship and cash prizes.",
+    "eligibility": "Sinh viên từ tất cả các trường Đại học, học viện trên toàn quốc có niềm đam mê với lĩnh vực Kế toán - Kiểm toán - Tài chính",
+    "deadline": "23h59 ngày 06/06/2026",
+    "duration": "May 2026 – 7 June 2026",
+    "rounds_count": 4,
+    "rounds_description": "The competition progresses through preliminary screenings to a Top‑6 final field. The Final Night consists of four sub‑rounds: (1) Crystal Trail – team presentation & Q&A; (2) Treasure Rush – individual MCQ quiz with speed‑based scoring; (3) Vault Breaker – individual board‑style challenge with strategic cell selection; (4) Crown Legacy – final case debate where contestants argue as auditor and client.",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 2,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Intermediate to Advanced",
+    "grand_prize": "Quán quân: Cúp vô địch danh giá + Nhiều giải thưởng hấp dẫn từ Nhà tài trợ. Giải thí sinh yêu thích nhất: Học bổng 30% 8-13 môn ACCA (SAPP Academy), Học bổng 50% (ColorMe), Học bổng giảm 50% khóa HSK1, Voucher giảm giá 60% suất ăn (SOWON), Học bổng 60% khóa NET ENGLISH, Voucher 3.000.000 VND khóa coaching 1-1 (Roseway Academy), Voucher giảm 15% lớp học (CareerMates)",
+    "prizes_detail": "Multiple scholarships (ACCA, ColorMe, HSK1, NET ENGLISH), high‑value vouchers (SOWON, Roseway Academy, CareerMates), and the prestigious Talented Auditor Cup title.",
+    "registration_link": "https://tac2026.fillout.com/finalround",
+    "source_url": "https://www.facebook.com/Talented.Auditor.Cup",
+    "required_skills": [
+      {
+        "name": "Analytical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Audit & Finance Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation & Public Speaking",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Team Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Time Management",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Registration Opens for Final Round",
+        "date": "2026-05-26",
+        "description": "Participants complete the online registration form to secure a spot in the Final Round.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Top 6 Finalists Announced",
+        "date": "2026-05-30",
+        "description": "The competition organizers reveal the six highest‑scoring contestants advancing to the Final Night.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Public Voting for Favorite Contestant",
+        "date": "2026-06-01/2026-06-07",
+        "description": "Fans can vote for their preferred finalist via the Facebook page; voting ends at 12:00 PM on June 7.",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Final Round Registration Deadline",
+        "date": "2026-06-06T23:59:00Z",
+        "description": "Last chance to submit the registration form for the Final Night events.",
+        "status": "active"
+      },
+      {
+        "stage": 5,
+        "name": "Final Night – Round 1: Crystal Trail",
+        "date": "2026-06-07",
+        "description": "Two teams present audit cases and answer judges’ questions (7 min presentation + 6 min Q&A).",
+        "status": "upcoming"
+      },
+      {
+        "stage": 6,
+        "name": "Final Night – Round 2: Treasure Rush",
+        "date": "2026-06-07",
+        "description": "Top 6 contestants answer 12 progressive MCQs; correct answers earn points based on difficulty and speed.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 7,
+        "name": "Final Night – Round 3: Vault Breaker",
+        "date": "2026-06-07",
+        "description": "Individual board‑style challenge where contestants select cells to answer questions, earn bonus points for forming triangles, and can challenge opponents.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 8,
+        "name": "Final Night – Round 4: Crown Legacy",
+        "date": "2026-06-07",
+        "description": "Two finalists debate a case study as auditor and client, followed by presentations and a final Q&A with judges.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 9,
+        "name": "Award Ceremony & Closing",
+        "date": "2026-06-07",
+        "description": "Winners are announced, trophies and prizes are presented, and the event concludes.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Balancing the fast‑paced individual rounds (Treasure Rush, Vault Breaker) with the collaborative team presentation in Crystal Trail under live audience pressure.",
+      "common_mistakes": "Poor time allocation across rounds, over‑reliance on notes without deep case understanding, neglecting the public‑voting mechanics, and insufficient rehearsal of the final debate format.",
+      "key_success_factors": "Strong analytical and audit‑specific knowledge, quick numerical reasoning, polished presentation skills, effective team coordination, and confident public speaking.",
+      "prep_advice": "Practice with past audit case studies and mock presentations; simulate the MCQ and board‑style rounds under timed conditions; join review sessions focusing on debate structure; manage study schedule to cover both technical content and soft‑skill delivery."
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Học bổng",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [],
+      "scholarship": [
+        "Giải thí sinh yêu thích nhất: Học bổng 30% 8-13 môn ACCA (SAPP Academy), Học bổng 50% (ColorMe), Học bổng giảm 50% khóa HSK1, Voucher giảm giá 60% suất ăn (SOWON), Học bổng 60% khóa NET ENGLISH, Voucher 3.000.000 VND khóa coaching 1-1 (Roseway Academy), Voucher giảm 15% lớp học (CareerMates)",
+        "Multiple scholarships (ACCA, ColorMe, HSK1, NET ENGLISH), high‑value vouchers (SOWON, Roseway Academy, CareerMates), and the prestigious Talented Auditor Cup title."
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "Quán quân: Cúp vô địch danh giá",
+        "Giải thí sinh yêu thích nhất: Học bổng 30% 8-13 môn ACCA (SAPP Academy), Học bổng 50% (ColorMe), Học bổng giảm 50% khóa HSK1, Voucher giảm giá 60% suất ăn (SOWON), Học bổng 60% khóa NET ENGLISH, Voucher 3.000.000 VND khóa coaching 1-1 (Roseway Academy), Voucher giảm 15% lớp học (CareerMates)",
+        "Multiple scholarships (ACCA, ColorMe, HSK1, NET ENGLISH), high‑value vouchers (SOWON, Roseway Academy, CareerMates), and the prestigious Talented Auditor Cup title."
+      ],
+      "certificate": [],
+      "raw_text": "Quán quân: Cúp vô địch danh giá + Nhiều giải thưởng hấp dẫn từ Nhà tài trợ. Giải thí sinh yêu thích nhất: Học bổng 30% 8-13 môn ACCA (SAPP Academy), Học bổng 50% (ColorMe), Học bổng giảm 50% khóa HSK1, Voucher giảm giá 60% suất ăn (SOWON), Học bổng 60% khóa NET ENGLISH, Voucher 3.000.000 VND khóa coaching 1-1 (Roseway Academy), Voucher giảm 15% lớp học (CareerMates)\nMultiple scholarships (ACCA, ColorMe, HSK1, NET ENGLISH), high‑value vouchers (SOWON, Roseway Academy, CareerMates), and the prestigious Talented Auditor Cup title."
+    }
+  },
+  {
+    "id": "kle-audit-competition-2026",
+    "name": "KSM Audit Competition 2026",
+    "season": "2026",
+    "organizer": "KLE Mentoring Program",
+    "category": "Kế toán - Kiểm toán - Tài chính",
+    "short_description": "The KSM Audit Competition 2026 (KAC 2026) is a national accounting and audit case competition for Vietnamese university students, offering a simulated Big4 recruitment process, skill-building, networking, and prestigious prizes.",
+    "eligibility": "Sinh viên năm 1, 2, 3, 4 trên toàn quốc đam mê Kế toán - Kiểm toán - Tài chính",
+    "deadline": "13/05/2026",
+    "duration": "04/05/2026 - 29/05/2026",
+    "rounds_count": 4,
+    "rounds_description": "Four rounds: (1) Registration & Remainder (04‑11 May 2026), (2) Online/Offline Ability Test (17 May 2026), (3) Group Interview (23 May 2026), (4) Final Round (29 May 2026).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "1st place: VND 20,000,000 + ACCA scholarship; 2nd place: VND 10,000,000 + internship; 3rd place: ACCA scholarship; all finalists receive certificates and mentorship.",
+    "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLSf4OGqKdMgfKax8BtCI7YmIDqXUQWNJZAshSdgnw5tedTIwTQ/viewform",
+    "source_url": "https://www.facebook.com/KSMAuditCompetition",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Analytical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "English Communication",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Teamwork",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Accounting Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation Skills",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Round 1: Registration & Remainder (04/05/2026 – 11/05/2026)",
+        "date": "2026-05-04 to 2026-05-11",
+        "description": "Complete registration, receive confirmation email, and start preparation.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Round 2: Online/Offline Ability Test (17/05/2026)",
+        "date": "2026-05-17",
+        "description": "Take ability test covering Accounting, Auditing, Finance, Tax, IQ, and English.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Round 3: Group Interview (23/05/2026)",
+        "date": "2026-05-23",
+        "description": "Top 36 participants attend group interview in English.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 4,
+        "name": "Round 4: Final Round (29/05/2026)",
+        "date": "2026-05-29",
+        "description": "Top 6 compete in final night at National Economics University.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Balancing speed and accuracy under the mixed online/offline time pressure, especially during the ability test and group interview.",
+      "common_mistakes": "Missing the registration deadline, underestimating English proficiency requirements, poor time management during tests, and insufficient preparation of case‑study solutions.",
+      "key_success_factors": "Strong analytical thinking, solid accounting knowledge, clear English communication, effective teamwork, and disciplined preparation (case practice, mock interviews, and past‑year questions).",
+      "prep_advice": "Start early: review core accounting and audit concepts, practice case studies under timed conditions, join mock interview sessions, improve English proficiency, manage study schedule, and network with mentors for feedback."
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Học bổng",
+        "Chứng nhận"
+      ],
+      "cash": [],
+      "scholarship": [
+        "ACCA scholarship"
+      ],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [
+        "all finalists receive certificates and mentorship."
+      ],
+      "raw_text": "1st place: VND 20,000,000 + ACCA scholarship; 2nd place: VND 10,000,000 + internship; 3rd place: ACCA scholarship; all finalists receive certificates and mentorship."
+    }
+  },
+  {
+    "id": "soul-of-law-2026-doanh-nghiep",
+    "name": "Soul of Law 2026 - Doanh nghiệp",
+    "season": "2026",
+    "organizer": "CLB Nhà tư vấn Luật LCC - Trường Đại học Ngoại thương (FTU)",
+    "category": "Doanh nghiệp",
+    "short_description": "Cuộc thi học thuật chuyên sâu về pháp luật trong lĩnh vực doanh nghiệp, quy tụ sinh viên từ nhiều trường đại học để tranh tài qua các chặng thi thử thách, đánh giá tư duy pháp lý, kiến thức chuyên môn và bản lĩnh thi đấu. Mùa thứ 14 của chuỗi cuộc thi Soul of Law do Khoa Luật FTU đồng hành.",
+    "eligibility": "Sinh viên",
+    "deadline": "",
+    "duration": "Năm 2026 (không xác định chính xác ngày bắt đầu; Chung kết diễn ra ngày 06/06/2026)",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm nhiều vòng thi: các vòng sơ loại/triển khai kiến thức, vòng bán kết và Đêm Chung kết (gồm ít nhất Chặng 1: Trả lời câu hỏi nhanh và các chặng tiếp theo). Chung kết quy tụ Top 09 thí sinh xuất sắc nhất tranh tài tại Hội trường D201, Trường Đại học Ngoại Thương.",
+    "format": "Offline (Chung kết tại Hội trường D201, FTU) / Có thể kết hợp Online cho các vòng trước",
+    "team_size": {
+      "min": 1,
+      "max": 3,
+      "type": "Team"
+    },
+    "experience_level": "Intermediate",
+    "grand_prize": "Quán quân Soul of Law 2026: THE GLADIATOR; Á quân: LYNURA; Quý quân: LEXIC; Đội được yêu thích nhất: LYNURA; Đội có đề án xuất sắc nhất: THE GLADIATOR; Thí sinh xuất sắc nhất: Nguyễn Nhật Linh",
+    "prizes_detail": "Các giải thưởng bao gồm: Quán quân, Á quân, Quý quân, Đội thi được yêu thích nhất, Đội thi có đề án xuất sắc nhất, Thí sinh xuất sắc nhất. Chi tiết giá trị giải thưởng không được nêu cụ thể trong các bài đăng.",
+    "registration_link": "https://bit.ly/TheleSOL2026",
+    "source_url": "https://www.facebook.com/souloflaw.lcc/",
+    "required_skills": [
+      {
+        "name": "Kiến thức pháp luật",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tư duy phân tích vụ việc",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Hùng biện & Tranh luận",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Làm việc nhóm",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Quản lý thời gian",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế bài thuyết trình",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng loại / Triển khai",
+        "date": "Không xác định chính xác (trước tháng 06/2026)",
+        "description": "Các vòng thi sơ loại để chọn ra Top 09 thí sinh xuất sắc nhất",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Chặng 1 Chung kết: Trả lời câu hỏi nhanh",
+        "date": "2026-06-06",
+        "description": "Vòng thi nhanh tại Đêm Chung kết, đội Lynura giành điểm cao nhất ở chặng này",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Đêm Chung kết Soul of Law 2026",
+        "date": "2026-06-06",
+        "description": "Trận tranh tài cuối cùng tại Hội trường D201, Trường Đại học Ngoại Thương. Đội The Gladiator lên ngôi Quán quân, đội Lynura Á quân, đội Lexic Quý quân.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Đòi hỏi thí sinh phải có kiến thức pháp luật chuyên sâu về lĩnh vực doanh nghiệp, khả năng tư duy phân tích nhanh trong các tình huống pháp lý thực tiễn, đồng thời phải bản lĩnh thi đấu trước Ban Giám khảo là các luật sư và chuyên gia uy tín.",
+      "common_mistakes": "Thí sinh mới tham gia thường thiếu sự chuẩn bị kỹ lưỡng về kiến thức pháp luật chuyên ngành, không phân bổ thời gian ôn tập hợp lý, và chưa biết cách thể hiện bản lĩnh trước áp lực thi đấu.",
+      "key_success_factors": "Tư duy sắc bén, kỹ năng chuyên môn vững vàng, tinh thần đoàn kết trong đội nhóm, bản lĩnh thi đấu và khả năng xử lý tình huống nhanh nhạy.",
+      "prep_advice": "Cần ôn tập tập trung vào kiến thức pháp luật về doanh nghiệp, thực hành phân tích các vụ việc thực tế, rèn luyện kỹ năng hùng biện và tranh luận, đồng thời xây dựng chiến lược phân bổ thời gian thi đấu hợp lý. Nên tham gia các buổi tọa đàm và workshop chuyên môn trước khi thi."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Quán quân Soul of Law 2026: THE GLADIATOR",
+        "Á quân: LYNURA",
+        "Quý quân: LEXIC",
+        "Các giải thưởng bao gồm: Quán quân, Á quân, Quý quân, Đội thi được yêu thích nhất, Đội thi có đề án xuất sắc nhất, Thí sinh xuất sắc nhất."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Quán quân Soul of Law 2026: THE GLADIATOR; Á quân: LYNURA; Quý quân: LEXIC; Đội được yêu thích nhất: LYNURA; Đội có đề án xuất sắc nhất: THE GLADIATOR; Thí sinh xuất sắc nhất: Nguyễn Nhật Linh\nCác giải thưởng bao gồm: Quán quân, Á quân, Quý quân, Đội thi được yêu thích nhất, Đội thi có đề án xuất sắc nhất, Thí sinh xuất sắc nhất. Chi tiết giá trị giải thưởng không được nêu cụ thể trong các bài đăng."
+    }
+  },
+  {
+    "id": "spirit-of-law-2024",
+    "name": "Spirit of Law 2024",
+    "season": "Mùa thu 2024 (10/2024 – 11/2024)",
+    "organizer": "Học viện Ngân hàng – LCĐ Khoa Luật & CLB Luật gia tương lai (FJC)",
+    "category": "Pháp luật – Ngân hàng/Tài chính (phát triển bền vững)",
+    "short_description": "Cuộc thi dành cho sinh viên Học viện Ngân hàng và các trường đại học tại Hà Nội, kết hợp kiểm tra kiến thức pháp luật và kỹ năng hùng biện, hướng đến xây dựng thế hệ sinh viên có ý thức pháp luật và phát triển bền vững.",
+    "eligibility": "Sinh viên Học viện Ngân hàng (Vòng loại 1 & 2); 05 đội thi đến từ các trường đại học trên địa bàn Hà Nội (Vòng Chung kết); khán giả cổ vũ",
+    "deadline": "01/11/2024 (trước 18h45 – Đêm Chung kết)",
+    "duration": "Tháng 10/2024 – Tháng 11/2024",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1: Kiểm tra kiến thức pháp luật dạng trắc nghiệm online (09/10/2024). Vòng 2: Thuyết trình trực tiếp về chủ đề do BTC cung cấp (14/10/2024). Vòng phụ: Quay video giới thiệu đội thi (19–25/10/2024). Vòng 3: Đêm Chung kết với 05 đội thi (01/11/2024).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "01 Giải Nhất (48.728.200đ); 01 Giải Nhì (30.625.500đ); 01 Giải Ba (25.130.000đ); 02 Giải Khuyến khích (13.456.000đ/giải); 01 Giải Đội yêu thích nhất (gồm tiền mặt, khoá học Pháp chế Ngân hàng, tài khoản tra cứu văn bản pháp luật, khoá Tiếng Anh DOL Ielts Đình Lực)",
+    "prizes_detail": "Giải Nhất: 48.728.200đ | Giải Nhì: 30.625.500đ | Giải Ba: 25.130.000đ | 2x Giải Khuyến khích: 13.456.000đ mỗi giải | 1x Giải Đội yêu thích nhất",
+    "registration_link": "https://forms.gle/hzromvo3zDKXM5x78",
+    "source_url": "https://www.facebook.com/SPIRITOFLAWS/",
+    "required_skills": [
+      {
+        "name": "Kiến thức Pháp luật",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Hùng biện & Thuyết trình",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy phân tích",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Tiếng Anh",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng loại 1: Kiểm tra kiến thức pháp luật",
+        "date": "2024-10-09",
+        "description": "Trắc nghiệm trực tuyến về kiến thức pháp luật dành cho sinh viên Học viện Ngân hàng",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng loại 2: Thuyết trình trực tiếp",
+        "date": "2024-10-14",
+        "description": "Mỗi sinh viên thuyết trình về chủ đề do Ban Tổ chức cung cấp theo hình thức trực tiếp",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Phụ: Quay video giới thiệu đội thi",
+        "date": "2024-10-19 to 2024-10-25",
+        "description": "05 đội thi vào vòng Chung kết quay video giới thiệu và gửi về BTC",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Chung kết – Đêm Chung kết",
+        "date": "2024-11-01",
+        "description": "Đêm thi đấu cuối cùng với 05 đội thi đến từ các trường đại học tại Hà Nội tại Hội trường lớn D1 – Học viện Ngân hàng",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Cân bằng giữa kiến thức pháp luật chuyên sâu và kỹ năng hùng biện thuyết trình trước đám đông – nhiều thí sinh giỏi kiến thức nhưng chưa tự tin trình bày trước khán giả lớn.",
+      "common_mistakes": "Chỉ tập trung ôn kiến thức mà bỏ qua rèn luyện kỹ năng thuyết trình; không chuẩn bị kỹ nội dung video giới thiệu đội thi; thiếu hiểu biết về các chính sách pháp luật mới liên quan đến ngân hàng và tài chính.",
+      "key_success_factors": "Nắm vững kiến thức pháp luật liên quan đến ngân hàng, tài chính; kỹ năng trình bày logic, tự tin; khả năng xử lý tình huống trong phần hỏi đáp; tinh thần đồng đội trong video giới thiệu.",
+      "prep_advice": "Ôn tập hệ thống kiến thức pháp luật về ngân hàng, tài chính và các chính sách mới; luyện tập thuyết trình thường xuyên trước gương hoặc nhóm bạn; xem lại các video giới thiệu của đội thi trước đó để học hỏi cách trình bày sáng tạo; phân bổ thời gian đều cho cả phần kiến thức lẫn phần hùng biện."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng"
+      ],
+      "cash": [
+        "Giải Nhất (48.728.200đ)",
+        "Giải Nhì (30.625.500đ)",
+        "Giải Ba (25.130.000đ)",
+        "Giải Khuyến khích (13.456.000đ/giải)",
+        "Giải Đội yêu thích nhất (gồm tiền mặt, khoá học Pháp chế Ngân hàng, tài khoản tra cứu văn bản pháp luật, khoá Tiếng Anh DOL Ielts Đình Lực)",
+        "Giải Nhất: 48.728.200đ"
+      ],
+      "scholarship": [
+        "Giải Đội yêu thích nhất (gồm tiền mặt, khoá học Pháp chế Ngân hàng, tài khoản tra cứu văn bản pháp luật, khoá Tiếng Anh DOL Ielts Đình Lực)"
+      ],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "01 Giải Nhất (48.728.200đ); 01 Giải Nhì (30.625.500đ); 01 Giải Ba (25.130.000đ); 02 Giải Khuyến khích (13.456.000đ/giải); 01 Giải Đội yêu thích nhất (gồm tiền mặt, khoá học Pháp chế Ngân hàng, tài khoản tra cứu văn bản pháp luật, khoá Tiếng Anh DOL Ielts Đình Lực)\nGiải Nhất: 48.728.200đ | Giải Nhì: 30.625.500đ | Giải Ba: 25.130.000đ | 2x Giải Khuyến khích: 13.456.000đ mỗi giải | 1x Giải Đội yêu thích nhất"
+    }
+  },
+  {
+    "id": "luat-gia-tranh-hung-2024",
+    "name": "Cuộc thi Luật Gia Tranh Hùng 2024",
+    "season": "2024",
+    "organizer": "CLB Luật Gia Trẻ - Trường Đại học Luật, ĐHQG HN",
+    "category": "Luật – Tranh biện về các vấn đề pháp lý",
+    "short_description": "Cuộc thi tranh biện về các vấn đề pháp lý dành cho sinh viên luật trên địa bàn Hà Nội, sử dụng luật đấu Asian Parliamentary (AP), với chủ đề \"Sự tác động của trí tuệ nhân tạo đến quyền con người\", hứa hẹn mang đến sân chơi học thuật sáng tạo, bổ ích và đầy đam mê.",
+    "eligibility": "Sinh viên đang theo học tại các cơ sở đào tạo Luật trên địa bàn Thành phố Hà Nội",
+    "deadline": "04/03/2024",
+    "duration": "Tháng 02/2024 - Tháng 03/2024",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm 3 vòng chính: Vòng Sơ loại (16-17/3/2024) - các đội thi đấu trực tuyến qua Zoom để chọn ra đội vào vòng trong; Vòng Bán kết (17/3/2024) - tranh biện trực tuyến qua Zoom; Vòng Chung kết (23/3/2024) - tranh biện trực tiếp tại ĐHQGHN.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 3,
+      "max": 3,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Không được đề cập chi tiết trong các bài đăng. Lệ phí tham gia: 200.000 VNĐ/tranh biện viên, 100.000 VNĐ/giám khảo, 50.000 VNĐ/quan sát viên. Lệ phí đảm bảo: 300.000 VNĐ/đội (hoàn lại sau khi hoàn thành cuộc thi).",
+    "registration_link": "https://forms.gle/RiQ88t1LvRoW1p77A",
+    "source_url": "https://www.facebook.com/Luatgiatranhhung",
+    "required_skills": [
+      {
+        "name": "Tranh biện / Hùng biện",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Tư duy phản biện",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kiến thức pháp lý",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Nghiên cứu & tìm tòi thông tin",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thuyết trình trước đám đông",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Tư duy sáng tạo",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Mở đơn đăng ký",
+        "date": "2024-02-12 - 2024-03-04",
+        "description": "Đăng ký tranh biện viên (theo đội 3 người), giám khảo độc lập và quan sát viên qua Google Forms.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Tọa đàm chuyên môn",
+        "date": "2024-03-09",
+        "description": "Sự kiện tọa đàm chuyên môn liên quan đến chủ đề cuộc thi.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Workshop training kỹ năng",
+        "date": "2024-03-13",
+        "description": "Workshop rèn luyện kỹ năng tranh biện trước khi thi đấu.",
+        "status": "active"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Sơ loại",
+        "date": "2024-03-16 - 2024-03-17",
+        "description": "Tranh biện trực tuyến qua Zoom, chọn ra các đội vào vòng bán kết.",
+        "status": "active"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng Bán kết",
+        "date": "2024-03-17",
+        "description": "Tranh biện trực tuyến qua Zoom, chọn ra các đội vào vòng chung kết.",
+        "status": "active"
+      },
+      {
+        "stage": 6,
+        "name": "Vòng Chung kết",
+        "date": "2024-03-23",
+        "description": "Tranh biện trực tiếp (offline) tại Trường Đại học Luật, ĐHQGHN.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Chủ đề \"Sự tác động của trí tuệ nhân tạo đến quyền con người\" đòi hỏi thí sinh phải kết hợp kiến thức pháp lý chuyên sâu với khả năng tranh biện sắc bén, đồng thời xử lý các tình huống đa chiều và phức tạp.",
+      "common_mistakes": "Không chuẩn bị kỹ kiến thức pháp lý liên quan đến chủ đề, thiếu tư duy phản biện khi đối mặt với lập luận đối phương, và không phân bổ thời gian hợp lý giữa các vòng thi.",
+      "key_success_factors": "Kỹ năng tranh biện AP (Asian Parliamentary) vững vàng, tư duy phản biện và sáng tạo, kiến thức pháp lý sâu rộng về chủ đề, khả năng làm việc nhóm ăn ý, và sự tự tin khi thuyết trình.",
+      "prep_advice": "Tham gia tích cực các buổi tọa đàm chuyên môn và workshop training kỹ năng do BTC tổ chức, nghiên cứu kỹ chủ đề từ nhiều góc nhìn pháp lý khác nhau, luyện tập tranh biện theo luật AP, và chuẩn bị tinh thần vững vàng cho cả 3 vòng thi."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Lệ phí tham gia: 200.000 VNĐ/tranh biện viên, 100.000 VNĐ/giám khảo, 50.000 VNĐ/quan sát viên.",
+        "Lệ phí đảm bảo: 300.000 VNĐ/đội (hoàn lại sau khi hoàn thành cuộc thi)."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không được đề cập chi tiết trong các bài đăng. Lệ phí tham gia: 200.000 VNĐ/tranh biện viên, 100.000 VNĐ/giám khảo, 50.000 VNĐ/quan sát viên. Lệ phí đảm bảo: 300.000 VNĐ/đội (hoàn lại sau khi hoàn thành cuộc thi)."
+    }
+  },
+  {
+    "id": "dau-truong-tai-chinh-fbac-xiv",
+    "name": "Đấu Trường Tài Chính - FBAC XIV",
+    "season": "XIV (Mùa thứ 14)",
+    "organizer": "CLB Tài Chính - BUSF (Finance Club, Ho Chi Minh University of Banking)",
+    "category": "Tài chính - Đầu tư",
+    "short_description": "Cuộc thi Đấu Trường Tài Chính với khẩu hiệu \"Chuyên nghiệp - Thực tiễn - Khác biệt",
+    "eligibility": "Sinh viên các trường đại học",
+    "deadline": "",
+    "duration": "Tháng 02/2026 - Tháng 06/2026 (gần 4 tháng tranh tài)",
+    "rounds_count": 3,
+    "rounds_description": "Chặng 1 - Giải Case Kinh tế (2 vòng thi kiến thức); Chặng 2 - Trình bày case Huy động vốn; Đêm Chung kết - Tổng kết và công bố kết quả",
+    "format": "Offline (Đêm Chung kết tại Hội trường lớn Trường Đại học Ngân hàng TP.HCM; các vòng trước có thể kết hợp Online/Offline)",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân, Á quân, Quý quân, Đội thi được yêu thích nhất",
+    "prizes_detail": "Kết quả chung cuộc: Quán quân - May Thanh Trì, Á quân - TL2, Quý quân - SYNERGY, Đội thi được yêu thích nhất - SYNERGY. Chi tiết giải thưởng cụ thể (tiền mặt, hiện vật) không được đề cập trong các bài đăng cung cấp.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/fbac.official",
+    "required_skills": [
+      {
+        "name": "Phân tích tài chính",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Giải quyết vấn đề (Case Solving)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Thuyết trình / Hùng biện",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Kiến thức đầu tư - kinh doanh",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Làm việc nhóm",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế slide / Trình bày trực quan",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Chặng 1: Giải Case Kinh tế",
+        "date": "Trước 13/06/2026",
+        "description": "Hai vòng thi kiến thức tài chính - kinh tế, kiểm tra tư duy nhanh và nền tảng chuyên môn của các đội thi",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Chặng 2: Trình bày case Huy động vốn",
+        "date": "13/06/2026",
+        "description": "Các đội trình bày phương án huy động vốn cho doanh nghiệp dựa trên dữ liệu và bối cảnh được cung cấp, trước sự chất vấn của Ban Giám khảo",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Đêm Chung kết - Công bố kết quả",
+        "date": "13/06/2026",
+        "description": "Tổng kết, công bố kết quả và vinh danh các đội thi xuất sắc nhất tại Hội trường lớn Trường Đại học Ngân hàng TP.HCM",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Các đội phải đối mặt với cả hai thử thách: trả lời nhanh các câu hỏi kiến thức (Chặng 1) và trình bày, bảo vệ phương án phân tích huy động vốn trước Ban Giám khảo (Chặng 2) đòi hỏi sự chuẩn bị kỹ lưỡng trên nhiều phương diện.",
+      "common_mistakes": "Không có thông tin cụ thể từ các bài đăng về sai lầm phổ biến của thí sinh mới tham gia.",
+      "key_success_factors": "Tư duy tài chính sắc bén, khả năng ứng biến linh hoạt, tinh thần làm việc nhóm bền bỉ và sự tự tin khi trình bày trước hội trường.",
+      "prep_advice": "Không có thông tin cụ thể từ các bài đăng về chiến lược ôn luyện. Khuyến nghị thí sinh ôn tập kiến thức tài chính - đầu tư nền tảng, luyện tập thuyết trình và phân tích case thực tế."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Quán quân, Á quân, Quý quân, Đội thi được yêu thích nhất",
+        "Kết quả chung cuộc: Quán quân - May Thanh Trì, Á quân - TL2, Quý quân - SYNERGY, Đội thi được yêu thích nhất - SYNERGY.",
+        "Chi tiết giải thưởng cụ thể (tiền mặt, hiện vật) không được đề cập trong các bài đăng cung cấp."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Chi tiết giải thưởng cụ thể (tiền mặt, hiện vật) không được đề cập trong các bài đăng cung cấp."
+      ],
+      "certificate": [],
+      "raw_text": "Quán quân, Á quân, Quý quân, Đội thi được yêu thích nhất\nKết quả chung cuộc: Quán quân - May Thanh Trì, Á quân - TL2, Quý quân - SYNERGY, Đội thi được yêu thích nhất - SYNERGY. Chi tiết giải thưởng cụ thể (tiền mặt, hiện vật) không được đề cập trong các bài đăng cung cấp."
+    }
+  },
+  {
+    "id": "hr-expert-2026-talent-sustainability",
+    "name": "HR Expert 2026",
+    "season": "Mùa IX - Talent Sustainability",
+    "organizer": "CLB Phát triển Nguồn nhân lực (HUC), trực thuộc Hội Sinh viên Phân hiệu Trường Đại học Ngoại thương tại TP.HCM",
+    "category": "Nhân sự",
+    "short_description": "Cuộc thi thường niên tìm kiếm nhà ươm mầm tài năng trong lĩnh vực Nhân sự, với chủ đề Talent Sustainability. Mùa IX quy tụ Top 6 thí sinh xuất sắc tranh tài tại Gala Night Luminous Bloom, hướng đến sứ mệnh ươm mầm - khai phá - kết nối người trẻ đam mê ngành Nhân sự trên toàn quốc.",
+    "eligibility": "Người trẻ có niềm đam mê với lĩnh vực Nhân sự trên toàn quốc",
+    "deadline": "",
+    "duration": "Khoảng 3 tháng (ước tính từ tháng 03/2026 - tháng 06/2026)",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm 3 vòng thi với các thử thách mang màu sắc khác nhau, sau đó Top 6 thí sinh xuất sắc nhất tiến vào Gala Night: Luminous Bloom để tranh danh hiệu Quán quân.",
+    "format": "Hybrid (vòng thi trực tuyến kết hợp Gala Night offline tại TP.HCM)",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân, Á quân và Quý quân (Top 6)",
+    "prizes_detail": "Không có thông tin chi tiết về giá trị tiền mặt hay hiện vật trong các bài đăng cung cấp. Cuộc thi trao danh hiệu Quán quân, Á quân và Quý quân cùng các giải thưởng khác không được nêu cụ thể.",
+    "registration_link": "https://hrexpert2026.tempi.website/",
+    "source_url": "https://www.facebook.com/hrexpert.hucftuhcmc",
+    "required_skills": [
+      {
+        "name": "Kiến thức Nhân sự (HR Knowledge)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tư duy chiến lược (Strategic Thinking)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng trình bày và giao tiếp (Presentation & Communication)",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Giải quyết vấn đề (Problem Solving)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Tự tin và bản lĩnh (Confidence & Composure)",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Làm việc nhóm (Teamwork)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế slide (Slide Design)",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1 & Vòng 2: Các bài thi chuyên môn",
+        "date": "Khoảng tháng 03/2026 - tháng 05/2026",
+        "description": "Các vòng thi với thử thách mang màu sắc khác nhau, đánh giá kiến thức và kỹ năng Nhân sự của thí sinh",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 3: Chung kết chọn Top 6",
+        "date": "Khoảng tháng 05/2026 - tháng 06/2026",
+        "description": "Vòng thi chọn ra Top 6 Nhà Ươm Trồng xuất sắc nhất tiến vào Gala Night",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Gala Night: Luminous Bloom",
+        "date": "2026-06-28",
+        "description": "Đêm Gala chung kết tại Phòng 201, Trung tâm khởi nghiệp sáng tạo TP.HCM (123 Trương Định, Phường Xuân Hòa, TP.HCM). Công bố Quán quân, Á quân và các giải thưởng.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Chinh phục các bài toán Nhân sự thực tiễn với tư duy chiến lược sắc bén trước Hội đồng Giám khảo, đồng thời phải duy trì bản lĩnh qua 3 vòng thi cam go",
+      "common_mistakes": "Không có thông tin cụ thể từ các bài đăng về sai lầm phổ biến",
+      "key_success_factors": "Tư duy chiến lược, bản lĩnh vững vàng, khả năng đưa ra góc nhìn sâu sắc và thực tiễn trước các bài toán Nhân sự, cùng sự nghiêm túc và cầu tiến trong suốt hành trình",
+      "prep_advice": "Không có thông tin cụ thể từ các bài đăng về chiến lược ôn luyện; tuy nhiên, dựa trên bản chất cuộc thi, thí sinh nên chuẩn bị kiến thức nền tảng về Nhân sự, rèn luyện tư duy chiến lược và kỹ năng trình bày trước đám đông"
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [
+        "Quán quân, Á quân và Quý quân (Top 6)",
+        "Không có thông tin chi tiết về giá trị tiền mặt hay hiện vật trong các bài đăng cung cấp.",
+        "Cuộc thi trao danh hiệu Quán quân, Á quân và Quý quân cùng các giải thưởng khác không được nêu cụ thể."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Không có thông tin chi tiết về giá trị tiền mặt hay hiện vật trong các bài đăng cung cấp."
+      ],
+      "certificate": [],
+      "raw_text": "Quán quân, Á quân và Quý quân (Top 6)\nKhông có thông tin chi tiết về giá trị tiền mặt hay hiện vật trong các bài đăng cung cấp. Cuộc thi trao danh hiệu Quán quân, Á quân và Quý quân cùng các giải thưởng khác không được nêu cụ thể."
+    }
+  },
+  {
+    "id": "hr-visionaries-2024-season3",
+    "name": "HR Visionaries 2024",
+    "season": "Season 3 (Mùa 3)",
+    "organizer": "RMIT Human Development Club (RMIT SGS HDC)",
+    "category": "Quản trị Nhân sự (Human Resource Management)",
+    "short_description": "Cuộc thi thường niên mùa thứ 3 do RMIT Human Development Club tổ chức, xoay quanh chủ đề Employee Well-being, mang đến nền tảng khám phá các khía cạnh Quản trị Nhân sự và phát triển kỹ năng chuyên môn – mềm cho sinh viên toàn miền Nam Việt Nam.",
+    "eligibility": "Tất cả sinh viên đại học trên khắp miền Nam Việt Nam",
+    "deadline": "",
+    "duration": "Tháng 06/2024 – Tháng 09/2024 (dự kiến dựa trên mô hình 3 tháng tương tự mùa 2)",
+    "rounds_count": 3,
+    "rounds_description": "Dựa trên mô hình 3 giai đoạn của mùa trước: Vòng 1 – Mở đơn & Nộp bài (trả lời tình huống HR thực tế); Vòng 2 – Vòng thi chuyên sâu (phát triển giải pháp cho chủ đề Well-being); Vòng 3 – Chung kết (Grand Day với thuyết trình và đánh giá của hội đồng chuyên gia).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải thưởng độc quyền và quà tặng (exclusive prizes and merchandise)",
+    "prizes_detail": "Các giải thưởng độc quyền và quà tặng merchandise được công bố chính thức qua fanpage và booklet; tổng giá trị giải thưởng chưa được công bố chi tiết trong các bài đăng hiện có.",
+    "registration_link": "https://bit.ly/hrv2024registration",
+    "source_url": "https://www.facebook.com/hrvisionariescompetition",
+    "required_skills": [
+      {
+        "name": "Human Resource Management",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Research & Critical Thinking",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Slide Design",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn đăng ký & Nộp bài luận",
+        "date": "Tháng 06/2024 – Tháng 07/2024",
+        "description": "Đăng ký tham gia và nộp bài thiết kế giải pháp cho các tình huống HR thực tế liên quan đến chủ đề Well-being.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Vòng thi chuyên sâu",
+        "date": "Tháng 07/2024 – Tháng 08/2024",
+        "description": "Phát triển và hoàn thiện giải pháp, được hướng dẫn bởi Mentors và Guest Speakers chuyên ngành HR.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chung kết – Grand Day",
+        "date": "Tháng 09/2024",
+        "description": "Thuyết trình trước hội đồng giám khảo, tranh giải quán quân trước sự chứng kiến của hơn 140 khán giả và chuyên gia ngành.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Chủ đề Well-being là khái niệm tương đối mới trong bối cảnh cuộc thi HR, đòi hỏi thí sinh phải nhanh chóng nắm bắt và vận dụng kiến thức về chiến lược nhân sự liên quan đến sức khỏe tinh thần và thể chất của nhân viên trong môi trường làm việc hiện đại.",
+      "common_mistakes": "(1) Không nghiên cứu kỹ chủ đề trước khi bắt đầu, dẫn đến thiếu chiều sâu trong phân tích; (2) Bỏ qua yếu tố thực tiễn ngành và chỉ đưa ra giải pháp mang tính lý thuyết; (3) Không phân bổ thời gian hợp lý giữa các vòng thi.",
+      "key_success_factors": "Khả năng kết hợp kiến thức HR chuyên sâu với tư duy sáng tạo trong việc thiết kế giải pháp Well-being thực tế; kỹ năng thuyết trình và truyền đạt ý tưởng rõ ràng; tinh thần đồng đội và khả năng tiếp thu phản hồi từ Mentors.",
+      "prep_advice": "Bắt đầu nghiên cứu sớm về xu hướng Employee Well-being trong doanh nghiệp hiện đại; tham gia các workshop nếu có; chủ động trao đổi với Mentors và Guest Speakers để được định hướng; phân bổ thời gian đều cho từng vòng, không nên dồn tất cả vào giai đoạn cuối. Đặc biệt chú trọng phần thuyết trình tại Grand Day vì đây là vòng quyết định thứ hạng."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Hiện vật & Cúp"
+      ],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Giải thưởng độc quyền và quà tặng (exclusive prizes and merchandise)",
+        "Các giải thưởng độc quyền và quà tặng merchandise được công bố chính thức qua fanpage và booklet"
+      ],
+      "certificate": [],
+      "raw_text": "Giải thưởng độc quyền và quà tặng (exclusive prizes and merchandise)\nCác giải thưởng độc quyền và quà tặng merchandise được công bố chính thức qua fanpage và booklet; tổng giá trị giải thưởng chưa được công bố chi tiết trong các bài đăng hiện có."
+    }
+  },
+  {
+    "id": "mc-fire-2023-coincide",
+    "name": "MC FIRE 2023",
+    "season": "2023",
+    "organizer": "CLB MC & Thời Trang ĐH Ngoại thương - MFC FTU",
+    "category": "Cuộc thi tài năng người dẫn chương trình dành cho người trẻ trên toàn thành phố Hà Nội và khu vực miền Bắc.",
+    "short_description": "Cuộc thi tìm kiếm tài năng người dẫn chương trình dành cho người trẻ trên toàn thành phố Hà Nội và khu vực miền Bắc, do CLB MC & Thời Trang ĐH Ngoại thương tổ chức với hành trình kéo dài 2 tháng và 4 vòng thi gay cấn.",
+    "eligibility": "Người trẻ trên toàn thành phố Hà Nội và khu vực miền Bắc.",
+    "deadline": "",
+    "duration": "Tháng 02/2023 - Tháng 04/2023",
+    "rounds_count": 4,
+    "rounds_description": "Cuộc thi gồm 4 vòng thi: Vòng 1-3 (Vòng loại, Bán kết) và Vòng 4: Chung kết (The Eyes). Các vòng thi bao gồm đào tạo, thi đấu trực tiếp trên sân khấu với các thử thách về kỹ năng ứng biến, biên tập nhanh và phong cách dẫn chương trình.",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "1 Giải nhất: Combo du lịch Sapa 2 ngày 1 đêm (2.000.000đ), Học bổng 100% khóa học tại IZONE (tối đa 8.800.000đ), IZONE Summer Pack, cơ hội tham gia chặng 3 (tổng giá trị 45.000.000đ); 2 Giải nhì: 2 vé xem phim, 2 vé công viên nước Hồ Tây, IZONE Summer Pack; 3 Giải ba: 2 vé trượt băng tại Royal City, IZONE Summer Pack",
+    "prizes_detail": "Quán quân: Đào Thị Mai Xuân (ĐH Thương mại); Á Quân: Nguyễn Đức Mạnh (Học viện Báo chí và Tuyên truyền); Quý Quân: Nguyễn Hoàng Long. Tổng giải thưởng và cơ hội cụ thể không được công bố chi tiết trong các bài đăng.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/mcfire.mfc.ftu",
+    "required_skills": [
+      {
+        "name": "Hùng biện và Truyền đạt trước đám đông",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kỹ năng ứng biến (Improvisation)",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Biên tập nhanh và xử lý tình huống",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Phong cách trình bày và kỹ năng sân khấu",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Kỹ năng dẫn chương trình (Hosting)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Linh hoạt và tự tin trên sân khấu",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Khởi động & Vòng loại",
+        "date": "Đầu tháng 02/2023",
+        "description": "Nhận đơn đăng ký và sàng lọc thí sinh từ hơn 200 người tham gia.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Vòng thi giữa kỳ",
+        "date": "Tháng 02 - 03/2023",
+        "description": "Các thí sinh trải qua vòng thi thứ hai với các thử thách về kỹ năng dẫn chương trình cơ bản.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Bán kết",
+        "date": "Trước ngày 01/06/2023",
+        "description": "Đêm Bán kết - các thí sinh vượt qua vòng loại tiếp tục cạnh tranh để giành vé vào chung kết. BTC cấp minh chứng điểm rèn luyện vào ngày 01-02/06/2023.",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 4: Chung kết - The Eyes",
+        "date": "2023-04-15/2023-04-27",
+        "description": "Đêm Chung kết diễn ra tại Toà nhà Cung Trí Thức, Số 1 Tôn Thất Thuyết, Cầu Giấy. TOP 9 thí sinh tranh tài với chủ đề 'THE EYES'. Quán quân: Đào Thị Mai Xuân.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Vòng chung kết với chủ đề 'The Eyes' đòi hỏi thí sinh phải cháy hết mình trên sân khấu, xử lý tình huống linh hoạt và bứt phá ngoạn mục trước khán giả lớn. Áp lực phải duy trì phong độ ổn định qua 4 vòng thi kéo dài 2 tháng cũng là thử thách lớn.",
+      "common_mistakes": "Không có thông tin cụ thể từ các bài đăng. Tuy nhiên, thí sinh mới tham gia thường gặp khó khăn trong việc ứng biến khi gặp tình huống bất ngờ và duy trì sự tự tin qua nhiều vòng thi.",
+      "key_success_factors": "Tinh thần 'đầu lạnh - tim nóng' (giữ bình tĩnh nhưng đầy đam mê), ý chí nỗ lực học hỏi không ngừng, phong thái chuyên nghiệp, khả năng ứng biến và biên tập nhanh, cùng sự quyết tâm 'khẳng định bản thân' trên sân khấu.",
+      "prep_advice": "Tham gia các buổi training chuyên sâu (như buổi training về 'Kỹ năng ứng biến & Biên tập nhanh' do MC/BTV Sơn Lâm dẫn dắt), rèn luyện kỹ năng xử lý tình huống bất ngờ, trau dồi phong cách cá nhân và luyện tập biên tập nhanh. Cần phân bổ thời gian để duy trì phong độ ổn định qua tất cả các vòng thi."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt",
+        "Học bổng"
+      ],
+      "cash": [
+        "Giải nhì: 2 vé xem phim, 2 vé công viên nước Hồ Tây, IZONE Summer Pack",
+        "Giải ba: 2 vé trượt băng tại Royal City, IZONE Summer Pack",
+        "Quán quân: Đào Thị Mai Xuân (ĐH Thương mại)",
+        "Á Quân: Nguyễn Đức Mạnh (Học viện Báo chí và Tuyên truyền)",
+        "Quý Quân: Nguyễn Hoàng Long."
+      ],
+      "scholarship": [
+        "Giải nhất: Combo du lịch Sapa 2 ngày 1 đêm (2.000.000đ), Học bổng 100% khóa học tại IZONE (tối đa 8.800.000đ), IZONE Summer Pack, cơ hội tham gia chặng 3 (tổng giá trị 45.000.000đ)"
+      ],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "1 Giải nhất: Combo du lịch Sapa 2 ngày 1 đêm (2.000.000đ), Học bổng 100% khóa học tại IZONE (tối đa 8.800.000đ), IZONE Summer Pack, cơ hội tham gia chặng 3 (tổng giá trị 45.000.000đ); 2 Giải nhì: 2 vé xem phim, 2 vé công viên nước Hồ Tây, IZONE Summer Pack; 3 Giải ba: 2 vé trượt băng tại Royal City, IZONE Summer Pack\nQuán quân: Đào Thị Mai Xuân (ĐH Thương mại); Á Quân: Nguyễn Đức Mạnh (Học viện Báo chí và Tuyên truyền); Quý Quân: Nguyễn Hoàng Long. Tổng giải thưởng và cơ hội cụ thể không được công bố chi tiết trong các bài đăng."
+    }
+  },
+  {
+    "id": "speak-up-2026-ajc",
+    "name": "SPEAK UP 2026",
+    "season": "2026",
+    "organizer": "Học viện Báo chí và Tuyên truyền (AJC)",
+    "category": "Người dẫn chương trình (MC)",
+    "short_description": "Cuộc thi tìm kiếm Người dẫn chương trình tài năng trên toàn miền Bắc, khuyến khích sinh viên thể hiện khả năng hùng biện, dẫn dắt sân khấu và phong cách cá nhân.",
+    "eligibility": "Sinh viên toàn miền Bắc",
+    "deadline": "",
+    "duration": "Không xác định từ dữ liệu cung cấp",
+    "rounds_count": null,
+    "rounds_description": "Không có thông tin chi tiết về cơ cấu các vòng thi trong các bài đăng",
+    "format": "Chưa xác định",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Chưa được công bố",
+    "registration_link": null,
+    "source_url": "https://www.facebook.com/speakup2026.ajc",
+    "required_skills": [
+      {
+        "name": "Public Speaking",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Stage Presence",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "MC Skills",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Confidence & Charisma",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Improvisation",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Voice Modulation",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [],
+    "playbook_insights": {
+      "challenging_part": "Giữ sự tự tin và tự nhiên trước sân khấu lớn, xử lý tình huống bất ngờ trong lúc dẫn chương trình",
+      "common_mistakes": "Quá cứng nhắc, đọc script máy móc, thiếu tương tác với khán giả",
+      "key_success_factors": "Sự tự nhiên, khả năng xử lý tình huống linh hoạt, kỹ năng giao tiếp bằng ánh mắt và ngôn ngữ cơ thể",
+      "prep_advice": "Luyện tập dẫn dắt trước gương, tham gia các buổi workshop về MC, ôn tập kỹ năng hùng biện và chuẩn bị sẵn các kịch bản dự phòng"
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Chưa được công bố"
+    }
+  },
+  {
+    "id": "mc-spotlight-2026-song-chip",
+    "name": "MC Spotlight 2026 - Sống Chip",
+    "season": "2026 (Hè 2026)",
+    "organizer": "CLB Thuyết trình - MC, Đại học Kinh tế Quốc dân (NEU)",
+    "category": "MC - Nghệ thuật dẫn chương trình",
+    "short_description": "Cuộc thi tìm kiếm tài năng MC Kinh tế đầu tiên và duy nhất dành cho học sinh, sinh viên trên toàn miền Bắc, chủ đề \"Sống Chip\".",
+    "eligibility": "Học sinh, sinh viên trên toàn miền Bắc",
+    "deadline": "13/05/2026",
+    "duration": "Tháng 05/2026 - Tháng 06/2026",
+    "rounds_count": 4,
+    "rounds_description": "Vòng Đơn (Đăng ký & nộp hồ sơ) → Vòng Sơ khảo (17/05) → Vòng Bán kết (31/05) → Vòng Chung kết (13/06)",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Không được đề cập cụ thể trong các bài đăng",
+    "registration_link": "https://www.mcspotlight2026.click",
+    "source_url": "https://www.facebook.com/MCSpotlightPMC",
+    "required_skills": [
+      {
+        "name": "Hùng biện & Truyền đạt",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Bản lĩnh sân khấu",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Quản lý giọng nói & Ngữ điệu",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Xử lý tình huống & Tư duy nhanh",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kỹ năng giao tiếp & Kết nối khán giả",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Sáng tạo & Phong cách cá nhân",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Đơn: Đăng ký & Nộp hồ sơ",
+        "date": "2026-05-03 - 2026-05-13",
+        "description": "Thí sinh nộp đơn đăng ký tham gia cuộc thi",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Sơ khảo",
+        "date": "2026-05-17",
+        "description": "Vòng loại sơ bộ để chọn thí sinh vào các vòng tiếp theo",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Bán kết",
+        "date": "2026-05-31",
+        "description": "Vòng thi loại để chọn ra các thí sinh vào chung kết",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Chung kết",
+        "date": "2026-06-13",
+        "description": "Đêm chung kết tìm kiếm quán quân MC Spotlight 2026",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Phải duy trì bản lĩnh và sự tự tin trên sân khấu trước áp lực thi đấu, đồng thời xử lý linh hoạt các tình huống phát sinh trong quá trình dẫn chương trình",
+      "common_mistakes": "Quá phụ thuộc vào kịch bản có sẵn mà thiếu khả năng ứng biến; chưa xây dựng được phong cách cá nhân nổi bật; lo lắng quá mức khiến mất kết nối với khán giả",
+      "key_success_factors": "Sự chân thành, bản lĩnh cá nhân, khả năng xử lý tình huống linh hoạt và kỹ năng kết nối với khán giả; giữ vững bản sắc riêng trong thời đại số",
+      "prep_advice": "Ôn luyện kỹ năng hùng biện qua thực hành thường xuyên, nghiên cứu các phong cách MC đa dạng, rèn luyện khả năng ứng biến bằng cách tham gia các sự kiện nói chuyện trước đám đông, và chuẩn bị tâm thế vững vàng để biến áp lực thành động lực"
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không được đề cập cụ thể trong các bài đăng"
+    }
+  },
+  {
+    "id": "mc-on-stage-2026",
+    "name": "MC On Stage 2026",
+    "season": "2026",
+    "organizer": "CLB MC On Stage - Học viện Thanh thiếu niên Việt Nam (VYC)",
+    "category": "Dẫn chương trình",
+    "short_description": "Cuộc thi toả sáng tài năng người dẫn chương trình (MC) dành cho sinh viên trẻ, tìm kiếm những nhà vô địch có khả năng dẫn dắt sân khấu bản lĩnh, tự tin và sáng tạo. Mùa giải 2026 quy tụ Top 12 thí sinh xuất sắc nhất qua nhiều vòng thi gay cấn.",
+    "eligibility": "Sinh viên, thanh thiếu niên",
+    "deadline": "",
+    "duration": "Tháng 02/2026 - Tháng 05/2026",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi trải qua nhiều vòng thi: Vòng loại (sàng lọc thí sinh), Vòng bán kết (Top 12 thí sinh xuất sắc nhất tranh tài), và Đêm Chung kết (chọn ra quán quân, á quân).",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Không có thông tin chi tiết về giải thưởng trong các bài đăng cung cấp. Cuộc thi trao danh hiệu Quán quân, Á quân và các giải thưởng khác tại đêm Chung kết.",
+    "registration_link": "https://forms.gle/rdLHZyV8vhsQDVoLA",
+    "source_url": "https://www.facebook.com/cuocthimconstage/",
+    "required_skills": [
+      {
+        "name": "Public Speaking",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Stage Presence & Charisma",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Voice Modulation & Control",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Improvisation & Quick Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation Skills",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Confidence & Composure Under Pressure",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Appearance & Stage Styling",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng loại",
+        "date": "Đầu năm 2026 (ước tính)",
+        "description": "Vòng sàng lọc ban đầu, thí sinh thể hiện khả năng dẫn chương trình cơ bản để giành vé vào vòng tiếp theo.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng bán kết",
+        "date": "Trước ngày 18/05/2026",
+        "description": "Top 12 thí sinh xuất sắc nhất tranh tài tại đêm bán kết, được chụp ảnh chuyên nghiệp bởi Jardin Yearbook và chuẩn bị hình ảnh bởi các nhà tài trợ makeup/trang phục.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Đêm Chung kết",
+        "date": "2026-05-20",
+        "description": "Đêm chung kết MC On Stage 2026 diễn ra tại Hội trường lớn Học viện Thanh thiếu niên Việt Nam, số 3 phố Chùa Láng, phường Láng, Hà Nội. Đêm thi có sự đồng hành của MC Minh Quân và MC Lan Anh, với sự tài trợ của Fae Beauty (Vàng), Hiền Nguyễn Makeup & MinPhora (Bạc), và truyền thông bởi SinhVien.vn, Giải Trí Văn Hóa, Youth+, Thế Giới Giải Trí, Edu2Review.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thử thách lớn nhất là giữ vững sự tự tin và bản lĩnh trên sân khấu trước áp lực thi đấu, đặc biệt khi phải đối mặt với các phần thi yêu cầu xử lý tình huống nhanh và kỹ năng dẫn chương trình đa dạng.",
+      "common_mistakes": "Các thí sinh mới thường mắc sai lầm như: thiếu chuẩn bị kỹ lưỡng cho từng phần thi, quá hồi hộp dẫn đến mất kiểm soát giọng nói, chưa biết cách kết hợp giữa ngoại hình và nội dung truyền tải, và không phân bổ thời gian ôn luyện hợp lý giữa các vòng.",
+      "key_success_factors": "Bản lĩnh sân khấu, khả năng xử lý tình huống linh hoạt, giọng nói nội lực và truyền cảm hứng, sự tự tin toát ra từ bên trong, kỹ năng kết nối với khán giả, và sự chỉn chu trong từng chi tiết trình bày.",
+      "prep_advice": "Ôn luyện liên tục các kỹ năng hùng biện và dẫn chương trình qua từng vòng; tham gia các workshop nếu có; chăm sóc ngoại hình và trang phục từ sớm; học hỏi từ kinh nghiệm của các quán quân, á quân mùa trước (như những chia sẻ trong bài đăng #2); tập dượtệt nhiều lần trước gương hoặc trước bạn bè để giảm căng thẳng; phân bổ thời gian cân bằng giữa rèn luyện kỹ năng cứng và xây dựng sự tự tin mềm."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Cuộc thi trao danh hiệu Quán quân, Á quân và các giải thưởng khác tại đêm Chung kết."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không có thông tin chi tiết về giải thưởng trong các bài đăng cung cấp. Cuộc thi trao danh hiệu Quán quân, Á quân và các giải thưởng khác tại đêm Chung kết."
+    }
+  },
+  {
+    "id": "tran-bien-tien-ngoa-2026",
+    "name": "Cuộc thi Tranh biện Tiếng Hoa 2026",
+    "season": "2026",
+    "organizer": "Câu lạc bộ Tiếng Trung - Trường Đại học Ngoại thương (CC FTU)",
+    "category": "Tiếng Trung / Tranh biện",
+    "short_description": "Cuộc thi tranh biện bằng tiếng Hoa quy mô toàn quốc dành cho học sinh, sinh viên yêu thích tiếng Trung, với chủ đề năm nay là \"Công nghệ: Dòng chảy số hoá, trí tuệ tiên phong\", bao gồm các vòng sơ khảo và chung kết với sự tài trợ của KEYENCE.",
+    "eligibility": "Học sinh, sinh viên yêu thích tiếng Trung trên toàn quốc",
+    "deadline": "04/05/2026",
+    "duration": "Tháng 04/2026 - Tháng 05/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng đơn (Đăng ký dự thi): 20/04/2026 - 04/05/2026 → Vòng sơ khảo: 10/05/2026 → Vòng chung kết: 24/05/2026 tại Hội trường D201, Trường Đại học Ngoại thương",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "01 Quán quân, 02 Á quân (Á quân 1, Á quân 2), Top 6, Thí sinh xuất sắc nhất, Biện luận ấn tượng, Đội thi được yêu thích nhất (1.000.000 VNĐ)",
+    "prizes_detail": "Giải thưởng bình chọn Đội thi được yêu thích nhất: 1.000.000 VNĐ. Các giải thưởng khác (quán quân, á quân, top 6) có giá trị và hình thức do BTC và nhà tài trợ KEYENCE tài trợ.",
+    "registration_link": "https://cc-ftu.wixsite.com/tbth2026",
+    "source_url": "https://www.facebook.com/cuocthitranhbientienghoa",
+    "required_skills": [
+      {
+        "name": "Hùng biện và Thuyết phục",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Lập luận và Tư duy phản biện",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Trình độ tiếng Hoa",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Nghiên cứu và Thu thập thông tin",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế slide / Trình bày trực quan",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Ứng biến và Xử lý tình huống",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng đơn - Đăng ký dự thi",
+        "date": "2026-04-20 - 2026-05-04",
+        "description": "Đăng ký tham gia cuộc thi qua link đăng ký chính thức. Deadline: 04/05/2026.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng sơ khảo",
+        "date": "2026-05-10",
+        "description": "Vòng thi sơ khảo chọn ra các đội thi xuất sắc nhất bước vào vòng chung kết (Top 6).",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng chung kết",
+        "date": "2026-05-24",
+        "description": "Vòng chung kết diễn ra tại Hội trường D201, Trường Đại học Ngoại thương. 6 đội thi tranh tài với chủ đề \"Công nghệ: Dòng chảy số hoá, trí tuệ tiên phong\". Phát trực tiếp trên YouTube của Câu lạc bộ.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Xây dựng lập luận sắc bén và thuyết phục trên chủ đề công nghệ phức tạp bằng tiếng Hoa trong thời gian giới hạn, đồng thời phải ứng biến linh hoạt trước các phản biện từ đối thủ.",
+      "common_mistakes": "Chuẩn bị chưa đa chiều về các góc nhìn của chủ đề (chỉ tập trung một phía), quản lý thời gian kém trong phần tranh biện, và thiếu phối hợp giữa các thành viên trong đội.",
+      "key_success_factors": "Tư duy phản biện sắc bén, khả năng ứng biến linh hoạt, phong thái tự tin trên sân khấu, sự phối hợp ăn ý giữa các thành viên đội, và nghiên cứu kỹ lưỡng chủ đề từ nhiều góc độ.",
+      "prep_advice": "Nghiên cứu đa chiều chủ đề công nghệ (AI, chuyển đổi số, cơ hội và thách thức), luyện tập xây dựng lập luận và phản biện thường xuyên, phân bổ thời gian chuẩn bị kỹ lưỡng cho từng phần (mở đầu, lập luận chính, phản biện, kết luận), và xem lại bài thi của các mùa trước để học hỏi chiến thuật."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Quán quân, 02 Á quân (Á quân 1, Á quân 2), Top 6, Thí sinh xuất sắc nhất, Biện luận ấn tượng, Đội thi được yêu thích nhất (1.000.000 VNĐ)",
+        "Giải thưởng bình chọn Đội thi được yêu thích nhất: 1.000.000 VNĐ.",
+        "Các giải thưởng khác (quán quân, á quân, top 6) có giá trị và hình thức do BTC và nhà tài trợ KEYENCE tài trợ."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "01 Quán quân, 02 Á quân (Á quân 1, Á quân 2), Top 6, Thí sinh xuất sắc nhất, Biện luận ấn tượng, Đội thi được yêu thích nhất (1.000.000 VNĐ)\nGiải thưởng bình chọn Đội thi được yêu thích nhất: 1.000.000 VNĐ. Các giải thưởng khác (quán quân, á quân, top 6) có giá trị và hình thức do BTC và nhà tài trợ KEYENCE tài trợ."
+    }
+  },
+  {
+    "id": "neu-debate-piece-of-mine-2026",
+    "name": "Workshop PIECE OF MINE",
+    "season": "2026",
+    "organizer": "Câu lạc bộ Tranh biện Đại học Kinh tế Quốc dân (NEU Debate Club - NDC)",
+    "category": "Phát triển bản thân / Hướng nghiệp",
+    "short_description": "Workshop do NEU Debate Club tổ chức nhằm giúp sinh viên K68 định hướng lựa chọn và phát triển các kỹ năng nền tảng khi bước vào môi trường đại học, với sự đồng hành của diễn giả khách mời và MC chuyên nghiệp.",
+    "eligibility": "Học sinh, sinh viên",
+    "deadline": "Đóng đơn sớm hơn dự kiến (trước 23/09/2026)",
+    "duration": "Ngày 23/09/2026, 18:30 - 21:00 (sự kiện đơn lẻ)",
+    "rounds_count": 1,
+    "rounds_description": "Single workshop session bao gồm bài phát biểu khai mạc, chia sẻ từ 3 diễn giả chuyên gia, và chương trình tương tác định hướng kỹ năng cho sinh viên năm nhất.",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner",
+    "grand_prize": "Phần quà bất ngờ và cộng 03 điểm Đoàn cho sinh viên NEU tham gia sự kiện",
+    "prizes_detail": "03 điểm Đoàn cho toàn bộ sinh viên NEU tham gia sự kiện; quà tặng từ nhà tài trợ (Duy Tiến - GMART Windows, Scientia Law Firm)",
+    "registration_link": "https://forms.gle/BLZ7YUxnKkw1xAfbA",
+    "source_url": "https://www.facebook.com/NEUDebateClub",
+    "required_skills": [
+      {
+        "name": "Tự học và Quản lý áp lực cá nhân",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Tư duy phản biện",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Làm việc nhóm",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Quyết định và chọn lọc cơ hội",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Public Speaking & Presentation",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng đăng ký tham gia",
+        "date": "Đến hết 2026-09-20 (đóng đơn sớm)",
+        "description": "Đăng ký qua Google Forms; hạn chế số lượng người tham gia do giới hạn chỗ ngồi tại Nhà Văn hóa NEU",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Workshop PIECE OF MINE - Ngày sự kiện",
+        "date": "2026-09-23",
+        "description": "Chương trình workshop chính thức diễn ra tại Nhà Văn hóa NEU với MC Minh Đức, 3 diễn giả (Cô Trần Hồng Nhung, Đỗ Hải Nhật Anh, Nguyễn Thanh Hằng), bao gồm chia sẻ kỹ năng nền tảng và định hướng đại học cho K68",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Giữ động lực và tránh FOMO khi đối mặt với hàng loạt lựa chọn CLB, hoạt động ngoại khóa trong năm nhất đại học; tìm ra 'mảnh ghép' phù hợp nhất với bản thân giữa môi trường mới rộng lớn.",
+      "common_mistakes": "Đăng ký quá nhiều CLB cùng lúc theo phong trào mà không cân nhắc mục tiêu cá nhân; tham gia vô định dẫn đến kiệt sức; bỏ lỡ cơ hội vì không dám bước ra khỏi vùng an toàn.",
+      "key_success_factors": "Tư duy phản biện để đánh giá lựa chọn, kỹ năng tự quản lý thời gian, sự tự tin trong giao tiếp và trình bày quan điểm, cùng khả năng lắng nghe và tôn trọng góc nhìn khác biệt.",
+      "prep_advice": "Trước workshop: tự vấn mục tiêu và giá trị cá nhân, chuẩn bị sẵn câu hỏi muốn giải đáp. Trong sự kiện: chủ động tương tác với diễn giả, ghi chép ý tưởng, kết nối với người tham gia khác. Sau workshop: áp dụng ngay 3 kỹ năng then chốt (tự học, tư duy phản biện, chọn lọc cơ hội) vào thực tế học tập và hoạt động ngoại khóa."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Hiện vật & Cúp",
+        "Chứng nhận"
+      ],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "quà tặng từ nhà tài trợ (Duy Tiến - GMART Windows, Scientia Law Firm)"
+      ],
+      "certificate": [
+        "Phần quà bất ngờ và cộng 03 điểm Đoàn cho sinh viên NEU tham gia sự kiện",
+        "điểm Đoàn cho toàn bộ sinh viên NEU tham gia sự kiện"
+      ],
+      "raw_text": "Phần quà bất ngờ và cộng 03 điểm Đoàn cho sinh viên NEU tham gia sự kiện\n03 điểm Đoàn cho toàn bộ sinh viên NEU tham gia sự kiện; quà tặng từ nhà tài trợ (Duy Tiến - GMART Windows, Scientia Law Firm)"
+    }
+  },
+  {
+    "id": "luminous-2024",
+    "name": "LUMINOUS - Cuộc thi Người dẫn chương trình tài năng",
+    "season": "2024",
+    "organizer": "MIC - CLB MC Học viện Ngoại giao",
+    "category": "MC / Truyền thông",
+    "short_description": "Cuộc thi tìm kiếm người dẫn chương trình tài năng dành cho sinh viên, được tổ chức bởi MIC - CLB MC Học viện Ngoại giao, với 4 vòng thi từ sơ khảo đến chung kết, quy tụ các thí sinh phát triển kỹ năng dẫn chương trình, hùng biện và truyền thông.",
+    "eligibility": "Sinh viên",
+    "deadline": "28/09/2024",
+    "duration": "2024-09-17 - 2024-11-16",
+    "rounds_count": 4,
+    "rounds_description": "Vòng Đơn (Pure): Nộp đơn đăng ký; Vòng Sơ khảo (Arise): Phỏng vấn sơ bộ; Vòng Bán kết (Blossom): Thi đấu chuyên sâu; Vòng Chung kết (Legacy): Tranh tài cuối cùng trước ban giám khảo và khán giả.",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Các danh hiệu cao quý và giải thưởng dành cho thí sinh đạt thành tích xuất sắc (chi tiết không được nêu cụ thể trong bài đăng)",
+    "prizes_detail": "Không được nêu chi tiết trong các bài đăng cung cấp",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/luminousdav",
+    "required_skills": [
+      {
+        "name": "Hùng biện và Public Speaking",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Truyền thông và Media Skills",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Sự tự tin và khả năng xử lý tình huống trên sân khấu",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Kỹ năng dẫn chương trình (Hosting/MC)",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Tiếng Anh giao tiếp",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Thiết kế slide / Hình ảnh minh họa",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Đơn - Pure",
+        "date": "2024-09-17 to 2024-09-28",
+        "description": "Nộp đơn đăng ký tham gia cuộc thi",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Sơ khảo - Arise",
+        "date": "2024-10-06",
+        "description": "Phỏng vấn sơ khảo để chọn thí sinh vào các vòng tiếp theo",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Bán kết - Blossom",
+        "date": "2024-10-26",
+        "description": "Thi đấu bán kết, chọn thí sinh vào vòng chung kết",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Chung kết - Legacy",
+        "date": "2024-11-16",
+        "description": "Đêm chung kết trao giải - sự kiện lớn nhất cuộc thi",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Giữ vững sự tự tin và xử lý linh hoạt các tình huống bất ngờ trên sân khấu trước ban giám khảo và khán giả lớn, đồng thời phải thể hiện được cá tính riêng biệt trong mỗi phần thi.",
+      "common_mistakes": "Chuẩn bị chưa kỹ lưỡng cho từng phần thi, thiếu sự tự tin khi đứng trước đám đông, không nắm bắt được chủ đề hoặc nội dung được giao, và quá phụ thuộc vào kịch bản có sẵn mà không có khả năng ứng biến.",
+      "key_success_factors": "Kỹ năng hùng biện vững vàng, khả năng xử lý tình huống nhanh nhạy, sự tự nhiên và chân thật trên sân khấu, kỹ năng giao tiếp tốt, và đặc biệt là sự chuẩn bị kỹ lưỡng từ khâu đơn đăng ký đến từng vòng thi.",
+      "prep_advice": "Nên rèn luyện kỹ năng public speaking thường xuyên, tham gia các câu lạc bộ hùng biện hoặc MC để tích lũy kinh nghiệm thực tế. Nâng cao khả năng tiếng Anh giao tiếp (đặc biệt hữu ích khi có nhà tài trợ như NET English đồng hành). Nghiên cứu kỹ chủ đề từng vòng thi, luyện tập xử lý tình huống bất ngờ, và chuẩn bị tâm lý vững vàng cho từng giai đoạn."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Các danh hiệu cao quý và giải thưởng dành cho thí sinh đạt thành tích xuất sắc (chi tiết không được nêu cụ thể trong bài đăng)\nKhông được nêu chi tiết trong các bài đăng cung cấp"
+    }
+  },
+  {
+    "id": "toi-len-tieng-2026-mimic",
+    "name": "Tôi Lên Tiếng 2026",
+    "season": "Mùa thứ 10",
+    "organizer": "CLB Marketing Học viện Tài chính - FMC",
+    "category": "Hùng biện",
+    "short_description": "Cuộc thi hùng biện chủ đề MIMIC - Thanh âm của Bản ngã dành cho sinh viên",
+    "eligibility": "Sinh viên",
+    "deadline": "20/04/2026",
+    "duration": "Tháng 02/2026 - Tháng 05/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Nộp bài luận & mở đơn (đóng đơn 20/04, công bố TOP 12 ngày 25/04). Vòng 2: Thuyết trình & trả lời BGK (nộp bài trước 7/05, thuyết trình 8/05, công bố TOP 4 ngày 10/05). Vòng 3: Chung kết (TOP 4 tranh quán quân).",
+    "format": "Offline",
+    "team_size": {
+      "min": 2,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Không được đề cập chi tiết trong các bài đăng cung cấp",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/toilentienghvtc",
+    "required_skills": [
+      {
+        "name": "Hùng biện & Thuyết trình",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Tư duy phản biện & Lập luận",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Xây dựng nội dung & Viết bài luận",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Kỹ năng giao tiếp & Truyền tải cảm xúc",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Thiết kế Slide (PowerPoint)",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Quản lý thời gian & Làm việc nhóm",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Nộp bài luận",
+        "date": "Đến 2026-04-20",
+        "description": "Các đội đăng ký tham gia và nộp bài luận thể hiện quan điểm cá nhân về chủ đề MIMIC. BTC đóng cổng đăng ký và tiếp nhận bài thi.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 1: Công bố kết quả TOP 12",
+        "date": "2026-04-25",
+        "description": "BTC công bố TOP 12 đội thi xuất sắc nhất vòng 1, bước vào vòng 2 với đề tài đã nộp.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 2: Nộp bài & Thuyết trình",
+        "date": "2026-04-26 đến 2026-05-10",
+        "description": "TOP 12 nộp bài luận PDF + PowerPoint (PPTX + PDF) trước 20h00 ngày 7/05. Thuyết trình 7 phút + 5 phút Q&A vào ngày 8/05. BTC công bố TOP 4 ngày 10/05.",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 3: Chung kết",
+        "date": "Sau 2026-05-10",
+        "description": "TOP 4 đội thi xuất sắc nhất tranh giải quán quân. Chi tiết thể lệ và thời gian sẽ được BTC thông báo sau.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Khẳng định tiếng nói và bản ngã riêng biệt giữa áp lực hòa nhập xã hội và ảnh hưởng của công nghệ, đồng thời truyền tải thông điệp một cách thuyết phục và chạm đến cảm xúc người nghe.",
+      "common_mistakes": "Sao chép ý kiến người khác thay vì phát triển góc nhìn cá nhân; chuẩn bị kỹ thuật bài thuyết trình (slide, thời gian) không tốt; không luyện tập trả lời câu hỏi BGK kỹ lưỡng.",
+      "key_success_factors": "Sự chân thành trong nội dung, tư duy phản biện sắc bén, khả năng truyền tải cảm xúc qua ngôn từ, kỹ năng thuyết trình tự tin, và sự chuẩn bị chu đáo cho cả phần trình bày lẫn Q&A.",
+      "prep_advice": "Tham gia các buổi training do BTC tổ chức (như buổi training với MC/BTV Tiến Chung), luyện tập thuyết trình trước gương hoặc nhóm bạn, xây dựng góc nhìn cá nhân rõ ràng, chuẩn bị kỹ slide theo đúng định dạng yêu cầu, và ôn tập các tình huống Q&A có thể gặp."
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không được đề cập chi tiết trong các bài đăng cung cấp"
+    }
+  },
+  {
+    "id": "toi-ban-linh-2024",
+    "name": "Light on The Mic 2024: G-OLD",
+    "season": "Light on The Mic 2024: G-OLD",
+    "organizer": "Future Speakers HANU - Câu lạc bộ thuyết trình của Trường Đại học Hà Nội",
+    "category": "Trình bày / hùng biện",
+    "short_description": "Light on The Mic 2024: G-OLD là cuộc thi thường niên do Future Speakers HANU - Câu lạc bộ thuyết trình của Trường Đại học Hà Nội tổ chức, mang đến sân chơi lành mạnh, bổ ích cho sinh viên HANU và học sinh, sinh viên trên địa bàn Hà Nội nhằm lan tỏa niềm đam mê thuyết trình.",
+    "eligibility": "Học sinh, sinh viên từ 16 - 22 tuổi trên địa bàn Thành phố Hà Nội; thí sinh có đam mê thuyết trình, hùng biện trước đám đông; giọng nói rõ ràng, phát âm chuẩn; yêu thích và mong muốn lan tỏa ngôn ngữ và văn hóa Việt.",
+    "deadline": "25/08/2024",
+    "duration": "Khoảng tháng 03/2024 - tháng 06/2024",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm 3 vòng: Hùng biện đối kháng, Bán kết và Chung kết. Vòng chung kết có Top 6 thí sinh, trong đó có phần thi Hùng biện đỉnh cao để chọn quán quân.",
+    "format": "Offline (Vòng chung kết tại Hội trường Sunwah, Đại học Quốc gia Hà Nội; thể thức các vòng trước chưa được nêu rõ)",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Intermediate to Advanced",
+    "grand_prize": "",
+    "prizes_detail": "Không có thông tin chi tiết về cơ cấu, số lượng hoặc giá trị các giải thưởng trong chuỗi bài.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/toibanlinh.uet.vnu",
+    "required_skills": [
+      {
+        "name": "Public Speaking",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Lập luận và phản biện",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Tư duy phản biện",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Trình bày trước công chúng",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Trả lời nhanh và xử lý tình huống",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Điều khiển cảm xúc và sự tự tin",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Nghiên cứu và tổng hợp bằng chứng",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Kể chuyện và thuyết phục",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Quản lý thời gian khi nói",
+        "priority": "must_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Hùng biện đối kháng",
+        "date": "Không được công bố trong dữ liệu",
+        "description": "Thể thức tranh luận đối kháng được BTC nêu trong hành trình thi đấu; không có ngày hoặc số lượng tuyển chọn cụ thể.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Bán kết",
+        "date": "Không được công bố trong dữ liệu",
+        "description": "BTC xác nhận 6 thí sinh xuất sắc nhất vượt qua vòng này để vào chung kết.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chung kết - Hùng biện đỉnh cao",
+        "date": "2024-06-01",
+        "description": "Top 6 trình bày tại Hội trường Sunwah, Đại học Quốc gia Hà Nội; cuộc thi chọn ra Quán quân Trần Thiên Hương.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thí sinh phải duy trì lập luận chặt chẽ, phản biện trực tiếp đối thủ và kiểm soát phong thái trước đám đông qua nhiều vòng; áp lực tăng rõ ở chung kết khi 6 thí sinh xuất sắc nhất tranh ngôi quán quân.",
+      "common_mistakes": "Luận điểm mơ hồ, thiếu bằng chứng, chỉ đọc bài而没有 cấu trúc, trả lời lệch trọng tâm, mất bình tĩnh khi bị phản biện, sử dụng thời gian không hiệu quả và thiếu tương tác với giám khảo hoặc khán giả.",
+      "key_success_factors": "Thông điệp rõ, cấu trúc mạch lạc, bằng chứng đáng tin cậy, phản biện trực tiếp, phản ứng nhanh, phát âm tốt, sự tự tin và khả năng làm chủ sân khấu.",
+      "prep_advice": "Ôn theo lịch sử 3 vòng và luyện cả hùng biện độc lập lẫn đối kháng; rèn kỹ năng lập dàn ý nhanh, phản bác đúng trọng tâm, quản lý thời gian và xử lý tình huống. Nên ghi hình các bài thi mẫu, tự chỉnh phong thái và diễn tập trước hội đồng để giảm áp lực sân khấu."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không có thông tin chi tiết về cơ cấu, số lượng hoặc giá trị các giải thưởng trong chuỗi bài."
+    }
+  },
+  {
+    "id": "light-on-the-mic-2024-gold",
+    "name": "Light on The Mic 2024: G-OLD",
+    "season": "2024",
+    "organizer": "CLB Thuyết trình Trường ĐH Hà Nội - Future Speakers HANU",
+    "category": "Thuyết trình",
+    "short_description": "Cuộc thi thuyết trình dành cho học sinh, sinh viên từ 16 - 22 tuổi trên địa bàn Thành phố Hà Nội, nhằm lan toả ngôn ngữ và văn hóa Việt",
+    "eligibility": "Học sinh, sinh viên từ 16 - 22 tuổi trên địa bàn Thành phố Hà Nội, có hứng thú và đam mê với việc thuyết trình, hùng biện nói trước đám đông, giọng nói tròn vành rõ chữ, phát âm rõ ràng, có niềm yêu thích và mong muốn lan toả ngôn ngữ và văn hóa Việt",
+    "deadline": "",
+    "duration": "Tháng 08/2024 - Tháng 09/2024",
+    "rounds_count": 4,
+    "rounds_description": "Vòng Đơn - Long (10/08 - 27/08): Đơn đăng ký & nộp hồ sơ; Vòng Sơ khảo - Ly (30/08): Sơ khảo thuyết trình; Vòng Bán kết - Quy (13/09): Bán kết; Vòng Chung kết - Phụng (27/09): Chung kết.",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Không được đề cập trong các bài đăng cung cấp",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/LightonTheMic",
+    "required_skills": [
+      {
+        "name": "Public Speaking",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Eloquence & Pronunciation",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Stage Presence & Confidence",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Vietnamese Language & Culture Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Slide Design",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Storytelling",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Đơn - Long",
+        "date": "2024-08-10 to 2024-08-27",
+        "description": "Đơn đăng ký và nộp hồ sơ dự thi",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Sơ khảo - Ly",
+        "date": "2024-08-30",
+        "description": "Vòng sơ khảo thuyết trình",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Bán kết - Quy",
+        "date": "2024-09-13",
+        "description": "Vòng bán kết",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Chung kết - Phụng",
+        "date": "2024-09-27",
+        "description": "Vòng chung kết",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Không được đề cập trong các bài đăng cung cấp",
+      "common_mistakes": "Không được đề cập trong các bài đăng cung cấp",
+      "key_success_factors": "Không được đề cập trong các bài đăng cung cấp",
+      "prep_advice": "Không được đề cập trong các bài đăng cung cấp"
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không được đề cập trong các bài đăng cung cấp"
+    }
+  },
+  {
+    "id": "convince-us-2025",
+    "name": "MC SPOTLIGHT 2026",
+    "season": "2026",
+    "organizer": "CLB Thuyết trình - MC, Đại học Kinh tế Quốc dân (PMC NEU)",
+    "category": "Kinh tế",
+    "short_description": "Cuộc thi tìm kiếm tài năng MC Kinh tế duy nhất dành cho học sinh, sinh viên trên toàn miền Bắc",
+    "eligibility": "Học sinh, sinh viên trên toàn miền Bắc",
+    "deadline": "03/05 - 23h59' 11/05",
+    "duration": "Tháng 05/2025 - Tháng 06/2025",
+    "rounds_count": 4,
+    "rounds_description": "Vòng Đơn (11/05 - 23/05): Nộp hồ sơ và bài thi vòng loại; Vòng Sơ khảo (25/05): Sàng lọc thí sinh tiềm năng; Vòng Bán kết (08/06): Tranh tài vòng bán kết; Vòng Chung kết (22/06): Chung kết với sự kiện vinh danh và khán giả trực tiếp.",
+    "format": "Offline",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Không được đề cập cụ thể trong các bài đăng cung cấp",
+    "registration_link": "http://www.convinceus2025.click/cu25",
+    "source_url": "https://www.facebook.com/CONVINCEUS",
+    "required_skills": [
+      {
+        "name": "Public Speaking",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Argumentation & Logic",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Critical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Emotional Intelligence & Empathy",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "English Proficiency",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Slide Design",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Đơn",
+        "date": "2025-05-11 - 2025-05-23",
+        "description": "Nộp đơn và hoàn thành bài thi vòng loại",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Sơ khảo",
+        "date": "2025-05-25",
+        "description": "Sàng lọc và đánh giá thí sinh tiềm năng",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Bán kết",
+        "date": "2025-06-08",
+        "description": "Tranh tài vòng bán kết",
+        "status": "completed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng Chung kết",
+        "date": "2025-06-22",
+        "description": "Chung kết với sự kiện vinh danh, khán giả trực tiếp và các phần trao giải",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Đứng trước khán giả và ban giám khảo với áp lực phải truyền tải thông điệp rõ ràng, thuyết phục và chạm đến cảm xúc trong thời gian giới hạn.",
+      "common_mistakes": "Thiếu cấu trúc lập luận logic, quá phụ thuộc vào việc đọc script thay vì giao tiếp tự nhiên, và không biết cách kiểm soát ngôn ngữ cơ thể trên sân khấu.",
+      "key_success_factors": "Khả năng xây dựng lập luận sắc bén, sự tự tin và bản lĩnh trên sân khấu, khả năng kết nối cảm xúc với người nghe, và tư duy phản biện vững vàng.",
+      "prep_advice": "Ôn luyện kỹ năng hùng biện qua các bài tập thực hành, nghiên cứu các chủ đề đa dạng để mở rộng kiến thức, tham gia các buổi workshop và training trước cuộc thi, đồng thời luyện tập trình bày trước gương hoặc nhóm bạn để cải thiện ngôn ngữ cơ thể và sự tự tin."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không được đề cập cụ thể trong các bài đăng cung cấp"
+    }
+  },
+  {
+    "id": "be-pround-tune-2026-trendx",
+    "name": "Cuộc thi Phát thanh Be Proud Tune 2026",
+    "season": "2026",
+    "organizer": "Đại học Kinh tế Quốc dân",
+    "category": "Phát thanh",
+    "short_description": "Cuộc thi phát thanh sinh viên với chủ đề Khởi Nguyên",
+    "eligibility": "Sinh viên",
+    "deadline": "",
+    "duration": "Tháng 04 - Tháng 05 2026",
+    "rounds_count": 3,
+    "rounds_description": "Cấu trúc cuộc thi gồm 3 giai đoạn chính: Vòng Đơn (thống kê ứng viên), Vòng Sơ khảo (loại chọn), và Vòng Chung kết (quán quân).",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Individual or Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Quán quân, Á quân, Quý quân",
+    "prizes_detail": "Quán quân nhận giải thưởng lớn, Á quân và Thứ ba nhận giải thưởng trung bình. Các giải thưởng được phân bổ theo hạng mục và mức ưu tiên theo thành tích.",
+    "registration_link": "https://www.facebook.com/cuocthibeproudtune",
+    "source_url": "https://www.facebook.com/cuocthibeproudtune",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Public Speaking",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Audio Production",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Storytelling",
+        "priority": "should_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Đơn - Thống kê ứng viên",
+        "date": "2026-04-08",
+        "description": "Giai đoạn tuyển chọn sơ khai với các thí sinh nộp bài thi đơn.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Sơ khảo",
+        "date": "2026-04-25",
+        "description": "Giai đoạn sơ khảo với các thí sinh còn lại, đánh giá kỹ năng trình bày và nội dung.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết",
+        "date": "2026-05-22",
+        "description": "Đêm chung kết quyết định quán quân và Á quân của cuộc thi.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Cân bằng giữa sáng tạo nội dung và chất lượng kỹ thuật âm thanh trong các phần thi trực tiếp.",
+      "common_mistakes": "Chất lượng âm thanh kém, cấu trúc bài không rõ ràng, thiếu nghiên cứu chủ đề, và kỹ năng trình bày thiếu tự tin.",
+      "key_success_factors": "Nội dung hấp dẫn, giọng nói tự nhiên, kỹ thuật sản xuất tốt, và khả năng làm việc nhóm hiệu quả.",
+      "prep_advice": "Thực hành broadcast nhiều lần, học các công cụ chỉnh sửa âm thanh cơ bản, nghiên cứu phong cách của các thí sinh đã thắng, và chuẩn bị kế hoạch thời gian."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Quán quân, Á quân, Quý quân",
+        "Quán quân nhận giải thưởng lớn, Á quân và Thứ ba nhận giải thưởng trung bình."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Quán quân, Á quân, Quý quân\nQuán quân nhận giải thưởng lớn, Á quân và Thứ ba nhận giải thưởng trung bình. Các giải thưởng được phân bổ theo hạng mục và mức ưu tiên theo thành tích."
+    }
+  },
+  {
+    "id": "logichain-2026-the-veilreign",
+    "name": "LogiChain 2026: The VeilReign",
+    "season": "Mùa thứ sáu",
+    "organizer": "LSC – Logistics & Supply Chain Club, Đại học Kinh tế Quốc dân (NEU)",
+    "category": "Logistics & Chuỗi cung ứng",
+    "short_description": "LogiChain là cuộc thi giải Case Study về Logistics & Chuỗi cung ứng tiên phong trên toàn quốc",
+    "eligibility": "Những bạn trẻ có niềm đam mê với Logistics & Chuỗi cung ứng",
+    "deadline": "23h59' ngày 29/08/2026",
+    "duration": "Tháng 09/2026 – Tháng 11/2026 (dự kiến)",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi diễn ra qua nhiều vòng: Vòng sơ khảo (thí sinh nộp bài case study về chuỗi cung ứng bền vững trong ngành dệt may), các vòng tiếp theo chọn lọc đội thi xuất sắc nhất, và Đêm Chung kết (Velocitas) với top các đội thi xuất sắc nhất tranh giải quán quân. Cơ cấu chi tiết theo booklet cuộc thi.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 3,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Giải thưởng cụ thể chưa được công bố. Tham khảo mùa trước (LogiChain 2025: The RevoMotion) có Đêm Chung kết Velocitas trao giải cho top đội thi xuất sắc nhất.",
+    "registration_link": "https://bit.ly/lgc06_od",
+    "source_url": "https://www.facebook.com/lsc.logichain",
+    "required_skills": [
+      {
+        "name": "Supply Chain Management",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Problem Solving & Analytical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Data Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation & Pitching",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Logistics & Operations Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Sustainability & ESG Awareness",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "AI & Technology Application in Supply Chain",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Họp báo phát động & Talkshow 'The Aurora Clue'",
+        "date": "2026-09-08 18:30",
+        "description": "Sự kiện phát động cuộc thi với Talkshow cùng chuyên gia đầu ngành (Chị Nguyễn Thị Bích Ngọc – Production Planning Manager tại Jellycat UK, Chị Nguyễn Thùy Liên – Sales Manager tại May Chiến Thắng) tại Phòng Hội thảo B101-102, Đại học Kinh tế Quốc dân. Giao lưu, truyền cảm hứng và công bố thể lệ cuộc thi.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng sơ khảo – Nộp bài Case Study",
+        "date": "Khoảng tháng 09–10/2026",
+        "description": "Thí sinh nhận đề bài case study về chuỗi cung ứng bền vững trong ngành dệt may, phân tích và nộp bài giải pháp.",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Đêm Chung kết – Velocitas",
+        "date": "Khoảng tháng 11/2026",
+        "description": "Top các đội thi xuất sắc nhất bước vào vòng chung kết, trình bày và tranh giải quán quân trước Ban Giám khảo và khách mời.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Phân tích và đề xuất giải pháp khả thi cho bài toán chuỗi cung ứng bền vững trong ngành dệt may – một lĩnh vực đa chiều, đòi hỏi hiểu biết sâu về vận hành, nguồn cung, công nghệ, AI và xu hướng bền vững toàn cầu.",
+      "common_mistakes": "Chỉ tập trung vào lý thuyết mà thiếu góc nhìn thực tiễn; bỏ qua yếu tố bền vững và công nghệ mới nổi (AI, Data) trong khi đề bài nhấn mạnh các xu hướng này; không nghiên cứu kỹ bối cảnh ngành dệt may Việt Nam hiện tại.",
+      "key_success_factors": "Tư duy hệ thống về chuỗi cung ứng, khả năng kết hợp dữ liệu với chiến lược vận hành, sự sáng tạo trong giải pháp, kỹ năng trình bày thuyết phục, và tinh thần đồng đội vững chắc.",
+      "prep_advice": "Nghiên cứu sâu về ngành dệt may Việt Nam và xu hướng chuỗi cung ứng bền vững toàn cầu; tham gia các talkshow, workshop chuyên ngành (như Talkshow 'The Aurora Clue') để cập nhật góc nhìn từ chuyên gia; rèn luyện kỹ năng phân tích dữ liệu và trình bày; xây dựng chiến lược phân bổ thời gian hợp lý cho từng giai đoạn của cuộc thi."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Giải thưởng cụ thể chưa được công bố. Tham khảo mùa trước (LogiChain 2025: The RevoMotion) có Đêm Chung kết Velocitas trao giải cho top đội thi xuất sắc nhất."
+    }
+  },
+  {
+    "id": "interchain-2026",
+    "name": "INTERCHAIN 2026",
+    "season": "2026",
+    "organizer": "CLB Kinh doanh Quốc tế (International Business Club) - IBC FTU, Trường Đại học Ngoại thương",
+    "category": "Quản lý Chuỗi cung ứng (Supply Chain Management)",
+    "short_description": "",
+    "eligibility": "Sinh viên Trường Đại học Ngoại thương",
+    "deadline": "15/05/2026",
+    "duration": "Tháng 02/2026 - Tháng 05/2026",
+    "rounds_count": 4,
+    "rounds_description": "Cuộc thi gồm 4 vòng: Vòng 1-3 là các vòng sơ loại và bán kết (kiểm tra kiến thức, phân tích case study chuỗi cung ứng, giải quyết bài toán logistics thực tế), Vòng 04: FINAL NIGHT (Đêm Chung kết) - vòng thi quyết định diễn ra ngày 17/05/2026 tại Trung tâm Văn hoá - Thông tin và Thể thao quận Đống Đa, Hà Nội, với sự giám khảo của hội đồng chuyên gia đầu ngành và sự đồng hành của 2 Mentor chuyên sâu. TOP 08 thí sinh xuất sắc nhất tiến vào vòng chung kết.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team hoặc Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Không được đề cập trong các bài đăng cung cấp.",
+    "registration_link": "https://interchain.ibcftu.com/",
+    "source_url": "https://www.facebook.com/interchain.ibcftu",
+    "required_skills": [
+      {
+        "name": "Supply Chain Management",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Problem Solving & Analytical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Logistics & Operations Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation & Communication Skills",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Strategic Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Data Analysis & Interpretation",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Slide Design & Visual Communication",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Khởi động & Sơ loại",
+        "date": "Tháng 02/2026",
+        "description": "Vòng mở đề và nộp bài thi sơ loại. Thí sinh giải quyết các bài toán cơ bản về chuỗi cung ứng.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Bán kết",
+        "date": "Tháng 03/2026",
+        "description": "Vòng thi nâng cao với các case study phức tạp hơn, lọc ra các đội/thí sinh tiềm năng nhất.",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chung kết Bán kết",
+        "date": "Tháng 04/2026",
+        "description": "Vòng thi quyết định chọn TOP 08 thí sinh/đội tiến vào vòng chung kết.",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 04: FINAL NIGHT - Đêm Chung kết",
+        "date": "2026-05-17",
+        "description": "Đêm Chung kết diễn ra tại Trung tâm Văn hoá - Thông tin và Thể thao quận Đống Đa (Số 22, phố Đặng Tiến Đông, phường Đống Đa, Hà Nội), 18h00 ngày 17/05/2026. Thí sinh đối mặt với thử thách cuối cùng mang tên 'The Sovereign View', được giám khảo bởi hội đồng chuyên gia đầu ngành (B. Braun, Gatelink, VinFast, Shopee, FTU) và được cố vấn bởi 2 Mentor: Anh Phùng Đức Hợp (VinFast) và Anh Nguyễn Xuân Hiếu (Ex-Shopee, Ex-VinFast). Đăng ký tham dự: 07/05/2026 - 15/05/2026.",
+        "status": "active"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Vòng Chung kết (Final Night) được mô tả là 'mê cung' với những thử thách cam go nhất, đòi hỏi thí sinh phải đối mặt với các bài toán chuỗi cung ứng biến động không ngừng, kiểm tra khả năng tư duy logic, giải quyết vấn đề vượt trội và thực thi phương án dựa trên biến số thực tế thị trường.",
+      "common_mistakes": "Không được đề cập cụ thể trong các bài đăng. Tuy nhiên, do tính chất 'stress test' của cuộc thi, thí sinh cần tránh việc chỉ dựa vào lý thuyết mà thiếu khả năng áp dụng thực tiễn, và cần chủ động cập nhật biến số thị trường chuỗi cung ứng toàn cầu.",
+      "key_success_factors": "Tư duy logic sắc bén, khả năng giải quyết vấn đề vượt trội, kiến thức chuyên sâu về Supply Chain & Logistics, kinh nghiệm thực chiến, và khả năng thích ứng linh hoạt với các biến số thực tế của thị trường. Sự đồng hành của Mentor và phản biện từ Ban Giám khảo chuyên gia đầu ngành là yếu tố then chốt giúp thí sinh hoàn thiện bài làm.",
+      "prep_advice": "Nắm vững kiến thức nền tảng về Quản lý Chuỗi cung ứng và Logistics, rèn luyện tư duy phân tích case study thực tế, cập nhật xu hướng tái cấu trúc chuỗi cung ứng toàn cầu. Tham dự bàn trực tại FTU (14-15/05) để 'hack não' và giải đáp thắc mắc. Đọc kỹ Booklet cuộc thi (https://bit.ly/bookletinterchain_2026) để hiểu rõ format và tiêu chí đánh giá. Tận dụng sự hỗ trợ từ Mentor và Ban Giám khảo để hoàn thiện bài thi."
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không được đề cập trong các bài đăng cung cấp."
+    }
+  },
+  {
+    "id": "socrates-debate-2025",
+    "name": "Socrates Debate Competition 2025",
+    "season": "2025",
+    "organizer": "Socrates Debate Competition – Hanoi Law University (HLU)",
+    "category": "Debate / Public Speaking",
+    "short_description": "Annual university-level debate competition promoting critical thinking and public speaking",
+    "eligibility": "University students",
+    "deadline": "",
+    "duration": "February 2025 - April 2025",
+    "rounds_count": 2,
+    "rounds_description": "Semifinals (top 8 contestants) followed by the Final (top 3 contestants) to determine the champion, runner‑up, and third place.",
+    "format": "Offline (held at Hanoi Law University)",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Intermediate to Advanced",
+    "grand_prize": "Champion, Runner-up, Third place, Encouragement awards, Most Popular (Audience Choice)",
+    "prizes_detail": "1st place: trophy + VND 15,000,000; 2nd place: VND 10,000,000; 3rd place: VND 5,000,000; two Encouragement awards: VND 3,000,000 each",
+    "registration_link": "https://www.facebook.com/socrates.hsv.hlu",
+    "source_url": "https://www.facebook.com/socrates.hsv.hlu",
+    "required_skills": [
+      {
+        "name": "Critical Thinking & Logical Reasoning",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Public Speaking & Voice Control",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Argumentation & Debate Techniques",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Research & Current Affairs Knowledge",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Team Collaboration (for team‑based formats)",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Semifinals – Top 8",
+        "date": "2025-04-14",
+        "description": "Contestants compete in timed debate rounds to secure a spot in the Final.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Final – Top 3",
+        "date": "2025-04-16",
+        "description": "Finalists deliver full‑length persuasive speeches on open social issues before a live audience and panel of judges.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Crafting concise, evidence‑based arguments on complex social topics within strict time limits while maintaining emotional resonance.",
+      "common_mistakes": "Relying solely on emotional appeals without a solid logical structure; neglecting research on the motion; poor time management during speeches.",
+      "key_success_factors": "Strong critical‑thinking framework, clear organization (introduction‑argument‑conclusion), confident delivery, and the ability to respond swiftly to judges’ questions.",
+      "prep_advice": "Engage in mock debates with peers, study recent policy debates, develop a personal ‘issue bank’ for quick reference, and practice structuring speeches using the PEEL/RECAP method."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Champion, Runner-up, Third place, Encouragement awards, Most Popular (Audience Choice)\n1st place: trophy + VND 15,000,000; 2nd place: VND 10,000,000; 3rd place: VND 5,000,000; two Encouragement awards: VND 3,000,000 each"
+    }
+  },
+  {
+    "id": "scmission-2026-the-vanguard",
+    "name": "SCMission 2026",
+    "season": "Mùa 9 (2026)",
+    "organizer": "LSC - Câu lạc bộ Logistics, Trường Đại học Ngoại Thương TP.HCM (FTU HCMC)",
+    "category": "Logistics & Supply Chain Management",
+    "short_description": "SCMission là cuộc thi phân tích và giải quyết tình huống kinh doanh trong lĩnh vực Logistics & Quản lý chuỗi cung ứng dành cho sinh viên. Mùa thứ 9 với chủ đề 'The Vanguard' quy mô toàn quốc, mang đến sân chơi cạnh tranh và đặc sắc cho những tài năng trẻ đam mê chuỗi cung ứng.",
+    "eligibility": "Sinh viên",
+    "deadline": "",
+    "duration": "Khoảng tháng 02/2026 - tháng 06/2026 (hơn 3 tháng)",
+    "rounds_count": 3,
+    "rounds_description": "Cuộc thi gồm nhiều vòng thi với các thử thách ngày càng tăng về độ khó, từ phân tích tình huống đến chiến lược, culminating tại Gala Night với Top 4 đội thi tranh tài trực tiếp.",
+    "format": "Hybrid (có vòng online và Gala Night offline tại TP.HCM)",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Không có thông tin chi tiết về cơ cấu giải thưởng trong các bài đăng cung cấp.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/scmissionlsc/",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Supply Chain & Logistics Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Strategic Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation Skills",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Data Analysis",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Creativity & Innovation",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng sơ loại / Mở đơn đăng ký",
+        "date": "Khoảng tháng 02/2026",
+        "description": "Đăng ký đội thi và nộp bài phân tích tình huống ban đầu",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng bán kết",
+        "date": "Khoảng tháng 03-04/2026",
+        "description": "Các đội thi tiếp tục cạnh tranh qua các thử thách chuyên sâu về Logistics & SCM",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Gala Night - Chung kết",
+        "date": "2026-06-13",
+        "description": "Top 4 đội thi tranh tài trực tiếp tại Gala Night diễn ra tại Tầng 4, Nhà Văn hóa Sinh viên (1 Lưu Hữu Phước, Đông Hòa, TP.HCM). Thời gian: 17h30 - 22h00.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Đòi hỏi tư duy chiến lược, khả năng thích ứng không ngừng và kiến thức chuyên sâu về Logistics & Supply Chain Management khi đối mặt với các tình huống kinh doanh phức tạp.",
+      "common_mistakes": "Không có thông tin cụ thể trong dữ liệu cung cấp. Tuy nhiên, thí sinh mới thường thiếu thực tiễn trong việc áp dụng lý thuyết chuỗi cung ứng vào tình huống thực tế.",
+      "key_success_factors": "Tinh thần dám thử sức, dám bứt phá, không ngừng hoàn thiện bản thân; khả năng tư duy chiến lược và làm việc nhóm ăn ý.",
+      "prep_advice": "Nắm vững kiến thức nền tảng về Logistics & Supply Chain Management, rèn luyện kỹ năng phân tích dữ liệu và tư duy chiến lược, đồng thời tích lũy kinh nghiệm thực tế qua các dự án hoặc thực tập liên quan."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không có thông tin chi tiết về cơ cấu giải thưởng trong các bài đăng cung cấp."
+    }
+  },
+  {
+    "id": "logichain-2022-the-urbanistar",
+    "name": "LogiChain 2022: The Urbanistar",
+    "season": "Mùa 2",
+    "organizer": "The Logisticom (dưới sự quản lý của LSC - Logistics & Supply Chain Department)",
+    "category": "Logistics và Chuỗi cung ứng",
+    "short_description": "Cuộc thi giải Case Study Logistics và Chuỗi cung ứng đầu tiên tại miền Bắc, đưa thí sinh vào hành trình 'từ ánh đèn đường đến ánh đèn sân khấu' với định dạng đàm phán giữa vai trò doanh nghiệp LSP và Retailer tại vòng chung kết.",
+    "eligibility": "Sinh viên đăng ký theo đội",
+    "deadline": "23/11/2022 (23h59')",
+    "duration": "Tháng 11/2022 - Tháng 01/2023",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 (Screening): Bài thi trắc nghiệm nền tảng (Vòng 1A dành riêng cho 27 đội đăng ký Early Bird) và/hoặc bài thi case study; Vòng 2 (Semi-final): Các đội thi đấu chuyên sâu hơn với các chủ đề City Logistics, E-Commerce, Distribution, Retail Supply Chain; Vòng Chung kết (Valory): TOP 04 chia thành hai cặp đấu, lần lượt đóng vai doanh nghiệp LSP và Retailer, đàm phán để đưa ra kế hoạch hợp tác chung cho hệ thống Logistics nội đô.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Giải thưởng bao gồm các phần quà giá trị từ Nhà Tài trợ; thông tin chi tiết tại www.lsc-neu.com/logichain",
+    "prizes_detail": "Tổng giá trị giải thưởng và cơ cấu chi tiết được công bố tại www.lsc-neu.com/logichain. Vòng chung kết (Valory) có quà tặng từ Nhà Tài trợ dành cho các đội thi và khán giả.",
+    "registration_link": "https://bit.ly/lgc22-doithi",
+    "source_url": "https://www.facebook.com/logisticom.contest",
+    "required_skills": [
+      {
+        "name": "Problem Solving & Analytical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Negotiation & Communication",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Logistics & Supply Chain Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Presentation & Pitching",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Strategic Planning",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Team Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "English Proficiency (Intermediate)",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Mở đơn & Thi Trắc nghiệm (Vòng 1A cho Early Bird)",
+        "date": "2022-11-07 đến 2022-11-23",
+        "description": "Đăng ký theo đội hoặc ghép đội, hoàn thành bài thi trắc nghiệm nền tảng. 27 đội đăng ký sớm nhất được thêm 01 lượt thi Vòng 1A.",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Case Study chuyên sâu",
+        "date": "2022-12/2023 (ước tính)",
+        "description": "Các đội thi đấu với các chủ đề City Logistics, E-Commerce, Distribution, Retail Supply Chain. Hỗ trợ qua Road to LogiChain Talkshow, Exclusive Training, Field-trip và Sharing Night.",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết: Valory",
+        "date": "2023-01-14",
+        "description": "TOP 04 chia thành hai cặp đấu, đóng vai LSP và Retailer để đàm phán và đưa ra kế hoạch hợp tác chung cho hệ thống Logistics nội đô. Livestream trên Facebook Live.",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Đàm phán hiệu quả giữa hai vai trò LSP và Retailer tại vòng chung kết, đòi hỏi sự hiểu biết sâu về cả hai phía trong chuỗi cung ứng nội đô và khả năng thuyết phục đối phương.",
+      "common_mistakes": "Chỉ tập trung vào một khía cạnh của logistics (ví dụ: vận chuyển) mà bỏ qua tổng thể hệ thống; không chuẩn bị kỹ lưỡng chiến lược đàm phán và bị động trong phần so găng tại chung kết.",
+      "key_success_factors": "Kiến thức toàn diện về City Logistics, E-Commerce và Retail Supply Chain; kỹ năng đàm phán và phối hợp chiến lược; khả năng trình bày thuyết phục trước ban giám khảo là chuyên gia ngành.",
+      "prep_advice": "Nghiên cứu sâu các chủ đề trending (City Logistics, E-Commerce, Distribution, Retail Supply Chain); tham gia Road to LogiChain Talkshow và Exclusive Training; thực hành phân tích case study theo nhóm; rèn luyện kỹ năng đàm phán và thuyết trình."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Hiện vật & Cúp"
+      ],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [
+        "Vòng chung kết (Valory) có quà tặng từ Nhà Tài trợ dành cho các đội thi và khán giả."
+      ],
+      "certificate": [],
+      "raw_text": "Giải thưởng bao gồm các phần quà giá trị từ Nhà Tài trợ; thông tin chi tiết tại www.lsc-neu.com/logichain\nTổng giá trị giải thưởng và cơ cấu chi tiết được công bố tại www.lsc-neu.com/logichain. Vòng chung kết (Valory) có quà tặng từ Nhà Tài trợ dành cho các đội thi và khán giả."
+    }
+  },
+  {
+    "id": "vietnam-young-logistics-talents-2026-vylt",
+    "name": "Cuộc thi Tài năng trẻ Logistics Việt Nam 2026",
+    "season": "2026",
+    "organizer": "Hiệp hội Phát triển nhân lực Logistics Việt Nam (VALOMA)",
+    "category": "Logistics và Quản lý chuỗi cung ứng",
+    "short_description": "Cuộc thi tìm kiếm tài năng trẻ Logistics trên quy mô toàn quốc với chủ đề 'Làm chủ công nghệ – Dẫn lối tương lai', hướng đến phát hiện và bồi dưỡng sinh viên có năng lực chuyên môn, tư duy đổi mới và khả năng vận dụng công nghệ (AI, IoT, Blockchain, Digital Twin) để giải quyết các bài toán thực tiễn trong lĩnh vực Logistics và chuỗi cung ứng.",
+    "eligibility": "Sinh viên đang hoặc đã theo học tại các tổ chức đào tạo hoạt động tại Việt Nam, có độ tuổi không quá 23 tuổi tính đến ngày thi Chung kết",
+    "deadline": "01/10/2026",
+    "duration": "Tháng 08/2026 - Tháng 11/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1 - Tuyển Trường: Mỗi cơ sở đào tạo tự tổ chức vòng tuyển, chọn 01 đội thi gồm 04 sinh viên và gửi danh sách về Ban Tổ chức trước 01/10/2026. Vòng 2 - Bán kết: Mỗi cơ sở đào tạo có 01 đội đại diện tham dự, được phép có 01 Huấn luyện viên (Mentor) là Thầy/Cô trong trường. Vòng 3 - Chung kết: Các đội xuất sắc nhất tranh tài tại hội trường, trình bày đề tài và nhận giải thưởng.",
+    "format": "Offline",
+    "team_size": {
+      "min": 4,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "01 Giải Nhất (Quán quân), 01 Giải Nhì (Á quân), 02 Giải Ba, 08 Giải Khuyến khích; Ngoài ra: 01 Giải Đội được yêu thích nhất, 01 Giải Đề án có giải pháp có tính khả thi nhất",
+    "prizes_detail": "01 Giải Nhất (Quán quân), 01 Giải Nhì (Á quân), 02 Giải Ba, 08 Giải Khuyến khích (đội dừng tại Vòng Tuyển Trường), 01 Giải Đội được yêu thích nhất, 01 Giải Đề án có giải pháp có tính khả thi nhất. Tổng cộng 13 giải thưởng.",
+    "registration_link": "https://vnylt.valoma.vn/",
+    "source_url": "https://www.facebook.com/VNYLT",
+    "required_skills": [
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Logistics & Supply Chain Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Technology & AI Literacy",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Analytical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Innovation & Creativity",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng Tuyển Trường",
+        "date": "2026-10-01",
+        "description": "Mỗi cơ sở đào tạo tổ chức vòng tuyển trường, chọn 01 đội thi gồm 04 sinh viên, cử 01 Thầy/Cô làm đại diện quản lý đội thi và gửi danh sách về Ban Tổ chức qua email vnylt@valoma.vn",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng Bán kết",
+        "date": "Sau 01/10/2026 (dự kiến)",
+        "description": "Mỗi cơ sở đào tạo có 01 đội đại diện tham dự. Đội thi có thể có 01 Huấn luyện viên chính (Mentor) là Thầy/Cô thuộc cơ sở đào tạo",
+        "status": "upcoming"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng Chung kết",
+        "date": "Dự kiến cuối năm 2026",
+        "description": "Các đội thi xuất sắc nhất tranh tài tại hội trường, trình bày đề tài logistics và nhận giải thưởng. Địa điểm: Hội trường lớn Trường Đại học Giao thông Vận tải",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Xây dựng đề tài logistics có giá trị thực tiễn, bắt đầu từ một bài toán thực tế đủ rõ ràng, đủ sâu và có giá trị thay vì chỉ theo đuổi công nghệ mới. Các đội cần cân bằng giữa tính sáng tạo và khả năng triển khai thực tế trong phạm vi logistics (vận tải, kho bãi, xuất nhập khẩu, logistics xanh, quản trị chuỗi cung ứng).",
+      "common_mistakes": "Chọn đề tài quá trừu tượng hoặc thiếu cơ sở thực tiễn; không hiểu rõ phạm vi bài toán logistics; đội thi chưa phân công rõ vai trò giữa 4 thành viên; thiếu kiến thức chuyên ngành nền tảng để支撑 đề tài công nghệ; bỏ qua yếu tố khả thi và triển khai thực tế của giải pháp.",
+      "key_success_factors": "Bài toán thực tế rõ ràng và có giá trị; khả năng vận dụng công nghệ (AI, IoT, Blockchain, Digital Twin, OCR) trên nền tảng tri thức chuyên môn vững chắc; tư duy đổi mới và giải pháp khả thi có tính ứng dụng cao; sự thấu hiểu thực tiễn ngành logistics; tinh thần đồng đội và phân công rõ ràng trong đội 4 người.",
+      "prep_advice": "Nghiên cứu 12 đề tài VYLT 2025 làm tham khảo (bao gồm: AI mô phỏng dữ liệu IoT cho vận tải, Digital Twin cho bãi container, Blockchain-OCR trong xuất khẩu, logistics xanh, mô hình thu gom rác thải, chuỗi cung ứng lúa gạo...). Sinh viên năm 3-4 có lợi thế nhờ nền tảng kiến thức chuyên ngành vững chắc. Chuẩn bị đội hình 4 thành viên đồng bộ về kỹ năng (phân tích, công nghệ, trình bày, quản lý). Đăng ký thông qua cơ sở đào tạo của mình và chủ động liên hệ giảng viên hướng dẫn."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Giải Nhất (Quán quân), 01 Giải Nhì (Á quân), 02 Giải Ba, 08 Giải Khuyến khích"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "01 Giải Nhất (Quán quân), 01 Giải Nhì (Á quân), 02 Giải Ba, 08 Giải Khuyến khích; Ngoài ra: 01 Giải Đội được yêu thích nhất, 01 Giải Đề án có giải pháp có tính khả thi nhất\n01 Giải Nhất (Quán quân), 01 Giải Nhì (Á quân), 02 Giải Ba, 08 Giải Khuyến khích (đội dừng tại Vòng Tuyển Trường), 01 Giải Đội được yêu thích nhất, 01 Giải Đề án có giải pháp có tính khả thi nhất. Tổng cộng 13 giải thưởng."
+    }
+  },
+  {
+    "id": "data-science-talent-competition-vietnam-quant-challenge-2026",
+    "name": "Data Science Talent Competition - Vietnam Quant Challenge 2026",
+    "season": "2026",
+    "organizer": "CLB Khoa học công nghệ trong Kinh tế và Kinh doanh - CTE FTU (Trường Đại học Ngoại thương)",
+    "category": "Khoa học Dữ liệu và Tài chính Định lượng (Data Science & Quantitative Finance)",
+    "short_description": "Data Science Talent Competition - Vietnam Quant Challenge 2026 là cuộc thi học thuật dành cho học sinh, sinh viên yêu thích Khoa học Dữ liệu và Tài chính Định lượng. Cuộc thi qua 3 vòng: Đánh giá năng lực, Sơ khảo và Chung kết, tìm kiếm những tài năng xuất sắc với giải thưởng giá trị.",
+    "eligibility": "Học sinh, sinh viên trong và ngoài nước từ 16 đến 23 tuổi",
+    "deadline": "26/07/2026",
+    "duration": "Tháng 05/2026 - Tháng 07/2026",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Đánh giá năng lực (Assessment Round) - Nộp alpha, xếp hạng. Vòng 2: Sơ khảo (Preliminary Round) - Top 100 cá nhân có thành tích cao nhất. Vòng 3: Chung kết (Final Round) - Gặp gỡ và trình bày dự án cuối cùng.",
+    "format": "Online",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Top 100 Vòng 2, Top 30 Vòng 3, giải thưởng cho các đội xuất sắc nhất tại mỗi vòng đấu",
+    "registration_link": "https://cteftu.id.vn/",
+    "source_url": "https://www.facebook.com/dstalentcompetition",
+    "required_skills": [
+      {
+        "name": "Data Science",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Quantitative Finance",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Programming (Python/R)",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Data Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Statistical Modeling",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Machine Learning",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Đánh giá năng lực (Assessment Round)",
+        "date": "2026-05-28 - 2026-07-26",
+        "description": "Thí sinh đăng ký và tham gia nộp alpha (chiến lược giao dịch dữ liệu) trên nền tảng. Top 100 cá nhân có tổng điểm alpha tốt nhất sẽ được công bố.",
+        "status": "active"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Sơ khảo (Preliminary Round)",
+        "date": "2026-07-27",
+        "description": "Công bố Top 100 thí sinh bước vào vòng sơ khảo. Các thí sinh tiếp tục phát triển và nộp các alpha mới với yêu cầu cao hơn.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chung kết (Final Round)",
+        "date": "2026-07-2026",
+        "description": "Các thí sinh trong Top 30 gặp gỡ trực tiếp hoặc trực tuyến để trình bày dự án cuối cùng và nhận giải thưởng.",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Phát triển alpha (chiến lược giao dịch dữ liệu) đạt hiệu suất tốt trên thị trường thực, đòi hỏi sự kết hợp giữa kiến thức tài chính định lượng, lập trình và phân tích dữ liệu sâu rộng.",
+      "common_mistakes": "Chờ đến phút cuối để nộp bài, không hiểu rõ tiêu chí đánh giá alpha, thiếu thời gian chuẩn bị kỹ lưỡng cho từng vòng thi.",
+      "key_success_factors": "Kỹ năng lập trình vững chắc, hiểu biết về tài chính định lượng, khả năng phân tích dữ liệu và tư duy sáng tạo trong việc xây dựng chiến lược.",
+      "prep_advice": "Bắt đầu nghiên cứu sớm về khoa học dữ liệu và tài chính định lượng, luyện tập với các bộ dữ liệu thực tế, theo dõi thường xuyên bảng xếp hạng và cập nhật thông tin từ fanpage chính thức."
+    },
+    "status": "open",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Top 100 Vòng 2, Top 30 Vòng 3, giải thưởng cho các đội xuất sắc nhất tại mỗi vòng đấu"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Top 100 Vòng 2, Top 30 Vòng 3, giải thưởng cho các đội xuất sắc nhất tại mỗi vòng đấu"
+    }
+  },
+  {
+    "id": "gcontest-2026-gec-ftu",
+    "name": "G'Contest",
+    "season": "2026",
+    "organizer": "CLB Kinh tế Toàn cầu GEC – Trường Đại học Ngoại thương",
+    "category": "Data Analytics",
+    "short_description": "Cuộc thi Data Analytics đầu tiên tại Trường Đại học Ngoại thương và thuộc số ít cuộc thi chuyên về Data Analytics ở khu vực miền Bắc. G'Contest 2026 quy tụ sinh viên đại học, cao đẳng đam mê kinh tế và phân tích dữ liệu qua 4 vòng thi gay cấn, khép lại bằng đêm Chung kết ấn tượng.",
+    "eligibility": "Sinh viên đại học và cao đẳng có niềm đam mê với lĩnh vực kinh tế và phân tích dữ liệu",
+    "deadline": "05/05/2026",
+    "duration": "08/04/2026 – 13/06/2026",
+    "rounds_count": 4,
+    "rounds_description": "Vòng 1: Vòng đơn – Mở đơn & Đánh giá năng lực (08/04–13/05); Vòng 2: Đánh giá (14/05–22/05); Vòng 3: Đề án (23/05–03/06); Vòng 4: Chung kết (04/06–13/06)",
+    "format": "Offline (Chung kết trực tiếp tại Trung tâm Văn hóa – Thông tin và Thể thao Quận Đống Đa)",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Không được nêu chi tiết trong các bài đăng; Quán quân G'Contest 2026 thuộc về đội thi BA QUẢ TÁO",
+    "prizes_detail": "Chi tiết giải thưởng không được công bố cụ thể trong các bài đăng; cuộc thi có sự đồng hành của Nhà tài trợ Bạch Kim (CNCTECH) và các đơn vị bảo trợ chuyên môn",
+    "registration_link": null,
+    "source_url": "https://www.facebook.com/gcontest.gec",
+    "required_skills": [
+      {
+        "name": "Data Analytics",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Economic Thinking",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation & Public Speaking",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Teamwork",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Critical Thinking",
+        "priority": "nice_to_have",
+        "category": "Analytical"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Vòng đơn – Mở đơn",
+        "date": "2026-04-08 to 2026-05-05",
+        "description": "Mở đơn đăng ký tham gia cuộc thi",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 1: Vòng đơn – Đánh giá năng lực",
+        "date": "2026-05-09 to 2026-05-13",
+        "description": "BTC đánh giá năng lực thí sinh sau khi đóng đơn",
+        "status": "closed"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 2: Đánh giá",
+        "date": "2026-05-14 to 2026-05-22",
+        "description": "Vòng đánh giá chuyên sâu",
+        "status": "closed"
+      },
+      {
+        "stage": 4,
+        "name": "Vòng 3: Đề án",
+        "date": "2026-05-23 to 2026-06-03",
+        "description": "Vòng xây dựng đề án",
+        "status": "closed"
+      },
+      {
+        "stage": 5,
+        "name": "Vòng 4: Chung kết",
+        "date": "2026-06-04 to 2026-06-13",
+        "description": "Đêm Chung kết – Công bố Quán quân",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Đối mặt với các bài toán phân tích dữ liệu ứng dụng trong lĩnh vực kinh tế đòi hỏi tư duy sắc bén và khả năng tổng hợp từ nhiều góc độ",
+      "common_mistakes": "Chưa được đề cập cụ thể trong các bài đăng; tuy nhiên, BTC thừa nhận một số hạn chế trong quá trình tổ chức ảnh hưởng đến trải nghiệm thí sinh",
+      "key_success_factors": "Phong độ ổn định qua từng vòng, tư duy sắc bén, bản lĩnh thể hiện và khả năng truyền đạt ý tưởng hiệu quả trước Ban Giám khảo",
+      "prep_advice": "Nắm vững kiến thức kinh tế kết hợp kỹ năng phân tích dữ liệu; rèn luyện khả năng trình bày và thuyết phục; chuẩn bị tinh thần ổn định cho các vòng thi căng thẳng"
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Quán quân G'Contest 2026 thuộc về đội thi BA QUẢ TÁO"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Không được nêu chi tiết trong các bài đăng; Quán quân G'Contest 2026 thuộc về đội thi BA QUẢ TÁO\nChi tiết giải thưởng không được công bố cụ thể trong các bài đăng; cuộc thi có sự đồng hành của Nhà tài trợ Bạch Kim (CNCTECH) và các đơn vị bảo trợ chuyên môn"
+    }
+  },
+  {
+    "id": "future-business-analyst-season-5-2025-the-last-alpinist",
+    "name": "Future Business Analyst Season 5: The Last Alpinist",
+    "season": "Season 5",
+    "organizer": "RMIT Business & Finance Club Hanoi (Finance Club Hanoi)",
+    "category": "Business Analyst",
+    "short_description": "Future Business Analyst Season 5 là cuộc thi phân tích kinh doanh dành cho sinh viên với hành trình thử thách kéo dài hơn ba tháng. Cuộc thi tuyển chọn Top 4 để trình bày các giải pháp chuyên nghiệp tại Gala Night, trong đó LAST DANCE đoạt danh hiệu Champion/The Last Alpinist.",
+    "eligibility": "Students and young professionals",
+    "deadline": "",
+    "duration": "Khoảng hơn 3 tháng, kết thúc vào ngày 04/10/2025",
+    "rounds_count": 2,
+    "rounds_description": "Giai đoạn tuyển chọn nhiều chặng thử thách để đạt Top 4; Gala Night là vòng chung kết với phần trình bày trước ban giám khảo.",
+    "format": "Offline ở Gala Night; hình thức các vòng trước chưa được công bố",
+    "team_size": {
+      "min": 5,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Intermediate to Advanced",
+    "grand_prize": "Champion, 1st runner‑up, 2nd runner‑up, Best Performance Award, internships, mentorship, cash prizes.",
+    "prizes_detail": "Gồm Champion, 1st Runner-up, 2nd Runner-up và Best Performance Award; các đội xuất sắc còn nhận cơ hội thực tập, cố vấn chuyên môn và phần thưởng từ doanh nghiệp đối tác, nhưng không có bảng giá trị cụ thể trong dữ liệu",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/futurebusinessanalyst",
+    "required_skills": [
+      {
+        "name": "Phân tích nghiệp vụ và đặt vấn đề",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Phân tích dữ liệu và lập luận định lượng",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Tư duy phản biện và tư duy chiến lược",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Xây dựng giải pháp cho business case",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Truyền thông và thuyết trình",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Thiết kế slide và kể chuyện bằng dữ liệu",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Làm việc nhóm và quản lý áp lực",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Sáng tạo và đổi mới giải pháp",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Các vòng tuyển chọn và thử thách",
+        "date": "Không được công bố; diễn ra trước ngày 04/10/2025",
+        "description": "Nhiều chặng thử thách được xác nhận là rigorous và multi-stage; các đội vượt qua giai đoạn này để vào Top 4.",
+        "status": "closed"
+      },
+      {
+        "stage": 2,
+        "name": "Gala Night / Chung kết",
+        "date": "2025-10-04",
+        "description": "Top 4 trình bày phần pitch cuối cùng trước ban giám khảo; LAST DANCE đoạt Champion.",
+        "status": "closed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Thí sinh phải vượt qua nhiều thử thách trong hơn ba tháng, xử lý các business case khó và duy trì chất lượng trình bày chuyên nghiệp dưới áp lực ở vòng chung kết.",
+      "common_mistakes": "Dữ liệu bài đăng không liệt kê sai lầm cụ thể; nguy cơ lớn nhất là phân tích thiếu dữ liệu, đề xuất mơ hồ, câu chuyện slide rời rạc và phối hợp kém giữa các thành viên.",
+      "key_success_factors": "Giải quyết vấn đề sắc bén, ý tưởng táo bạo nhưng có căn cứ, tư duy phản biện, tầm nhìn chiến lược, khả năng kể chuyện, giao tiếp thuyết phục và tinh thần đồng đội vững vàng dưới áp lực.",
+      "prep_advice": "Ôn luyện phân tích case theo cấu trúc vấn đề – nguyên nhân – dữ liệu – giải pháp – tác động; thực hành đặt câu hỏi, kiểm chứng giả thuyết, thiết kế slide tối giản và diễn tập pitch đúng hạn giờ với phân công vai trò rõ ràng."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Champion, 1st runner‑up, 2nd runner‑up, Best Performance Award, internships, mentorship, cash prizes.",
+        "Gồm Champion, 1st Runner-up, 2nd Runner-up và Best Performance Award"
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Champion, 1st runner‑up, 2nd runner‑up, Best Performance Award, internships, mentorship, cash prizes.\nGồm Champion, 1st Runner-up, 2nd Runner-up và Best Performance Award; các đội xuất sắc còn nhận cơ hội thực tập, cố vấn chuyên môn và phần thưởng từ doanh nghiệp đối tác, nhưng không có bảng giá trị cụ thể trong dữ liệu"
+    }
+  },
+  {
+    "id": "rbac-season-6",
+    "name": "RMIT Business Analytics Champion (RBAC) Season 6",
+    "season": "Season 6",
+    "organizer": "RBAC Organizing Committee (RMIT)",
+    "category": "Phân tích dữ liệu (Data Analytics)",
+    "short_description": "Một trong những cuộc thi học thuật tiên phong về phân tích dữ liệu tại RMIT, nơi sinh viên vận dụng tư duy dữ liệu để giải quyết các bài toán kinh doanh thực tế và kết nối với chuyên gia trong ngành.",
+    "eligibility": "Sinh viên",
+    "deadline": "",
+    "duration": "Không xác định chính xác (các bài đăng kết thúc cho thấy mùa thi diễn ra trong nhiều tháng, kết thúc khoảng tháng 11/2025)",
+    "rounds_count": 3,
+    "rounds_description": "Không được mô tả chi tiết trong các bài đăng cung cấp. Dựa trên kết quả chung kết, cuộc thi bao gồm các vòng phân tích case, thuyết trình và vòng chung kết (Grand Finale) với Top 5 đội thi quốc gia.",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 5,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Champion, 1st Runner-up, 2nd Runner-up, 4th Team, 5th Team và Giải Công Chúng Bình Chọn (People's Choice Award).",
+    "prizes_detail": "Không có thông tin chi tiết về giải thưởng trong các bài đăng cung cấp. Kết quả chung kết: 🏆 Quán quân: CtrI+Shift+N, 🥇 Á Quân: Group Intern, 🥈 Quý Quân: LêQuýĐoàn_ers, 🥉 Giải Tư: Tứ ca thi ana, 🏅 Giải Năm: Double Mint. Ngoài ra còn có Giải Công Chúng Bình Chọn: Tứ ca thi ana.",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/RBAChampion",
+    "required_skills": [
+      {
+        "name": "Data Analytics",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Problem Solving",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Business Case Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation & Storytelling",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Teamwork & Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Creativity & Innovation",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng sơ khảo / Phân tích case",
+        "date": "Không xác định (trước tháng 11/2025)",
+        "description": "Các đội tham gia phân tích bài toán kinh doanh thực tế dựa trên dữ liệu",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng bán kết / Workshop",
+        "date": "Không xác định (trước tháng 11/2025)",
+        "description": "Các vòng thi kết hợp workshop và challenge, loại dần các đội yếu",
+        "status": "completed"
+      },
+      {
+        "stage": 3,
+        "name": "Grand Finale - Chung kết",
+        "date": "2025-11-13",
+        "description": "Top 5 đội thi quốc gia thuyết trình trước ban giám khảo, công bố kết quả và trao giải",
+        "status": "completed"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Giải quyết các bài toán kinh doanh thực tế và khám phá insight ẩn trong dữ liệu, đòi hỏi tư duy phản biện và sáng tạo",
+      "common_mistakes": "Không có thông tin cụ thể từ các bài đăng cung cấp",
+      "key_success_factors": "Tư duy phản biện, sự sáng tạo, kỹ năng thuyết trình mạnh mẽ, storytelling hiệu quả và tinh thần làm việc nhóm. Kết hợp giữa phân tích dữ liệu xuất sắc và khả năng truyền đạt ý tưởng thuyết phục.",
+      "prep_advice": "Không có thông tin cụ thể từ các bài đăng cung cấp. Khuyến nghị ôn tập các kỹ năng phân tích dữ liệu, xây dựng business case, kỹ năng thuyết trình và làm việc nhóm."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Tiền mặt"
+      ],
+      "cash": [
+        "Champion, 1st Runner-up, 2nd Runner-up, 4th Team, 5th Team và Giải Công Chúng Bình Chọn (People's Choice Award).",
+        "Kết quả chung kết: 🏆 Quán quân: CtrI+Shift+N, 🥇 Á Quân: Group Intern, 🥈 Quý Quân: LêQuýĐoàn_ers, 🥉 Giải Tư: Tứ ca thi ana, 🏅 Giải Năm: Double Mint."
+      ],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Champion, 1st Runner-up, 2nd Runner-up, 4th Team, 5th Team và Giải Công Chúng Bình Chọn (People's Choice Award).\nKhông có thông tin chi tiết về giải thưởng trong các bài đăng cung cấp. Kết quả chung kết: 🏆 Quán quân: CtrI+Shift+N, 🥇 Á Quân: Group Intern, 🥈 Quý Quân: LêQuýĐoàn_ers, 🥉 Giải Tư: Tứ ca thi ana, 🏅 Giải Năm: Double Mint. Ngoài ra còn có Giải Công Chúng Bình Chọn: Tứ ca thi ana."
+    }
+  },
+  {
+    "id": "economic-research-champion-2026-erc",
+    "name": "Economic Research Champion 2026",
+    "season": "2026",
+    "organizer": "CLB Sinh viên Nghiên cứu Khoa học YES-NEU – Đại học Kinh tế Quốc dân",
+    "category": "Nghiên cứu kinh tế - xã hội",
+    "short_description": "Cuộc thi học thuật về nghiên cứu, phân tích các vấn đề kinh tế - xã hội duy nhất tại Đại học Kinh tế Quốc dân với quy mô toàn quốc, do CLB YES-NEU tổ chức.",
+    "eligibility": "",
+    "deadline": "",
+    "duration": "Tháng 08/2026 - Tháng 09/2026 (Vòng 2: 29/08/2026 - 27/09/2026)",
+    "rounds_count": 3,
+    "rounds_description": "Vòng 1: Nộp bài nghiên cứu (chi tiết trong booklet). Vòng 2: Trình bày video & Bình chọn trực tuyến (29/08 - 27/09/2026, voting 21/09 - 25/09/2026). Vòng 3: Chung kết (chi tiết trong booklet).",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 4,
+      "type": "Team"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "",
+    "prizes_detail": "Chưa được đề cập trong các bài đăng cung cấp",
+    "registration_link": "https://bit.ly/ERC2026booklet",
+    "source_url": "https://www.facebook.com/erc.yes.neu",
+    "required_skills": [
+      {
+        "name": "Research & Analysis",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Economic & Social Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Video Presentation",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Content Creation",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Team Collaboration",
+        "priority": "nice_to_have",
+        "category": "Soft Skills"
+      }
+    ],
+    "milestones": [
+      {
+        "stage": 1,
+        "name": "Vòng 1: Nộp bài nghiên cứu",
+        "date": "Trước 29/08/2026",
+        "description": "Các đội nộp bài nghiên cứu về vấn đề kinh tế - xã hội (chi tiết trong booklet).",
+        "status": "completed"
+      },
+      {
+        "stage": 2,
+        "name": "Vòng 2: Trình bày video & Bình chọn trực tuyến",
+        "date": "2026-08-29 - 2026-09-27",
+        "description": "Các đội thi制作 video dự thi. Bình chọn trực tuyến từ 20h00 21/09/2026 đến 23h59 25/09/2026. Điểm video chiếm 30% tổng điểm Vòng 2 (20% nội dung do BTC đánh giá + 10% tương tác truyền thông). Quy tắc tính điểm: 1 react = 1 điểm, 1 comment = 1 điểm, 1 share = 3 điểm.",
+        "status": "active"
+      },
+      {
+        "stage": 3,
+        "name": "Vòng 3: Chung kết",
+        "date": "Sau 27/09/2026",
+        "description": "Công bố kết quả và vòng chung kết (chi tiết trong booklet).",
+        "status": "upcoming"
+      }
+    ],
+    "playbook_insights": {
+      "challenging_part": "Tạo ra video dự thi chất lượng cao, sáng tạo và đảm bảo tính nghiêm túc trong nghiên cứu kinh tế - xã hội trong thời gian ngắn (20 ngày cho Vòng 2).",
+      "common_mistakes": "Không nắm rõ quy tắc tính điểm bình chọn (react/comment/share khác nhau về giá trị điểm), quên like fanpage trước khi share, sử dụng Facebook ảo để hack like/share (sẽ bị hủy kết quả).",
+      "key_success_factors": "Chất lượng nội dung nghiên cứu (chiếm 20% điểm video), khả năng truyền thông và tương tác cộng đồng (10% điểm tương tác + điểm bình chọn), và sự sáng tạo trong cách trình bày video.",
+      "prep_advice": "Ôn tập kiến thức kinh tế - xã hội chuyên sâu, luyện kỹ năng quay và biên tập video, xây dựng chiến lược truyền thông trên mạng xã hội (hashtag #ERC2026 #YESNEU), và tuân thủ nghiêm ngặt quy tắc bình chọn."
+    },
+    "status": "closing_soon",
+    "prizes_breakdown": {
+      "has_data": false,
+      "total_pool": "",
+      "highlights": [],
+      "cash": [],
+      "scholarship": [],
+      "opportunity": [],
+      "in_kind": [],
+      "certificate": [],
+      "raw_text": "Chưa được đề cập trong các bài đăng cung cấp"
+    }
+  },
+  {
+    "id": "tainang-lanh-dao-2025",
+    "name": "Tài Năng Lãnh Đạo",
+    "season": "2025",
+    "organizer": "CLB DEL HANU (Đại học Kinh tế Quốc dân)",
+    "category": "MT&Young Talent",
+    "short_description": "Cuộc thi mô phỏng quy trình tuyển dụng Management Trainee hàng đầu dành cho tài năng trẻ tiên phong, dám bứt phá về tư duy và năng lực lãnh đạo do CLB DEL HANU tổ chức, đồng hành cùng các nhà tài trợ ColorME và Novopharm.",
+    "eligibility": "Sinh viên và người trẻ có đam mê phát triển năng lực lãnh đạo, tư duy quản trị trên toàn quốc",
+    "deadline": "Chưa được công bố cụ thể trong các bài đăng cung cấp",
+    "duration": "Chưa được công bố cụ thể trong các bài đăng cung cấp",
+    "rounds_count": 0,
+    "rounds_description": "Không có thông tin chi tiết về cơ cấu vòng thi trong các bài đăng được cung cấp",
+    "format": "Hybrid",
+    "team_size": {
+      "min": 1,
+      "max": 1,
+      "type": "Individual"
+    },
+    "experience_level": "Beginner to Intermediate",
+    "grand_prize": "Học bổng và giải thưởng từ nhà tài trợ (bao gồm học bổng từ ColorME, phần quà từ Novopharm)",
+    "prizes_detail": "Học bổng từ ColorME (nhà tài trợ học bổng chính); Giải thưởng và phần quà từ Novopharm - Novotane Ultra (nhà tài trợ đồng hành); Tổng giá trị giải thưởng chưa được công bố cụ thể",
+    "registration_link": "",
+    "source_url": "https://www.facebook.com/DEL.TNLD?locale=vi_VN",
+    "required_skills": [
+      {
+        "name": "Leadership",
+        "priority": "must_have",
+        "category": "Soft Skills"
+      },
+      {
+        "name": "Problem Solving & Analytical Thinking",
+        "priority": "must_have",
+        "category": "Analytical"
+      },
+      {
+        "name": "Presentation & Communication",
+        "priority": "must_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "Business Acumen & Management Knowledge",
+        "priority": "must_have",
+        "category": "Domain Knowledge"
+      },
+      {
+        "name": "Slide Design & Data Visualization",
+        "priority": "nice_to_have",
+        "category": "Presentation"
+      },
+      {
+        "name": "English Proficiency",
+        "priority": "nice_to_have",
+        "category": "Domain Knowledge"
+      }
+    ],
+    "milestones": [],
+    "playbook_insights": {
+      "challenging_part": "Thể hiện năng lực lãnh đạo và tư duy quản trị trong các tình huống đánh giá thực tế, đặc biệt dưới áp lực phỏng vấn và assessment center mô phỏng quy trình tuyển dụng Management Trainee.",
+      "common_mistakes": "Chưa hiểu sâu về các case business, kỹ năng trình bày trực quan chưa chuyên nghiệp, thiếu tự tin khi đối mặt đánh giá từ chuyên gia doanh nghiệp, chưa biết cách kết nối trải nghiệm cá nhân thành câu chuyện lãnh đạo mạch lạc.",
+      "key_success_factors": "Tư duy lãnh đạo sắc bén, khả năng phân tích và giải quyết vấn đề nhanh, kỹ năng giao tiếp và thuyết trình thuyết phục, sự tự tin và bản lĩnh khi đối mặt thử thách thực tế.",
+      "prep_advice": "Nghiên cứu sâu các case study về quản trị kinh doanh, thực hành thuyết trình và pitch deck thường xuyên, phát triển kiến thức ngành thông qua workshop và đào tạo thiết kế (như từ ColorME), rèn luyện kỹ năng mềm qua các hoạt động ngoại khóa và mô phỏng phỏng vấn."
+    },
+    "status": "closed",
+    "prizes_breakdown": {
+      "has_data": true,
+      "total_pool": "",
+      "highlights": [
+        "Học bổng",
+        "Hiện vật & Cúp"
+      ],
+      "cash": [],
+      "scholarship": [
+        "Học bổng và giải thưởng từ nhà tài trợ (bao gồm học bổng từ ColorME, phần quà từ Novopharm)",
+        "Học bổng từ ColorME (nhà tài trợ học bổng chính)"
+      ],
+      "opportunity": [],
+      "in_kind": [
+        "Học bổng và giải thưởng từ nhà tài trợ (bao gồm học bổng từ ColorME, phần quà từ Novopharm)",
+        "Giải thưởng và phần quà từ Novopharm - Novotane Ultra (nhà tài trợ đồng hành)"
+      ],
+      "certificate": [],
+      "raw_text": "Học bổng và giải thưởng từ nhà tài trợ (bao gồm học bổng từ ColorME, phần quà từ Novopharm)\nHọc bổng từ ColorME (nhà tài trợ học bổng chính); Giải thưởng và phần quà từ Novopharm - Novotane Ultra (nhà tài trợ đồng hành); Tổng giá trị giải thưởng chưa được công bố cụ thể"
+    }
+  }
+];
